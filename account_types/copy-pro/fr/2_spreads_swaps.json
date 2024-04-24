@@ -1,0 +1,18 @@
+[
+   {
+      "Spread et Swaps": "Spread Moyen (EURUSD)",
+      "mt5": "0.7"
+   },
+   {
+      "Spread et Swaps": "Commission",
+      "mt5": "X"
+   },
+   {
+      "Spread et Swaps": "Niveau d’arrêt",
+      "mt5": "0"
+   },
+   {
+      "Spread et Swaps": "Option Sans Swap",
+      "mt5": true
+   }
+]

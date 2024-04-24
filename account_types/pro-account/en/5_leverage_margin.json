@@ -1,0 +1,27 @@
+[
+    {
+        "Leverage & margin" : "Dynamic Leverage",
+        "mt4" : true,
+        "mt5" : true
+    },
+    {
+        "Leverage & margin" : "Maximum Leverage",
+        "mt4" : "1:2000",
+        "mt5" : "1:2000"
+    },
+    {
+        "Leverage & margin" : "Margin Call Level",
+        "mt4" : "40%",
+        "mt5" : "40%"
+    },
+    {
+        "Leverage & margin" : "Stop out Level",
+        "mt4" : "20%",
+        "mt5" : "20%"
+    },
+    {
+        "Leverage & margin" : "Hedged Margin",
+        "mt4" : "0",
+        "mt5" : "0"
+    }
+]

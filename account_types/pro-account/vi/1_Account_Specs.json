@@ -1,0 +1,27 @@
+[
+    {
+        "Thông số kỹ thuật tài khoản": "Quy định tiền nạp tối thiểu",
+        "mt4": 0,
+        "mt5": 0
+    },
+    {
+        "Thông số kỹ thuật tài khoản": "Số lượng tài khoản tối đa/ PA",
+        "mt4": 10,
+        "mt5": 10
+    },
+    {
+        "Thông số kỹ thuật tài khoản": "Tài khoản demo",
+        "mt4": "Có",
+        "mt5": "Có"
+    },
+    {
+        "Thông số kỹ thuật tài khoản": "Đồng tiền yết giá",
+        "mt4": "USD",
+        "mt5": "USD EUR GBP JPY ZAR"
+    },
+    {
+        "Thông số kỹ thuật tài khoản": "Sản phẩm",
+        "mt4": "Forex Kim loại Tiền điện tử Năng lượng Chỉ số",
+        "mt5": "Forex Kim loại Tiền điện tử Năng lượng Chỉ số Futures Cổ phiếu Hàng hóa"
+    }
+]

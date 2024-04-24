@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Journée internationale de la femme",
+    "country": "Limassol, Chypre",
+    "date": " Mars 2024",
+    "dir": "women-day"
+},
+    {
+        "title": "Festival du Carnaval de Limassol",
+        "country": "Limassol, Chypre",
+        "date": "Mars 2024",
+        "dir": "limassol-carnival-festival"
+    },
+  {
+    "title": "Journée de l'appréciation des employés",
+    "country": "Limassol, Chypre",
+    "date": " Mars 2024",
+    "dir": "employee-appreciation-day"
+},
+  {
+    "title": "Célébration du Nouvel An lunaire",
+    "country": "Kuala Lumpur, Malaisie",
+    "date": "Février 2024",
+    "dir": "celebrating-lunar-new-year-2023"
+  },
+  {
+    "title": "Croisière sur la rivière Chao Phraya",
+    "country": "Bangkok, Thaïlande",
+    "date": "Février 2024",
+    "dir": "chao-phraya-river-cruise-2024"
+  },
+  {
+    "title": "Réunion d'équipe de direction",
+    "country": "Manille, Philippines",
+    "date": "Février 2024",
+    "dir": "leadership-team-huddle-2024"
+  },
+  {
+    "title": "Célébration du Nouvel An 2023",
+    "country": "À travers le monde",
+    "date": "Décembre 2023",
+    "dir": "celebrating-new-year-2023"
+  },
+  {
+    "title": "Visite Spéciale des Pyramides",
+    "country": "Gizeh, Égypte",
+    "date": "13 Novembre 2023",
+    "dir": "special-tour-to-the-pyramids"
+  },
+  {
+    "title": "Visite spéciale à Muscat",
+    "country": "Muscat, Oman",
+    "date": "8 Octobre 2023",
+    "dir": "special-tour-in-muscat"
+  },
+  {
+    "title": "Célébration du Succès à Dubaï",
+    "country": "Dubaï, EAU",
+    "date": "27 Septembre 2023",
+    "dir": "celebrating-success in-dubai"
+  }
+]

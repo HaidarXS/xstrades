@@ -1,0 +1,101 @@
+<?php
+return[
+'OPEN_POSITIONS_ON_SHARES'=>'المراكز المفتوحة على الأسهم أو المؤشرات في بداية يوم العمل (وقت الخادم 00:00)، الذي يتزامن مع تاريخ استحقاق الأصل الأساسي المقصود، سيتم تطبيق تعديلات الأرباح عليه.
+<br/><br/>
+ستتلقى المراكز الطويلة (الشراء) مبلغًا كدفعة، بينما سيتم تحصيل المبلغ من المراكز القصيرة (البيع).',
+'SYMBOL'=>'الأصل',
+'MONDAY_8'=>'الاثنين 29 يونيو، 2024',
+'TUESDAY_9'=>'الثلاثاء 30 يونيو،  2024',
+'WEDNESDAY_10'=>'الأربعاء 31 يونيو، 2024',
+'THURSDAY_11'=>'الخميس 1 فبراير، 2024',
+'FRIDAY_12'=>'الجمعة 2 فبراير، 2024',
+'US30'=>'us30',
+'US100'=>'us100',
+'US500'=>'us500',
+'EU50'=>'EU50',
+'ES35'=>'ES35',
+'AU200'=>'AU200',
+'UK100'=>'UK100',
+'F40'=>'F40',
+'DATE'=>'التاريخ',
+'ACTION'=>'الاجراء',
+'DESCRIPTION'=>'الوصف',
+'DETAIL'=>'التفاصيل',
+'DIVIDEND_CURRENCY'=>'عملة التوزيعات النقدية',
+'8_1_24'=>'08/01/2024',
+'DG'=>'DG',
+'CASH_DIVIDEND'=>'توزيعات نقدية',
+'DOLLAR_GENERAL_CORP'=>'شركة دولار جنرال',
+'USD'=>'دولار أمريكي ',
+'CAD'=>'دولار كندي',
+
+
+'EUR'=>'EUR',
+'AUS200' => 'AUS200',
+'US30_USD'=>'US30',
+
+'UPCOMING_CORPORATE_ACTIONS'=>'الإجراءات المؤسسية المجدولة في الفترة من ٢٥ إلى ٢٩ مارس ٢٠٢٤	',
+
+'CASH_INDICES'=>'المؤشرات النقدية بين  25/03/2024 - 29/03/2024',
+
+'SHARE_CASH_DIVIDENDS'=>'أسهم – الأرباح النقدية بين  25/03/2024 - 29/03/2024',
+
+'MONDAY'=>'الإثنين 25 آذار 2024',
+'TUESDAY'=>'الثلاثاء  26 آذار 2024',
+'WEDNESDAY'=>'الأربعاء 27 آذار 2024',
+'THURSDAY'=>'الخميس  28 آذار 2024',
+'FRIDAY'=>'الجمعة 29 آذار 2024',
+
+'2_5_2024'=>'2/5/2024',
+'2_6_2024'=>'2/6/2024',
+'2_7_2024'=>'2/7/2024',
+'2_8_2024'=>'2/8/2024',
+'2_9_2024'=>'2/9/2024',
+
+'ASML'=>'ASML',
+'ASML_HOLDING_NV'=>'ASML Holding NV',
+'DHI'=>'DHI',
+'D_R_HORTON_INC'=>'D.R. Horton Inc',
+'LNG'=>'LNG',
+'CHENIERE_ENERGY_INC'=>'Cheniere Energy Inc',
+'LVS'=>'LVS',
+'LAS_VEGAS_SANDS_CORP'=>'Las Vegas Sands Corp',
+'MET'=>'MET',
+'METLIFE_INC'=>'MetLife Inc',
+'FE'=>'FE',
+'FIRSTENERGY_CORP'=>'FirstEnergy Corp',
+'INTC'=>'INTC',
+'INTEL_CORP'=>'Intel Corp',
+'ADM'=>'ADM',
+'ARCHER_DANIELS_MIDLAND_CO'=>'Archer-Daniels-Midland Co',
+'AWK'=>'AWK',
+'AMERICAN_WATER_WORKS'=>'American Water Works Co Inc',
+'RMD'=>'RMD',
+"RESMED_INC"=>'ResMed Inc',
+'STZ'=>'STZ',
+'CONSTELLATION_BRANDS_INC'=>'Constellation Brands Inc',
+'AEP'=>'AEP',
+'AMERICAN_ELECTRIC_POWER'=>'American Electric Power Co Inc',
+'ETR'=>'ETR',
+'ENTERGY_CORP'=>'Entergy Corp',
+'HWM'=>'HWM',
+'HOWMET_AEROSPACE_INC'=>'Howmet Aerospace Inc',
+'HXL'=>'HXL',
+'HEXCEL_CORP'=>'Hexcel Corp',
+'SBUX'=>'SBUX',
+'STARBUCKS_CORP'=>'Starbucks Corp',
+'SIRI'=>'SIRI',
+'SIRIUS_XM_HOLDINGS_INC'=>'Sirius XM Holdings Inc',
+'V'=>'V',
+'VISA_INC'=>'Visa Inc',
+'LAZ'=>'LAZ',
+'LAZARD_LTD'=>'Lazard Ltd',
+
+'EXAMPLE' => 'مثال:',
+'THERE_IS_A_DIVIDEND' => 'هناك تعديل أرباح بنسبة 4.383 على مؤشر US30. يمتلك أحد العملاء حسابًا بالدولار الأمريكي ويملك مركزًا طويلًا (شراء) بقيمة 20 في مؤشر US30. في تاريخ الاستحقاق، سيتلقى العميل دفعة مالية قدرها 20 * 4.383 = 87.66 دولار أمريكي.
+<br/><br/>
+هناك دفعة أرباح بقيمة 0.59 دولار أمريكي لسهم ‘شركة دولار جنرال’. العميل يملك حسابًا بالدولار الأمريكي ويملك مركزًا قصيرًا (بيع) لنسبة 100 سهم. في تاريخ الاستحقاق، سيتم خصم مبلغ قدره 100 * 0.59 = -59.00 دولار أمريكي من حساب العميل.',
+
+
+];
+?>

@@ -1,0 +1,27 @@
+[
+
+    {
+        "title": "UF 어워드 MEA 2024",
+        "date": "2024년 1월",
+        "country": "아랍에미리트 두바이",
+        "dir": "award-mea-2024"
+      },
+    {
+        "title": "트레이더스 페어 시상식",
+        "date": "2023년 12월 09일",
+        "country": "베트남 호치민",
+        "dir": "traders-fair-awards"
+    },
+    {
+        "title": "중동 금융 시장 시상식 ",
+        "date": "2023년 9월 24일",
+        "country": "아랍에미리트 두바이",
+        "dir": "middle-east-financial-markets"
+    },
+    {
+        "title": "트레이딩 인플루언서 시상식",
+        "date": "2023년 5월 31일",
+        "country": "말레이시아 쿠알라룸푸르",
+        "dir": "trading-live-awards"
+    }
+]

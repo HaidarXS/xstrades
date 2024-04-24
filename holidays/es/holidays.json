@@ -1,0 +1,217 @@
+[
+    {
+     "main-title": "Horarios de Días Festivos Marzo 2024",
+     "main-column1": "Categoría",
+     "main-column2": "Instrumento",
+     "main-column3": "JUEVES 28 MARZO",
+     "main-column4": "VIERNES 29 MARZO",
+     "main-column5": "LUNES 01 ABRIL",
+     "main-column6": "MARTES 02 ABRIL",
+     "sub-column4": "VIERNES SANTO",
+     "sub-column5": "LUNES DE PASCUAS",
+     "time-zone": "GMT + 3"
+    },
+    {
+     "Column1": "FX",
+     "Column2": "Todos los pares FX",
+     "Column3": "Horario Normal",
+     "Column4": "Horario Normal",
+     "Column5": "Horario Normal",
+     "Column6": "Horario Normal"
+    },
+    {
+     "Column1": "Metales Preciosos",
+     "Column2": "XAUUSD, XAUEUR,\nXAGUSD, XAGEUR,\nXPDUSD,XPTUSD",
+     "Column3": "Horario Normal",
+     "Column4": "Sin Precio",
+     "Column5": "Horario Normal",
+     "Column6": "Horario Normal"
+    },
+    {
+     "Column1": "Energias",
+     "Column2": "NGAS (Spot)",
+     "Column3": "Horario Normal",
+     "Column4": "Sin Precio",
+     "Column5": "Horario Normal",
+     "Column6": "Horario Normal"
+    },
+    {
+     "Column2": "USOIL (Spot)",
+     "Column3": "Horario Normal",
+     "Column4": "Sin Precio",
+     "Column5": "Horario Normal",
+     "Column6": "Horario Normal"
+    },
+    {
+     "Column2": "UKOIL (Spot)",
+     "Column3": "Horario Normal",
+     "Column4": "Sin Precio",
+     "Column5": "Horario Normal",
+     "Column6": "Horario Normal"
+    },
+    {
+     "Column1": "Índices",
+     "Column2": "AUS200",
+     "Column3": "Cierre Temprano 16:00",
+     "Column4": "Sin Precio",
+     "Column5": "Apertura Tarde 13:50",
+     "Column6": "Horario Normal"
+    },
+    {
+     "Column2": "EU50",
+     "Column3": "Horario Normal",
+     "Column4": "Sin Precio",
+     "Column5": "Sin Precio",
+     "Column6": "Apertura Tarde 03:15"
+    },
+    {
+     "Column2": "F40",
+     "Column3": "Horario Normal",
+     "Column4": "Sin Precio",
+     "Column5": "Sin Precio",
+     "Column6": "Horario Normal"
+    },
+    {
+     "Column2": "DE40",
+     "Column3": "Horario Normal",
+     "Column4": "Sin Precio",
+     "Column5": "Sin Precio",
+     "Column6": "Apertura Tarde 03:15"
+    },
+    {
+     "Column2": "JP225",
+     "Column3": "Horario Normal",
+     "Column4": "Sin Precio",
+     "Column5": "Horario Normal",
+     "Column6": "Horario Normal"
+    },
+    {
+     "Column2": "UK100",
+     "Column3": "Horario Normal",
+     "Column4": "Sin Precio",
+     "Column5": "Sin Precio",
+     "Column6": "Apertura Tarde 03:00"
+    },
+    {
+     "Column2": "US500",
+     "Column3": "Horario Normal",
+     "Column4": "Sin Precio",
+     "Column5": "Horario Normal",
+     "Column6": "Horario Normal"
+    },
+    {
+     "Column2": "US100",
+     "Column3": "Horario Normal",
+     "Column4": "Sin Precio",
+     "Column5": "Horario Normal",
+     "Column6": "Horario Normal"
+    },
+    {
+     "Column2": "US30",
+     "Column3": "Horario Normal",
+     "Column4": "Sin Precio",
+     "Column5": "Horario Normal",
+     "Column6": "Horario Normal"
+    },
+    {
+     "Column2": "RUSS2000",
+     "Column3": "Horario Normal",
+     "Column4": "Sin Precio",
+     "Column5": "Horario Normal",
+     "Column6": "Horario Normal"
+    },
+    {
+     "Column2": "ES35",
+     "Column3": "Horario Normal",
+     "Column4": "Sin Precio",
+     "Column5": "Sin Precio",
+     "Column6": "Horario Normal"
+    },
+    {
+     "Column1": "Acciones",
+     "Column2": "US Shares",
+     "Column3": "Horario Normal",
+     "Column4": "Sin Precio",
+     "Column5": "Normal Hours",
+     "Column6": "Horario Normal"
+    },
+    {
+     "Column2": "UK Shares",
+     "Column3": "Horario Normal",
+     "Column4": "Sin Precio",
+     "Column5": "Sin Precio",
+     "Column6": "Horario Normal"
+    },
+    {
+     "Column2": "HK Shares",
+     "Column3": "Horario Normal",
+     "Column4": "Sin Precio",
+     "Column5": "Sin Precio",
+     "Column6": "Horario Normal"
+    },
+    {
+     "Column1": "Futuros de Materias Primas",
+     "Column2": "GOLDXXX24",
+     "Column3": "Horario Normal",
+     "Column4": "Sin Precio",
+     "Column5": "Horario Normal",
+     "Column6": "Horario Normal"
+    },
+    {
+     "Column2": "NGASXXX24",
+     "Column3": "Horario Normal",
+     "Column4": "Sin Precio",
+     "Column5": "Horario Normal",
+     "Column6": "Horario Normal"
+    },
+    {
+     "Column2": "UKOILXXX24",
+     "Column3": "Horario Normal",
+     "Column4": "Sin Precio",
+     "Column5": "Horario Normal",
+     "Column6": "Horario Normal"
+    },
+    {
+     "Column2": "USOILXXX24",
+     "Column3": "Horario Normal",
+     "Column4": "Sin Precio",
+     "Column5": "Horario Normal",
+     "Column6": "Horario Normal"
+    },
+    {
+     "Column1": "Futuros de Índices",
+     "Column2": "DAX40XXX24",
+     "Column3": "Horario Normal",
+     "Column4": "Sin Precio",
+     "Column5": "Horario Normal",
+     "Column6": "Apertura Tarde 04:15"
+    },
+    {
+     "Column2": "US30XXX24",
+     "Column3": "Horario Normal",
+     "Column4": "Sin Precio",
+     "Column5": "Horario Normal",
+     "Column6": "Horario Normal"
+    },
+    {
+     "Column2": "US100XXX24",
+     "Column3": "Horario Normal",
+     "Column4": "Sin Precio",
+     "Column5": "Horario Normal",
+     "Column6": "Horario Normal"
+    },
+    {
+     "Column2": "US500XXX24",
+     "Column3": "Horario Normal",
+     "Column4": "Sin Precio",
+     "Column5": "Horario Normal",
+     "Column6": "Horario Normal"
+    },
+    {
+     "Column2": "USDIDX",
+     "Column3": "Horario Normal",
+     "Column4": "Sin Precio",
+     "Column5": "Horario Normal",
+     "Column6": "Horario Normal"
+    }
+   ]

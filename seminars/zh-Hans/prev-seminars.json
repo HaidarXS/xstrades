@@ -1,0 +1,38 @@
+[
+  {
+    "title": "菲律宾研讨会",
+    "date": "2024 年 3 月 9 日",
+    "country": "菲律宾帕西格市",
+    "dir": "philippines-seminars"
+  },
+  {
+    "title": "尼日利亚研讨会",
+    "date": "2023 年 12 月 15 日 & 17 日",
+    "country": "尼日利亚哈科特港",
+    "dir": "nigeria-seminar-17-18"
+  },
+  {
+    "title": "越南研讨会 ",
+    "date": " 2023 年 12 月 10 日",
+    "country": "越南胡志明市",
+    "dir": "vietnam-seminar"
+  },
+  {
+    "title": "巴西研讨会",
+    "date": "2023 年 11 月 25 日",
+    "country": " 巴西贝洛奥里藏特",
+    "dir": "brazil-seminar"
+  },
+  {
+    "title": "尼日利亚研讨会",
+    "date": "2023 年 10 月 28 日",
+    "country": "尼日利亚乌约",
+    "dir": "nigeria-seminar-28-october-2023"
+  },
+  {
+    "title": "阿曼研讨会",
+    "date": "2023 年 10 月 7 日",
+    "country": "阿曼马斯喀特",
+    "dir": "oman-seminar"
+  }
+]

@@ -1,0 +1,56 @@
+.blog-description tbody,
+td,
+tfoot,
+th,
+thead,
+tr {
+    border: 2px #ccc solid;
+    padding: 20px;
+    border-width: 2px !important;
+}
+
+.blog-description .text-justify * {
+    text-align: inherit !important;
+}
+.blog-banner-container {
+    position: relative;
+    background: url("../img/blogs-banner/blogs-banner.png") no-repeat center;
+    background-size: cover;
+    height: 40vh;
+}
+
+.blog-banner-container-ar {
+    position: relative;
+    background: url("../img/blogs-banner/blogs-banner.png") no-repeat center;
+    background-size: cover;
+    height: 40vh;
+}
+
+.blog-banner-container-ar::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: url("../img/blogs-banner/blogs-banner.png") no-repeat center;
+    background-size: cover;
+    transform: scaleX(-1);
+}
+.blog-banner-container-single {
+    position: relative;
+    background: url("../img/blogs-banner/blogDetails-banner.png") no-repeat
+        center;
+    background-size: cover;
+    height: 40vh;
+}
+
+.blog-banner-text-container {
+    position: relative;
+    color: #fff;
+}
+
+.blog-banner-text-container-ar {
+    position: relative;
+    color: #fff;
+}

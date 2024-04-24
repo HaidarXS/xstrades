@@ -1,0 +1,226 @@
+[
+    {
+     "date": "26\/03\/2024",
+     "symbol": "FLT",
+     "action": "Dividendo em dinheiro",
+     "description": "Flight Centre Travel Group Ltd",
+     "detail": "0.1",
+     "dividend_currency": "AUD"
+    },
+    {
+     "date": "27\/03\/2024",
+     "symbol": "AVB",
+     "action": "Dividendo em dinheiro",
+     "description": "AvalonBay Communities Inc",
+     "detail": "1.7",
+     "dividend_currency": "USD"
+    },
+    {
+     "date": "27\/03\/2024",
+     "symbol": "BXMT",
+     "action": "Dividendo em dinheiro",
+     "description": "Blackstone Mortgage Trust Inc",
+     "detail": "0.62",
+     "dividend_currency": "USD"
+    },
+    {
+     "date": "27\/03\/2024",
+     "symbol": "BXP",
+     "action": "Dividendo em dinheiro",
+     "description": "Boston Properties INC",
+     "detail": "0.98",
+     "dividend_currency": "USD"
+    },
+    {
+     "date": "27\/03\/2024",
+     "symbol": "COF",
+     "action": "Dividendo em dinheiro",
+     "description": "Centuria Office REIT",
+     "detail": "0.03",
+     "dividend_currency": "AUD"
+    },
+    {
+     "date": "27\/03\/2024",
+     "symbol": "CPT",
+     "action": "Dividendo em dinheiro",
+     "description": "Camden Property Trust",
+     "detail": "1.03",
+     "dividend_currency": "USD"
+    },
+    {
+     "date": "27\/03\/2024",
+     "symbol": "DE",
+     "action": "Dividendo em dinheiro",
+     "description": "Deere & Co",
+     "detail": "1.47",
+     "dividend_currency": "USD"
+    },
+    {
+     "date": "27\/03\/2024",
+     "symbol": "DEI",
+     "action": "Dividendo em dinheiro",
+     "description": "Douglas Emmett Inc",
+     "detail": "0.19",
+     "dividend_currency": "USD"
+    },
+    {
+     "date": "27\/03\/2024",
+     "symbol": "DHR",
+     "action": "Dividendo em dinheiro",
+     "description": "Danaher Corp",
+     "detail": "0.27",
+     "dividend_currency": "USD"
+    },
+    {
+     "date": "27\/03\/2024",
+     "symbol": "EIX",
+     "action": "Dividendo em dinheiro",
+     "description": "Edison International",
+     "detail": "0.78",
+     "dividend_currency": "USD"
+    },
+    {
+     "date": "27\/03\/2024",
+     "symbol": "ESS",
+     "action": "Dividendo em dinheiro",
+     "description": "Essex Property Trust Inc",
+     "detail": "2.45",
+     "dividend_currency": "USD"
+    },
+    {
+     "date": "27\/03\/2024",
+     "symbol": "FITB",
+     "action": "Dividendo em dinheiro",
+     "description": "Fifth Third Bancorp",
+     "detail": "0.35",
+     "dividend_currency": "USD"
+    },
+    {
+     "date": "27\/03\/2024",
+     "symbol": "FLS",
+     "action": "Dividendo em dinheiro",
+     "description": "Flowserve Corp",
+     "detail": "0.21",
+     "dividend_currency": "USD"
+    },
+    {
+     "date": "27\/03\/2024",
+     "symbol": "HST",
+     "action": "Dividendo em dinheiro",
+     "description": "Host Hotels and Resorts Inc",
+     "detail": "0.2",
+     "dividend_currency": "USD"
+    },
+    {
+     "date": "27\/03\/2024",
+     "symbol": "HUM",
+     "action": "Dividendo em dinheiro",
+     "description": "Humana Inc",
+     "detail": "0.89",
+     "dividend_currency": "USD"
+    },
+    {
+     "date": "27\/03\/2024",
+     "symbol": "ITW",
+     "action": "Dividendo em dinheiro",
+     "description": "Illinois Tool Works Inc",
+     "detail": "1.4",
+     "dividend_currency": "USD"
+    },
+    {
+     "date": "27\/03\/2024",
+     "symbol": "KDP",
+     "action": "Dividendo em dinheiro",
+     "description": "Keurig Dr Pepper Inc",
+     "detail": "0.22",
+     "dividend_currency": "USD"
+    },
+    {
+     "date": "27\/03\/2024",
+     "symbol": "KRC",
+     "action": "Dividendo em dinheiro",
+     "description": "Kilroy Realty Corp",
+     "detail": "0.54",
+     "dividend_currency": "USD"
+    },
+    {
+     "date": "27\/03\/2024",
+     "symbol": "LECO",
+     "action": "Dividendo em dinheiro",
+     "description": "Lincoln Electric Holdings Inc",
+     "detail": "0.71",
+     "dividend_currency": "USD"
+    },
+    {
+     "date": "27\/03\/2024",
+     "symbol": "MDLZ",
+     "action": "Dividendo em dinheiro",
+     "description": "Mondelez International Inc",
+     "detail": "0.43",
+     "dividend_currency": "USD"
+    },
+    {
+     "date": "27\/03\/2024",
+     "symbol": "NLY",
+     "action": "Dividendo em dinheiro",
+     "description": "Annaly Capital Management Inc",
+     "detail": "0.65",
+     "dividend_currency": "USD"
+    },
+    {
+     "date": "27\/03\/2024",
+     "symbol": "RL",
+     "action": "Dividendo em dinheiro",
+     "description": "Ralph Lauren Corp",
+     "detail": "0.75",
+     "dividend_currency": "USD"
+    },
+    {
+     "date": "27\/03\/2024",
+     "symbol": "XRAY",
+     "action": "Dividendo em dinheiro",
+     "description": "DENTSPLY SIRONA Inc",
+     "detail": "0.16",
+     "dividend_currency": "USD"
+    },
+    {
+     "date": "28\/03\/2024",
+     "symbol": "APD",
+     "action": "Dividendo em dinheiro",
+     "description": "Air Products & Chemicals Inc",
+     "detail": "1.77",
+     "dividend_currency": "USD"
+    },
+    {
+     "date": "28\/03\/2024",
+     "symbol": "CAH",
+     "action": "Dividendo em dinheiro",
+     "description": "Cardinal Health Inc",
+     "detail": "0.5",
+     "dividend_currency": "USD"
+    },
+    {
+     "date": "28\/03\/2024",
+     "symbol": "INGR",
+     "action": "Dividendo em dinheiro",
+     "description": "Ingredion Inc",
+     "detail": "0.78",
+     "dividend_currency": "USD"
+    },
+    {
+     "date": "28\/03\/2024",
+     "symbol": "MRO",
+     "action": "Dividendo em dinheiro",
+     "description": "Melrose Industries PLC",
+     "detail": "3.5",
+     "dividend_currency": "GBP"
+    },
+    {
+     "date": "28\/03\/2024",
+     "symbol": "O",
+     "action": "Dividendo em dinheiro",
+     "description": "Realty Income Corp",
+     "detail": "0.26",
+     "dividend_currency": "USD"
+    }
+   ]

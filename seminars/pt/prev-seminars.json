@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Seminário nas Filipinas",
+    "date": "9 de Março de 2024",
+    "country": "Cidade de Pasig, Filipinas",
+    "dir": "philippines-seminars"
+  },
+  {
+    "title": "Seminário na Nigéria",
+    "date": "15 e 17 de Dezembro de 2023",
+    "country": "Port Harcourt, Nigéria",
+    "dir": "nigeria-seminar-17-18"
+  },
+  {
+    "title": "Seminário no Vietnã",
+    "date": "10 de Dezembro de 2023",
+    "country": "HCMC, Vietnã",
+    "dir": "vietnam-seminar"
+  },
+  {
+    "title": "Seminário no Brasil",
+    "date": "25 de Novembro de 20213",
+    "country": "Belo Horizonte, Brasil",
+    "dir": "brazil-seminar"
+  },
+  {
+    "title": "Seminário na Nigéria",
+    "date": "28 de Outubro de 2023",
+    "country": "Uyo, Nigéria",
+    "dir": "nigeria-seminar-28-october-2023"
+  },
+  {
+    "title": "Seminário em Omán",
+    "date": "7 de Outubro de 2023",
+    "country": "Mascate, Omán",
+    "dir": "oman-seminar"
+  }
+]

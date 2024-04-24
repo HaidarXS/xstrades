@@ -1,0 +1,15 @@
+<svg id="Component_25_1" data-name="Component 25 – 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="233.125" height="196.624" viewBox="0 0 233.125 196.624">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_302" data-name="Rectangle 302" width="233.125" height="196.624" fill="none" stroke="#707070" stroke-width="6"/>
+    </clipPath>
+  </defs>
+  <g id="Group_890" data-name="Group 890" clip-path="url(#clip-path)">
+    <path id="Path_1061" data-name="Path 1061" d="M464.78,57.619,375.319,147.3l-7.6,27.531,27.493-7.64L484.674,77.51c1.938-1.942,1.283-5.743-1.464-8.49l-9.947-9.946C470.516,56.328,466.719,55.676,464.78,57.619Z" transform="translate(-256.591 -39.425)" fill="none" stroke="#35ad85" stroke-width="6"/>
+    <line id="Line_16" data-name="Line 16" x1="19.893" y1="19.891" transform="translate(197.661 28.745)" fill="none" stroke="#35ad85" stroke-width="6"/>
+    <path id="Path_1062" data-name="Path 1062" d="M181.9,47.773V37.835A24.835,24.835,0,0,0,157.058,13H37.838A24.835,24.835,0,0,0,13,37.835V142.152a24.841,24.841,0,0,0,24.838,24.841h14.9v29.792a4.969,4.969,0,0,0,8.941,2.987l35.766-32.779h59.61A24.841,24.841,0,0,0,181.9,142.152V122.286" transform="translate(-9.071 -9.072)" fill="none" stroke="#35ad85" stroke-width="6"/>
+    <line id="Line_17" data-name="Line 17" x2="89.415" transform="translate(43.669 48.636)" fill="none" stroke="#35ad85" stroke-width="6"/>
+    <line id="Line_18" data-name="Line 18" x2="89.415" transform="translate(43.669 68.506)" fill="none" stroke="#35ad85" stroke-width="6"/>
+    <line id="Line_19" data-name="Line 19" x2="49.675" transform="translate(43.669 88.376)" fill="none" stroke="#35ad85" stroke-width="6"/>
+  </g>
+</svg>

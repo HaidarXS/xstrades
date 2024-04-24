@@ -1,0 +1,16 @@
+[
+    {
+     "Symbol": "XAGUSDm",
+     "Spreads Pips": 21.285714285714374,
+     "Commissions Per Lot/Side": 0,
+     "Long Swap Pips": -1.50797,
+     "Short Swap Pips": 0.44326999999999994
+    },
+    {
+     "Symbol": "XAUUSDm",
+     "Spreads Pips": 19,
+     "Commissions Per Lot/Side": 0,
+     "Long Swap Pips": -2.0100000000000002,
+     "Short Swap Pips": 1.815
+    }
+   ]

@@ -1,0 +1,18 @@
+[
+    {
+        "Alavancagem e Mar": "Alavancagem Máxima da Conta",
+        "mt5": "200"
+    },
+    {
+        "Alavancagem e Mar": "Nível de Margin Call",
+        "mt5": "40"
+    },
+    {
+        "Alavancagem e Mar": "Nível de Stop Out",
+        "mt5": "20"
+    },
+    {
+        "Alavancagem e Mar": "Margem de Cobertura",
+        "mt5": "0"
+    }
+]

@@ -1,0 +1,45 @@
+[
+    {
+        "title": "MELHOR CEO GLOBAL",
+        "person": "MOHAMMAD IBRAHIM",
+        "sponsor": "Cerimônia de Premiação do Oriente Médio<br/> Smart Vision",
+        "country": "Dubai, EAU (Emirados Árabes Unidos)",
+        "date": "Setembro de 2023",
+        "img": "/img/top50ceo.webp"
+    },
+    {
+        "title": "LÍDER GLOBAL INSPIRADOR",
+        "person": "MOHAMMAD IBRAHIM",
+        "sponsor": "White Page Leadership Conclave <br/> White Page International ",
+        "country": "Dubai, EAU (Emirados Árabes Unidos)",
+        "date": "Setembro de 2023",
+        "img": "/img/inspirational-leader.webp"
+    },
+
+    {
+        "title": "CEO DO ANO",
+        "person": "MOHAMMAD IBRAHIM",
+        "sponsor": "Jordan Financial Expo & Award JFEX <br/> Grupo Afaq ",
+        "country": "Amã, Jordânia",
+        "date": "Setembro de 2023",
+        "img": "/img/ceo-of-the-year.webp"
+    },
+
+    {
+        "title": "FIGURA MAIS INFLUENTE <br/> MELHOR CCO (Chief Commercial Officer)",
+        "person": "WAEL HAMMAD",
+        "sponsor": "Forex Traders Summit <br/> Smart Vision",
+        "country": "Dubai, EAU (Emirados Árabes Unidos)",
+        "date": "Maio de 2023",
+        "img": "/img/best-cco.webp"
+    },
+
+    {
+        "title": "FIGURA MAIS INFLUENTE <br/> MELHOR CEO",
+        "person": "MOHAMMAD IBRAHIM",
+        "sponsor": "FinTech & Crypto Summit <br/> Smart Vision ",
+        "country": "Manama, Bahrain",
+        "date": "Fevereiro de 2023",
+        "img": "/img/best-ceo.webp"
+    }
+]

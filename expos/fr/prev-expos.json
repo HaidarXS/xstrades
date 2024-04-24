@@ -1,0 +1,88 @@
+[
+    {
+    "title": "SMART VISION SUMMIT OMAN",
+    "date": "14-15 FÉVRIER 2024 ",
+    "country": "Muscat, Oman",
+    "dir": "oman-smart-summit"
+},
+{
+    "title": "QATAR FINANCIAL EXPO",
+    "date": "05-06 FÉVRIER 2024",
+    "country": "Doha, Qatar",
+    "dir": "qatar-financial-expo"
+},
+{
+   "title": "TRADERS FAIR THAÏLANDE",
+   "date": "03 FÉVRIER 2024",
+   "country": "Bangkok, Thaïlande",
+   "dir": "traders-fair"
+},
+    {
+        "title": "SMART VISION INVESTMENT EXPO",
+        "date": "11-15 NOV 2023",
+        "country": "Le Caire, Alexandrie, Égypte",
+        "dir": "smart-vision-investment-expo"
+    },
+    {
+        "title": "DUBAI FOREX EXPO ",
+        "date": " Du 26 au 27 SEP 2023 ",
+        "country": "Dubaï, ÉAU",
+        "dir": "dubai-forex-expo"
+    },
+    {
+        "title": "TRADERS FAIR SOUTH AFRICA",
+        "date": " 16 SEP 2023 ",
+        "country": "Johannesburg, Afrique du Sud",
+        "dir": "traders-fair-south-africa"
+    },
+    {
+        "title": "JORDAN FINANCIAL EXPO & AWARDS JFEX",
+        "date": "05-06 SEP 2023",
+        "country": "Amman, Jordanie",
+        "dir": "jordan-financial-expo"
+    },
+    {
+        "title": "Pi2Day",
+        "date": "02 JUIL 2023",
+        "country": "Manille, Philippines",
+        "dir": "pi2-day"
+    },
+    {
+        "title": "TRADERS FAIR VIETNAM HANOI ",
+        "date": "24  JUIN 2023",
+        "country": "Hanoï, Vietnam",
+        "dir": "traders-fair-vietnam-hanoi"
+    },
+    {
+        "title": "IFX EXPO ASIA",
+        "date": "20-22  JUIN 2023",
+        "country": "Bangkok, Thaïlande",
+        "dir": "ifx-expo-asia"
+    },
+
+    {
+        "title": "MONEY EXPO MEXICO ",
+        "date": "24-25 MAI 2023",
+        "country": " Mexico, Mexique",
+        "dir": "money-expo-maxico"
+    },
+    {
+        "title": "TRADERS FAIR PHILIPPINES",
+        "date": " 20 MAI 2023",
+        "country": "Manille, Philippines",
+        "dir": "traders-fair-philippines"
+    },
+    {
+        "title": "Sommet des Traders Forex Dubai",
+        "date": "17-18 MAI 2023",
+        "country": " Dubaï, Émirats arabes unis",
+        "dir": "forex-traders-summit-dubai"
+    },
+
+    {
+        "title": "BAHRAIN FOREX & CRYPTO EXPO",
+        "date": "Du 15 au 16 février 2023",
+        "country": "Manama, Bahreïn",
+        "dir": "bahrain-forex-crypto-expo"
+    }
+]

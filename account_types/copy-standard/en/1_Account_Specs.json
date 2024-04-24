@@ -1,0 +1,18 @@
+[
+    {
+        "Account Specs": "Minimum Deposit",
+        "mt5": "NA"
+    },
+    {
+        "Account Specs": "Maximum Number of Accounts",
+        "mt5": 10
+    },
+    {
+        "Account Specs": "Base Currency",
+        "mt5": "USD"
+    },
+    {
+        "Account Specs": "Products",
+        "mt5": "Currencies Metals(Gold & Silver)"
+    }
+]

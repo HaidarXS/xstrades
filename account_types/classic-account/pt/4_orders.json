@@ -1,0 +1,17 @@
+[
+    {
+        "Ordens": "Número Máximo de Ordens Pendentes",
+        "mt4": 500,
+        "mt5": "Ilimitado"
+    },
+    {
+        "Ordens": "Número Máximo de Ordens abertas",
+        "mt4": 500,
+        "mt5": "Ilimitado"
+    },
+    {
+        "Ordens": "Número Máximo de Ordens Pendentes e Abertas",
+        "mt4": 1000,
+        "mt5": "Ilimitado"
+    }
+]

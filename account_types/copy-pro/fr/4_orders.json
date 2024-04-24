@@ -1,0 +1,14 @@
+[
+    {
+        "ORDERS": "Nombre maximal d'ordres en attente",
+        "mt5": 600
+    },
+    {
+        "ORDERS": "Nombre maximal d'ordre ouverte",
+        "mt5": 600
+    },
+    {
+        "ORDERS": "Nombre  Maximal  d'ordre en attente et en cours",
+        "mt5": 600
+    }
+]

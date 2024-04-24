@@ -1,0 +1,22 @@
+[
+    {
+        "Alavancagem e Margem": "ALAVANCAGEM DINÂMICA",
+        "mt5": false
+    },
+    {
+        "Alavancagem e Margem": "Alavancagem Máxima da Conta",
+        "mt5": "1:1000"
+    },
+    {
+        "Alavancagem e Margem": "Nível de Margin Call",
+        "mt5": "60%"
+    },
+    {
+        "Alavancagem e Margem": "Nível de Stop Out",
+        "mt5": "10%"
+    },
+    {
+        "Alavancagem e Margem": "Margem de Cobertura ",
+        "mt5": "0"
+    }
+]

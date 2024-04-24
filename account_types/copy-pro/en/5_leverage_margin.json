@@ -1,0 +1,18 @@
+[
+    {
+        "Leverage & margin": "Maximum Leverage",
+        "mt5": "200"
+    },
+    {
+        "Leverage & margin": "Margin Call Level",
+        "mt5": "40"
+    },
+    {
+        "Leverage & margin": "Stop out Level",
+        "mt5": "20"
+    },
+    {
+        "Leverage & margin": "Hedged Margin",
+        "mt5": "0"
+    }
+]

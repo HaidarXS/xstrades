@@ -1,0 +1,8 @@
+.offcanvas-start {
+    left: 0;
+    right: auto;
+    width: 250px;
+    border-right: 1px solid rgba(0, 0, 0, 0.2);
+    border-left: none !important;
+    transform: translateX(-100%);
+}

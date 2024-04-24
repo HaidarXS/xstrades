@@ -1,0 +1,32 @@
+[
+    {
+        "title": "TRADERS SUMMIT DUBÁI",
+        "date": "19-20 MAYO 2024",
+        "country": "Dubái, EAU",
+        "dir": "traders-summit-dubai-uae.webp"
+    },
+    {
+        "title": "TRADERS FAIR FILIPINAS (MANILA)",
+        "date": "25 MAYO 2024",
+        "country": "Manila, Filipinas",
+        "dir": "traders-fair-philippines-manila.webp"
+    },
+    {
+        "title": "Smart Vision Summit (Sudáfrica)",
+        "date": "11-12 SET 2024",
+        "country": "Cape Town, Sudáfrica",
+        "dir": "South-Africa.webp"
+    },
+    {
+        "title": "FOREX EXPO DUBÁI",
+        "date": "07-08 OCT 2024",
+        "country": "Dubái, EAU",
+        "dir": "forex-expo-dubai-uae.webp"
+    },
+    {
+        "title": "TRADERS FAIR FILIPINAS (DAVAO)",
+        "date": "26 OCT 2024",
+        "country": "Davao, Filipinas",
+        "dir": "traders-fair-philippines-davao.webp"
+    }
+]

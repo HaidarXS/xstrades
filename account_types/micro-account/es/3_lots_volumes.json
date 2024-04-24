@@ -1,0 +1,26 @@
+[
+    {
+        "Lotes y Volumen": "Tamaño del Lote",
+        "mt5": "Micro (1,000)"
+    },
+    {
+        "Lotes y Volumen": "Volumen Mínimo",
+        "mt5": "0.1"
+    },
+    {
+        "Lotes y Volumen": "Volumen Máx. por Orden (Día)",
+        "mt5": "500"
+    },
+    {
+        "Lotes y Volumen": "Volumen Máx. por Orden (Noche)",
+        "mt5": "500"
+    },
+    {
+        "Lotes y Volumen": "Volumen Total Máx. de Órdenes Pendientes",
+        "mt5": "500"
+    },
+    {
+        "Lotes y Volumen": "Volumen Total Máx. de Órdenes Abiertas",
+        "mt5": "500"
+    }
+]

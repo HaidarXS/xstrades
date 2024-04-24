@@ -1,0 +1,18 @@
+[
+    {
+        "Levier et Marge": "LEVIER DYNAMIQUE",
+        "mt5": "200"
+    },
+    {
+        "Levier et Marge": "Effet de levier maximal sur le compte",
+        "mt5": "40"
+    },
+    {
+        "Levier et Marge": "Effet de levier maximal sur le compte",
+        "mt5": "20"
+    },
+    {
+        "Levier et Marge": "Marge en Hedging",
+        "mt5": "0"
+    }
+]

@@ -1,0 +1,218 @@
+[
+    {
+
+     "main-title": "Calendrier des vacances de mars 2024",
+     "main-column1": "Catégorie",
+     "main-column2": "Instrument",
+     "main-column3": "JEUDI 28 MARS",
+     "main-column4": "VENDREDI 29 MARS",
+     "main-column5": "LUNDI 01 AVRIL",
+     "main-column6": "MARDI 02 AVRIL",
+     "sub-column4": "BON VENDREDI",
+     "sub-column5": "LE LUNDI DE PÂQUES",
+     "time-zone": "GMT + 3"
+    },
+    {
+     "Column1": "Effets",
+     "Column2": "Toutes les paires d'effets",
+     "Column3": "Heures normales",
+     "Column4": "Heures normales",
+     "Column5": "Heures normales",
+     "Column6": "Heures normales"
+    },
+    {
+     "Column1": "Métaux précieux",
+     "Column2": "XAUUSD, XAUEUR,\nXAGUSD, XAGEUR,\nXPDUSD,XPTUSD",
+     "Column3": "Heures normales",
+     "Column4": "Prix ​​OFF",
+     "Column5": "Heures normales",
+     "Column6": "Heures normales"
+    },
+    {
+     "Column1": "Énergies ponctuelles",
+     "Column2": "NGAS (Spot)",
+     "Column3": "Heures normales",
+     "Column4": "Prix ​​OFF",
+     "Column5": "Heures normales",
+     "Column6": "Heures normales"
+    },
+    {
+     "Column2": "USOIL (Spot)",
+     "Column3": "heures normales",
+     "Column4": "Prix ​​OFF",
+     "Column5": "Heures normales",
+     "Column6": "Heures normales"
+    },
+    {
+     "Column2": "UKOIL (Spot)",
+     "Column3": "Heures normales",
+     "Column4": "Prix ​​OFF",
+     "Column5": "Heures normales",
+     "Column6": "Heures normales"
+    },
+    {
+     "Column1": "Indices ponctuels",
+     "Column2": "AUS200",
+     "Column3": "Fermeture tot  à 16h00",
+     "Column4": "Prix ​​OFF",
+     "Column5": "Ouvert tard à 13h50",
+     "Column6": "Heures normales"
+    },
+    {
+     "Column2": "EU50",
+     "Column3": "Heures normales",
+     "Column4": "Prix ​​OFF",
+     "Column5": "Prix OFF",
+     "Column6": "Ouvert tard à 03:15"
+    },
+    {
+     "Column2": "F40",
+     "Column3": "Heures normales",
+     "Column4": "Prix ​​OFF",
+     "Column5": "Prix OFF",
+     "Column6": "Heures normales"
+    },
+    {
+     "Column2": "DE40",
+     "Column3": "Heures normales",
+     "Column4": "Prix ​​OFF",
+     "Column5": "Prix OFF",
+     "Column6": "ouvert tard a 03:15"
+    },
+    {
+     "Column2": "JP225",
+     "Column3": "Heures normales",
+     "Column4": "Prix ​​OFF",
+     "Column5": "heures normales",
+     "Column6": "heures normales"
+    },
+    {
+     "Column2": "UK100",
+     "Column3": "Heures normales",
+     "Column4": "Prix ​​OFF",
+     "Column5": "Prix OFF",
+     "Column6": "ouvert tard a 03:00"
+    },
+    {
+     "Column2": "US500",
+     "Column3": "Heures normales",
+     "Column4": "Prix ​​OFF",
+     "Column5": "Heures normales",
+     "Column6": "Heures normales"
+    },
+    {
+     "Column2": "US100",
+     "Column3": "Heures normales",
+     "Column4": "Prix ​​OFF",
+     "Column5": "Heures normales",
+     "Column6": "Heures normales"
+    },
+    {
+     "Column2": "US30",
+     "Column3": "Heures normales",
+     "Column4": "Prix ​​OFF",
+     "Column5": "Heures normales",
+     "Column6": "Heures normales"
+    },
+    {
+     "Column2": "RUSS2000",
+     "Column3": "Heures normales",
+     "Column4": "Prix ​​OFF",
+     "Column5": "Heures normales",
+     "Column6": "Heures normales"
+    },
+    {
+     "Column2": "ES35",
+     "Column3": "Heures normales",
+     "Column4": "Prix ​​OFF",
+     "Column5": "Prix ​​OFF",
+     "Column6": "Heures normales"
+    },
+    {
+     "Column1": "Actions",
+     "Column2": "US Shares",
+     "Column3": "Heures normales",
+     "Column4": "Prix ​​OFF",
+     "Column5": "heures normales",
+     "Column6": "Heures normales"
+    },
+    {
+     "Column2": "UK Shares",
+     "Column3": "Heures normales",
+     "Column4": "Prix ​​OFF",
+     "Column5": "Prix ​​OFF",
+     "Column6": "Heures normales"
+    },
+    {
+     "Column2": "HK Shares",
+     "Column3": "Heures normales",
+     "Column4": "Prix ​​OFF",
+     "Column5": "Prix ​​OFF",
+     "Column6": "Heures normales"
+    },
+    {
+     "Column1": "Future des Commodités",
+     "Column2": "GOLDXXX24",
+     "Column3": "Heures normales",
+     "Column4": "Prix ​​OFF",
+     "Column5": "Heures normales",
+     "Column6": "Heures normales"
+    },
+    {
+     "Column2": "NGASXXX24",
+     "Column3": "Heures normales",
+     "Column4": "Prix ​​OFF",
+     "Column5": "Heures normales",
+     "Column6": "Heures normales"
+    },
+    {
+     "Column2": "UKOILXXX24",
+     "Column3": "Heures normales",
+     "Column4": "Prix ​​OFF",
+     "Column5": "Heures normales",
+     "Column6": "Heures normales"
+    },
+    {
+     "Column2": "USOILXXX24",
+     "Column3": "Heures normales",
+     "Column4": "Prix ​​OFF",
+     "Column5": "Heures normales",
+     "Column6": "Heures normales"
+    },
+    {
+     "Column1": "Futures sur indices",
+     "Column2": "DAX40XXX24",
+     "Column3": "Heures normales",
+     "Column4": "Prix ​​OFF",
+     "Column5": "Heures normales",
+     "Column6": "ouvert tard a 04:15"
+    },
+    {
+     "Column2": "US30XXX24",
+     "Column3": "Heures normales",
+     "Column4": "Prix ​​OFF",
+     "Column5": "Heures normales",
+     "Column6": "Heures normales"
+    },
+    {
+     "Column2": "US100XXX24",
+     "Column3": "Heures normales",
+     "Column4": "Prix ​​OFF",
+     "Column5": "Heures normales",
+     "Column6": "Heures normales"
+    },
+    {
+     "Column2": "US500XXX24",
+     "Column3": "Heures normales",
+     "Column4": "Prix ​​OFF",
+     "Column5": "Heures normales",
+     "Column6": "Heures normales"
+    },
+    {
+     "Column2": "USDIDX",
+     "Column3": "Heures normales",
+     "Column4": "Prix ​​OFF",
+     "Column5": "Heures normales",
+     "Column6": "Heures normales"
+    }
+   ]

@@ -1,0 +1,18 @@
+[
+    {
+        "Leverage & margin": "最大杠杆",
+        "mt5": "200"
+    },
+    {
+        "Leverage & margin": "最大杠杆",
+        "mt5": "40"
+    },
+    {
+        "Leverage & margin": "强制平仓",
+        "mt5": "20"
+    },
+    {
+        "Leverage & margin": "对冲保证金",
+        "mt5": "0"
+    }
+]

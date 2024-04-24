@@ -1,0 +1,22 @@
+[
+   {
+      "SPREADS & SWAPS": "Average Spread (EURUSD)",
+      "mt4": "0.1",
+      "mt5": "0.1"
+   },
+   {
+      "SPREADS & SWAPS": "Commissions",
+      "mt4": "3",
+      "mt5": "3"
+   },
+   {
+      "SPREADS & SWAPS": "Stop Level",
+      "mt4": "0",
+      "mt5": "0"
+   },
+   {
+      "SPREADS & SWAPS": "Swap Free Option",
+      "mt4": true,
+      "mt5": true
+   }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "Symbol": "JP225",
+        "Spreads Pips": 600,
+        "Commissions Per Lot/Side": "0.3 $",
+        "Long Swap Pips": -24.78996,
+        "Short Swap Pips": -26.16304
+    },
+    {
+        "Symbol": "US100",
+        "Spreads Pips": 0.71,
+        "Commissions Per Lot/Side": "0.3 $",
+        "Long Swap Pips": -35.08551,
+        "Short Swap Pips": 7.76918
+    },
+    {
+        "Symbol": "US30",
+        "Spreads Pips": 1.32,
+        "Commissions Per Lot/Side": "0.3 $",
+        "Long Swap Pips": -87.26203,
+        "Short Swap Pips": 19.32292
+    },
+    {
+        "Symbol": "DE40",
+        "Spreads Pips": 0.57,
+        "Commissions Per Lot/Side": "0.3 $",
+        "Long Swap Pips": -30.25268,
+        "Short Swap Pips": 1.68292
+    },
+    {
+        "Symbol": "US500",
+        "Spreads Pips": 0.35,
+        "Commissions Per Lot/Side": "0.3 $",
+        "Long Swap Pips": -8.57901,
+        "Short Swap Pips": 0.89704
+    },
+    {
+        "Symbol": "UK100",
+        "Spreads Pips": 1.28,
+        "Commissions Per Lot/Side": "0.3 $",
+        "Long Swap Pips": -35.08551,
+        "Short Swap Pips": 7.76918
+    },
+    {
+        "Symbol": "ES35",
+        "Spreads Pips": 6.10,
+        "Commissions Per Lot/Side": "0.3 $",
+        "Long Swap Pips": -17.51543,
+        "Short Swap Pips": 0.97436
+    },
+    {
+        "Symbol": "AUS200",
+        "Spreads Pips": 1.28,
+        "Commissions Per Lot/Side": "0.3 $",
+        "Long Swap Pips": 2.6071,
+        "Short Swap Pips": -5.17701
+    },
+    {
+        "Symbol": "F40",
+        "Spreads Pips": 0.80,
+        "Commissions Per Lot/Side": "0.3 $",
+        "Long Swap Pips": 8.72539,
+        "Short Swap Pips": -26.03345
+    },
+    {
+        "Symbol": "IBX50",
+        "Spreads Pips": 60,
+        "Commissions Per Lot/Side": "0.3 $",
+        "Long Swap Pips": -0.35,
+        "Short Swap Pips": -0.35
+    },
+    {
+        "Symbol": "EU50",
+        "Spreads Pips": 1.74,
+        "Commissions Per Lot/Side": "0.3 $",
+        "Long Swap Pips": 0.00269,
+        "Short Swap Pips": -0.07956
+    },
+    {
+        "Symbol": "HONGKONG50",
+        "Spreads Pips": 4.5,
+        "Commissions Per Lot/Side": "0.3 $",
+        "Long Swap Pips": -32.26354,
+        "Short Swap Pips": -2.03435
+    },
+    {
+        "Symbol": "RUSS2000",
+        "Spreads Pips": 0.21,
+        "Commissions Per Lot/Side": "0.3 $",
+        "Long Swap Pips": -3.8801,
+        "Short Swap Pips": 0.95797
+    }
+]

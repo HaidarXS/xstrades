@@ -1,0 +1,22 @@
+[
+    {
+        "Account Specs": "Minimum Deposit",
+        "mt5": "X"
+    },
+    {
+        "Account Specs": "Maximum Number of Accounts",
+        "mt5": 10
+    },
+    {
+        "Account Specs": "Demo Accounts",
+        "mt5": false
+    },
+    {
+        "Account Specs": "Base Currency",
+        "mt5": "USD"
+    },
+    {
+        "Account Specs": "Products",
+        "mt5": "Currencies Metals Energy Indices"
+    }
+]

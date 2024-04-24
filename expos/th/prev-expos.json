@@ -1,0 +1,86 @@
+[
+  {
+    "title": "งานสมาร์ทวิชั่นที่โอมาน",
+    "date": "14-15 ก.พ.2024",
+    "country": "มัสกัต  โอมาน",
+    "dir": "oman-smart-summit"
+  },
+  {
+    "title": "งานเอ็กซ์โปการเงินการลงทุนกาตาร์",
+    "date": "05-06 ก.พ. 2024",
+    "country": "โดฮา กาตาร์",
+    "dir": "qatar-financial-expo"
+  },
+  {
+    "title": "เทรดเดอร์ แฟร์ ไทยแลนด์",
+    "date": "03 ก.พ. 2024",
+    "country": "กรุงเทพ  ประเทศไทย",
+    "dir": "traders-fair"
+  },
+  {
+    "title": "งานแสดงสมาร์ทวิชั่นเอ็กซ์โปร",
+    "date": "11-15 พ.ย. 2023",
+    "country": "ไคโร อเล็กซานเดรีย , อียิปต์",
+    "dir": "smart-vision-investment-expo"
+  },
+  {
+    "title": "งานฟอเร็กซ์เอ็กซ์โปที่ดูไบ",
+    "date": " 26 – 27 ก.ย. 2023",
+    "country": "ดูไบ , UAE",
+    "dir": "dubai-forex-expo"
+  },
+  {
+    "title": "Traders Fair แอฟริกาใต้",
+    "date": "16 กันยายน 2023",
+    "country": "โจฮันเนสเบิร์ก แอฟริกาใต้",
+    "dir": "traders-fair-south-africa"
+  },
+  {
+    "title": "งานแสดงเอ็กซ์โปรจอร์แดน  & มอบรางวัล  JFEX",
+    "date": "05-06 ก.ย. 2023",
+    "country": "Amman, จอร์แดน",
+    "dir": "jordan-financial-expo"
+  },
+  {
+    "title": "Pi2Day",
+    "date": "02 ก.ค. 2023",
+    "country": "มะนิลา, ฟิลิปปินส์",
+    "dir": "pi2-day"
+  },
+  {
+    "title": "เทรดเดอร์แฟร์ เวียดนาม ฮานอย ",
+    "date": "24 มิ.ย. 2023",
+    "country": "ฮานอย, เวียดนาม",
+    "dir": "traders-fair-vietnam-hanoi"
+  },
+  {
+    "title": "IFX EXPO ASIA ",
+    "date": "20-22 มิ.ย. 2023",
+    "country": "กรุงเทพ , ประเทศไทย",
+    "dir": "ifx-expo-asia"
+  },
+  {
+    "title": "MONEY EXPO MEXICO ",
+    "date": "24-25 พ.ค. 2023",
+    "country": "เม็กซิโกซิตี้, เม็กซิโก",
+    "dir": "money-expo-maxico"
+  },
+  {
+    "title": "เทรดเดอร์แฟร์ , ฟิลิปปินส์",
+    "date": "20 พ.ค. 2023",
+    "country": "กรุงมะนิลา , ประเทศฟิลิปปินส์",
+    "dir": "traders-fair-philippines"
+  },
+  {
+    "title": "การประชุมสุดยอดฟอเร็กซ์เทรดเดอร์ ณ ดูไบ",
+    "date": "17-18 พ.ค. 2023",
+    "country": "ดูไบ, UAE",
+    "dir": "forex-traders-summit-dubai"
+  },
+  {
+    "title": "บาห์เรนฟอเร็กซ์ & คริปโต เอ็กซ์โปร ",
+    "date": "15-16 ก.พ. 2023",
+    "country": "Manama , บาห์เรน",
+    "dir": "bahrain-forex-crypto-expo"
+  }
+]

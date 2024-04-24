@@ -1,0 +1,14 @@
+[
+    {
+        "ORDERS": "Số lượng lệnh chờ tối đa",
+        "mt5": 500
+    },
+    {
+        "ORDERS": "Số lượng lệnh mở tối đa",
+        "mt5": 500
+    },
+    {
+        "ORDERS": "Số lượng lệnh chờ & mở tối đa",
+        "mt5": 1000
+    }
+]

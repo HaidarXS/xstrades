@@ -1,0 +1,30 @@
+[
+    {
+        "LOTS & VOLUMES": "Lot Size",
+        "mt5": "Micro 1,000 USD"
+    },
+    {
+        "LOTS & VOLUMES": "Minimum Volume",
+        "mt5": "0.1 Lot"
+    },
+    {
+        "LOTS & VOLUMES": "Maximum Volume per Order (Daytime)",
+        "mt5": "500"
+    },
+    {
+        "LOTS & VOLUMES": "Maximum Volume per Order (Nighttime)",
+        "mt5": "500"
+    },
+    {
+        "LOTS & VOLUMES": "Maximum Total Volume Of Pending Orders",
+        "mt5": "500"
+    },
+    {
+        "LOTS & VOLUMES": "Maximum Total Volume Of Open Orders",
+        "mt5": "500"
+    },
+    {
+        "LOTS & VOLUMES": "Maximum Total Volume of Pending & Open Orders",
+        "mt5": "1000"
+    }
+]

@@ -1,0 +1,86 @@
+<?php
+return [
+    'MARKETS' => 'Markets',
+    'SHARES' => 'Shares Trading',
+    'INDICES' => 'Indices Trading',
+    'METALS' => 'Metals Trading',
+    'ENERGIES' => 'Energy Trading',
+    'TRADING' => 'Trading',
+    'COMMODITIES' => 'Commodities Trading',
+    'CRYPTOS' => 'Crypto Trading',
+    "FOREX" => "Forex Trading",
+    'JOIN_XS' => 'Join XS Trades',
+    'MESSAGE_US' => 'Message Us',
+    'HELP_CENTER' => 'Help Center',
+
+    //markets
+    'TRADE_GLOBAL_MULTI_ASSET'=>'Trade The Global Financial Markets With The Best Multi-Asset Broker',
+    'TRADE_GLOBAL_MULTI_ASSET_DISC'=>'Explore the world of online trading with XS Trades, where you can trade the largest global financial markets and access 1000+ trading instruments and multiple asset classes from one single account.<br/> 
+    Trade a diverse range of asset classes, including forex, shares, metals, futures, commodities, and indices. Experience tight spreads, competitive pricing, seamless execution, and benefit from high-quality market research provided by our professional team of experts and market analysts.',
+    'WHY_TRADE_WITH_XS'=>'Why Trade With XS Trades?',
+    'WHY_TRADE_CDF'=>'Why Trade CFDs With XS Trades?',
+    'WHY_TRADE_CDF_DISC'=>'Discover the advantages of trading CFDs with XS Trades. Enjoy an optimised trading experience',
+    'LEVERAGE_AND_FLEXIBILITY'=>'Leverage and Flexibility',
+    'LEVERAGE_AND_FLEXIBILITY_DISC'=>'Maximize your trading potential with XS Trades. Benefit from leverage, allowing you to amplify market exposure with smaller investments. Enjoy increased flexibility in your trading strategies.',
+    'LONG_AND_SHORT'=>'Long and Short',
+    'LONG_AND_SHORT_DISC'=>'Go beyond traditional buying and selling. XS Trades enables you to benefit from both rising and falling markets. Take advantage of bullish trends by going long or capitalise on bearish trends by going short.',
+    'FRACTIONAL_TRADING'=>'Fractional Trading',
+    'FRACTIONAL_TRADING_DISC'=>'Diversify your portfolio without limitations. XS Trades offers fractional trading, enabling you to invest in multiple asset classes with smaller budgets. Expand your market participation and enhance portfolio diversification.',
+
+    //Metals page
+    'METALS_DESC' => 'Discover the vast possibilities of metals trading with XS Trades, where you can trade CFDs on gold, silver, platinum, palladium and other metals with an award-winning broker. XS Trades offers a seamless platform for exploring spot metals trading, allowing you to capitalize on new trading opportunities.',
+    'UNLOCK_THE_POTENTIAL' => 'unlock the potential of metals trading with xs trades',
+    'UNLOCK_THE_POTENTIAL_DESC' => 'Unleash the Power of Trading the world&#39;s leading stock indices, and Trade International Stock Indices with XS Trades. Gain Access to Global Markets and Seamlessly Buy and Sell Leading stock indices such as Dow Jones, Dax, Nasdaq, and More <br/>Join XSTrades.com today and unleash the power of stock indices trading',
+    'METALS_TRADING_WITH_XS' => 'METALS TRADING WITH XS Trades',
+    'METALS_TRADING_WITH_XS_DESC' => 'Whether you choose to trade gold CFDs, silver CFDs, platinum CFDs, or palladium CFDs, XS Trades provides you with access to both precious metals and base metals, enabling you to diversify your portfolio and hedge against inflation.<br/> Benefit from the low or negative correlation metals have with other asset classes, reducing volatility and risk.',
+    'UNDERSTADING_METALS' => 'Understanding Metals Trading: An Overview with XS Trades',
+    'UNDERSTADING_METALS_DESC_1' => 'Metals trading involves the buying and selling of various precious and base metals, providing investors with exposure to this specific asset class. Here &apos; s an overview of metals trading with XS Trades:',
+    'UNDERSTADING_METALS_DESC_2' => 'Diverse Range of Metals: XS Trades offers access to a diverse selection of metals, including precious metals like gold, silver, platinum, and palladium, as well as base metals such as copper and aluminum. Each metal has its unique characteristics and market dynamics.',
+    'UNDERSTADING_METALS_DESC_3' => 'Safe-Haven Assets: Precious metals like gold and silver are often considered safe-haven assets, as they tend to retain their value during times of market uncertainty. Traders often turn to these metals as a hedge against inflation and economic volatility.',
+    'UNDERSTADING_METALS_DESC_4' => 'Industrial Applications: Base metals such as copper and aluminum are essential for various industries, including construction, electronics, and manufacturing. Trading these metals provides exposure to the global industrial sector and allows traders to capitalize on market trends and demand fluctuations.',
+    'UNDERSTADING_METALS_DESC_5' => 'Supply and Demand Dynamics: Metals prices are influenced by supply and demand factors, including production levels, geopolitical events, economic indicators, and market sentiment. Understanding these dynamics is crucial for informed decision-making in metals trading.',
+    'MORE_INFO' => 'For more information please visit our Help Center',
+    'TRADE_WITH_THE_BEST_MULTI_ASSET_BROKER' => 'DIVERSIFY YOUR PORTFOLIO WITH THE BEST MULTI-ASSET BROKER',
+
+    //Energies Page
+    'ENERGIES_DESC_1' => 'XS Trades Group is a global fintech and financial services provider with entities regulated and authorised by leading governing bodies of the most reputable financial jurisdictions around the globe.',
+    'ENERGIES_DESC_2' =>'We prioritise regulatory compliance to ensure trust, integrity, and accountability in the global financial industry. Our operations adhere to the regulations and requirements set forth by the relevant authorities in each jurisdiction where we operate.',
+    'ENERGIZE_YOUR_TRADING' => 'energize your trading & explore energy markets <br/> with a global broker',
+    'ENERGIZE_YOUR_TRADING_DESC' => 'Power up your trading journey with XS Trades as you explore the exciting energy markets. Trade a variety of energy commodities, including crude oil, natural gas, and more, and seize opportunities driven by global supply and demand dynamics, geopolitical events, and technological advancements.',
+    'ENERGY_TRADING_WITH_XS' => 'ENERGY TRADING WITH XS Trades',
+    'ENERGY_TRADING_WITH_XS_DESC' => 'With XS Trades, you can enjoy our advantageous trading environment, featuring competitive pricing, tight spreads, and efficient execution. Take advantage of our state-of-the-art MetaTrader 4 and MetaTrader 5 trading platforms, accessible across multiple devices, ensuring a seamless trading experience.',
+    'UNDERSTANDING_ENERGIES' => 'Understanding Energies: An Overview',
+    'UNDERSTANDING_ENERGIES_DESC_1' => 'Trading energy commodities presents a unique opportunity to participate in the global energy sector and capitalize on price fluctuations driven by supply and demand dynamics, geopolitical events, and market trends. In this overview, we will explore the key aspects of energy trading and its potential benefits.',
+    'UNDERSTANDING_ENERGIES_DESC_2' => 'Introduction to Energy Trading <br/> Energy trading involves buying and selling energy commodities such as crude oil, natural gas, gasoline, heating oil, and more. These commodities are essential resources that power industries, transportation, and everyday life. Energy trading provides a platform for investors and traders to speculate on the price movements of these commodities and potentially generate profits.',
+    'UNDERSTANDING_ENERGIES_DESC_3' => 'Factors Driving Energy Prices<br/> Energy prices are influenced by a range of factors. Supply and demand dynamics play a crucial role, with geopolitical events, weather conditions, and global economic trends affecting the balance between supply and demand. Changes in government policies, advancements in technology, and environmental regulations also impact energy prices. Staying informed about these factors is key to making informed trading decisions.',
+    'UNDERSTANDING_ENERGIES_DESC_4' => 'Market Opportunities and Volatility<br/> Energy markets are known for their volatility, creating opportunities for traders to profit from price fluctuations. Market trends driven by global events and shifts in supply and demand can lead to significant price movements. Traders can take advantage of both upward and downward trends in energy prices, allowing for potential profits in both bullish and bearish market conditions.',
+    'UNDERSTANDING_ENERGIES_DESC_5' => 'Access to Energy Markets with XS Trades provides a comprehensive trading platforms that offer access to energy markets and a wide range of energy commodities. With real-time market data, advanced trading tools, and competitive pricing, XS Trades empowers traders to make informed decisions and execute trades efficiently. Our platform ensures reliable execution and supports traders in maximizing their potential returns while managing risk effectively.',
+
+    //Crypto Page
+    'CRYPTOS_DESC_1' => 'XS Trades Group is a global fintech and financial services provider with entities regulated and authorised by leading governing bodies of the most reputable financial jurisdictions around the globe.',
+    'CRYPTOS_DESC_2' => 'We prioritise regulatory compliance to ensure trust, integrity, and accountability in the global financial industry. Our operations adhere to the regulations and requirements set forth by the relevant authorities in each jurisdiction where we operate.',
+    'JOIN_THE_DIGITAL_REVOLUTION' => 'join the digital revolution with cryptocurrency trading',
+    'JOIN_THE_DIGITAL_REVOLUTION_DESC' => 'Discover the world of cryptocurrencies and unlock the potential of digital assets with XS Trades. Trade popular cryptocurrencies such as Bitcoin, Ethereum, Litecoin, and more, and seize opportunities in the rapidly evolving cryptocurrency market.<br/> Join XSTrades.com today and embark on your cryptocurrency trading journey.',
+    'CRYPTOCURRENCY_TRADING_WITH_XS' => 'CRYPTOCURRENCY TRADING WITH XS Trades',
+    'CRYPTOCURRENCY_TRADING_WITH_XS_DESC' => 'Experience the excitement of cryptocurrency trading with XSTrades.com. Our platforms offer seamless trading of a wide range of cryptocurrencies, allowing you to take advantage of market volatility and potential price movements. Benefit from our advanced trading tools, secure storage solutions, and reliable execution to trade cryptocurrencies with confidence',
+    'UNDERSTANDING_CRTYPTOCURRENCIES' => 'Understanding Cryptocurrencies: An Overview',
+    'UNDERSTANDING_CRTYPTOCURRENCIES_DESC_1' => 'Cryptocurrencies are digital or virtual currencies that utilize cryptography for secure transactions and control the creation of new units. Here are key points to know about cryptocurrencies:',
+    'UNDERSTANDING_CRTYPTOCURRENCIES_DESC_2' => 'Decentralization: Cryptocurrencies operate on decentralized networks, such as blockchain technology, which eliminates the need for intermediaries like banks. This decentralization provides transparency, security, and control over transactions.',
+    'UNDERSTANDING_CRTYPTOCURRENCIES_DESC_3' => 'Popular Cryptocurrencies: Bitcoin (BTC) is the first and most well-known cryptocurrency, paving the way for a multitude of other cryptocurrencies. Ethereum (ETH), Litecoin (LTC), Ripple (XRP), and many more have gained significant popularity and market capitalization. <br/><br/>Volatility: Cryptocurrency prices can be highly volatile, offering both opportunities and risks for traders. Price fluctuations can be influenced by factors such as market demand, regulatory developments, technological advancements, and investor sentiment.',
+    'UNDERSTANDING_CRTYPTOCURRENCIES_DESC_4' => 'Use Cases: Cryptocurrencies serve various purposes, including peer-to-peer transactions, store of value, investment assets, and facilitating smart contracts and decentralized applications (DApps) on blockchain platforms.',
+    'UNDERSTANDING_CRTYPTOCURRENCIES_DESC_5' => 'Staying Informed: Keeping up with cryptocurrency news, market trends, and understanding the underlying technology is crucial for successful cryptocurrency trading. XS Trades provides resources, educational materials, and real-time market data to help you stay informed.',
+
+    //Commodities Page
+    'COMMODITIES_DESC_1' => 'XS Trades Group is a global fintech and financial services provider with entities regulated and authorised by leading governing bodies of the most reputable financial jurisdictions around the globe.',
+    'COMMODITIES_DESC_2' => 'We prioritise regulatory compliance to ensure trust, integrity, and accountability in the global financial industry. Our operations adhere to the regulations and requirements set forth by the relevant authorities in each jurisdiction where we operate.',
+    'EXPERIENCE_THE_WORLD_OF_COMMODITIES' => 'experience the world of commodities trading with a global broker',
+    'EXPERIENCE_THE_WORLD_OF_COMMODITIES_DESC' => 'Embark on an exciting journey into commodities trading with XS Trades. Our platforms offer a diverse range of CFD instruments encompassing various commodities. Commodities trading provides a unique opportunity to participate in the global markets, with the potential for favorable returns',
+    'COMMODITIES_TRADING_WITH_XS' => 'COMMODITIES TRADING WITH XS Trades',
+    'COMMODITIES_TRADING_WITH_XS_DESC' => 'With XS Trades, you can enjoy our advantageous trading environment, featuring competitive pricing, tight spreads, and efficient execution. Take advantage of our state-of-the-art MetaTrader 4 and MetaTrader 5 trading platforms, accessible across multiple devices, ensuring a seamless trading experience.',
+    'UNDERSTANDING_COMMODITIES' => 'Commodities Overview: Discover the World of Commodities Trading with XS Trades',
+    'UNDERSTANDING_COMMODITIES_DESC_1' => 'Introduction<br/>Welcome to the world of commodities trading with XS Trades. Commodities represent tangible goods that are vital to our daily lives, such as metals, energy resources, agricultural products, and more. In this overview, we will explore the key aspects of commodities trading, including popular commodities, market dynamics, and the advantages of trading commodities with XS Trades.',
+    'UNDERSTANDING_COMMODITIES_DESC_2' => 'Popular Commodities<br/> Commodities trading encompasses a wide range of assets, including precious metals like gold and silver, energy resources like oil and natural gas, agricultural products like wheat and corn, as well as industrial metals like copper and aluminum. These commodities play essential roles in various industries and offer diverse trading opportunities.',
+    'UNDERSTANDING_COMMODITIES_DESC_3' => 'Market Dynamics <br/>Commodities markets are influenced by a multitude of factors, such as supply and demand dynamics, geopolitical events, weather conditions, technological advancements, and global economic trends. Understanding these dynamics is crucial for successful commodities trading. XS Trades provides access to real-time market data, analysis, and research to help you navigate the commodities markets effectively.',
+];
+
+?>

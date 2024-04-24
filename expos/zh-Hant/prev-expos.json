@@ -1,0 +1,86 @@
+[
+  {
+    "title": "阿曼 SMART VISION SUMMIT",
+    "date": "2024 年 2 月 14 日至 15 日",
+    "country": "阿曼馬斯喀特",
+    "dir": "oman-smart-summit"
+  },
+  {
+    "title": "卡達 FINANCIAL EXPO",
+    "date": "2024 年 2 月 5 日至 6 日",
+    "country": "卡達多哈",
+    "dir": "qatar-financial-expo"
+  },
+  {
+    "title": "泰國 TRADERS FAIR",
+    "date": "2024 年 2 月 3 日",
+    "country": "泰國曼谷",
+    "dir": "traders-fair"
+  },
+  {
+    "title": "SMART VISION金融博覽會",
+    "date": "2023年11月11-15日",
+    "country": "埃及開羅及亞歷山大",
+    "dir": "smart-vision-investment-expo"
+  },
+  {
+    "title": "杜拜展會",
+    "date": " 2023 年 9 月 26 – 27 日",
+    "country": "阿聯酋杜拜",
+    "dir": "dubai-forex-expo"
+  },
+  {
+    "title": "南非TRADERS FAIR金融博覽會",
+    "date": "2023年9月16日",
+    "country": "南非約翰尼斯堡",
+    "dir": "traders-fair-south-africa"
+  },
+  {
+    "title": "約旦金融博覽會及頒獎典禮 JFEX",
+    "date": "2023年9月5日至6日",
+    "country": "約旦安曼",
+    "dir": "jordan-financial-expo"
+  },
+  {
+    "title": "Pi2Day",
+    "date": "2023年7月2日",
+    "country": " 菲律賓馬尼拉",
+    "dir": "pi2-day"
+  },
+  {
+    "title": "越南河內TRADERS FAIR金融博覽會 ",
+    "date": "2023年6月24日",
+    "country": "越南河內",
+    "dir": "traders-fair-vietnam-hanoi"
+  },
+  {
+    "title": "IFX亞洲博覽會",
+    "date": "2023年6月20-22日",
+    "country": "泰國曼谷",
+    "dir": "ifx-expo-asia"
+  },
+  {
+    "title": "墨西哥MONEY EXPO金融博覽會",
+    "date": "2023年5月24-25日",
+    "country": "墨西哥墨西哥城",
+    "dir": "money-expo-maxico"
+  },
+  {
+    "title": "菲律賓TRADERS FAIR金融博覽會",
+    "date": "2023年5月20日",
+    "country": "菲律賓馬尼拉",
+    "dir": "traders-fair-philippines"
+  },
+  {
+    "title": "杜拜金融峰會",
+    "date": "2023年5月17-18日",
+    "country": " 阿聯酋杜拜",
+    "dir": "forex-traders-summit-dubai"
+  },
+  {
+    "title": "巴林金融科技與數位加密貨幣峰會",
+    "date": "2023年2月15-16日",
+    "country": "巴林麥納麥",
+    "dir": "bahrain-forex-crypto-expo"
+  }
+]

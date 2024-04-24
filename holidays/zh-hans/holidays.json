@@ -1,0 +1,218 @@
+
+[
+    {
+     "main-title": "2024年3月节假日安排",
+     "main-column1": "资产类别",
+     "main-column2": "产品",
+     "main-column3": "3月28日 (星期四)",
+     "main-column4": "3月29日 (星期五)",
+     "main-column5": "4月1日 (星期一)",
+     "main-column6": "4月2日 (星期二)",
+     "sub-column4": "耶稣受难日",
+     "sub-column5": "复活节星期一",
+     "time-zone": "GMT + 3"
+    },
+    {
+     "Column1": "货币对",
+     "Column2": "All FX Pairs",
+     "Column3": "正常时间",
+     "Column4": "正常时间",
+     "Column5": "正常时间",
+     "Column6": "正常时间"
+    },
+    {
+     "Column1": "贵金属",
+     "Column2": "XAUUSD, XAUEUR,\nXAGUSD, XAGEUR,\nXPDUSD,XPTUSD",
+     "Column3": "正常时间",
+     "Column4": "定价关闭",
+     "Column5": "正常时间",
+     "Column6": "正常时间"
+    },
+    {
+     "Column1": "现货能源",
+     "Column2": "NGAS (Spot)",
+     "Column3": "正常时间",
+     "Column4": "定价关闭",
+     "Column5": "正常时间",
+     "Column6": "正常时间"
+    },
+    {
+     "Column2": "USOIL (Spot)",
+     "Column3": "正常时间",
+     "Column4": "定价关闭",
+     "Column5": "正常时间",
+     "Column6": "正常时间"
+    },
+    {
+     "Column2": "UKOIL (Spot)",
+     "Column3": "正常时间",
+     "Column4": "定价关闭",
+     "Column5": "正常时间",
+     "Column6": "正常时间"
+    },
+    {
+     "Column1": "现货指数",
+     "Column2": "AUS200",
+     "Column3": "提早休市 16:00",
+     "Column4": "定价关闭",
+     "Column5": "延迟开市 13:50",
+     "Column6": "正常时间"
+    },
+    {
+     "Column2": "EU50",
+     "Column3": "正常时间",
+     "Column4": "定价关闭",
+     "Column5": "定价关闭",
+     "Column6": "延迟开市 03:15"
+    },
+    {
+     "Column2": "F40",
+     "Column3": "正常时间",
+     "Column4": "定价关闭",
+     "Column5": "定价关闭",
+     "Column6": "正常时间"
+    },
+    {
+     "Column2": "DE40",
+     "Column3": "正常时间",
+     "Column4": "定价关闭",
+     "Column5": "定价关闭",
+     "Column6": "延迟开市 03:15"
+    },
+    {
+     "Column2": "JP225",
+     "Column3": "正常时间",
+     "Column4": "定价关闭",
+     "Column5": "正常时间",
+     "Column6": "正常时间"
+    },
+    {
+     "Column2": "UK100",
+     "Column3": "正常时间",
+     "Column4": "定价关闭",
+     "Column5": "定价关闭",
+     "Column6": "延迟开市 03:00"
+    },
+    {
+     "Column2": "US500",
+     "Column3": "正常时间",
+     "Column4": "定价关闭",
+     "Column5": "正常时间",
+     "Column6": "正常时间"
+    },
+    {
+     "Column2": "US100",
+     "Column3": "正常时间",
+     "Column4": "定价关闭",
+     "Column5": "正常时间",
+     "Column6": "正常时间"
+    },
+    {
+     "Column2": "US30",
+     "Column3": "正常时间",
+     "Column4": "定价关闭",
+     "Column5": "正常时间",
+     "Column6": "正常时间"
+    },
+    {
+     "Column2": "RUSS2000",
+     "Column3": "正常时间",
+     "Column4": "定价关闭",
+     "Column5": "正常时间",
+     "Column6": "正常时间"
+    },
+    {
+     "Column2": "ES35",
+     "Column3": "正常时间",
+     "Column4": "定价关闭",
+     "Column5": "定价关闭",
+     "Column6": "正常时间"
+    },
+    {
+     "Column1": "股票",
+     "Column2": "US Shares",
+     "Column3": "正常时间",
+     "Column4": "定价关闭",
+     "Column5": "正常时间",
+     "Column6": "正常时间"
+    },
+    {
+     "Column2": "UK Shares",
+     "Column3": "正常时间",
+     "Column4": "定价关闭",
+     "Column5": "定价关闭",
+     "Column6": "正常时间"
+    },
+    {
+     "Column2": "HK Shares",
+     "Column3": "正常时间",
+     "Column4": "定价关闭",
+     "Column5": "定价关闭",
+     "Column6": "正常时间"
+    },
+    {
+     "Column1": "商品期货",
+     "Column2": "GOLDXXX24",
+     "Column3": "正常时间",
+     "Column4": "定价关闭",
+     "Column5": "正常时间",
+     "Column6": "正常时间"
+    },
+    {
+     "Column2": "NGASXXX24",
+     "Column3": "正常时间",
+     "Column4": "定价关闭",
+     "Column5": "正常时间",
+     "Column6": "正常时间"
+    },
+    {
+     "Column2": "UKOILXXX24",
+     "Column3": "正常时间",
+     "Column4": "定价关闭",
+     "Column5": "正常时间",
+     "Column6": "正常时间"
+    },
+    {
+     "Column2": "USOILXXX24",
+     "Column3": "正常时间",
+     "Column4": "定价关闭",
+     "Column5": "正常时间",
+     "Column6": "正常时间"
+    },
+    {
+     "Column1": "指数期货",
+     "Column2": "DAX40XXX24",
+     "Column3": "正常时间",
+     "Column4": "定价关闭",
+     "Column5": "正常时间",
+     "Column6": "延迟开市 04:15"
+    },
+    {
+     "Column2": "US30XXX24",
+     "Column3": "正常时间",
+     "Column4": "定价关闭",
+     "Column5": "正常时间",
+     "Column6": "正常时间"
+    },
+    {
+     "Column2": "US100XXX24",
+     "Column3": "正常时间",
+     "Column4": "定价关闭",
+     "Column5": "正常时间",
+     "Column6": "正常时间"
+    },
+    {
+     "Column2": "US500XXX24",
+     "Column3": "正常时间",
+     "Column4": "定价关闭",
+     "Column5": "正常时间",
+     "Column6": "正常时间"
+    },
+    {
+     "Column2": "USDIDX",
+     "Column3": "正常时间",
+     "Column4": "定价关闭",
+     "Column5": "正常时间",
+     "Column6": "正常时间"
+    }
+   ]

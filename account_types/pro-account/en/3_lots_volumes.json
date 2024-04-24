@@ -1,0 +1,37 @@
+[
+    {
+        "LOTS & VOLUMES": "Lot Size",
+        "mt4": "Standard (100,000)",
+        "mt5": "Standard (100,000)"
+    },
+    {
+        "LOTS & VOLUMES": "Minimum Volume",
+        "mt4": "0.01 Lot",
+        "mt5": "0.01 Lot"
+    },
+    {
+        "LOTS & VOLUMES": "Maximum Volume per Order (Daytime)",
+        "mt4": "100",
+        "mt5": "100"
+    },
+    {
+        "LOTS & VOLUMES": "Maximum Volume per Order (Nighttime)",
+        "mt4": "50",
+        "mt5": "50"
+    },
+    {
+        "LOTS & VOLUMES": "Maximum Total Volume Of Pending Orders",
+        "mt4": "X",
+        "mt5": "X"
+    },
+    {
+        "LOTS & VOLUMES": "Maximum Total Volume Of Open Orders",
+        "mt4": "X",
+        "mt5": "X"
+    },
+    {
+        "LOTS & VOLUMES": "Maximum Total Volume of Pending & Open Orders",
+        "mt4": "X",
+        "mt5": "X"
+    }
+]

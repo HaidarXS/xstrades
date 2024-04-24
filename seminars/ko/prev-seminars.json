@@ -1,0 +1,38 @@
+[
+  {
+    "title": "필리핀 세미나",
+    "date": "2024년 3월 9일",
+    "country": "필리핀 파시그 시티",
+    "dir": "philippines-seminars"
+  },
+  {
+    "title": "나이지리아 세미나",
+    "date": "2023년 12월 15일 & 17일",
+    "country": "나이지리아 포트 하코트 ",
+    "dir": "nigeria-seminar-17-18"
+  },
+  {
+    "title": "베트남 세미나 ",
+    "date": "2023년 12월 10일",
+    "country": "베트남 호치민 ",
+    "dir": "vietnam-seminar"
+  },
+  {
+    "title": "브라질 세미나",
+    "date": "2023년 11월 25일",
+    "country": "브라질 벨루오리존치",
+    "dir": "brazil-seminar"
+  },
+  {
+    "title": "나이지리아 세미나",
+    "date": "2023년 10월 28일",
+    "country": " 나이지리아 우요",
+    "dir": "nigeria-seminar-28-october-2023"
+  },
+  {
+    "title": "오만 세미나",
+    "date": "2023년 10월 7일",
+    "country": "오만 무스카트",
+    "dir": "oman-seminar"
+  }
+]

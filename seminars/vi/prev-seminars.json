@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Hội Thảo Philippines",
+    "date": "09/03/2024 ",
+    "country": "Pasig City, Philippines",
+    "dir": "philippines-seminars"
+  },
+  {
+    "title": "Hội Thảo Nigeria ",
+    "date": "15 & 17/12/2023",
+    "country": "Port Harcourt, Nigeria",
+    "dir": "nigeria-seminar-17-18"
+  },
+  {
+    "title": "Hội Thảo Việt Nam ",
+    "date": "10/12/2023 ",
+    "country": "HCM, Việt Nam ",
+    "dir": "vietnam-seminar"
+  },
+  {
+    "title": "Hội Thảo Brazil",
+    "date": "25/11/2023",
+    "country": "Belo Horizonte, Brazil",
+    "dir": "brazil-seminar"
+  },
+  {
+    "title": "Hội Thảo Nigeria",
+    "date": "28/10/2023 ",
+    "country": "Uyo, Nigeria ",
+    "dir": "nigeria-seminar-28-october-2023"
+  },
+  {
+    "title": "Hội Thảo Oman",
+    "date": "07/10/2023 ",
+    "country": "Muscat, Oman",
+    "dir": "oman-seminar"
+  }
+]

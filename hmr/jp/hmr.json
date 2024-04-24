@@ -1,0 +1,50 @@
+[
+  {
+   "date": "2024年3月27日(水) ",
+   "time": "3:30 ",
+   "name": "加重平均消費者物価指数 (前年比)  ",
+   "currency": "AUD ",
+   "applied_start": "3:15 ",
+   "applied_end": "3:40 "
+  },
+  {
+   "date": "2024年3月28日(木) ",
+   "time": "3:30 ",
+   "name": "小売売上高 (前月比) ",
+   "currency": "AUD ",
+   "applied_start": "3:15 ",
+   "applied_end": "3:40 "
+  },
+  {
+   "date": "2024年3月28日(木) ",
+   "time": "10:00 ",
+   "name": "経常収支(Q4) ",
+   "currency": "GBP ",
+   "applied_start": "9:45 ",
+   "applied_end": "10:10 "
+  },
+  {
+   "date": "2024年3月28日(木) ",
+   "time": "15:30 ",
+   "name": "国内総生産 (前期比) (Q4) ",
+   "currency": "USD ",
+   "applied_start": "15:15 ",
+   "applied_end": "15:40 "
+  },
+  {
+   "date": "2024年3月29日(金) ",
+   "time": "2:30 ",
+   "name": "東京都区部コア消費者物価指数(CPI) (前年比)  ",
+   "currency": "JPY ",
+   "applied_start": "2:15 ",
+   "applied_end": "2:40 "
+  },
+  {
+   "date": "2024年3月29日(金) ",
+   "time": "15:30 ",
+   "name": "個人消費支出物価指数 (前年比) ",
+   "currency": "USD ",
+   "applied_start": "15:15 ",
+   "applied_end": "15:40 "
+  }
+ ]

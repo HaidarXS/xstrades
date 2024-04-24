@@ -1,0 +1,27 @@
+[
+    {
+        "Caractéristiques du compte": "Dépôt minimal",
+        "mt4": 0,
+        "mt5": 0
+    },
+    {
+        "Caractéristiques du compte": "Nombre maximal de comptes/PA",
+        "mt4": 10,
+        "mt5": 10
+    },
+    {
+        "Caractéristiques du compte": "Comptes démo",
+        "mt4": "Oui",
+        "mt5": "Oui"
+    },
+    {
+        "Caractéristiques du compte": "Devise de base",
+        "mt4": "USD",
+        "mt5": "USD EUR GBP JPY ZAR"
+    },
+    {
+        "Caractéristiques du compte": "Produits",
+        "mt4": "Devise Métaux Crypto Énergies Indices",
+        "mt5": "Devise Métaux Crypto Énergies Indices Futures Actions Matières premières"
+    }
+]

@@ -1,0 +1,217 @@
+[
+    {
+     "main-title": "2024년 3월 휴무일 스케쥴",
+     "main-column1": "카테고리",
+     "main-column2": "거래 상품",
+     "main-column3": "3월 28일 목요일",
+     "main-column4": "3월 29일 금요일",
+     "main-column5": "4월 1일 월요일",
+     "main-column6": "4월 2일 화요일",
+     "sub-column4": "굿프라이데이(성 금요일)",
+     "sub-column5": "부활절 월요일",
+     "time-zone": "그리니치 표준시 + 3"
+    },
+    {
+     "Column1": "FX",
+     "Column2": "모든 통화 쌍",
+     "Column3": "정상 시간",
+     "Column4": "정상 시간",
+     "Column5": "정상 시간",
+     "Column6": "정상 시간"
+    },
+    {
+     "Column1": "귀금속",
+     "Column2": "XAUUSD, XAUEUR,\nXAGUSD, XAGEUR,\nXPDUSD,XPTUSD",
+     "Column3": "정상 시간",
+     "Column4": "Pricing OFF",
+     "Column5": "정상 시간",
+     "Column6": "정상 시간"
+    },
+    {
+     "Column1": "현물 에너지",
+     "Column2": "NGAS (Spot)",
+     "Column3": "정상 시간",
+     "Column4": "Pricing OFF",
+     "Column5": "정상 시간",
+     "Column6": "정상 시간"
+    },
+    {
+     "Column2": "USOIL (Spot)",
+     "Column3": "정상 시간",
+     "Column4": "Pricing OFF",
+     "Column5": "정상 시간",
+     "Column6": "정상 시간"
+    },
+    {
+     "Column2": "UKOIL (Spot)",
+     "Column3": "정상 시간",
+     "Column4": "Pricing OFF",
+     "Column5": "정상 시간",
+     "Column6": "정상 시간"
+    },
+    {
+     "Column1": "현물 지수",
+     "Column2": "AUS200",
+     "Column3": "조기 폐장 16:00",
+     "Column4": "Pricing OFF",
+     "Column5": "늦은 개장 13:50",
+     "Column6": "정상 시간"
+    },
+    {
+     "Column2": "EU50",
+     "Column3": "정상 시간",
+     "Column4": "Pricing OFF",
+     "Column5": "Pricing OFF",
+     "Column6": "늦은 개장 03:15"
+    },
+    {
+     "Column2": "F40",
+     "Column3": "정상 시간",
+     "Column4": "Pricing OFF",
+     "Column5": "Pricing OFF",
+     "Column6": "정상 시간"
+    },
+    {
+     "Column2": "DE40",
+     "Column3": "정상 시간",
+     "Column4": "Pricing OFF",
+     "Column5": "Pricing OFF",
+     "Column6": "늦은 개장 03:15"
+    },
+    {
+     "Column2": "JP225",
+     "Column3": "정상 시간",
+     "Column4": "Pricing OFF",
+     "Column5": "정상 시간",
+     "Column6": "정상 시간"
+    },
+    {
+     "Column2": "UK100",
+     "Column3": "정상 시간",
+     "Column4": "Pricing OFF",
+     "Column5": "Pricing OFF",
+     "Column6": "늦은 개장 03:00"
+    },
+    {
+     "Column2": "US500",
+     "Column3": "정상 시간",
+     "Column4": "Pricing OFF",
+     "Column5": "정상 시간",
+     "Column6": "정상 시간"
+    },
+    {
+     "Column2": "US100",
+     "Column3": "정상 시간",
+     "Column4": "Pricing OFF",
+     "Column5": "정상 시간",
+     "Column6": "정상 시간"
+    },
+    {
+     "Column2": "US30",
+     "Column3": "정상 시간",
+     "Column4": "Pricing OFF",
+     "Column5": "정상 시간",
+     "Column6": "정상 시간"
+    },
+    {
+     "Column2": "RUSS2000",
+     "Column3": "정상 시간",
+     "Column4": "Pricing OFF",
+     "Column5": "정상 시간",
+     "Column6": "정상 시간"
+    },
+    {
+     "Column2": "ES35",
+     "Column3": "정상 시간",
+     "Column4": "Pricing Off  ",
+     "Column5": "Pricing Off  ",
+     "Column6": "정상 시간"
+    },
+    {
+     "Column1": "주식",
+     "Column2": "US Shares",
+     "Column3": "정상 시간",
+     "Column4": "Pricing Off  ",
+     "Column5": "정상 시간",
+     "Column6": "정상 시간"
+    },
+    {
+     "Column2": "UK Shares",
+     "Column3": "정상 시간",
+     "Column4": "Pricing Off  ",
+     "Column5": "Pricing Off  ",
+     "Column6": "정상 시간"
+    },
+    {
+     "Column2": "HK Shares",
+     "Column3": "정상 시간",
+     "Column4": "Pricing Off  ",
+     "Column5": "Pricing Off  ",
+     "Column6": "정상 시간"
+    },
+    {
+     "Column1": "원자재 선물",
+     "Column2": "GOLDXXX24",
+     "Column3": "정상 시간",
+     "Column4": "Pricing Off  ",
+     "Column5": "정상 시간",
+     "Column6": "정상 시간"
+    },
+    {
+     "Column2": "NGASXXX24",
+     "Column3": "정상 시간",
+     "Column4": "Pricing Off  ",
+     "Column5": "정상 시간",
+     "Column6": "정상 시간"
+    },
+    {
+     "Column2": "UKOILXXX24",
+     "Column3": "정상 시간",
+     "Column4": "Pricing Off  ",
+     "Column5": "정상 시간",
+     "Column6": "정상 시간"
+    },
+    {
+     "Column2": "USOILXXX24",
+     "Column3": "정상 시간",
+     "Column4": "Pricing Off  ",
+     "Column5": "정상 시간",
+     "Column6": "정상 시간"
+    },
+    {
+     "Column1": "지수 선물",
+     "Column2": "DAX40XXX24",
+     "Column3": "정상 시간",
+     "Column4": "Pricing Off  ",
+     "Column5": "정상 시간",
+     "Column6": "늦은 개장 04:15"
+    },
+    {
+     "Column2": "US30XXX24",
+     "Column3": "정상 시간",
+     "Column4": "Pricing OFF",
+     "Column5": "정상 시간",
+     "Column6": "정상 시간"
+    },
+    {
+     "Column2": "US100XXX24",
+     "Column3": "정상 시간",
+     "Column4": "Pricing OFF",
+     "Column5": "정상 시간",
+     "Column6": "정상 시간"
+    },
+    {
+     "Column2": "US500XXX24",
+     "Column3": "정상 시간",
+     "Column4": "Pricing OFF",
+     "Column5": "정상 시간",
+     "Column6": "정상 시간"
+    },
+    {
+     "Column2": "USDIDX",
+     "Column3": "정상 시간",
+     "Column4": "Pricing OFF",
+     "Column5": "정상 시간",
+     "Column6": "정상 시간"
+    }
+   ]

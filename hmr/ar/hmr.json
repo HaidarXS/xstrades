@@ -1,0 +1,50 @@
+[
+  {
+   "applied_end": "03:40",
+   "applied_start": "03:15",
+   "currency": "AUD",
+   "name": "Monthly CPI Indicator (YoY) (Feb)",
+   "time": "03:30",
+   "date": "27\/03\/2024"
+  },
+  {
+   "applied_end": "03:40",
+   "applied_start": "03:15",
+   "currency": "AUD",
+   "name": "Retail Sales (MoM) (Feb)",
+   "time": "03:30",
+   "date": "28\/03\/2024"
+  },
+  {
+   "applied_end": "10:10",
+   "applied_start": "09:45",
+   "currency": "GBP",
+   "name": "Current Account (Q4)",
+   "time": "10:00",
+   "date": "28\/03\/2024"
+  },
+  {
+   "applied_end": "15:40",
+   "applied_start": "15:15",
+   "currency": "USD",
+   "name": "GDP (QoQ) (Q4)",
+   "time": "15:30",
+   "date": "28\/03\/2024"
+  },
+  {
+   "applied_end": "02:40",
+   "applied_start": "02:15",
+   "currency": "JPY",
+   "name": "Tokyo Core CPI (YoY) (Mar)",
+   "time": "02:30",
+   "date": "29\/03\/2024"
+  },
+  {
+   "applied_end": "15:40",
+   "applied_start": "15:15",
+   "currency": "USD",
+   "name": "PCE Price index (YoY) (Feb)",
+   "time": "15:30",
+   "date": "29\/03\/2024"
+  }
+ ]

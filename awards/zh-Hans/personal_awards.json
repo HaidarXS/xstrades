@@ -1,0 +1,45 @@
+[
+    {
+        "title": "全球最佳首席执行官",
+        "person": "穆罕默德·亚伯拉罕",
+        "sponsor": "中东金融市场颁奖典礼 <br/> Smart Vision",
+        "country": "阿联酋迪拜",
+        "date": "2023年9月",
+        "img": "/img/top50ceo.webp"
+    },
+    {
+        "title": "全球励志领袖",
+        "person": "穆罕默德·亚伯拉罕",
+        "sponsor": "White Page领导力峰会 <br/> White Page国际 ",
+        "country": "阿联酋迪拜",
+        "date": "2023年9月",
+        "img": "/img/inspirational-leader.webp"
+    },
+
+    {
+        "title": "年度最佳首席执行官",
+        "person": "穆罕默德·亚伯拉罕",
+        "sponsor": "约旦金融博览会暨颁奖典礼 JFEX <br/> Afaq集团",
+        "country": "约旦安曼",
+        "date": "2023年9月",
+        "img": "/img/ceo-of-the-year.webp"
+    },
+
+    {
+        "title": "最具影响力人物 <br/> 最佳首席运营官",
+        "person": "瓦埃尔·哈马德",
+        "sponsor": "交易商峰会 <br/> Smart Vision",
+        "country": "阿联酋迪拜",
+        "date": "2023年5月",
+        "img": "/img/best-cco.webp"
+    },
+
+    {
+        "title": "最具影响力人物 <br/> 最佳首席执行官",
+        "person": "穆罕默德·亚伯拉罕",
+        "sponsor": "金融科技与加密货币峰会 <br/> Smart Vision ",
+        "country": "巴林麦纳麦",
+        "date": "2023年2月",
+        "img": "/img/best-ceo.webp"
+    }
+]

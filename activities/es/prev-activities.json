@@ -1,0 +1,62 @@
+[
+    {
+        "title": "Día Internacional de la Mujer",
+        "country": "Limassol, Chipre",
+        "date": "Marzo 2024",
+        "dir": "women-day"
+    },
+    {
+        "title": "Festival del Carnaval de Limassol",
+        "country": "Limassol, Chipre",
+        "date": "Marzo 2024",
+        "dir": "limassol-carnival-festival"
+    },
+    {
+        "title": "Día del Agradecimiento al Empleado",
+        "country": "Limassol, Chipre",
+        "date": "Marzo 2024",
+        "dir": "employee-appreciation-day"
+    },
+    {
+        "title": "Celebración del Año Nuevo Lunar",
+        "country": "Kuala Lumpur, Malasia",
+        "date": "Febrero 2024",
+        "dir": "celebrating-lunar-new-year-2023"
+    },
+    {
+        "title": "Crucero por el Río Chao Phraya",
+        "country": "Bangkok, Tailandia",
+        "date": "Febrero 2024",
+        "dir": "chao-phraya-river-cruise-2024"
+    },
+    {
+        "title": "Reunión del Equipo de Liderazgo",
+        "country": "Manila, Filipinas",
+        "date": "Febrero 2024",
+        "dir": "leadership-team-huddle-2024"
+    },
+    {
+        "title": "Celebración del Año Nuevo 2023",
+        "country": "En todo el mundo",
+        "date": "Diciembre 2023",
+        "dir": "celebrating-new-year-2023"
+    },
+    {
+        "title": "Tour Especial a las Pirámides",
+        "country": "Giza, Egipto",
+        "date": "13 de Noviembre de 2023",
+        "dir": "special-tour-to-the-pyramids"
+    },
+    {
+        "title": "Tour Especial en Mascate",
+        "country": "Mascate, Omán",
+        "date": "8 de Octubre de 2023",
+        "dir": "special-tour-in-muscat"
+    },
+    {
+        "title": "Celebración de Éxito en Dubái",
+        "country": "Dubái, EAU",
+        "date": "27 de Septiembre de 2023",
+        "dir": "celebrating-success in-dubai"
+    }
+]

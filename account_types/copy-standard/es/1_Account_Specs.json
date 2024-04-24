@@ -1,0 +1,18 @@
+[
+    {
+        "Account Specs": "Depósito Mínimo",
+        "mt5": "NA"
+    },
+    {
+        "Account Specs": "Número Máximo de Cuentas/ AP (Área Personal)",
+        "mt5": 10
+    },
+    {
+        "Account Specs": "Moneda Base",
+        "mt5": "USD"
+    },
+    {
+        "Account Specs": "Clases de Activos",
+        "mt5": "Forex Metales"
+    }
+]

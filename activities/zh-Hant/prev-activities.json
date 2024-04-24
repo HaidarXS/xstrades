@@ -1,0 +1,62 @@
+[
+  {
+    "title": "國際婦女節",
+    "country": "賽普勒斯利馬索",
+    "date": "2024 年 3 月",
+    "dir": "women-day"
+  },
+  {
+    "title": "利馬索狂歡節",
+    "country": "賽普勒斯利馬索",
+    "date": "2024 年 3 月",
+    "dir": "limassol-carnival-festival"
+  },
+  {
+    "title": "員工感謝日",
+    "country": "賽普勒斯利馬索",
+    "date": "2024 年 3 月",
+    "dir": "employee-appreciation-day"
+  },
+  {
+    "title": "慶祝農曆新年",
+    "country": "馬來西亞吉隆坡",
+    "date": "2024 年 2 月",
+    "dir": "celebrating-lunar-new-year-2023"
+  },
+  {
+    "title": "湄南河遊輪",
+    "country": "泰國曼谷",
+    "date": "2024 年 2 月",
+    "dir": "chao-phraya-river-cruise-2024"
+  },
+  {
+    "title": "領導團隊聚會",
+    "country": "菲律賓馬尼拉",
+    "date": "2024 年 2 月",
+    "dir": "leadership-team-huddle-2024"
+  },
+  {
+    "title": "慶祝 2023 年新年",
+    "country": "全球各地",
+    "date": "2023 年 12 月",
+    "dir": "celebrating-new-year-2023"
+  },
+  {
+    "title": "金字塔特別之旅",
+    "country": "埃及吉薩",
+    "date": "2023 年 11 月 13 日",
+    "dir": "special-tour-to-the-pyramids"
+  },
+  {
+    "title": "馬斯喀特特別之旅",
+    "country": "阿曼馬斯喀特",
+    "date": "2023 年 10 月 8 日",
+    "dir": "special-tour-in-muscat"
+  },
+  {
+    "title": "慶祝杜拜展成功特別之旅",
+    "country": "阿聯酋杜拜",
+    "date": "2023 年 9 月 27 日",
+    "dir": "celebrating-success in-dubai"
+  }
+]

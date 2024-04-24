@@ -1,0 +1,97 @@
+<?php
+return[
+'OPEN_POSITIONS_ON_SHARES'=>'Posições abertas em Ações ou Índices no início do dia útil (Horário do Servidor 00:00), que coincidem com a data ex do respectivo ativo subjacente, estarão sujeitas a ajustes de dividendos.
+<br/><br/>
+Posições longas (compra) receberão um pagamento, enquanto posições curtas (venda) serão cobradas do valor.',
+
+'SYMBOL'=>'Símbolo',
+'MONDAY_8'=>'Seg 29 Jan, 2024',
+'TUESDAY_9'=>'Ter 30 Jan, 2024',
+'WEDNESDAY_10'=>'Qua 31 Jan, 2024',
+'THURSDAY_11'=>'Qui 1 Fev, 2024',
+'FRIDAY_12'=>'Sex 2 Fev, 2024',
+'US30'=>'us30',
+'US100'=>'us100',
+'US500'=>'us500',
+'EU50'=>'EU50',
+'ES35'=>'ES35',
+'AU200'=>'AU200',
+'UK100'=>'UK100',
+'F40'=>'F40',
+
+'DATE'=>'Data',
+'ACTION'=>'Ação',
+'DESCRIPTION'=>'Descrição',
+'DETAIL'=>'Detalhe',
+'DIVIDEND_CURRENCY'=>'Moeda do Dividendo',
+'8_1_24'=>'08/01/2024',
+'DG'=>'DG',
+'CASH_DIVIDEND'=>'Dividendos ',
+'EUR'=>'EUR',
+'AUS200' => 'AUS200',
+'US30_USD'=>'US30',
+
+'UPCOMING_CORPORATE_ACTIONS'=>'Ações corporativas agendadas para 25 a 29 de março de 2024',
+
+'CASH_INDICES'=>'Índices de caixa entre 25/03 e 29/03/2024',
+
+'SHARE_CASH_DIVIDENDS'=>'Ações - Dividendos em dinheiro entre 25/03 e 29/03/2024',
+
+'MONDAY'=>'Seg 25 Mar, 2024',
+'TUESDAY'=>'Ter 26 Mar, 2024',
+'WEDNESDAY'=>'Qua 27 Mar, 2024',
+'THURSDAY'=>'Qui 28 Mar, 2024',
+'FRIDAY'=>'Sex 29 Mar, 2024',
+
+'2_5_2024'=>'2/5/2024',
+'2_6_2024'=>'2/6/2024',
+'2_7_2024'=>'2/7/2024',
+'2_8_2024'=>'2/8/2024',
+'2_9_2024'=>'2/9/2024',
+
+'ASML'=>'ASML',
+'ASML_HOLDING_NV'=>'ASML Holding NV',
+'DHI'=>'DHI',
+'D_R_HORTON_INC'=>'D.R. Horton Inc',
+'LNG'=>'LNG',
+'CHENIERE_ENERGY_INC'=>'Cheniere Energy Inc',
+'LVS'=>'LVS',
+'LAS_VEGAS_SANDS_CORP'=>'Las Vegas Sands Corp',
+'MET'=>'MET',
+'METLIFE_INC'=>'MetLife Inc',
+'FE'=>'FE',
+'FIRSTENERGY_CORP'=>'FirstEnergy Corp',
+'INTC'=>'INTC',
+'INTEL_CORP'=>'Intel Corp',
+'ADM'=>'ADM',
+'ARCHER_DANIELS_MIDLAND_CO'=>'Archer-Daniels-Midland Co',
+'AWK'=>'AWK',
+'AMERICAN_WATER_WORKS'=>'American Water Works Co Inc',
+'RMD'=>'RMD',
+"RESMED_INC"=>'ResMed Inc',
+'STZ'=>'STZ',
+'CONSTELLATION_BRANDS_INC'=>'Constellation Brands Inc',
+'AEP'=>'AEP',
+'AMERICAN_ELECTRIC_POWER'=>'American Electric Power Co Inc',
+'ETR'=>'ETR',
+'ENTERGY_CORP'=>'Entergy Corp',
+'HWM'=>'HWM',
+'HOWMET_AEROSPACE_INC'=>'Howmet Aerospace Inc',
+'HXL'=>'HXL',
+'HEXCEL_CORP'=>'Hexcel Corp',
+'SBUX'=>'SBUX',
+'STARBUCKS_CORP'=>'Starbucks Corp',
+'SIRI'=>'SIRI',
+'SIRIUS_XM_HOLDINGS_INC'=>'Sirius XM Holdings Inc',
+'V'=>'V',
+'VISA_INC'=>'Visa Inc',
+'LAZ'=>'LAZ',
+'LAZARD_LTD'=>'Lazard Ltd',
+
+
+'EXAMPLE' => 'Exemplo:',
+'THERE_IS_A_DIVIDEND' => 'Há um ajuste de dividendos de 4.383 no US30. Um cliente possui uma conta em USD e mantém uma posição longa (compra) de 20 US30. Na data ex, ele receberá um pagamento de 20*4.383 = <b>87.66 USD</b>.
+<br/><br/>
+Há um pagamento de dividendos de 0.59 USD para a ação ‘Dollar General Corp’. . Um cliente possui uma conta em USD e mantém uma posição curta (venda) de 100 ações. Na data ex, ele será cobrado em 100*0.59 = <b>-59.00 USD.</b>',
+];
+?>

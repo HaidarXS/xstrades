@@ -1,0 +1,217 @@
+[
+    {
+     "main-title": "Lịch nghỉ lễ tháng 3 năm 2024",
+     "main-column1": "Danh mục",
+     "main-column2": "Công cụ",
+     "main-column3": "Thứ Năm, 28\/03",
+     "main-column4": "Thứ Sáu, 29\/03",
+     "main-column5": "Thứ Hai, 01\/04",
+     "main-column6": "Thứ 3, 02\/04",
+     "sub-column4": "THỨ SÁU TUẦN THÁNH",
+     "sub-column5": "LỄ PHỤC SINH",
+     "time-zone": "GMT + 3"
+    },
+    {
+     "Column1": "FX",
+     "Column2": "Tất cả các cặp FX",
+     "Column3": "Giờ bình thường",
+     "Column4": "Giờ bình thường",
+     "Column5": "Giờ bình thường",
+     "Column6": "Giờ bình thường"
+    },
+    {
+     "Column1": "Kim loại quý",
+     "Column2": "XAUUSD, XAUEUR,\nXAGUSD, XAGEUR,\nXPDUSD,XPTUSD",
+     "Column3": "Giờ bình thường",
+     "Column4": "Không giao dịch",
+     "Column5": "Giờ bình thường",
+     "Column6": "Giờ bình thường"
+    },
+    {
+     "Column1": "Năng lượng giao ngay",
+     "Column2": "NGAS (Spot)",
+     "Column3": "Giờ bình thường",
+     "Column4": "Không giao dịch",
+     "Column5": "Giờ bình thường",
+     "Column6": "Giờ bình thường"
+    },
+    {
+     "Column2": "USOIL (Spot)",
+     "Column3": "Giờ bình thường",
+     "Column4": "Không giao dịch",
+     "Column5": "Giờ bình thường",
+     "Column6": "Giờ bình thường"
+    },
+    {
+     "Column2": "UKOIL (Spot)",
+     "Column3": "Giờ bình thường",
+     "Column4": "Không giao dịch",
+     "Column5": "Giờ bình thường",
+     "Column6": "Giờ bình thường"
+    },
+    {
+     "Column1": "Chỉ số giao ngay ",
+     "Column2": "AUS200",
+     "Column3": "Đóng sớm 16:00",
+     "Column4": "Không giao dịch",
+     "Column5": "Mở muộn 13:50",
+     "Column6": "Giờ bình thường"
+    },
+    {
+     "Column2": "EU50",
+     "Column3": "Giờ bình thường",
+     "Column4": "Không giao dịch",
+     "Column5": "Không giao dịch",
+     "Column6": "Mở muộn 03:15"
+    },
+    {
+     "Column2": "F40",
+     "Column3": "Giờ bình thường",
+     "Column4": "Không giao dịch",
+     "Column5": "Không giao dịch",
+     "Column6": "Giờ bình thường"
+    },
+    {
+     "Column2": "DE40",
+     "Column3": "Giờ bình thường",
+     "Column4": "Không giao dịch",
+     "Column5": "Không giao dịch",
+     "Column6": "Mở muộn 03:15"
+    },
+    {
+     "Column2": "JP225",
+     "Column3": "Giờ bình thường",
+     "Column4": "Không giao dịch",
+     "Column5": "Giờ bình thường",
+     "Column6": "Giờ bình thường"
+    },
+    {
+     "Column2": "UK100",
+     "Column3": "Giờ bình thường",
+     "Column4": "Không giao dịch",
+     "Column5": "Không giao dịch",
+     "Column6": "Mở muộn 03:00"
+    },
+    {
+     "Column2": "US500",
+     "Column3": "Giờ bình thường",
+     "Column4": "Không giao dịch",
+     "Column5": "Giờ bình thường",
+     "Column6": "Giờ bình thường"
+    },
+    {
+     "Column2": "US100",
+     "Column3": "Giờ bình thường",
+     "Column4": "Không giao dịch",
+     "Column5": "Giờ bình thường",
+     "Column6": "Giờ bình thường"
+    },
+    {
+     "Column2": "US30",
+     "Column3": "Giờ bình thường",
+     "Column4": "Không giao dịch",
+     "Column5": "Giờ bình thường",
+     "Column6": "Giờ bình thường"
+    },
+    {
+     "Column2": "RUSS2000",
+     "Column3": "Giờ bình thường",
+     "Column4": "Không giao dịch",
+     "Column5": "Giờ bình thường",
+     "Column6": "Giờ bình thường"
+    },
+    {
+     "Column2": "ES35",
+     "Column3": "Giờ bình thường",
+     "Column4": "Không giao dịch",
+     "Column5": "Không giao dịch",
+     "Column6": "Giờ bình thường"
+    },
+    {
+     "Column1": "Cổ phiếu",
+     "Column2": "US Shares",
+     "Column3": "Giờ bình thường",
+     "Column4": "Không giao dịch",
+     "Column5": "Giờ bình thường",
+     "Column6": "Giờ bình thường"
+    },
+    {
+     "Column2": "UK Shares",
+     "Column3": "Giờ bình thường",
+     "Column4": "Không giao dịch",
+     "Column5": "Không giao dịch",
+     "Column6": "Giờ bình thường"
+    },
+    {
+     "Column2": "HK Shares",
+     "Column3": "Giờ bình thường",
+     "Column4": "Không giao dịch",
+     "Column5": "Không giao dịch",
+     "Column6": "Giờ bình thường"
+    },
+    {
+     "Column1": "Hợp đồng tương lai hàng hóa",
+     "Column2": "GOLDXXX24",
+     "Column3": "Giờ bình thường",
+     "Column4": "Không giao dịch",
+     "Column5": "Giờ bình thường",
+     "Column6": "Giờ bình thường"
+    },
+    {
+     "Column2": "NGASXXX24",
+     "Column3": "Giờ bình thường",
+     "Column4": "Không giao dịch",
+     "Column5": "Giờ bình thường",
+     "Column6": "Giờ bình thường"
+    },
+    {
+     "Column2": "UKOILXXX24",
+     "Column3": "Giờ bình thường",
+     "Column4": "Không giao dịch",
+     "Column5": "Giờ bình thường",
+     "Column6": "Giờ bình thường"
+    },
+    {
+     "Column2": "USOILXXX24",
+     "Column3": "Giờ bình thường",
+     "Column4": "Không giao dịch",
+     "Column5": "Giờ bình thường",
+     "Column6": "Giờ bình thường"
+    },
+    {
+     "Column1": "Hợp đồng tương lai chỉ số",
+     "Column2": "DAX40XXX24",
+     "Column3": "Giờ bình thường",
+     "Column4": "Không giao dịch",
+     "Column5": "Giờ bình thường",
+     "Column6": "Mở muộn 04:15"
+    },
+    {
+     "Column2": "US30XXX24",
+     "Column3": "Giờ bình thường",
+     "Column4": "Không giao dịch",
+     "Column5": "Giờ bình thường",
+     "Column6": "Giờ bình thường"
+    },
+    {
+     "Column2": "US100XXX24",
+     "Column3": "Giờ bình thường",
+     "Column4": "Không giao dịch",
+     "Column5": "Giờ bình thường",
+     "Column6": "Giờ bình thường"
+    },
+    {
+     "Column2": "US500XXX24",
+     "Column3": "Giờ bình thường",
+     "Column4": "Không giao dịch",
+     "Column5": "Giờ bình thường",
+     "Column6": "Giờ bình thường"
+    },
+    {
+     "Column2": "USDIDX",
+     "Column3": "Giờ bình thường",
+     "Column4": "Không giao dịch",
+     "Column5": "Giờ bình thường",
+     "Column6": "Giờ bình thường"
+    }
+   ]

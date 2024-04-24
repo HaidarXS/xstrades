@@ -1,0 +1,31 @@
+:root {
+    --primary-color: #30af85;
+    --secondary-color: #203c83;
+}
+
+.arrow.down:before {
+    border-left: 1px solid var(--primary-color);
+    border-top: 1px solid var(--primary-color);
+    width: 10px;
+    content: '';
+    height: 10px;
+    margin-bottom: auto;
+    /* margin-right: 26.5%; */
+    float: right;
+    margin-left: 10px;
+    transition: all .4s ease;
+}
+
+.arrow.down:before {
+    margin-top: 5px;
+    transform: rotate(-135deg);
+}
+
+.arrow.up:before {
+    margin-top: 10px;
+    transform: rotate(50deg);
+}
+
+#dashboard-content>.card>*:not(.row) label{
+    color: var(--primary-color) ;
+}

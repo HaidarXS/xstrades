@@ -1,0 +1,27 @@
+[
+    {
+        "Account Specs": "Minimum Deposit",
+        "mt4": "X",
+        "mt5": "X"
+    },
+    {
+        "Account Specs": "Maximum Number of Accounts",
+        "mt4": 10,
+        "mt5": 10
+    },
+    {
+        "Account Specs": "Demo Accounts",
+        "mt4": true,
+        "mt5": true
+    },
+    {
+        "Account Specs": "Base Currency",
+        "mt4": "USD EUR JPY",
+        "mt5": "USD EUR JPY"
+    },
+    {
+        "Account Specs": "Products",
+        "mt4": "Currencies Metals  Energies Indices",
+        "mt5": "Currencies Metals Crypto Energies Indices Futures"
+    }
+]

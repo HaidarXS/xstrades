@@ -1,0 +1,17 @@
+[
+    {
+        "Lệnh": "Số lượng lệnh chờ tối đa",
+        "mt4": 500,
+        "mt5": "Vô hạn"
+    },
+    {
+        "Lệnh": "Số lượng lệnh mở tối đa",
+        "mt4": 500,
+        "mt5": "Vô hạn"
+    },
+    {
+        "Lệnh": "Số lượng lệnh chờ & mở tối đa",
+        "mt4": 1000,
+        "mt5": "Vô hạn"
+    }
+]

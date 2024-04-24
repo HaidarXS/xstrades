@@ -1,0 +1,22 @@
+[
+    {
+        "Caractéristiques du compte": "Dépôt minimal",
+        "mt5": 0
+    },
+    {
+        "Caractéristiques du compte": "Nombre maximal de comptes/PA",
+        "mt5": 10
+    },
+    {
+        "Caractéristiques du compte": "Comptes démo",
+        "mt5": "Non"
+    },
+    {
+        "Caractéristiques du compte": "Devise de base",
+        "mt5": "USD"
+    },
+    {
+        "Caractéristiques du compte": "Classes d'Actifs",
+        "mt5": "Devise Métaux"
+    }
+]

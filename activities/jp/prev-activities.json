@@ -1,0 +1,62 @@
+[
+    {
+        "title": "国際女性デー",
+        "country": "キプロス、リマソル",
+        "date": "2024年3月",
+        "dir": "women-day"
+    },
+    {
+        "title": "カーニバル・フェスティバル",
+        "country": "キプロス、リマソル",
+        "date": "2024年3月",
+        "dir": "limassol-carnival-festival"
+    },
+    {
+        "title": "社員感謝デー",
+        "country": "キプロス、リマソル",
+        "date": "2024年3月",
+        "dir": "employee-appreciation-day"
+    },
+    {
+        "title": "2024年旧正月祝賀",
+        "country": "マレーシア、クアラルンプール",
+        "date": "2024年2月",
+        "dir": "celebrating-lunar-new-year-2023"
+    },
+    {
+        "title": "チャオプラヤ川チーム",
+        "country": "タイ・バンコク",
+        "date": "2024年2月",
+        "dir": "chao-phraya-river-cruise-2024"
+    },
+    {
+        "title": "リーダーシップ・チーム・ハドル",
+        "country": "フィリピン・マニラ",
+        "date": "2024年2月",
+        "dir": "leadership-team-huddle-2024"
+    },
+    {
+        "title": "2023年新年祝賀",
+        "country": "世界各拠点",
+        "date": "2023年12月",
+        "dir": "celebrating-new-year-2023"
+    },
+    {
+        "title": "ピラミッド・ツアー",
+        "country": "エジプト、ギザ",
+        "date": "2023年11月13日",
+        "dir": "special-tour-to-the-pyramids"
+    },
+    {
+        "title": "オマーン・ツアー",
+        "country": "オマーン、マスカット",
+        "date": "2023年10月8日",
+        "dir": "special-tour-in-muscat"
+    },
+    {
+        "title": "ドバイ祝賀会",
+        "country": "アラブ首長国連邦、ドバイ",
+        "date": "2023年9月27日",
+        "dir": "celebrating-success in-dubai"
+    }
+]
