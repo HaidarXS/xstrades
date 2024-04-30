@@ -56,7 +56,7 @@ return [
 
     'TEXT7' => 'XSは、お客様が確実に目標を達成し戦略を実行できるよう、長年の実績に基づくリソースをご用意しています。',
 
-    'TEXT8' => 'PAMMについてご興味のあるお客様は <a href="mailto:support@XSTrades.com"> support@XSTrades.com </a> までメールにてお問い合わせください。',
+    'TEXT8' => 'PAMMについてご興味のあるお客様は <a href="mailto:support@xs.com"> support@xs.com </a> までメールにてお問い合わせください。',
 
     'DISCLAIMER' => '<span style="color: #30af85;">免責事項: </span> XS及びPAMMマネージャーは、管理一任預託口座サービスのプロバイダーではありません。特定のPAMMマネージャーに従うかどうかはお客様ご自身の判断であり、PAMMマネージャーによる全ての取引判断はお客様ご自身の取引判断とみなされます。',
 

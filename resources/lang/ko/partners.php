@@ -47,7 +47,7 @@ return [
     'WHY_CLIENTS_CHOSE_XS' => '고객이 XS를 선택하는 이유',
 
     'CHOOSE_REASON_1_TITLE' => '신뢰할 수 있는 글로벌 브로커:',
-    'CHOOSE_REASON_1_DESCRIPTION' => 'XSTrades.com은 다양한 규정을 갖춘 신뢰할 수 있는 글로벌 브로커입니다.',
+    'CHOOSE_REASON_1_DESCRIPTION' => 'XS.com은 다양한 규정을 갖춘 신뢰할 수 있는 글로벌 브로커입니다.',
 
     'CHOOSE_REASON_2_TITLE' => '수상 경력이 있는 브로커:',
     'CHOOSE_REASON_2_DESCRIPTION' => '서비스를 인정받은 브로커와 거래하세요.',
@@ -74,7 +74,7 @@ return [
     'CHOOSE_REASON_9_DESCRIPTION' => '귀하의 언어로 제공되는 고객 지원을 활용하세요.',
 
     'LETS_TALK_PARTNERSHIP' => '파트너십에 대해 이야기해보세요',
-    'LETS_TALK_PARTNERSHIP_DESCRIPTION' => '전문가 팀은 여러분의 목표를 달성하고 전략을 구현하기 위해 자신들의 지식과 통찰력을 공유하기 위해 준비되어 있습니다. <br/> <br/> 파트너십 프로그램에 대해 경험이 풍부한 전문가와 대화를 나누고 싶다면 <a href="mailto:partners@XSTrades.com">partners@XSTrades.com</a>으로 이메일을 보내주세요.',
+    'LETS_TALK_PARTNERSHIP_DESCRIPTION' => '전문가 팀은 여러분의 목표를 달성하고 전략을 구현하기 위해 자신들의 지식과 통찰력을 공유하기 위해 준비되어 있습니다. <br/> <br/> 파트너십 프로그램에 대해 경험이 풍부한 전문가와 대화를 나누고 싶다면 <a href="mailto:partners@xs.com">partners@xs.com</a>으로 이메일을 보내주세요.',
 
     'BEST_FX_BROKER' => '최고의 FX 브로커',
     'BEST_B2B_BROKER' => '최고의 B2B 브로커',

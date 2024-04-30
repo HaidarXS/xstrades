@@ -6,7 +6,7 @@
 
         'DESCRIPTION_1' => '세계 최고의 주식 지수 거래의 힘을 발휘하고 XS로 국제 주가 지수를 거래하세요. 글로벌 시장에 접근하고 Dow Jones, Dax, Nasdaq 등과 같은 주요 주식 지수를 원활하게 매수 및 매도할 수 있습니다.
         <br/><br/> 
-        다우 존스, 닥스, 나스닥 등 선도적인 주식 지수를 매수 및 매도하세요. XSTrades.com에 가입하여 주식 지수 거래의 힘을 발휘하세요.',
+        다우 존스, 닥스, 나스닥 등 선도적인 주식 지수를 매수 및 매도하세요. XS.com에 가입하여 주식 지수 거래의 힘을 발휘하세요.',
 
         'STOCK_INDICES_TRADING' => 'XS와 함께하는 주식 지수 거래',
 
@@ -72,19 +72,19 @@
         ",
         
         "TRADING_CONDITION_3_TITLE" => "스프레드",
-        "TRADING_CONDITION_3_DESCRIPTION" => "XSTrades.com은 모든 계정 유형에 대해 모든 지수에 대한 변동 스프레드를 제공합니다. 따라서 계약 사양표의 스프레드는 전 거래일 기준의 평균 스프레드입니다. 실시간 스프레드에 대해서는 거래 플랫폼을 참조하세요. 롤오버 시간을 포함하여 시장의 유동성이 낮아지면 스프레드가 확대될 수 있다는 점에 유의하시기 바랍니다.",
+        "TRADING_CONDITION_3_DESCRIPTION" => "XS.com은 모든 계정 유형에 대해 모든 지수에 대한 변동 스프레드를 제공합니다. 따라서 계약 사양표의 스프레드는 전 거래일 기준의 평균 스프레드입니다. 실시간 스프레드에 대해서는 거래 플랫폼을 참조하세요. 롤오버 시간을 포함하여 시장의 유동성이 낮아지면 스프레드가 확대될 수 있다는 점에 유의하시기 바랍니다.",
     
         "TRADING_CONDITION_4_TITLE" => "차트 가격",
-        "TRADING_CONDITION_4_DESCRIPTION" => "XSTrades.com은 각 거래자의 필요와 선호도에 맞는 다양한 거래 계정을 제공합니다. 당사는 추가 수수료가 부과되는 로우 가격(raw pricing)으로 계정을 제공합니다. 다른 계정 유형에는 커미션이 없지만 대신 가격에 마크업이 포함되어 있습니다. 기본적으로 Metatrader 거래 플랫폼의 차트에는 로우 가격(raw pricing)이 표시되고, 마켓 워치에는 고객이 거래하는 계정 유형의 가격이 표시됩니다.",
+        "TRADING_CONDITION_4_DESCRIPTION" => "XS.com은 각 거래자의 필요와 선호도에 맞는 다양한 거래 계정을 제공합니다. 당사는 추가 수수료가 부과되는 로우 가격(raw pricing)으로 계정을 제공합니다. 다른 계정 유형에는 커미션이 없지만 대신 가격에 마크업이 포함되어 있습니다. 기본적으로 Metatrader 거래 플랫폼의 차트에는 로우 가격(raw pricing)이 표시되고, 마켓 워치에는 고객이 거래하는 계정 유형의 가격이 표시됩니다.",
     
         "TRADING_CONDITION_5_TITLE" => "스왑",
         "TRADING_CONDITION_5_DESCRIPTION" => "스왑 롱은 매수 포지션을 하룻밤(overnight) 동안 유지하는데 사용되며, 스왑 숏은 매도 포지션을 하룻밤 동안 유지하는데 사용됩니다. 스왑은 주말을 제외한 매일 00:00 서버 타임에 포지션이 청산될 때까지 발생합니다. 주말 동안 발생한 자금 파이낸싱 비용을 충당하기 위해 수요일에 트리플 스왑(Triple swaps)이 청구됩니다.",
     
         "TRADING_CONDITION_6_TITLE" => "다이내믹 레버리지",
-        "TRADING_CONDITION_6_DESCRIPTION" => "XSTrades.com은 대부분의 계정 유형에서 지수에 대한 다이내믹 레버리지를 제공합니다. 계약 사양표의 레버리지 값은 각 거래 상품의 최대 레버리지입니다. 최대 레버리지는 순 오픈 포지션(net open positions)에 따라 변경됩니다. 천연가스에는 다이내믹 레버리지가 적용되지 않습니다. 자세한 내용은 다이내믹 레버리지 페이지를 확인하세요.",
+        "TRADING_CONDITION_6_DESCRIPTION" => "XS.com은 대부분의 계정 유형에서 지수에 대한 다이내믹 레버리지를 제공합니다. 계약 사양표의 레버리지 값은 각 거래 상품의 최대 레버리지입니다. 최대 레버리지는 순 오픈 포지션(net open positions)에 따라 변경됩니다. 천연가스에는 다이내믹 레버리지가 적용되지 않습니다. 자세한 내용은 다이내믹 레버리지 페이지를 확인하세요.",
     
         "TRADING_CONDITION_7_TITLE" => "고정 레버리지",
-        "TRADING_CONDITION_7_DESCRIPTION" => "XSTrades.com은 일부 계정 유형에 고정 레버리지를 제공합니다. 이 경우 계약 사양 표에 표시된 최대 레버리지는순 오픈 포지션(net open positions) 에  따라 변경되지 않습니다. 고정 레버리지는Cent & Mirco account 유형에 적용됩니다.",
+        "TRADING_CONDITION_7_DESCRIPTION" => "XS.com은 일부 계정 유형에 고정 레버리지를 제공합니다. 이 경우 계약 사양 표에 표시된 최대 레버리지는순 오픈 포지션(net open positions) 에  따라 변경되지 않습니다. 고정 레버리지는Cent & Mirco account 유형에 적용됩니다.",
     
         "TRADING_CONDITION_8_TITLE" => "더 높은 마진 요구 사항 기간(Higher Margin Requirements Periods)",
         "TRADING_CONDITION_8_DESCRIPTION" => "당사는 시장의 전반적인 변동성에 영향을 미치는 주요 이벤트 및 특정 기간 동안 발생할 수 있는 높은 변동성으로부터 포지션을 보호하기 위해 위험 관리 조치를 적용합니다.

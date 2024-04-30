@@ -10,7 +10,7 @@ return [
     It includes fully branded trading platforms, full back-office module, CRM, price feed, deep liquidity, FIX API integration and bridge connection, in addition to a complete training program and 24/7 technical support.',
 
     
-    'WHY_CHOSE_XS' => 'Why Choose XS Trades White Label Solutions?',
+    'WHY_CHOSE_XS' => 'Why Choose XS White Label Solutions?',
 
     'REASON_1_TITLE' => 'Comprehensive Solutions:',
     'REASON_1_DESCRIPTION' => ' A complete white label solution with liquidity & full support.',

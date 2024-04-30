@@ -1,4 +1,7 @@
 <?php
+$date = '22';
+$month = 'Abr';
+
 return[
 'OPEN_POSITIONS_ON_SHARES'=>'Posições abertas em Ações ou Índices no início do dia útil (Horário do Servidor 00:00), que coincidem com a data ex do respectivo ativo subjacente, estarão sujeitas a ajustes de dividendos.
 <br/><br/>
@@ -31,62 +34,22 @@ Posições longas (compra) receberão um pagamento, enquanto posições curtas (
 'AUS200' => 'AUS200',
 'US30_USD'=>'US30',
 
-'UPCOMING_CORPORATE_ACTIONS'=>'Ações corporativas agendadas para 25 a 29 de março de 2024',
+'UPCOMING_CORPORATE_ACTIONS'=>'Ações Corporativas Programadas para 29 de Abril a 3 de Maio de 2024',
 
-'CASH_INDICES'=>'Índices de caixa entre 25/03 e 29/03/2024',
+'CASH_INDICES'=>'Índices de Caixa entre 29.04 - 03.05.2024',
 
-'SHARE_CASH_DIVIDENDS'=>'Ações - Dividendos em dinheiro entre 25/03 e 29/03/2024',
+'SHARE_CASH_DIVIDENDS'=>'Ações - Dividendos em dinheiro entre 29.04 - 03.05.2024',
 
-'MONDAY'=>'Seg 25 Mar, 2024',
-'TUESDAY'=>'Ter 26 Mar, 2024',
-'WEDNESDAY'=>'Qua 27 Mar, 2024',
-'THURSDAY'=>'Qui 28 Mar, 2024',
-'FRIDAY'=>'Sex 29 Mar, 2024',
-
-'2_5_2024'=>'2/5/2024',
-'2_6_2024'=>'2/6/2024',
-'2_7_2024'=>'2/7/2024',
-'2_8_2024'=>'2/8/2024',
-'2_9_2024'=>'2/9/2024',
-
-'ASML'=>'ASML',
-'ASML_HOLDING_NV'=>'ASML Holding NV',
-'DHI'=>'DHI',
-'D_R_HORTON_INC'=>'D.R. Horton Inc',
-'LNG'=>'LNG',
-'CHENIERE_ENERGY_INC'=>'Cheniere Energy Inc',
-'LVS'=>'LVS',
-'LAS_VEGAS_SANDS_CORP'=>'Las Vegas Sands Corp',
-'MET'=>'MET',
-'METLIFE_INC'=>'MetLife Inc',
-'FE'=>'FE',
-'FIRSTENERGY_CORP'=>'FirstEnergy Corp',
-'INTC'=>'INTC',
-'INTEL_CORP'=>'Intel Corp',
-'ADM'=>'ADM',
-'ARCHER_DANIELS_MIDLAND_CO'=>'Archer-Daniels-Midland Co',
-'AWK'=>'AWK',
-'AMERICAN_WATER_WORKS'=>'American Water Works Co Inc',
-'RMD'=>'RMD',
-"RESMED_INC"=>'ResMed Inc',
-'STZ'=>'STZ',
-'CONSTELLATION_BRANDS_INC'=>'Constellation Brands Inc',
-'AEP'=>'AEP',
-'AMERICAN_ELECTRIC_POWER'=>'American Electric Power Co Inc',
-'ETR'=>'ETR',
-'ENTERGY_CORP'=>'Entergy Corp',
-'HWM'=>'HWM',
-'HOWMET_AEROSPACE_INC'=>'Howmet Aerospace Inc',
-'HXL'=>'HXL',
-'HEXCEL_CORP'=>'Hexcel Corp',
-'SBUX'=>'SBUX',
-'STARBUCKS_CORP'=>'Starbucks Corp',
-'SIRI'=>'SIRI',
-'SIRIUS_XM_HOLDINGS_INC'=>'Sirius XM Holdings Inc',
-'V'=>'V',
-'VISA_INC'=>'Visa Inc',
-'LAZ'=>'LAZ',
-'LAZARD_LTD'=>'Lazard Ltd',
+'MONDAY'=>'Seg 29 Apr, 2024',
+'TUESDAY'=>'Ter 30 Apr, 2024',
+'WEDNESDAY'=>'Qua 01 May, 2024',
+'THURSDAY'=>'Qui 02 May, 2024',
+'FRIDAY'=>'Sex 03 May, 2024',
+// 'MONDAY'=>'Seg '. $date .' '. $month .', 2024',
+// 'TUESDAY'=>'Ter '. ($date + 1) .' '. $month .', 2024',
+// 'WEDNESDAY'=>'Qua '. ($date + 2) .' '. $month .', 2024',
+// 'THURSDAY'=>'Qui '. ($date + 3) .' '. $month .', 2024',
+// 'FRIDAY'=>'Sex '. ($date + 4) .' '. $month .', 2024',
 
 
 'EXAMPLE' => 'Exemplo:',

@@ -8,9 +8,9 @@ return[
     'WHAT_IS_TEXT' => 'Dynamic leverage allows you to trade using a smaller capital and is automatically adjusted according to the volume of your trade.',
 
     'DYNAMIC_LEVERAGE_WITH_XS' => 'DYNAMIC LEVERAGE WITH XS',
-    'DYNAMIC_LEVERAGE_WITH_XS_DESC' => 'XS Trades uses a dynamic leverage model that automatically adapts to the clients trading positions. As the volume per Instrument of a client increases the maximum leverage offered decreases accordingly.
+    'DYNAMIC_LEVERAGE_WITH_XS_DESC' => 'XS uses a dynamic leverage model that automatically adapts to the clients trading positions. As the volume per Instrument of a client increases the maximum leverage offered decreases accordingly.
     <br/><br/>
-    XS Trades offers dynamic leverage up to 1:2000 on multiple asset classes and different account types.
+    XS offers dynamic leverage up to 1:2000 on multiple asset classes and different account types.
     <br/>
     Our dynamic leverage model is done per trading instrument. As such, if a client has positions open across multiple instruments the leverage will be calculated separately on each symbol.',
 

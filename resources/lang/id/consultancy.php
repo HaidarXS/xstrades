@@ -2,7 +2,7 @@
 return [
     'CONSULTANCY_SERVICES' => 'Layanan Konsultansi',
     'CONSULTANCY_SERVICES_DESCRIPTION' => 'Berkat pengalaman panjang kami dalam industri jasa keuangan, kami telah menciptakan basis pengetahuan dan pengalaman yang luas, baik dalam lingkungan bisnis, aspek teknis, atau pemahaman tentang kebutuhan dan persyaratan pelanggan. XS menawarkan layanan konsultansi ahli kepada lembaga yang mencari panduan profesional dalam industri perdagangan. Tim konsultan berpengalaman kami memberikan wawasan berharga, analisis pasar, dan saran strategis yang disesuaikan dengan kebutuhan dan tujuan khusus setiap lembaga.',
-    'WHY_CHOSE_XS' => 'Mengapa Memilih Teknologi & Solusi Fintech XS Trades?',
+    'WHY_CHOSE_XS' => 'Mengapa Memilih Teknologi & Solusi Fintech XS?',
 
     'REASON_1_TITLE' => 'Layanan Konsultansi Ahli:',
     'REASON_1_DESCRIPTION' => 'Akses ke basis pengetahuan dan pengalaman yang luas yang disesuaikan dengan kebutuhan dan tujuan khusus setiap lembaga.',

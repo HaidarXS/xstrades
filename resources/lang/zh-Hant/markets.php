@@ -17,7 +17,7 @@ return [
     'TRADE_GLOBAL_MULTI_ASSET'=>'携手最佳多资產经纪商进行全球金融市场交易',
 
     'TRADE_GLOBAL_MULTI_ASSET_DISC'=>'通過XS探索在線交易世界，您可以在全球最大的金融市場進行交易，可通過單一賬戶交易多達 1000 種交易品種和多種資產類別。
-    <br/><br/> 
+    <br/><br/>
     交易多種資產類別，包括外匯、股票、金屬、期貨、商品和指數。體驗低點差、有競爭力的定價、無縫執行，並受益於我們專業的專家和市場分析師團隊提供的高質量市場研究。',
 
     'WHY_TRADE_WITH_XS'=>'為何與 XS 進行交易？',
@@ -40,9 +40,9 @@ return [
 
     'UNLOCK_THE_POTENTIAL' => '通过XS发掘金属交易的潜力',
 
-    'UNLOCK_THE_POTENTIAL_DESC' => 'Unleash the Power of Trading the worlds leading stock indices, and Trade International Stock Indices with XS Trades. Gain Access to Global Markets and Seamlessly Buy and Sell Leading stock indices such as Dow Jones, Dax, Nasdaq, and More
+    'UNLOCK_THE_POTENTIAL_DESC' => 'Unleash the Power of Trading the worlds leading stock indices, and Trade International Stock Indices with XS. Gain Access to Global Markets and Seamlessly Buy and Sell Leading stock indices such as Dow Jones, Dax, Nasdaq, and More
     <br/>
-    Join XSTrades.com today and and unleash the power of stock indices trading',
+    Join XS.com today and and unleash the power of stock indices trading',
 
     'METALS_TRADING_WITH_XS' => '通過XS進行貴金屬交易',
 
@@ -106,14 +106,14 @@ return [
 
     'JOIN_THE_DIGITAL_REVOLUTION_DESC' => '通過XS探索加密貨幣世界，發掘數字資産的潛力。交易比特幣、以太坊、萊特幣等流行加密貨幣，在快速發展的加密貨幣市場中抓住機遇。
     <br/>
-    今天就加入XSTrades.com，開始您的加密貨幣交易之旅。',
+    今天就加入XS.com，開始您的加密貨幣交易之旅。',
 
     'CRYPTOCURRENCY_TRADING_WITH_XS' => '透過XS進行加密貨幣交易',
 
-    'CRYPTOCURRENCY_TRADING_WITH_XS_DESC' => '通過XSTrades.com體驗加密貨幣交易的刺激。 我們的平台提供多種加密貨幣的無縫交易，讓您能夠充分利用市場波動和潛在的價格變動的優勢。 受益於我們先進的交易工具、安全的存儲解決方案和可靠的執行，您可以充放心地交易加密貨幣。',
+    'CRYPTOCURRENCY_TRADING_WITH_XS_DESC' => '通過XS.com體驗加密貨幣交易的刺激。 我們的平台提供多種加密貨幣的無縫交易，讓您能夠充分利用市場波動和潛在的價格變動的優勢。 受益於我們先進的交易工具、安全的存儲解決方案和可靠的執行，您可以充放心地交易加密貨幣。',
 
     'UNDERSTANDING_CRTYPTOCURRENCIES' => '了解加密貨幣交易：XS概述',
-    
+
     'UNDERSTANDING_CRTYPTOCURRENCIES_DESC_1' => '加密貨幣是數字或虛擬貨幣，利用加密技術進行安全交易，並控制新單位的創建。以下是有關加密貨幣的要點：',
 
     'UNDERSTANDING_CRTYPTOCURRENCIES_DESC_2' => '去中心化： 加密貨幣在去中心化網絡（如區塊鏈技術）上運行，無需銀行等中介機構。這種去中心化提供了交易的透明度、安全性和控制權。',
@@ -137,7 +137,7 @@ return [
 
     'COMMODITIES_TRADING_WITH_XS' => '使用XS进行大宗商品交易',
 
-    'COMMODITIES_TRADING_WITH_XS_DESC' => 'Experience the excitement of Share & Stock trading with XSTrades.com. Take advantage of our platforms’ seamless CFD trading capabilities, offering you the opportunity to trade CFDs on thousands of global shares. Benefit from ultra-fast order execution and competitive trading conditions, ensuring that you can seize market opportunities swiftly and efficiently. Trade CFDs on shares of renowned companies in the US, UK, and EU, including some of the largest and most popular corporations.',
+    'COMMODITIES_TRADING_WITH_XS_DESC' => 'Experience the excitement of Share & Stock trading with XS.com. Take advantage of our platforms’ seamless CFD trading capabilities, offering you the opportunity to trade CFDs on thousands of global shares. Benefit from ultra-fast order execution and competitive trading conditions, ensuring that you can seize market opportunities swiftly and efficiently. Trade CFDs on shares of renowned companies in the US, UK, and EU, including some of the largest and most popular corporations.',
 
     'UNDERSTANDING_COMMODITIES' => '大宗商品概覽：通過XS探索商品交易世界',
 

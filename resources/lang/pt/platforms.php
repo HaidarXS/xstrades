@@ -19,7 +19,7 @@
 
 'ACCESS_THE_FINANCIAL_GLOBAL_MARKETS' => 'Acesse os mercados financeiros globais com as plataformas de negociação mais avançadas',
 
-'TRADE_AND_INVEST' => 'Negocie e invista em milhares de ativos financeiros perfeitamente com a XS Trades, independentemente da sua localização. Com a nossa gama de plataformas de negociação versáteis, você pode escolher aquela que melhor se adapta às suas necessidades e ao seu dispositivo. Quer você prefira a conveniência de nossa plataforma web, a funcionalidade de nossa plataforma de desktop ou a flexibilidade de nosso aplicativo móvel, a XS tem o que você precisa.
+'TRADE_AND_INVEST' => 'Negocie e invista em milhares de ativos financeiros perfeitamente com a XS, independentemente da sua localização. Com a nossa gama de plataformas de negociação versáteis, você pode escolher aquela que melhor se adapta às suas necessidades e ao seu dispositivo. Quer você prefira a conveniência de nossa plataforma web, a funcionalidade de nossa plataforma de desktop ou a flexibilidade de nosso aplicativo móvel, a XS tem o que você precisa.
 <br/><br/>
 Comece sua jornada comercial hoje e acesse os mercados globais a qualquer hora e em qualquer lugar.',
 
@@ -35,13 +35,13 @@ Comece sua jornada comercial hoje e acesse os mercados globais a qualquer hora e
 'APP_STORE' => 'App Store',
 'FOR_MORE_INFO_HELP' => 'Para mais informações, visite nossa Central de Ajuda',
 'HELP_CENTER' => 'Centro de Ajuda',
-'WHY_TRADE_WITH_XS' => 'Por que negociar com XS Trades?',
+'WHY_TRADE_WITH_XS' => 'Por que negociar com XS?',
 'MT4_FEATURES' => 'Recursos do MT4',
 
 
 // Two
 'TRUST_GLOBAL_BROKER' => 'Corretora global confiável: ',
-'XS_IS_A_TRUSTED' => 'XSTrades.com é uma corretora global confiável com várias regulamentações',
+'XS_IS_A_TRUSTED' => 'XS.com é uma corretora global confiável com várias regulamentações',
 
 'AWARD_WINNING_BROKER' => 'Corretora premiada: ',
 'TRADE_RECOGNIZED_SERVICES' => 'negocie com uma corretora reconhecida por seus serviços',
@@ -67,11 +67,11 @@ Comece sua jornada comercial hoje e acesse os mercados globais a qualquer hora e
 
 'TRADE_THE_GLOBAL_MARKETS' => 'Negocie nos mercados globais com a plataforma de negociação mais popular',
 
-'TRADE_WITH_CONFIDENCE_MT4'=>'Negocie com confiança no MetaTrader 4 (MT4) e experimente o poder da plataforma de negociação mais popular com a XS Trades.
+'TRADE_WITH_CONFIDENCE_MT4'=>'Negocie com confiança no MetaTrader 4 (MT4) e experimente o poder da plataforma de negociação mais popular com a XS.
 <br/> 
-Negocie uma ampla variedade de instrumentos, aproveite recursos avançados de gráficos e execute negociações com velocidade e precisão. Baixe o MT4 agora e comece sua jornada comercial com a XS Trades.
+Negocie uma ampla variedade de instrumentos, aproveite recursos avançados de gráficos e execute negociações com velocidade e precisão. Baixe o MT4 agora e comece sua jornada comercial com a XS.
 <br/>
-MT4 é uma plataforma de negociação renomada na qual milhões de traders em todo o mundo confiam. Ele oferece uma interface amigável, ferramentas avançadas de análise técnica e recursos personalizáveis que atendem tanto a traders iniciantes quanto a experientes. Beneficie da sua funcionalidade robusta e liberte o seu potencial de negociação com MT4 combinado com a melhor experiência de negociação com a XS Trades.',
+MT4 é uma plataforma de negociação renomada na qual milhões de traders em todo o mundo confiam. Ele oferece uma interface amigável, ferramentas avançadas de análise técnica e recursos personalizáveis que atendem tanto a traders iniciantes quanto a experientes. Beneficie da sua funcionalidade robusta e liberte o seu potencial de negociação com MT4 combinado com a melhor experiência de negociação com a XS.',
 
 // Three
 'INTUITIVE_INTERFACE' => 'Interface intuitiva para uma experiência de negociação perfeita',
@@ -252,9 +252,9 @@ Mantenha-se conectado e nunca perca uma oportunidade de negociação, desfrutand
 
 'TRADE_THE_GLOBAL_MARKETS' => 'Negocie nos mercados globais com a melhor plataforma multiativos',
 
-'MT5_TRADING_PLATFORM_DESKTOP'=>'Experimente negociações avançadas com o MetaTrader 5 (MT5) e desbloqueie o poder da melhor plataforma de trading de múltiplos ativos operando coma XS Trades, a melhor corretora de múltiplos ativos. Negocie uma ampla variedade de instrumentos, utilize ferramentas avançadas e execute operações com velocidade e precisão.
+'MT5_TRADING_PLATFORM_DESKTOP'=>'Experimente negociações avançadas com o MetaTrader 5 (MT5) e desbloqueie o poder da melhor plataforma de trading de múltiplos ativos operando coma XS, a melhor corretora de múltiplos ativos. Negocie uma ampla variedade de instrumentos, utilize ferramentas avançadas e execute operações com velocidade e precisão.
 <br/>
-MetaTrader 5 (MT5) é uma plataforma de trading de ponta que oferece recursos e funcionalidades aprimoradas. Baseado no sucesso do MT4, o MT5 oferece gráficos avançados, vários tipos de ordens e recursos de execução aprimorados. Descubra o próximo nível de inovação do MT5 combinado com a melhor experiência de trading com a XS Trades.',
+MetaTrader 5 (MT5) é uma plataforma de trading de ponta que oferece recursos e funcionalidades aprimoradas. Baseado no sucesso do MT4, o MT5 oferece gráficos avançados, vários tipos de ordens e recursos de execução aprimorados. Descubra o próximo nível de inovação do MT5 combinado com a melhor experiência de trading com a XS.',
 
 'THE_FULL_POWER_MT5' => 'Todo o poder da negociação com MT5 Desktop',
 

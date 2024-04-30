@@ -1,7 +1,7 @@
 <?php
 return [
 
-    'EXPOS_DESCRIPTION' => 'With our unwavering commitment to excellence and our passion for financial markets, we offer comprehensive solutions that cater to traders of all levels. <br/><br/> Join <a href="https://www.XSTrades.com/zh-Hans" target="_blank" style="text-decoration:none ;" > XSTrades.com  </a> and embark on an exciting and rewarding trading experience. Your financial empowerment starts here.',
+    'EXPOS_DESCRIPTION' => 'With our unwavering commitment to excellence and our passion for financial markets, we offer comprehensive solutions that cater to traders of all levels. <br/><br/> Join <a href="https://www.xs.com/zh-Hans" target="_blank" style="text-decoration:none ;" > XS.com  </a> and embark on an exciting and rewarding trading experience. Your financial empowerment starts here.',
 
     'UPCOMING_EXPOS' => '即将举行的博览会',
     'PREVIOUS_EXPOS' => '历届博览会',

@@ -10,7 +10,7 @@ return [
     'SECTION_2_TITLE' => 'GIAO DỊCH CRYPTO VỚI XS: THÔNG SỐ HỢP ĐỒNG',
     "SECTION_3_TITLE" => "GIAO DỊCH CRYPTO VỚI XS: ĐIỀU KIỆN GIAO DỊCH",
 
-    'DESCRIPTION_1' => 'Chào mừng đến với thế giới giao dịch tiền điện tử cùng XS Trades. Khám phá và mở khóa tiềm năng của tài sản kỹ thuật số với nhà môi giới CFD tốt nhất. Giao dịch các loại tiền điện tử phổ biến như Bitcoin (BTC), Ethereum (ETH), Litecoin (LTC), v.v., đồng thời nắm bắt cơ hội trong thị trường đang phát triển nhanh chóng. Nền tảng của chúng tôi cung cấp giao dịch liền mạch với nhiều loại tài sản, cho phép bạn tận dụng sự biến động của thị trường và biến động giá tiềm năng.
+    'DESCRIPTION_1' => 'Chào mừng đến với thế giới giao dịch tiền điện tử cùng XS. Khám phá và mở khóa tiềm năng của tài sản kỹ thuật số với nhà môi giới CFD tốt nhất. Giao dịch các loại tiền điện tử phổ biến như Bitcoin (BTC), Ethereum (ETH), Litecoin (LTC), v.v., đồng thời nắm bắt cơ hội trong thị trường đang phát triển nhanh chóng. Nền tảng của chúng tôi cung cấp giao dịch liền mạch với nhiều loại tài sản, cho phép bạn tận dụng sự biến động của thị trường và biến động giá tiềm năng.
     ',
 
     'DESCRIPTION_2' => 'XS cung cấp quyền truy cập vào nhiều loại tiền điện tử, Bitcoin (BTC), Ethereum (ETH), Litecoin (LTC) và các loại khác. Lập kế hoạch giao dịch một cách tự tin và tối ưu hóa trải nghiệm giao dịch bằng cách sử dụng các thông số hợp đồng chi tiết. Khám phá các thông số kỹ thuật hợp đồng toàn diện để hiểu sâu hơn về các điều kiện giao dịch đặc biệt, bao gồm quy mô hợp đồng, đòn bẩy, chênh lệch giá, hoa hồng, phí hoán đổi, v.v. cho các loại tài khoản khác nhau.
@@ -29,19 +29,19 @@ return [
         // &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Friday: 00:00 - 23:55
 
     "TRADING_CONDITION_2_TITLE" => "Spreads",
-    "TRADING_CONDITION_2_DESCRIPTION" => "XSTrades.com cung cấp mức chênh lệch thả nổi đối với tất cả các loại tiền điện tử cho tất cả các loại tài khoản. Do đó, mức chênh lệch trong bảng thông số hợp đồng là mức chênh lệch trung bình dựa trên ngày giao dịch trước đó. Để biết chênh lệch trực tiếp, vui lòng tham khảo nền tảng giao dịch. Xin lưu ý rằng chênh lệch có thể tăng lên khi thị trường có tính thanh khoản thấp hơn, bao gồm cả thời gian tái đầu tư.",
+    "TRADING_CONDITION_2_DESCRIPTION" => "XS.com cung cấp mức chênh lệch thả nổi đối với tất cả các loại tiền điện tử cho tất cả các loại tài khoản. Do đó, mức chênh lệch trong bảng thông số hợp đồng là mức chênh lệch trung bình dựa trên ngày giao dịch trước đó. Để biết chênh lệch trực tiếp, vui lòng tham khảo nền tảng giao dịch. Xin lưu ý rằng chênh lệch có thể tăng lên khi thị trường có tính thanh khoản thấp hơn, bao gồm cả thời gian tái đầu tư.",
 
     "TRADING_CONDITION_3_TITLE" => "Biểu Đồ Giá",
-    "TRADING_CONDITION_3_DESCRIPTION" => "XSTrades.com cung cấp nhiều loại tài khoản giao dịch phù hợp với nhu cầu và sở thích của từng nhà giao dịch. Chúng tôi cung cấp các tài khoản với mức giá thô được tính phí hoa hồng bổ sung. Các loại tài khoản khác không có hoa hồng mà thay vào đó có phần chênh lệch được tính vào giá. Theo mặc định, biểu đồ trong nền tảng giao dịch MetaTrader sẽ hiển thị giá thô, trong khi theo dõi thị trường sẽ hiển thị giá của loại tài khoản mà khách hàng đang giao dịch.",
+    "TRADING_CONDITION_3_DESCRIPTION" => "XS.com cung cấp nhiều loại tài khoản giao dịch phù hợp với nhu cầu và sở thích của từng nhà giao dịch. Chúng tôi cung cấp các tài khoản với mức giá thô được tính phí hoa hồng bổ sung. Các loại tài khoản khác không có hoa hồng mà thay vào đó có phần chênh lệch được tính vào giá. Theo mặc định, biểu đồ trong nền tảng giao dịch MetaTrader sẽ hiển thị giá thô, trong khi theo dõi thị trường sẽ hiển thị giá của loại tài khoản mà khách hàng đang giao dịch.",
 
     "TRADING_CONDITION_4_TITLE" => "Swaps",
     "TRADING_CONDITION_4_DESCRIPTION" => "Swap long được sử dụng để giữ các vị thế mua mở qua đêm và Swap short được sử dụng để giữ các vị thế bán mở qua đêm. Swap diễn ra vào lúc 00:00 giờ máy chủ mỗi ngày, trừ cuối tuần, cho đến khi vị thế đóng. Swap được tính ba lần vào thứ Tư để trang trải chi phí tài chính phát sinh vào cuối tuần.",
 
     "TRADING_CONDITION_5_TITLE" => "Đòn Bẩy Động",
-    "TRADING_CONDITION_5_DESCRIPTION" => "XSTrades.com cung cấp đòn bẩy linh hoạt cho tiền điện tử trên hầu hết các loại tài khoản. Các giá trị đòn bẩy trong bảng thông số hợp đồng là đòn bẩy tối đa cho mỗi công cụ giao dịch. Đòn bẩy tối đa sẽ thay đổi dựa trên các vị thế mở ròng của bạn. Để biết thêm chi tiết, vui lòng kiểm tra trang Đòn bẩy động.",
+    "TRADING_CONDITION_5_DESCRIPTION" => "XS.com cung cấp đòn bẩy linh hoạt cho tiền điện tử trên hầu hết các loại tài khoản. Các giá trị đòn bẩy trong bảng thông số hợp đồng là đòn bẩy tối đa cho mỗi công cụ giao dịch. Đòn bẩy tối đa sẽ thay đổi dựa trên các vị thế mở ròng của bạn. Để biết thêm chi tiết, vui lòng kiểm tra trang Đòn bẩy động.",
 
     "TRADING_CONDITION_6_TITLE" => "Đòn Bẩy Động",
-    "TRADING_CONDITION_6_DESCRIPTION" => "XSTrades.com cung cấp đòn bẩy linh hoạt cho các cặp tiền tệ trên hầu hết các loại tài khoản. Các giá trị đòn bẩy trong bảng thông số hợp đồng là đòn bẩy tối đa cho mỗi công cụ giao dịch. Đòn bẩy tối đa sẽ thay đổi dựa trên các vị thế mở ròng của bạn. Để biết thêm chi tiết, vui lòng kiểm tra trang Đòn bẩy động.",
+    "TRADING_CONDITION_6_DESCRIPTION" => "XS.com cung cấp đòn bẩy linh hoạt cho các cặp tiền tệ trên hầu hết các loại tài khoản. Các giá trị đòn bẩy trong bảng thông số hợp đồng là đòn bẩy tối đa cho mỗi công cụ giao dịch. Đòn bẩy tối đa sẽ thay đổi dựa trên các vị thế mở ròng của bạn. Để biết thêm chi tiết, vui lòng kiểm tra trang Đòn bẩy động.",
 
     "TRADING_CONDITION_7_TITLE" => "Khoảng Thời Gian Yêu Cầu Ký Quỹ Cao Hơn",
     "TRADING_CONDITION_7_DESCRIPTION" => "Chúng tôi áp dụng các biện pháp quản lý rủi ro để bảo vệ các vị thế khỏi biến động cao có thể xảy ra trong các sự kiện quan trọng và khoảng thời gian cụ thể ảnh hưởng đến biến động chung của thị trường.

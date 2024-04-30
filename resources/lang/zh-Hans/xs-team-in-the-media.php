@@ -1,6 +1,6 @@
 <?php
 return[
-'title' =>'团队访谈',
+'title' =>'團隊訪談',
 ];
 
 ?>

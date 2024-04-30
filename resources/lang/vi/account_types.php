@@ -8,7 +8,7 @@
         <br/>
         Các loại tài khoản đa dạng của chúng tôi cung cấp các tính năng và lợi thế khác nhau, cho phép bạn tiếp cận thị trường toàn cầu và tối đa hóa tiềm năng giao dịch của mình.
         <br/>
-        Truy cập nhiều công cụ giao dịch với điều kiện giao dịch cạnh tranh và tận hưởng trải nghiệm giao dịch tốt nhất trong ngành với XS Trades.',
+        Truy cập nhiều công cụ giao dịch với điều kiện giao dịch cạnh tranh và tận hưởng trải nghiệm giao dịch tốt nhất trong ngành với XS.',
 
         'PREFFERED_ACCOUNT_TYPES_BTN' => 'Tài khoản yêu thích',
         'PROFESSIONAL_ACCOUNT_TYPES_BTN' => 'Các loại tài khoản chuyên nghiệp',

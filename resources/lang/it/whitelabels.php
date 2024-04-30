@@ -2,7 +2,7 @@
 return [
     'WHITE_LABEL_SOLUTIONS' => 'Soluzioni White Label',
     'WHITE_LABEL_SOLUTIONS_DESCRIPTION' => 'Le nostre soluzioni white label sono progettate per clienti corporate e istituzionali che intendono avere il proprio sistema di trading multi-asset personalizzato con il proprio marchio. Questa soluzione consente loro di operare come broker completamente indipendenti e di fornire ai loro clienti la possibilità di negoziare prodotti finanziari globali. Comprende piattaforme di trading completamente personalizzabili, un modulo back-office completo, CRM, feed di prezzi, liquidità profonda, integrazione API FIX e connessione bridge, oltre a un programma di formazione completo e supporto tecnico 24/7.',
-    'WHY_CHOOSE_XS' => 'Perché Scegliere le Soluzioni Tecnologiche e Fintech di XS Trades?',
+    'WHY_CHOOSE_XS' => 'Perché Scegliere le Soluzioni Tecnologiche e Fintech di XS?',
 
     'REASON_1_TITLE' => 'Soluzioni White Label Complete:',
     'REASON_1_DESCRIPTION' => 'Forniamo una soluzione completa, comprensiva di accesso a liquidità profonda, tecnologia avanzata, personalizzazione del brand e supporto completo.',

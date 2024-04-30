@@ -11,7 +11,7 @@
 'ANDROID_CAP' => 'ANDROID',
 'IOS_CAP' => 'IOS',
 'ACCESS_THE_FINANCIAL_GLOBAL_MARKETS' => 'GREIFEN SIE AUF DIE WELTWEITEN FINANZMÄRKTE MIT DEN MODERNSTEN HANDELSPLATTFORMEN ZU',
-'TRADE_AND_INVEST' => 'Handeln und investieren Sie nahtlos in Tausende von Finanzanlagen mit XS Trades, unabhängig von Ihrem Standort. Mit unserer Auswahl an vielseitigen Handelsplattformen können Sie diejenige auswählen, die Ihren Anforderungen und Ihrem Gerät am besten entspricht. Ob Sie die Bequemlichkeit unserer webbasierten Plattform, die Funktionalität unserer Desktop-Plattform oder die Flexibilität unserer mobilen App bevorzugen, XS hat Sie abgedeckt. Starten Sie Ihre Handelsreise noch heute und greifen Sie jederzeit und überall auf die globalen Märkte zu.',
+'TRADE_AND_INVEST' => 'Handeln und investieren Sie nahtlos in Tausende von Finanzanlagen mit XS, unabhängig von Ihrem Standort. Mit unserer Auswahl an vielseitigen Handelsplattformen können Sie diejenige auswählen, die Ihren Anforderungen und Ihrem Gerät am besten entspricht. Ob Sie die Bequemlichkeit unserer webbasierten Plattform, die Funktionalität unserer Desktop-Plattform oder die Flexibilität unserer mobilen App bevorzugen, XS hat Sie abgedeckt. Starten Sie Ihre Handelsreise noch heute und greifen Sie jederzeit und überall auf die globalen Märkte zu.',
 'SELECT_THE_TRADING_PLATFORMS' => 'WÄHLEN SIE DIE HANDELSPLATTFORMEN, DIE IHREM HANDELSTYP ENTSPRECHEN',
 'WEB' => 'Web',
 'WINDOWS' => 'Windows',
@@ -24,7 +24,7 @@
 'MT4_FEATURES' => 'MT4-Funktionen',
 //two
 'TRUST_GLOBAL_BROKER' => 'Vertrauenswürdiger globaler Broker:',
-'XS_IS_A_TRUSTED' => 'XSTrades.com ist ein vertrauenswürdiger globaler Broker mit mehreren Regulierungen',
+'XS_IS_A_TRUSTED' => 'XS.com ist ein vertrauenswürdiger globaler Broker mit mehreren Regulierungen',
 'AWARD_WINNING_BROKER' => 'Ausgezeichneter Broker:',
 'TRADE_RECOGNIZED_SERVICES' => 'Handeln Sie mit einem Broker, der für seine Dienstleistungen anerkannt wurde',
 'QUICK_EASY_REGISTRATION' => 'Schnelle & einfache Registrierung:',
@@ -40,7 +40,7 @@
 'MULTILINGUAL_SUPPORT' => 'Mehrsprachiger Support:',
 'SUPPORT_IN_YOUR_LANGUAGE' => 'Nutzen Sie unseren Kundensupport in Ihrer Sprache',
 'TRADE_THE_GLOBAL_MARKETS' => 'HANDELN SIE MIT DEN WELTWEITEN MÄRKTEN MIT DER BELIEBTESTEN HANDELSPLATTFORM',
-'TRADE_WITH_CONFIDENCE_MT4' => 'Handeln Sie mit Vertrauen auf MetaTrader 4 (MT4) und erleben Sie die Kraft der beliebtesten Handelsplattform mit XS Trades. Handeln Sie eine breite Palette von Instrumenten, genießen Sie erweiterte Charting-Funktionen und führen Sie Trades mit Geschwindigkeit und Präzision aus. Laden Sie jetzt MT4 herunter und starten Sie Ihre Handelsreise mit XS Trades. MT4 ist eine renommierte Handelsplattform, der von Millionen von Händlern weltweit vertraut wird. Sie bietet eine benutzerfreundliche Oberfläche, fortschrittliche technische Analysetools und anpassbare Funktionen, die sowohl Anfänger als auch erfahrene Trader ansprechen. Profitieren Sie von seiner robusten Funktionalität und entfesseln Sie Ihr Handelspotenzial mit MT4 in Verbindung mit der besten Handelserfahrung mit XS Trades.',
+'TRADE_WITH_CONFIDENCE_MT4' => 'Handeln Sie mit Vertrauen auf MetaTrader 4 (MT4) und erleben Sie die Kraft der beliebtesten Handelsplattform mit XS. Handeln Sie eine breite Palette von Instrumenten, genießen Sie erweiterte Charting-Funktionen und führen Sie Trades mit Geschwindigkeit und Präzision aus. Laden Sie jetzt MT4 herunter und starten Sie Ihre Handelsreise mit XS. MT4 ist eine renommierte Handelsplattform, der von Millionen von Händlern weltweit vertraut wird. Sie bietet eine benutzerfreundliche Oberfläche, fortschrittliche technische Analysetools und anpassbare Funktionen, die sowohl Anfänger als auch erfahrene Trader ansprechen. Profitieren Sie von seiner robusten Funktionalität und entfesseln Sie Ihr Handelspotenzial mit MT4 in Verbindung mit der besten Handelserfahrung mit XS.',
 
 //three
 'INTUITIVE_INTERFACE' => 'Intuitive Benutzeroberfläche für ein nahtloses Handelserlebnis',

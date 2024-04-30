@@ -5,9 +5,9 @@
         "PAGE_BANNER_TITLE" => "GIAO DỊCH HỢP ĐỒNG TƯƠNG LAI",
         "PAGE_BANNER_DESCRIPTION" => "Giao dịch hợp đồng tương lai OTC (CFD trên hợp đồng tương lai) với nhà môi giới đa tài sản toàn cầu.",
         "SECTION_1_TITLE" => "UNLEASH THE POWER OF FUTURES TRADING WITH XS",
-        "SECTION_1_DESC" => "Khám phá tiềm năng vô hạn của giao dịch hợp đồng tương lai bằng giao dịch OTC (CFD trên hợp đồng tương lai) với nhà môi giới đa tài sản toàn cầu. <br/><br/> Vượt qua những hạn chế của giao dịch tương lai truyền thống và nắm bắt những cơ hội tuyệt vời do XSTrades.com mang lại.",
+        "SECTION_1_DESC" => "Khám phá tiềm năng vô hạn của giao dịch hợp đồng tương lai bằng giao dịch OTC (CFD trên hợp đồng tương lai) với nhà môi giới đa tài sản toàn cầu. <br/><br/> Vượt qua những hạn chế của giao dịch tương lai truyền thống và nắm bắt những cơ hội tuyệt vời do XS.com mang lại.",
         "SECTION_2_TITLE" => "GIAO DỊCH HỢP ĐỒNG TƯƠNG LAI OTC VỚI XS",
-        "SECTION_2_DESC" => "Giao dịch hợp đồng tương lai OTC (CFD trên hợp đồng tương lai) với XS Trades, nhà môi giới đa tài sản từng đoạt giải thưởng, điều kiện giao dịch thuận lợi. XS cấp quyền truy cập vào các thị trường đa dạng, cho phép các nhà giao dịch tham gia vào nhiều hợp đồng tương lai khác nhau bao gồm hàng hóa, tiền tệ, chỉ số, v.v. <br/><br/> Với nhiều loại tài sản có sẵn thông qua nền tảng XS Trades, nhà giao dịch có thể đa dạng hóa danh mục đầu tư,quản lý rủi ro một cách hiệu quả và nắm bắt nhiều cơ hội thị trường. Ngoài ra, XS cung cấp công cụ giao dịch nâng cao, gia tăng trải nghiệm giao dịch hợp đồng tương lai tổng thể của nhà đầu tư.",
+        "SECTION_2_DESC" => "Giao dịch hợp đồng tương lai OTC (CFD trên hợp đồng tương lai) với XS, nhà môi giới đa tài sản từng đoạt giải thưởng, điều kiện giao dịch thuận lợi. XS cấp quyền truy cập vào các thị trường đa dạng, cho phép các nhà giao dịch tham gia vào nhiều hợp đồng tương lai khác nhau bao gồm hàng hóa, tiền tệ, chỉ số, v.v. <br/><br/> Với nhiều loại tài sản có sẵn thông qua nền tảng XS, nhà giao dịch có thể đa dạng hóa danh mục đầu tư,quản lý rủi ro một cách hiệu quả và nắm bắt nhiều cơ hội thị trường. Ngoài ra, XS cung cấp công cụ giao dịch nâng cao, gia tăng trải nghiệm giao dịch hợp đồng tương lai tổng thể của nhà đầu tư.",
         "SECTION_3_TITLE" => "Tổng Quan: Tìm Hiểu Về Hợp Đồng Tương Lai",
         "SECTION_3_DESC" => "Giao dịch hợp đồng tương lai rất quan trọng đối với thị trường tài chính toàn cầu, cho phép các nhà giao dịch quản lý rủi ro, suy đoán về biến động giá và khám phá giá tài sản trong tương lai. Dưới đây là những yếu tố chính cần hiểu trước khi giao dịch hợp đồng tương lai.
         <br/><br/>
@@ -25,18 +25,18 @@
         <br/><br/>
         Giao Dịch Hợp Đồng Tương Lai OTC Với XS
         <br/><br/>
-        Giao dịch hợp đồng tương lai OTC (CFD trên hợp đồng tương lai) với XS Trades, một nhà môi giới đa tài sản đoạt giải thưởng sẽ giúp mang lại nhiều lợi ích trong giao dịch.",
+        Giao dịch hợp đồng tương lai OTC (CFD trên hợp đồng tương lai) với XS, một nhà môi giới đa tài sản đoạt giải thưởng sẽ giúp mang lại nhiều lợi ích trong giao dịch.",
 
 
         "SECTION_1_TITLE" => "GIAO DỊCH TƯƠNG LAI VỚI NỀN TẢNG GIAO DỊCH TRỰC TUYẾN TỐT NHẤT",
         'SECTION_2_TITLE' => 'GIAO DỊCH TƯƠNG LAI VỚI XS: THÔNG SỐ HỢP ĐỒNGS',
         "SECTION_3_TITLE" => "GIAO DỊCH TƯƠNG LAI VỚI XS: ĐIỀU KIỆN GIAO DỊCH",
 
-        'DESCRIPTION_1' => 'Chào mừng đến với thế giới giao dịch tương lai cùng XS Trades. Khám phá tiềm năng vô hạn của thị trường bằng cách giao dịch hợp đồng tương lai OTC (CFD trên hợp đồng tương lai) với nhà môi giới CFD tốt nhất. Vượt qua những hạn chế của giao dịch tương lai truyền thống và nắm bắt những cơ hội tuyệt vời do XS mang lại.
+        'DESCRIPTION_1' => 'Chào mừng đến với thế giới giao dịch tương lai cùng XS. Khám phá tiềm năng vô hạn của thị trường bằng cách giao dịch hợp đồng tương lai OTC (CFD trên hợp đồng tương lai) với nhà môi giới CFD tốt nhất. Vượt qua những hạn chế của giao dịch tương lai truyền thống và nắm bắt những cơ hội tuyệt vời do XS mang lại.
         <br/>
         Giao dịch Hợp đồng tương lai OTC (CFD trên hợp đồng tương lai) với XS mang lại nhiều lợi ích. XS cấp quyền truy cập vào các thị trường đa dạng, cho phép các nhà giao dịch tham gia vào nhiều hợp đồng tương lai khác nhau bao gồm hàng hóa, tiền tệ, chỉ số, v.v.
         <br/>
-        Với nhiều loại tài sản có sẵn thông qua nền tảng XS Trades, nhà giao dịch có thể đa dạng hóa danh mục đầu tư, quản lý rủi ro hiệu quả và nắm bắt nhiều cơ hội thị trường.
+        Với nhiều loại tài sản có sẵn thông qua nền tảng XS, nhà giao dịch có thể đa dạng hóa danh mục đầu tư, quản lý rủi ro hiệu quả và nắm bắt nhiều cơ hội thị trường.
 
         ',
 
@@ -45,7 +45,7 @@
 
 
         "TRADING_CONDITION_1_TITLE" => "Giờ Giao Dịch Bình Thường",
-        "TRADING_CONDITION_1_DESCRIPTION" => "Giờ giao dịch bình thường đề cập đến các phiên giao dịch thông thường có sẵn để giao dịch. Dưới đây hiển thị giờ giao dịch bình thường đối với hợp đồng tương lai có sẵn trên XS Trades.
+        "TRADING_CONDITION_1_DESCRIPTION" => "Giờ giao dịch bình thường đề cập đến các phiên giao dịch thông thường có sẵn để giao dịch. Dưới đây hiển thị giờ giao dịch bình thường đối với hợp đồng tương lai có sẵn trên XS.
         Các yếu tố theo mùa và thị trường có thể ảnh hưởng đến giờ giao dịch bên dưới, vì vậy điều quan trọng là phải theo dõi các cập nhật mới nhất trên trang Giờ giao dịch để luôn cập nhật những thay đổi mới nhất theo mùa về giờ giao dịch. Tất cả thời gian đều tính theo giờ máy chủ (GMT+3).
 
             <br/>
@@ -69,13 +69,13 @@
             // &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Friday: 00:00 - 23:55
 
         "TRADING_CONDITION_2_TITLE" => "Spreads",
-        "TRADING_CONDITION_2_DESCRIPTION" => "XSTrades.com cung cấp chênh lệch thả nổi trên tất cả các hợp đồng tương lai cho tất cả các loại tài khoản. Do đó, mức chênh lệch trong bảng thông số hợp đồng là mức chênh lệch trung bình dựa trên ngày giao dịch trước đó. Để biết chênh lệch trực tiếp, vui lòng tham khảo nền tảng giao dịch. Xin lưu ý rằng chênh lệch có thể tăng lên khi thị trường có tính thanh khoản thấp hơn, bao gồm cả thời gian tái đầu tư.",
+        "TRADING_CONDITION_2_DESCRIPTION" => "XS.com cung cấp chênh lệch thả nổi trên tất cả các hợp đồng tương lai cho tất cả các loại tài khoản. Do đó, mức chênh lệch trong bảng thông số hợp đồng là mức chênh lệch trung bình dựa trên ngày giao dịch trước đó. Để biết chênh lệch trực tiếp, vui lòng tham khảo nền tảng giao dịch. Xin lưu ý rằng chênh lệch có thể tăng lên khi thị trường có tính thanh khoản thấp hơn, bao gồm cả thời gian tái đầu tư.",
 
         "TRADING_CONDITION_3_TITLE" => "Biểu Đồ Giá",
-        "TRADING_CONDITION_3_DESCRIPTION" => "XSTrades.com cung cấp nhiều loại tài khoản giao dịch phù hợp với nhu cầu và sở thích của từng nhà giao dịch. Chúng tôi cung cấp các tài khoản với mức giá thô được tính phí hoa hồng bổ sung. Các loại tài khoản khác không có hoa hồng mà thay vào đó có phần chênh lệch được tính vào giá. Theo mặc định, biểu đồ trong nền tảng giao dịch MetaTrader sẽ hiển thị giá thô, trong khi theo dõi thị trường sẽ hiển thị giá của loại tài khoản mà khách hàng đang giao dịch.",
+        "TRADING_CONDITION_3_DESCRIPTION" => "XS.com cung cấp nhiều loại tài khoản giao dịch phù hợp với nhu cầu và sở thích của từng nhà giao dịch. Chúng tôi cung cấp các tài khoản với mức giá thô được tính phí hoa hồng bổ sung. Các loại tài khoản khác không có hoa hồng mà thay vào đó có phần chênh lệch được tính vào giá. Theo mặc định, biểu đồ trong nền tảng giao dịch MetaTrader sẽ hiển thị giá thô, trong khi theo dõi thị trường sẽ hiển thị giá của loại tài khoản mà khách hàng đang giao dịch.",
 
         "TRADING_CONDITION_4_TITLE" => "Đòn Bẩy Cố Định",
-        "TRADING_CONDITION_4_DESCRIPTION" => "XSTrades.com cung cấp đòn bẩy cố định cho hàng hóa cho tất cả các loại tài khoản. Trong trường hợp này, đòn bẩy tối đa được hiển thị trong bảng thông số hợp đồng sẽ KHÔNG thay đổi dựa trên các vị thế hoặc loại tài khoản mở ròng của bạn.",
+        "TRADING_CONDITION_4_DESCRIPTION" => "XS.com cung cấp đòn bẩy cố định cho hàng hóa cho tất cả các loại tài khoản. Trong trường hợp này, đòn bẩy tối đa được hiển thị trong bảng thông số hợp đồng sẽ KHÔNG thay đổi dựa trên các vị thế hoặc loại tài khoản mở ròng của bạn.",
 
         "TRADING_CONDITION_5_TITLE" => "Mức Dừng",
         "TRADING_CONDITION_5_DESCRIPTION" => "Mức dừng là khoảng cách tối thiểu (chênh lệch tính bằng pip) giữa giá thị trường hiện tại và giá lệnh chờ. Các giá trị mức dừng trong bảng thông số hợp đồng có thể thay đổi và có thể không có sẵn cho các nhà giao dịch sử dụng các chiến lược giao dịch tần suất cao hoặc Expert Advisor nhất định.",

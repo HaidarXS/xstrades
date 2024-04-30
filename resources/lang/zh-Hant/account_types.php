@@ -1,4 +1,4 @@
-<?php 
+<?php
     return [
         'ACCOUNT_TYPES_TITLE' => '探索我們的多樣化賬戶類型',
         'ACCOUNT_TYPES_DESCRIPTION' => '探索我們精心設計的多樣化賬戶類型，可以滿足各個級別交易者的需求，了解每種賬戶類型的優勢，並選擇符合您交易目標的賬戶類型。
@@ -7,7 +7,7 @@
         <br/>
         XS提供多種交易工具和極具競爭力的交易條件，讓您享受業內最佳的交易體驗。',
 
-        'ACCOUNT_TYPES_SUBTITLE' => '透過我們的多種帳戶類型// 最大限度地發揮您的交易潛力',
+        'ACCOUNT_TYPES_SUBTITLE' => '透過我們的多種賬戶類型，最大限度地發揮您的交易潛力。',
         'SELECT_CATEGORY' => '選擇類別',
 
 
@@ -27,7 +27,7 @@
         'CENT' => '美分',
         'STANDARD' => '標准',
         'MICRO' => '微型',
-        'ELITE' => '裸點',
+        'ELITE' => '精英',
         'PRO' => '專業',
         'VIP' => 'VIP',
         'PLUS' => '高級',
@@ -45,12 +45,15 @@
         'NO_COMMISSION' => '無',
         '3_PER_SIDE' => '3.5 美元/手（單向）',
         'TBD' => '待定',
-        'CURRENCIES' => '外匯',
-        'METALS' => '金屬',
+        'CURRENCIES' => '貨幣對',
+        'METALS' => '貴金屬',
         'ENERGY' => '能源',
         'INDICES' => '指數',
         'SHARES' => '股票',
         'CRYPTO' => '加密貨幣',
-        'COMMODITIES' => '商品',
+        'COMMODITIES' => '大宗商品',
         'EXTRA' => '高級',
+        'FUTURES' => "期貨",
+        'SHARES_MT5' => '股票 (MT5)',
+
     ];

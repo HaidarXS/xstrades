@@ -17,7 +17,7 @@ return [
     </br></br>
     Cơ quan Dịch vụ Tài chính (FSA) là cơ quan quản lý chịu trách nhiệm cấp phép, quản lý, thực thi các yêu cầu pháp lý và tuân thủ, giám sát và giám sát hoạt động kinh doanh trong lĩnh vực dịch vụ tài chính phi ngân hàng ở Seychelles.
     </br></br>
-    XS Ltd hoạt động thông qua website www.XSTrades.com để cung cấp các dịch vụ và sản phẩm của mình cho một số khu vực pháp lý nhất định mà việc cung cấp đó không trái với luật pháp hoặc quy định của địa phương.',
+    XS Ltd hoạt động thông qua website www.xs.com để cung cấp các dịch vụ và sản phẩm của mình cho một số khu vực pháp lý nhất định mà việc cung cấp đó không trái với luật pháp hoặc quy định của địa phương.',
 
     'XS_PRIME_LTD'=>'XS Prime Ltd',
 

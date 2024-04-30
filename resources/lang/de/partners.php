@@ -30,10 +30,10 @@ return [
     'INFLUENCERS_REASON_8_TITLE' => 'Premium-Bedingungen:',
     'INFLUENCERS_REASON_8_DESCRIPTION' => 'Wettbewerbsfähige Partnerschaftsbedingungen für Sie und das beste Handelserlebnis für Ihre Kunden.',
 
-    'WHY_CLIENTS_CHOSE_XS' => 'Warum wählen Kunden XS Trades?',
+    'WHY_CLIENTS_CHOSE_XS' => 'Warum wählen Kunden XS?',
 
     'CHOOSE_REASON_1_TITLE' => 'Vertrauenswürdiger globaler Broker:',
-    'CHOOSE_REASON_1_DESCRIPTION' => 'XSTrades.com ist ein vertrauenswürdiger globaler Broker mit mehreren Regulierungsbehörden.',
+    'CHOOSE_REASON_1_DESCRIPTION' => 'XS.com ist ein vertrauenswürdiger globaler Broker mit mehreren Regulierungsbehörden.',
 
     'CHOOSE_REASON_2_TITLE' => 'Preisgekrönter Broker:',
     'CHOOSE_REASON_2_DESCRIPTION' => 'Handeln Sie mit einem Broker, der für seine Dienstleistungen ausgezeichnet wurde.',
@@ -60,7 +60,7 @@ return [
     'CHOOSE_REASON_9_DESCRIPTION' => 'Nutzen Sie unseren Kundensupport in Ihrer Sprache.',
 
     'LETS_TALK_PARTNERSHIP' => 'LASSEN SIE UNS ÜBER DIE PARTNERSCHAFT SPRECHEN',
-    'LETS_TALK_PARTNERSHIP_DESCRIPTION' => 'Unser Expertenteam steht bereit, um ihr Wissen und ihre Erkenntnisse mit Ihnen zu teilen, um sicherzustellen, dass Sie Ihre Ziele erreichen und Ihre Strategien umsetzen. Wenn Sie mit einem unserer erfahrenen Experten über unsere Partnerschaftsprogramme sprechen möchten, senden Sie uns bitte eine E-Mail an partners@XSTrades.com.',
+    'LETS_TALK_PARTNERSHIP_DESCRIPTION' => 'Unser Expertenteam steht bereit, um ihr Wissen und ihre Erkenntnisse mit Ihnen zu teilen, um sicherzustellen, dass Sie Ihre Ziele erreichen und Ihre Strategien umsetzen. Wenn Sie mit einem unserer erfahrenen Experten über unsere Partnerschaftsprogramme sprechen möchten, senden Sie uns bitte eine E-Mail an partners@xs.com.',
 
     'BEST_FX_BROKER' => 'Bester FX-Broker',
     'BEST_FUNDAMENTAL' => 'Bester Fundamentalanalyse & Technische Analyse',

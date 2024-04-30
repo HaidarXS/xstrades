@@ -1,7 +1,7 @@
 <?php
 return[
 'COPY_TRADING'=>'Giải Pháp Sao Chép Giao Dịch',
-'COPY_TRADING_DESC'=> ' Tận dụng sao chép giao dịch tại XS Trades. 
+'COPY_TRADING_DESC'=> ' Tận dụng sao chép giao dịch tại XS. 
 <br />
 Theo dõi chiến lược từ các nhà giao dịch thành công.
 <br />
@@ -27,7 +27,7 @@ Khám phá các loại tài khoản XS Copy và lợi ích của từng loại t
 'TRADERS_EARN'=> 'Gia tăng thu nhập từ việc để những nhà đầu tư khác sao chép lệnh của mình.',
 'LET_US_CONNECT_DESC'=> 'Đội ngũ của chúng tôi sẵn sàng chia sẻ kiến thức, hiểu biết để đảm bảo bạn nhận được sự hỗ trợ, đạt được mục tiêu và thực thi chiến lược kịp thời.
 <br/><br/>
-Mọi thắc mắc cần hỗ trợ liên quan đến Copy Trading, hãy gởi email cho chúng tôi tại <a href="mailto:support@XSTrades.com"> support@XSTrades.com</a>',
-'DISCLAIMER' => 'Từ chối trách nhiệm: Cả XS và người cung cấp tín hiệu sao chép giao dịch không hoàn toàn chịu trách nhiệm cho những tổn thất trong đầu tư. Người cung cấp tín hiệu không đại diện cho XS Trades, và vai trò của XS là cung cấp nền tảng và dịch vụ giúp kết nối các bên. Người cung cấp tín hiệu sao chép sẽ không thể truy cập hoặc kiểm soát tài sản, thông tin của bạn. Đầu tư là quyết định của cá nhân bạn trong việc lựa chọn người để sao chép, đồng nghĩa với việc những lệnh được thực thi trong tài khoản của người cung cấp tín hiệu sao chép cũng sẽ được phản ánh trong tài khoản của bạn.',
+Mọi thắc mắc cần hỗ trợ liên quan đến Copy Trading, hãy gởi email cho chúng tôi tại <a href="mailto:support@xs.com"> support@xs.com</a>',
+'DISCLAIMER' => 'Từ chối trách nhiệm: Cả XS và người cung cấp tín hiệu sao chép giao dịch không hoàn toàn chịu trách nhiệm cho những tổn thất trong đầu tư. Người cung cấp tín hiệu không đại diện cho XS, và vai trò của XS là cung cấp nền tảng và dịch vụ giúp kết nối các bên. Người cung cấp tín hiệu sao chép sẽ không thể truy cập hoặc kiểm soát tài sản, thông tin của bạn. Đầu tư là quyết định của cá nhân bạn trong việc lựa chọn người để sao chép, đồng nghĩa với việc những lệnh được thực thi trong tài khoản của người cung cấp tín hiệu sao chép cũng sẽ được phản ánh trong tài khoản của bạn.',
 ];
 ?>

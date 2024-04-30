@@ -53,7 +53,7 @@ return [
 
     'TEXT7' => 'Notre équipe d\'experts est prête à partager avec vous leurs connaissances et leurs idées pour vous aider à atteindre vos objectifs et à mettre en œuvre vos stratégies.',
 
-    'TEXT8' => 'Si vous souhaitez discuter avec l\'un de nos experts chevronnés de la Solution PAMM, veuillez nous envoyer un e-mail à l\'adresse  <a href="mailto:support@XSTrades.com"> support@XSTrades.com </a>',
+    'TEXT8' => 'Si vous souhaitez discuter avec l\'un de nos experts chevronnés de la Solution PAMM, veuillez nous envoyer un e-mail à l\'adresse  <a href="mailto:support@xs.com"> support@xs.com </a>',
 
     'DISCLAIMER' => '<span style="color: #30af85;">Avis de non-responsabilité : </span> Ni XS ni les traders PAMM ne sont des fournisseurs de services de compte discrétionnaire géré. C\'est votre propre décision de suivre un trader PAMM particulier, ce qui signifie que toutes les décisions de trading prises par un trader PAMM seront réputées être vos propres décisions de trading.',
 

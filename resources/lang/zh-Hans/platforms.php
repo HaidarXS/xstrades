@@ -29,7 +29,7 @@
         'MT4_FEATURES' =>'MT4 特点',
         //two
         'TRUST_GLOBAL_BROKER' => '值得信赖的全球经纪商:',
-        'XS_IS_A_TRUSTED' => 'XSTrades.com 是一家受多重监管的值得信赖的全球经纪商',
+        'XS_IS_A_TRUSTED' => 'XS.com 是一家受多重监管的值得信赖的全球经纪商',
         'AWARD_WINNING_BROKER' => '屡获殊荣的经纪商:',
         'TRADE_RECOGNIZED_SERVICES' => '与因其服务而受到认可的经纪商进行交易',
         'QUICK_EASY_REGISTRATION' => '快速简单的注册:',

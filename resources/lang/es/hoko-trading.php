@@ -1,7 +1,7 @@
 <?php
 return[
 'COPY_TRADING'=>'Soluciones de Copy Trading',
-'COPY_TRADING_DESC'=> ' Aproveche las Soluciones de Copy Trading de XS Trades. 
+'COPY_TRADING_DESC'=> ' Aproveche las Soluciones de Copy Trading de XS. 
 <br />
 Siga las estrategias de traders exitosos.
 <br />
@@ -27,7 +27,7 @@ Explore nuestros tipos de cuentas de Copy Trading de XS cuidadosamente elaborado
 'TRADERS_EARN'=> 'Los traders pueden ganar un ingreso adicional cuando los inversores copian sus operaciones exitosas.',
 'LET_US_CONNECT_DESC'=> 'Nuestro equipo de expertos está listo para compartir con usted nuestro conocimiento e ideas para asegurarse de que alcance sus objetivos e implemente sus estrategias.
 <br/><br/>
-Si desea hablar con uno de nuestros expertos experimentados acerca de Copy Trading, por favor envíenos un correo electrónico a <a href="mailto:support@XSTrades.com"> support@XSTrades.com</a>',
+Si desea hablar con uno de nuestros expertos experimentados acerca de Copy Trading, por favor envíenos un correo electrónico a <a href="mailto:support@xs.com"> support@xs.com</a>',
 'DISCLAIMER' => 'Descargo de responsabilidad: Ni XS ni los traders de Copy Trading son proveedores de servicios de cuenta discrecional gestionada. Los traders de Copy Trading operan solo en su propio nombre y el papel de XS es únicamente el de un broker ejecutor. Los traders de Copy Trading no gestionan ni tienen acceso a sus fondos y es posible que ni siquiera conozcan su identidad. Es su propia decisión copiar a un trader específico, lo que significa que todas las decisiones comerciales tomadas por un trader de Copy Trading se considerarán sus propias decisiones comerciales.',
 ];
 ?>

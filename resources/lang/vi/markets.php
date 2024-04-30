@@ -16,19 +16,19 @@ return [
     //markets
     'TRADE_GLOBAL_MULTI_ASSET'=>'Giao dịch trên thị trường tài chính toàn cầu với nhà môi giới đa tài sản tốt nhất',
 
-    'TRADE_GLOBAL_MULTI_ASSET_DISC'=>'Khám phá thế giới giao dịch trực tuyến với XS Trades, nơi bạn có thể giao dịch trên các thị trường tài chính toàn cầu lớn nhất và truy cập hơn 1000 công cụ giao dịch cũng như nhiều loại tài sản từ một tài khoản.
+    'TRADE_GLOBAL_MULTI_ASSET_DISC'=>'Khám phá thế giới giao dịch trực tuyến với XS, nơi bạn có thể giao dịch trên các thị trường tài chính toàn cầu lớn nhất và truy cập hơn 1000 công cụ giao dịch cũng như nhiều loại tài sản từ một tài khoản.
     <br/><br/> 
     Giao dịch nhiều loại tài sản khác nhau, bao gồm ngoại hối, cổ phiếu, kim loại, hợp đồng tương lai, hàng hóa và chỉ số. Trải nghiệm mức chênh lệch thấp, giá cả cạnh tranh, khớp lệnh liền mạch và hưởng lợi từ nghiên cứu thị trường chất lượng cao do đội ngũ chuyên gia và nhà phân tích thị trường chuyên nghiệp của chúng tôi cung cấp.',
 
-    'WHY_TRADE_WITH_XS'=>'Tại sao nên giao dịch với XS Trades?',
+    'WHY_TRADE_WITH_XS'=>'Tại sao nên giao dịch với XS?',
 
-    'WHY_TRADE_CDF'=>'Tại sao nên giao dịch CFD với XS Trades?',
+    'WHY_TRADE_CDF'=>'Tại sao nên giao dịch CFD với XS?',
 
-    'WHY_TRADE_CDF_DISC'=>'Khám phá những lợi thế của việc giao dịch CFD với XS Trades. Tận hưởng trải nghiệm giao dịch được tối ưu hóa.',
+    'WHY_TRADE_CDF_DISC'=>'Khám phá những lợi thế của việc giao dịch CFD với XS. Tận hưởng trải nghiệm giao dịch được tối ưu hóa.',
     
     'LEVERAGE_AND_FLEXIBILITY'=>'Đòn bẩy và tính linh hoạt',
 
-    'LEVERAGE_AND_FLEXIBILITY_DISC'=>'Tối đa hóa tiềm năng giao dịch của bạn với XS Trades. Hưởng lợi từ đòn bẩy, cho phép bạn tăng cường khả năng tiếp cận thị trường với các khoản đầu tư nhỏ hơn. Tận hưởng sự linh hoạt ngày càng tăng trong chiến lược giao dịch của bạn.',
+    'LEVERAGE_AND_FLEXIBILITY_DISC'=>'Tối đa hóa tiềm năng giao dịch của bạn với XS. Hưởng lợi từ đòn bẩy, cho phép bạn tăng cường khả năng tiếp cận thị trường với các khoản đầu tư nhỏ hơn. Tận hưởng sự linh hoạt ngày càng tăng trong chiến lược giao dịch của bạn.',
 
     'LONG_AND_SHORT'=>'Vị thế mua và bán',
 
@@ -39,11 +39,11 @@ return [
     'FRACTIONAL_TRADING_DISC'=>'Đa dạng hóa danh mục đầu tư của bạn mà không bị giới hạn. XS cung cấp giao dịch phân đoạn, cho phép bạn đầu tư vào nhiều loại tài sản với ngân sách nhỏ hơn. Mở rộng sự tham gia thị trường của bạn và tăng cường đa dạng hóa danh mục đầu tư.',
 
     //Metals page
-    'METALS_DESC' => 'Khám phá khả năng giao dịch kim loại rộng lớn với XS Trades, nơi bạn có thể giao dịch CFD trên vàng, bạc, bạch kim, palađi và các kim loại khác với nhà môi giới từng đoạt giải thưởng. XS cung cấp một nền tảng liền mạch để khám phá giao dịch kim loại giao ngay, cho phép bạn tận dụng các cơ hội giao dịch mới.',
+    'METALS_DESC' => 'Khám phá khả năng giao dịch kim loại rộng lớn với XS, nơi bạn có thể giao dịch CFD trên vàng, bạc, bạch kim, palađi và các kim loại khác với nhà môi giới từng đoạt giải thưởng. XS cung cấp một nền tảng liền mạch để khám phá giao dịch kim loại giao ngay, cho phép bạn tận dụng các cơ hội giao dịch mới.',
 
     'UNLOCK_THE_POTENTIAL' => 'Mở khóa tiềm năng giao dịch kim loại với XS',
 
-    'UNLOCK_THE_POTENTIAL_DESC' => 'Giao dịch kim loại với XS Trades. Truy cập vào thị trường toàn cầu và mua và bán liền mạch các kim loại quý hiếm <br/> Gia nhập XSTrades.com hôm nay và hưởng lợi từ giao dịch kim loại',
+    'UNLOCK_THE_POTENTIAL_DESC' => 'Giao dịch kim loại với XS. Truy cập vào thị trường toàn cầu và mua và bán liền mạch các kim loại quý hiếm <br/> Gia nhập XS.com hôm nay và hưởng lợi từ giao dịch kim loại',
 
     'METALS_TRADING_WITH_XS' => 'Giao dịch kim loại với XS',
 
@@ -78,7 +78,7 @@ return [
 
     'ENERGY_TRADING_WITH_XS' => 'Giao dịch năng lượng với XS',
 
-    'ENERGY_TRADING_WITH_XS_DESC' => 'Với XS Trades, bạn có thể tận hưởng môi trường giao dịch thuận lợi của chúng tôi, với mức giá cạnh tranh, chênh lệch thấp và khớp lệnh hiệu quả. Tận dụng nền tảng giao dịch MetaTrader 4 và MetaTrader 5 hiện đại của chúng tôi, có thể truy cập trên nhiều thiết bị, đảm bảo trải nghiệm giao dịch liền mạch.',
+    'ENERGY_TRADING_WITH_XS_DESC' => 'Với XS, bạn có thể tận hưởng môi trường giao dịch thuận lợi của chúng tôi, với mức giá cạnh tranh, chênh lệch thấp và khớp lệnh hiệu quả. Tận dụng nền tảng giao dịch MetaTrader 4 và MetaTrader 5 hiện đại của chúng tôi, có thể truy cập trên nhiều thiết bị, đảm bảo trải nghiệm giao dịch liền mạch.',
 
     'UNDERSTANDING_ENERGIES' => 'Tổng quan về giao dịch năng lượng: Nắm bắt cơ hội trong thị trường năng lượng năng động',
 
@@ -107,11 +107,11 @@ return [
 
     'JOIN_THE_DIGITAL_REVOLUTION' => 'Tham gia cuộc cách mạng kỹ thuật số với giao dịch tiền điện tử',
 
-    'JOIN_THE_DIGITAL_REVOLUTION_DESC' => 'Khám phá thế giới tiền điện tử và mở khóa tiềm năng của tài sản kỹ thuật số với XS Trades. Giao dịch các loại tiền điện tử phổ biến như Bitcoin, Ethereum, Litecoin, v.v. và nắm bắt cơ hội trong thị trường tiền điện tử đang phát triển nhanh chóng. Hãy tham gia XSTrades.com ngay hôm nay và bắt đầu hành trình giao dịch tiền điện tử của bạn.',
+    'JOIN_THE_DIGITAL_REVOLUTION_DESC' => 'Khám phá thế giới tiền điện tử và mở khóa tiềm năng của tài sản kỹ thuật số với XS. Giao dịch các loại tiền điện tử phổ biến như Bitcoin, Ethereum, Litecoin, v.v. và nắm bắt cơ hội trong thị trường tiền điện tử đang phát triển nhanh chóng. Hãy tham gia XS.com ngay hôm nay và bắt đầu hành trình giao dịch tiền điện tử của bạn.',
 
     'CRYPTOCURRENCY_TRADING_WITH_XS' => 'Giao dịch tiền điện tử với XS',
 
-    'CRYPTOCURRENCY_TRADING_WITH_XS_DESC' => 'Trải nghiệm cảm giác phấn khích khi giao dịch tiền điện tử với XSTrades.com. Nền tảng của chúng tôi cung cấp giao dịch liền mạch với nhiều loại tiền điện tử, cho phép bạn tận dụng sự biến động của thị trường và biến động giá tiềm năng. Hưởng lợi từ các công cụ giao dịch tiên tiến, giải pháp lưu trữ an toàn và khả năng thực thi đáng tin cậy của chúng tôi để giao dịch tiền điện tử một cách tự tin.',
+    'CRYPTOCURRENCY_TRADING_WITH_XS_DESC' => 'Trải nghiệm cảm giác phấn khích khi giao dịch tiền điện tử với XS.com. Nền tảng của chúng tôi cung cấp giao dịch liền mạch với nhiều loại tiền điện tử, cho phép bạn tận dụng sự biến động của thị trường và biến động giá tiềm năng. Hưởng lợi từ các công cụ giao dịch tiên tiến, giải pháp lưu trữ an toàn và khả năng thực thi đáng tin cậy của chúng tôi để giao dịch tiền điện tử một cách tự tin.',
 
     'UNDERSTANDING_CRTYPTOCURRENCIES' => 'Tìm hiểu về tiền điện tử: Tổng quan',
 
@@ -134,17 +134,17 @@ return [
 
     'EXPERIENCE_THE_WORLD_OF_COMMODITIES' => 'Trải nghiệm thế giới Giao dịch Hàng hóa với Nhà môi giới Toàn cầu',
 
-    'EXPERIENCE_THE_WORLD_OF_COMMODITIES_DESC' => 'Bắt tay vào một hành trình thú vị trong giao dịch hàng hóa với XS Trades. Nền tảng của chúng tôi cung cấp nhiều loại công cụ CFD khác nhau bao gồm nhiều mặt hàng khác nhau. Giao dịch hàng hóa mang lại cơ hội duy nhất để tham gia vào thị trường toàn cầu với tiềm năng thu được lợi nhuận thuận lợi.',
+    'EXPERIENCE_THE_WORLD_OF_COMMODITIES_DESC' => 'Bắt tay vào một hành trình thú vị trong giao dịch hàng hóa với XS. Nền tảng của chúng tôi cung cấp nhiều loại công cụ CFD khác nhau bao gồm nhiều mặt hàng khác nhau. Giao dịch hàng hóa mang lại cơ hội duy nhất để tham gia vào thị trường toàn cầu với tiềm năng thu được lợi nhuận thuận lợi.',
 
     'COMMODITIES_TRADING_WITH_XS' => 'Tổng quan về Hàng hóa: Khám phá Thế giới Giao dịch Hàng hóa với XS',
 
-    'COMMODITIES_TRADING_WITH_XS_DESC' => 'Trải nghiệm sự phấn khích khi giao dịch Cổ phiếu & Chứng khoán với XSTrades.com. Tận dụng khả năng giao dịch CFD liền mạch trên nền tảng của chúng tôi, mang đến cho bạn cơ hội giao dịch CFD trên hàng nghìn cổ phiếu toàn cầu. Hưởng lợi từ việc thực hiện lệnh cực nhanh và điều kiện giao dịch cạnh tranh, đảm bảo bạn có thể nắm bắt các cơ hội thị trường một cách nhanh chóng và hiệu quả. Giao dịch CFD trên cổ phiếu của các công ty nổi tiếng ở Hoa Kỳ, Vương quốc Anh và EU, bao gồm một số tập đoàn lớn nhất và phổ biến nhất.',
+    'COMMODITIES_TRADING_WITH_XS_DESC' => 'Trải nghiệm sự phấn khích khi giao dịch Cổ phiếu & Chứng khoán với XS.com. Tận dụng khả năng giao dịch CFD liền mạch trên nền tảng của chúng tôi, mang đến cho bạn cơ hội giao dịch CFD trên hàng nghìn cổ phiếu toàn cầu. Hưởng lợi từ việc thực hiện lệnh cực nhanh và điều kiện giao dịch cạnh tranh, đảm bảo bạn có thể nắm bắt các cơ hội thị trường một cách nhanh chóng và hiệu quả. Giao dịch CFD trên cổ phiếu của các công ty nổi tiếng ở Hoa Kỳ, Vương quốc Anh và EU, bao gồm một số tập đoàn lớn nhất và phổ biến nhất.',
 
     'UNDERSTANDING_COMMODITIES' => 'Tổng quan về Hàng hóa: Khám phá Thế giới Giao dịch Hàng hóa với XS',
 
     'UNDERSTANDING_COMMODITIES_DESC_1' => 'Giới thiệu
     <br/>
-    Chào mừng đến với thế giới giao dịch hàng hóa với XS Trades. Hàng hóa đại diện cho hàng hóa hữu hình quan trọng đối với cuộc sống hàng ngày của chúng ta, chẳng hạn như kim loại, tài nguyên năng lượng, nông sản, v.v. Trong phần tổng quan này, chúng ta sẽ khám phá các khía cạnh chính của giao dịch hàng hóa, bao gồm các mặt hàng phổ biến, động lực thị trường và lợi thế của việc giao dịch hàng hóa với XS Trades.',
+    Chào mừng đến với thế giới giao dịch hàng hóa với XS. Hàng hóa đại diện cho hàng hóa hữu hình quan trọng đối với cuộc sống hàng ngày của chúng ta, chẳng hạn như kim loại, tài nguyên năng lượng, nông sản, v.v. Trong phần tổng quan này, chúng ta sẽ khám phá các khía cạnh chính của giao dịch hàng hóa, bao gồm các mặt hàng phổ biến, động lực thị trường và lợi thế của việc giao dịch hàng hóa với XS.',
 
     'UNDERSTANDING_COMMODITIES_DESC_2' => 'Hàng hóa phổ biến
     <br/>

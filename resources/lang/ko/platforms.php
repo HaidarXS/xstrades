@@ -34,7 +34,7 @@ return [
 
 //two
 'TRUST_GLOBAL_BROKER' => '신뢰할 수 있는 글로벌 브로커:',
-'XS_IS_A_TRUSTED' => 'XSTrades.com은 여러 규정을 갖춘 신뢰할 수 있는 글로벌 브로커입니다.',
+'XS_IS_A_TRUSTED' => 'XS.com은 여러 규정을 갖춘 신뢰할 수 있는 글로벌 브로커입니다.',
 'AWARD_WINNING_BROKER' => '수상 경력이 있는 브로커:',
 'TRADE_RECOGNIZED_SERVICES' => '서비스를 인정받은 브로커와 거래하세요.',
 'QUICK_EASY_REGISTRATION' => '빠르고 쉬운 등록:',

@@ -17,10 +17,10 @@ return [
     'PAGE_DESC_FULL_SOLUTION' => 'Inicie seu Próprio Negócio de Corretagem com nossas Soluções Completas de Trading.',
 
     'LETS_TALK_B2B' => 'Vamos conversar sobre B2B',
-    'LETS_TALK_B2B_DESCRIPTION' => 'Nossa equipe de especialistas está pronta para compartilhar com você seus conhecimentos e percepções para garantir que você atinja seus objetivos e implemente suas estratégias. <br/> Se desejar falar com um de nossos especialistas experientes sobre suas necessidades institucionais e nossas soluções de negociação institucional, envie um email para <a href="mailto:b2b@XSTrades.com"> b2b@XSTrades.com </a> . ',
+    'LETS_TALK_B2B_DESCRIPTION' => 'Nossa equipe de especialistas está pronta para compartilhar com você seus conhecimentos e percepções para garantir que você atinja seus objetivos e implemente suas estratégias. <br/> Se desejar falar com um de nossos especialistas experientes sobre suas necessidades institucionais e nossas soluções de negociação institucional, envie um email para <a href="mailto:b2b@xs.com"> b2b@xs.com </a> . ',
 
     'LETS_TALK_LIQUIDITY'=> 'Vamos falar de liquidez',
-    'LETS_TALK_LIQUIDITY_DISC'=> 'Nossa equipe de especialistas está pronta para compartilhar com você seus conhecimentos e percepções para garantir que você atinja seus objetivos e implemente suas estratégias.<br/> <br/> Se desejar conversar com um de nossos especialistas experientes sobre suas necessidades institucionais e nossas soluções de liquidez, envie um email para <a href="mailto:b2b@XSTrades.com"> b2b@XSTrades.com </a>.com.',
+    'LETS_TALK_LIQUIDITY_DISC'=> 'Nossa equipe de especialistas está pronta para compartilhar com você seus conhecimentos e percepções para garantir que você atinja seus objetivos e implemente suas estratégias.<br/> <br/> Se desejar conversar com um de nossos especialistas experientes sobre suas necessidades institucionais e nossas soluções de liquidez, envie um email para <a href="mailto:b2b@xs.com"> b2b@xs.com </a>.com.',
 
     'XS_TECHNOLOGY'=> 'Soluções de tecnologia e Fintech',
     'OUR_ADVEANCED_INFRASTRUCTURE'=> 'Nossa infraestrutura comercial avançada nos permite oferecer uma ampla gama de soluções tecnológicas e fintech projetadas para atender às necessidades exclusivas de clientes institucionais. Estas soluções são projetadas para corretores novos e existentes que desejam ter acesso à nossa tecnologia avançada e infraestrutura comercial. <br/> <br/> Nossas soluções de tecnologia e fintech permitem que nossos clientes institucionais melhorem seus produtos e ofertas e aprimorem a experiência do usuário de seus clientes, utilizando a tecnologia mais avançada e as soluções fintech mais atualizadas do setor. .',
@@ -60,7 +60,7 @@ return [
     'INSTITUTIONS_CAN_RELY'=>'Institutions can rely on our proven track record and industry expertise to support their trading objectives.',
     'LETS_TALK_FINTECH'=> 'Vamos conversar sobre Fintech',
 
-    'OUR_TEAM_OF_EXPERTS'=> 'Nossa equipe de especialistas compartilhará com você seus conhecimentos e percepções para garantir que você obtenha os melhores resultados e use as soluções de tecnologia e fintech adequadas que atendam às suas necessidades e requisitos de negócios. <br/> <br/> Se desejar conversar com um de nossos especialistas experientes sobre suas necessidades institucionais e nossas soluções de tecnologia e fintech, envie um email para <a href="mailto:b2b@XSTrades.com">b2b@XSTrades.com</a>.',
+    'OUR_TEAM_OF_EXPERTS'=> 'Nossa equipe de especialistas compartilhará com você seus conhecimentos e percepções para garantir que você obtenha os melhores resultados e use as soluções de tecnologia e fintech adequadas que atendam às suas necessidades e requisitos de negócios. <br/> <br/> Se desejar conversar com um de nossos especialistas experientes sobre suas necessidades institucionais e nossas soluções de tecnologia e fintech, envie um email para <a href="mailto:b2b@xs.com">b2b@xs.com</a>.',
     
     'FULL_TRADING_SOLUTION'=> 'Solução de negociação completa',
     'THE_FULL_TRADING_SOLUTIONS'=> 'O pacote “Solução de negociação completa” ou “Inicie seu próprio corretor” foi desenvolvido para clientes corporativos e institucionais que planejam iniciar seu próprio negócio de corretagem. Permite-lhes operar como corretores totalmente independentes e proporcionar aos seus clientes a capacidade de negociar produtos financeiros globais. O pacote inclui um sistema de negociação de múltiplos ativos proprietário de marca completa, com acesso aos nossos pools de liquidez de nível 1 de múltiplos ativos por meio de integração FIX API e conexão de ponte. Inclui também um módulo de back-office completo, CRM, um programa completo de treinamento e suporte técnico 24 horas por dia, 7 dias por semana. Como parte do pacote, você receberá consultoria e orientação na configuração de sua própria estrutura corporativa e requisitos de licenciamento. ',
@@ -92,7 +92,7 @@ return [
     'INSTITUTIONAL_TRADING' => 'Soluções de negociação institucional',
     'INSTITUTIONAL_TRADING_DESC' => 'XS é líder de mercado em soluções institucionais de negociação multiativos, Fintech e indústria de serviços financeiros desde 2010, fornecendo a clientes institucionais e corretores em todo o mundo acesso a profunda liquidez institucional e tecnologia de negociação avançada, combinada com uma experiência de usuário eficiente e relacionamento de alta qualidade gerenciamento e excelente suporte ao cliente..',
 
-    'WHY_INSTITUTIONAL_TRADING' => 'Por que escolher as soluções de negociação institucional XS Trades?',
+    'WHY_INSTITUTIONAL_TRADING' => 'Por que escolher as soluções de negociação institucional XS?',
 
     'MULTIPLE_INSTITUTIONAL_SOLUTIONS' => 'Múltiplas Soluções Institucionais',
     'MULTIPLE_INSTITUTIONAL_SOLUTIONS_DESC' => 'Nossa infraestrutura comercial avançada nos permite oferecer múltiplas soluções de negociação institucional para uma ampla gama de clientes institucionais.',

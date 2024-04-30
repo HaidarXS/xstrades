@@ -61,7 +61,7 @@ return [
 
     'SYMBOL' => "Symbol",
     'COMMISSIONS' => "Commissions",
-    'SPREAD' => "Spreads",
+    'SPREAD' => "Spreads (Pips)",
     'LEVERAGE' => "Leverage",
     'SWAP_SHORT' => "Swap Short",
     'SWAP_LONG' => "Swap Long",
@@ -81,7 +81,7 @@ return [
 
 
     'SPREAD_TITLE' => 'Spreads',
-    'SPREAD_DESCRIPTION' => 'XSTrades.com offers floating spread on all account
+    'SPREAD_DESCRIPTION' => 'XS.com offers floating spread on all account
         types and asset classes. Hence the spreads in the
         contract specifications table are the average
         spread based on the previous trading day. For
@@ -92,7 +92,7 @@ return [
         rollover time',
         
     'DYNAMIC_LEVERAGE_TITLE' => 'Dynamic Leverage',
-    'DYNAMIC_LEVERAGE_DESCRIPTION' => 'XSTrades.com offers dynamic leverage on most asset
+    'DYNAMIC_LEVERAGE_DESCRIPTION' => 'XS.com offers dynamic leverage on most asset
         classes and account types. The leverage values in
         the contract specifications table are the
         maximum leverage for each trading instrument.
@@ -107,7 +107,7 @@ return [
     Triple swaps are charged on Wednesdays to cover financing costs incurred over the weekend.',
         
     'CHARTS_TITLE' => 'Charts VS Market Watch Spreads',
-    'CHARTS_DESCRIPTION' => 'XSTrades.com offers a variety of trading accounts to
+    'CHARTS_DESCRIPTION' => 'XS.com offers a variety of trading accounts to
         suit each trader’s needs and preferences. We
         offer accounts with raw pricing on which
         additional commissions are charged. Other
@@ -120,7 +120,7 @@ return [
         type that the client is trading on.',
         
     'FIXED_LEVERAGE_TITLE' => 'Fixed Leverage',
-    'FIXED_LEVERAGE_DESCRIPTION' => 'XSTrades.com offers fixed leverage on some asset
+    'FIXED_LEVERAGE_DESCRIPTION' => 'XS.com offers fixed leverage on some asset
         classes and account types. In this case, The
         maximum leverage displayed in the contract
         specifications table will NOT change based on

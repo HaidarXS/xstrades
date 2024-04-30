@@ -3,7 +3,7 @@ return[
     'HMR'=>'HMR',
     'HMR_PERIODS'=>'Período RMA ',
 
-    'MR_PERIOD_BETWEEN'=>'HMR Period Between 25.03 - 29.03.2024',
+    'MR_PERIOD_BETWEEN'=>'Período HMR entre  29.04 - 03.05.2024',
 
     'DATE'=>'Data',
     'TIME_ZONE'=>'Horario GMT+3',

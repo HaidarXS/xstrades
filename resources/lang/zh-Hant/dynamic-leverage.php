@@ -15,6 +15,7 @@ return[
 
     'ASSET_CLASS' => '資產類別',
     'MAX_LEVERAGE' => '最大槓桿',
+    'HMR_LEVERAGE' => 'HMR 槓桿',
 
     'LOTS' => '手數',
     'MARGIN' => '保證金',
@@ -27,14 +28,14 @@ return[
     'SILVER' => '銀',
     'MINOR_INDICES' => '次要指數',
     'PLATINUM_AND_PALLADIUM' => '鉑和鈀',
-    'METALS(GOLD)' => '金屬（金）',
-    'METALS(SILVER)' => '金屬（銀）',
-    'METALS(PLATINUM & PALLADIUM)' => '金屬（鉑和鈀）',
+    'METALS(GOLD)' => '貴金屬（黃金）',
+    'METALS(SILVER)' => '貴金屬（白銀）',
+    'METALS(PLATINUM & PALLADIUM)' => '貴金屬（鉑和鈀）',
     'MAJOR_INDICES' => '主要指數',
     'ENERGY(UKOIL & USOIL)' => '能源（英國石油和美國石油）',
     'CRYPTOS(BTC & ETH)' => '加密貨幣（BTC 和 ETH）',
     'BTC_ETH' => 'BTC 和 ETH',
-    
+
     'MARGIN_REQUIREMENTS' => '保證金要求',
 
     'DYNAMIC_LEVERAGE_DOES_NOT_APPLY' => '動態槓桿不適用於某些資產類別或帳戶類型。

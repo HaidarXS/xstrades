@@ -1,4 +1,7 @@
 <?php
+$date = '٢٢';
+$month = 'أبريل';
+
 return[
 'OPEN_POSITIONS_ON_SHARES'=>'المراكز المفتوحة على الأسهم أو المؤشرات في بداية يوم العمل (وقت الخادم 00:00)، الذي يتزامن مع تاريخ استحقاق الأصل الأساسي المقصود، سيتم تطبيق تعديلات الأرباح عليه.
 <br/><br/>
@@ -34,62 +37,23 @@ return[
 'AUS200' => 'AUS200',
 'US30_USD'=>'US30',
 
-'UPCOMING_CORPORATE_ACTIONS'=>'الإجراءات المؤسسية المجدولة في الفترة من ٢٥ إلى ٢٩ مارس ٢٠٢٤	',
+'UPCOMING_CORPORATE_ACTIONS'=>'إجراءات الشركة في الفترة القادمة من ٢٩ أبريل  إلى ٣ مايو ٢٠٢٤ ',
 
-'CASH_INDICES'=>'المؤشرات النقدية بين  25/03/2024 - 29/03/2024',
+'CASH_INDICES'=>'المؤشرات النقدية بين ٢٩ أبريل  ٢٠٢٤ و  ٣ مايو ٢٠٢٤ ',
 
-'SHARE_CASH_DIVIDENDS'=>'أسهم – الأرباح النقدية بين  25/03/2024 - 29/03/2024',
+'SHARE_CASH_DIVIDENDS'=>'أسهم – الأرباح النقدية بين  ٢٩ أبريل  ٢٠٢٤ و  ٣ مايو ٢٠٢٤ ',
 
-'MONDAY'=>'الإثنين 25 آذار 2024',
-'TUESDAY'=>'الثلاثاء  26 آذار 2024',
-'WEDNESDAY'=>'الأربعاء 27 آذار 2024',
-'THURSDAY'=>'الخميس  28 آذار 2024',
-'FRIDAY'=>'الجمعة 29 آذار 2024',
+'MONDAY'=>'الإثنين  ٢٩ أبريل  ٢٠٢٤',
+'TUESDAY'=>'الثلاثاء ٣٠ أبريل ٢٠٢٤',
+'WEDNESDAY'=>'الأربعاء ١ مايو ٢٠٢٤',
+'THURSDAY'=>'الخميس ٢ مايو ٢٠٢٤',
+'FRIDAY'=>'الجمعة ٣ مايو ٢٠٢٤ ',
+// 'MONDAY'=>'الإثنين ٢٢ '.$month.' 2024',
+// 'TUESDAY'=>'الثلاثاء ٢٣ '.$month.' 2024',
+// 'WEDNESDAY'=>'الأربعاء ٢٤ '.$month.' 2024',
+// 'THURSDAY'=>'الخميس  ٢٥ '.$month.' 2024',
+// 'FRIDAY'=>'الجمعة ٢٦ '.$month.' 2024',
 
-'2_5_2024'=>'2/5/2024',
-'2_6_2024'=>'2/6/2024',
-'2_7_2024'=>'2/7/2024',
-'2_8_2024'=>'2/8/2024',
-'2_9_2024'=>'2/9/2024',
-
-'ASML'=>'ASML',
-'ASML_HOLDING_NV'=>'ASML Holding NV',
-'DHI'=>'DHI',
-'D_R_HORTON_INC'=>'D.R. Horton Inc',
-'LNG'=>'LNG',
-'CHENIERE_ENERGY_INC'=>'Cheniere Energy Inc',
-'LVS'=>'LVS',
-'LAS_VEGAS_SANDS_CORP'=>'Las Vegas Sands Corp',
-'MET'=>'MET',
-'METLIFE_INC'=>'MetLife Inc',
-'FE'=>'FE',
-'FIRSTENERGY_CORP'=>'FirstEnergy Corp',
-'INTC'=>'INTC',
-'INTEL_CORP'=>'Intel Corp',
-'ADM'=>'ADM',
-'ARCHER_DANIELS_MIDLAND_CO'=>'Archer-Daniels-Midland Co',
-'AWK'=>'AWK',
-'AMERICAN_WATER_WORKS'=>'American Water Works Co Inc',
-'RMD'=>'RMD',
-"RESMED_INC"=>'ResMed Inc',
-'STZ'=>'STZ',
-'CONSTELLATION_BRANDS_INC'=>'Constellation Brands Inc',
-'AEP'=>'AEP',
-'AMERICAN_ELECTRIC_POWER'=>'American Electric Power Co Inc',
-'ETR'=>'ETR',
-'ENTERGY_CORP'=>'Entergy Corp',
-'HWM'=>'HWM',
-'HOWMET_AEROSPACE_INC'=>'Howmet Aerospace Inc',
-'HXL'=>'HXL',
-'HEXCEL_CORP'=>'Hexcel Corp',
-'SBUX'=>'SBUX',
-'STARBUCKS_CORP'=>'Starbucks Corp',
-'SIRI'=>'SIRI',
-'SIRIUS_XM_HOLDINGS_INC'=>'Sirius XM Holdings Inc',
-'V'=>'V',
-'VISA_INC'=>'Visa Inc',
-'LAZ'=>'LAZ',
-'LAZARD_LTD'=>'Lazard Ltd',
 
 'EXAMPLE' => 'مثال:',
 'THERE_IS_A_DIVIDEND' => 'هناك تعديل أرباح بنسبة 4.383 على مؤشر US30. يمتلك أحد العملاء حسابًا بالدولار الأمريكي ويملك مركزًا طويلًا (شراء) بقيمة 20 في مؤشر US30. في تاريخ الاستحقاق، سيتلقى العميل دفعة مالية قدرها 20 * 4.383 = 87.66 دولار أمريكي.

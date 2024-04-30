@@ -1,4 +1,4 @@
-<?php 
+<?php
     return [
         'PAGE_TITLE' => '取引時間',
         'PAGE_DESC' => '詳細な取引時間スケジュールをご覧いただき、取引戦略にお役立てください。',
@@ -8,9 +8,9 @@
         'TRADING_HOLIDAYS' => '閉場',
         'TRADING_NOTICES' => '取引時間に関するお知らせ',
         'NORMAL_HOURS_TITLE' => '通常取引時間 ',
-        'NORMAL_HOURS_DESC' => '通常取引時間とは、特定の金融市場で取引が可能な時間帯を指します。以下の表では、XSで取引可能な金融商品の通常取引時間を表示しています
+        'NORMAL_HOURS_DESC' => '通常取引時間とは、特定の金融市場で取引が可能な時間帯を指します。以下の表では、XSで取引可能な金融商品の通常取引時間を表示しています。
         <br/><br/>
-        シーズンや市場要因によって、下記の取引時間に影響を与える可能性がありますので、取引時間に関するシーズンによる変更については、閉場と取引通知のページで最新情報をご確認ください。
+        シーズンや市場要因によって、下記の取引時間に影響を与える可能性がありますので、シーズンによる取引時間の変更については、閉場と取引通知のページで最新情報をご確認ください。
         <br/><br/>
         （※以下の表の時間は全てサーバー時間（GMT+3）です。）',
         'TRADING_HOURS_TABLE'=>'取引時間',
@@ -23,15 +23,15 @@
 
         'ENERGY_INSTRUMENTS_1' => 'UKOIL',
         'ENERGY_HOURS_1' => '月曜日 03:00 〜 金曜日 24:00 (取引休止時間: 00:00:01 〜 02:59:59)',
-       
+
         'ENERGY_INSTRUMENTS_2' => 'USOIL',
-        
+
         'ENERGY_INSTRUMENTS_3' => 'NGAS',
         'ENERGY_HOURS_3' => '月曜日 01:00 〜 金曜日 23:59 (取引休止時間: 00:00 〜 00:59)',
-        
+
         'INDICES_INSTRUMENTS_1' => 'AUS200',
         'INDICES_HOURS_1' => '月曜日 〜 金曜日: 02:50 〜 24:00 (取引休止時間: 09:30 〜 10:10)',
-        
+
         'INDICES_INSTRUMENTS_2' => 'DE40',
         'INDICES_HOURS_2' => '月曜日 〜 金曜日: 02:15 〜 23:00',
 
@@ -40,9 +40,9 @@
 
         'INDICES_INSTRUMENTS_4' => 'F40',
         'INDICES_HOURS_4' => '月曜日 〜 金曜日: 09:00 〜 23:00',
-        
+
         'INDICES_INSTRUMENTS_5' => 'EU50',
-        
+
         'INDICES_INSTRUMENTS_6' => 'ES35',
         'INDICES_HOURS_6' => '月曜日 〜 金曜日: 10:00 〜 21:00',
 
@@ -57,7 +57,7 @@
 
         'COMMODITIES_INSTRUMENTS_1' => 'COCOA.f',
         'HOURS_4' => '月曜日 〜 金曜日: 11:45 〜 20:30',
-        
+
         'COMMODITIES_INSTRUMENTS_2' => 'COFFEE.f',
         'COMMODITIES_HOURS_2' => '月曜日 〜 金曜日: 11:15 〜 20:30',
 
@@ -66,10 +66,10 @@
 
         'COMMODITIES_INSTRUMENTS_4' => 'CORN.f',
         'HOURS_5' => '月曜日 〜 金曜日: 03:00 〜 21:20 (取引休止時間: 15:45 〜 16:30)',
-        
+
         'COMMODITIES_INSTRUMENTS_5' => 'COTTON.f',
         'COMMODITIES_HOURS_5' => '月曜日 〜 金曜日: 04:00 〜 21:20',
-        
+
         'COMMODITIES_INSTRUMENTS_6' => 'SOYBEAN.f',
 
         'COMMODITIES_INSTRUMENTS_7' => 'SUGAR.f',
@@ -79,7 +79,7 @@
 
         'FUTURES_INSTRUMENTS_1' => 'ブレント原油先物',
         'FUTURES_HOURS_1' => '月曜日 03:00 〜 金曜日 23:59 (取引休止時間: 00:00 〜 02:59:59)',
-        
+
         'FUTURES_INSTRUMENTS_2' => '米国軽質スイート原油先物及び天然ガス先物',
         'FUTURES_HOURS_2' => '月曜日 01:00 〜 金曜日 23:59 (取引休止時間: 00:00 〜 00:59:59)',
 
@@ -87,9 +87,9 @@
         'HOURS_3' => '月曜日 〜 金曜日: 01:00 〜 23:59:59',
 
         'FUTURES_INSTRUMENTS_4' => '米国ナスダック100指数先物',
-        
+
         'FUTURES_INSTRUMENTS_5' => '米国S&P 500指数先物',
-        
+
         'FUTURES_INSTRUMENTS_6' => 'ドイツ40指数先物',
 
         'FUTURES_INSTRUMENTS_7' => 'ゴールド先物',
@@ -97,7 +97,7 @@
 
         'SHARES_INSTRUMENTS_1' => '欧州株式',
         'SHARES_HOURS_1' => '月曜日 〜 金曜日: 10:00 〜 18:30',
-        
+
         'SHARES_INSTRUMENTS_2' => '米国株式',
         'SHARES_HOURS_2' => '月曜日 〜 金曜日: 16:30 〜 23:00',
 

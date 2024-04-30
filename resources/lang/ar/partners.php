@@ -73,7 +73,7 @@ return [
     'LETS_TALK_PARTNERSHIP' => 'تواصل معنا',
     'LETS_TALK_PARTNERSHIP_DESCRIPTION' => 'فريق الخبراء لدينا على استعداد لمشاركة معارفهم وأفكارهم معك للتأكد من تحقيق أهدافك وتنفيذ استراتيجياتك. 
     <br/> <br/> 
-    إذا كنت ترغب في التحدث إلى أحد خبرائنا المتمرسين حول برامج الشراكة لدينا، فيرجى مراسلتنا عبر البريد الإلكتروني على العنوان التالي: <a href="mailto:partners@XSTrades.com">partners@XSTrades.com</a>',
+    إذا كنت ترغب في التحدث إلى أحد خبرائنا المتمرسين حول برامج الشراكة لدينا، فيرجى مراسلتنا عبر البريد الإلكتروني على العنوان التالي: <a href="mailto:partners@xs.com">partners@xs.com</a>',
 
     'BEST_FX_BROKER' => 'BEST FX BROKER',
     'BEST_B2B_BROKER' => 'BEST B2B BROKER',

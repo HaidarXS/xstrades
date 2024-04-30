@@ -27,7 +27,7 @@ Explorez nos types de comptes XS Copie soigneusement conçus, découvrez les ava
 'TRADERS_EARN'=> 'Les traders peuvent gagner un revenu supplémentaire lorsque les investisseurs copient leurs transactions réussies.',
 'LET_US_CONNECT_DESC'=> 'Notre équipe d’experts est prête à partager avec vous leurs connaissances et leurs idées pour vous assurer d’atteindre vos objectifs et de mettre en œuvre vos stratégies.
 <br/><br/>
-Si vous souhaitez discuter avec l\'un de nos experts chevronnés au sujet du Copie Trading, veuillez nous envoyer un e-mail à <a href="mailto:support@XSTrades.com"> support@XSTrades.com</a>',
+Si vous souhaitez discuter avec l\'un de nos experts chevronnés au sujet du Copie Trading, veuillez nous envoyer un e-mail à <a href="mailto:support@xs.com"> support@xs.com</a>',
 'DISCLAIMER' => 'Avertissement : Ni les traders XS ni Copy Trading ne sont des fournisseurs de services de comptes gérés discrétionnaires. Les traders négocient pour leur propre compte uniquement et le rôle de XS est celui d’un courtier exécutant uniquement. Les traders ne gèrent pas ou n’ont pas accès à vos fonds et peuvent même ne pas connaître votre identité. C’est votre propre décision de copier un trader Copy Trading particulier, ce qui signifie que toutes les décisions de trading prises par un trader Copy Trading seront considérées comme vos propres décisions de trading.',
 ];
 ?>

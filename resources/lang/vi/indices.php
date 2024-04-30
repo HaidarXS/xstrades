@@ -9,9 +9,9 @@
 
         'TRADE_WORKDS_LEADING' => 'Giao dịch các chỉ số chứng khoán hàng đầu thế giới với nhà môi giới toàn cầu' ,
 
-        'DESCRIPTION_1' => 'Giải phóng sức mạnh giao dịch các chỉ số chứng khoán hàng đầu thế giới và Giao dịch chỉ số chứng khoán quốc tế với XS Trades. Có quyền truy cập vào thị trường toàn cầu, mua và bán liền mạch các chỉ số chứng khoán hàng đầu như Dow Jones, Dax, Nasdaq, v.v.
+        'DESCRIPTION_1' => 'Giải phóng sức mạnh giao dịch các chỉ số chứng khoán hàng đầu thế giới và Giao dịch chỉ số chứng khoán quốc tế với XS. Có quyền truy cập vào thị trường toàn cầu, mua và bán liền mạch các chỉ số chứng khoán hàng đầu như Dow Jones, Dax, Nasdaq, v.v.
         <br/><br/>
-        Hãy tham gia XSTrades.com ngay hôm nay và giải phóng sức mạnh của giao dịch chỉ số chứng khoán',
+        Hãy tham gia XS.com ngay hôm nay và giải phóng sức mạnh của giao dịch chỉ số chứng khoán',
 
         'STOCK_INDICES_TRADING' => 'Giao dịch chỉ số chứng khoán với XS',
 
@@ -31,7 +31,7 @@
         <br/><br/>
         Ví dụ, khi giá dầu tăng, việc kỳ vọng cổ phiếu của các công ty dầu mỏ sẽ tăng là điều hợp lý. Tuy nhiên, các cổ phiếu riêng lẻ có thể tăng trưởng với tốc độ khác nhau hoặc không phản ứng gì cả. Trong những trường hợp như vậy, chỉ số giao ngay giúp nhà giao dịch hiểu được xu hướng thị trường tổng thể trong phân khúc đó mà không cần đánh giá vị thế của từng công ty.',
 
-        'UNDERSTANDING_INDICES_DESC_4' => 'Việc quan sát và giao dịch các chỉ số cung cấp cái nhìn sâu sắc về so sánh các ngành trong nền kinh tế. Với XS Trades, bạn có thể tham gia vào các biến động giá cả khi tăng và giảm.',
+        'UNDERSTANDING_INDICES_DESC_4' => 'Việc quan sát và giao dịch các chỉ số cung cấp cái nhìn sâu sắc về so sánh các ngành trong nền kinh tế. Với XS, bạn có thể tham gia vào các biến động giá cả khi tăng và giảm.',
 
         'UNDERSTANDING_INDICES_DESC_5' => 'XS cung cấp các điều khoản giao dịch toàn diện, báo giá chính xác từ nhiều nhà cung cấp và phân tích linh hoạt cho giao dịch chỉ số. Việc hiểu hành vi chỉ số đòi hỏi phải chú ý đến tin tức công ty của các công ty được bao gồm và các sự kiện toàn ngành.',
 
@@ -40,7 +40,7 @@
         'SECTION_2_TITLE' => 'GIAO DỊCH CHỈ SỐ VỚI XS: THÔNG SỐ HỢP ĐỒNG',
         "SECTION_3_TITLE" => "GIAO DỊCH CHỈ SỐ VỚI XS: ĐIỀU KIỆN GIAO DỊCH",
 
-        'DESCRIPTION_1' => 'Chào mừng đến với thế giới giao dịch chỉ số cùng XS Trades. Tham gia vào biến động giá chỉ số cả khi tăng và giảm với XS Trades, nơi bạn có thể giao dịch CFD trên các chỉ số chứng khoán hàng đầu thế giới với nhà môi giới toàn cầu tốt nhất. XS cung cấp các điều khoản giao dịch toàn diện, báo giá chính xác từ nhiều nhà cung cấp và phân tích linh hoạt cho giao dịch chỉ số. Việc nắm bắt thị trường chỉ số đòi hỏi phải chú ý đến tin tức của các công ty liên quan và các sự kiện toàn ngành.
+        'DESCRIPTION_1' => 'Chào mừng đến với thế giới giao dịch chỉ số cùng XS. Tham gia vào biến động giá chỉ số cả khi tăng và giảm với XS, nơi bạn có thể giao dịch CFD trên các chỉ số chứng khoán hàng đầu thế giới với nhà môi giới toàn cầu tốt nhất. XS cung cấp các điều khoản giao dịch toàn diện, báo giá chính xác từ nhiều nhà cung cấp và phân tích linh hoạt cho giao dịch chỉ số. Việc nắm bắt thị trường chỉ số đòi hỏi phải chú ý đến tin tức của các công ty liên quan và các sự kiện toàn ngành.
         ',
 
         'DESCRIPTION_2' => 'XS cung cấp quyền truy cập vào nhiều chỉ số chứng khoán, bao gồm Dow Jones (US30), NASDAQ hoặc US Tech (US100), Standard & Poor\'s hoặc S&P 500 (US500), Financial Times Stock Exchange hoặc FTSE 100 Index (UK100), S&P/ASX 200 của Úc (AUS200), chỉ số thị trường chứng khoán Đức / chỉ số Deutscher Aktien / chỉ số DAX (DE40), chỉ số thị trường chứng khoán Pháp / Cotation Assistée en Continu / CAC40 (F40), chỉ số thị trường Tây Ban Nha / chỉ số Iberia / IBEX (ES35) , EURO STOXX 50 (EU50) & Nikkei 225 Nhật Bản (JP225).
@@ -51,7 +51,7 @@
 
 
         "TRADING_CONDITION_1_TITLE" => "Giờ Giao Dịch Bình Thường",
-        "TRADING_CONDITION_1_DESCRIPTION" => "Giờ giao dịch bình thường đề cập đến các phiên giao dịch thông thường có sẵn để giao dịch. Dưới đây hiển thị giờ giao dịch bình thường đối với các chỉ số chứng khoán có sẵn để giao dịch với XS Trades.
+        "TRADING_CONDITION_1_DESCRIPTION" => "Giờ giao dịch bình thường đề cập đến các phiên giao dịch thông thường có sẵn để giao dịch. Dưới đây hiển thị giờ giao dịch bình thường đối với các chỉ số chứng khoán có sẵn để giao dịch với XS.
         <br/>
         Các yếu tố theo mùa và thị trường có thể ảnh hưởng đến giờ giao dịch bên dưới, vì vậy điều quan trọng là phải theo dõi các cập nhật mới nhất trên trang Giờ giao dịch để luôn cập nhật những thay đổi mới nhất theo mùa về giờ giao dịch. Tất cả thời gian đều tính theo giờ máy chủ (GMT+3).
 
@@ -88,19 +88,19 @@
         ",
 
         "TRADING_CONDITION_3_TITLE" => "Spreads",
-        "TRADING_CONDITION_3_DESCRIPTION" => "XSTrades.com cung cấp chênh lệch thả nổi trên tất cả các chỉ số cho tất cả các loại tài khoản. Do đó, mức chênh lệch trong bảng thông số hợp đồng là mức chênh lệch trung bình dựa trên ngày giao dịch trước đó. Để biết chênh lệch trực tiếp, vui lòng tham khảo nền tảng giao dịch. Xin lưu ý rằng chênh lệch có thể tăng lên khi thị trường có tính thanh khoản thấp hơn, bao gồm cả thời gian tái đầu tư.",
+        "TRADING_CONDITION_3_DESCRIPTION" => "XS.com cung cấp chênh lệch thả nổi trên tất cả các chỉ số cho tất cả các loại tài khoản. Do đó, mức chênh lệch trong bảng thông số hợp đồng là mức chênh lệch trung bình dựa trên ngày giao dịch trước đó. Để biết chênh lệch trực tiếp, vui lòng tham khảo nền tảng giao dịch. Xin lưu ý rằng chênh lệch có thể tăng lên khi thị trường có tính thanh khoản thấp hơn, bao gồm cả thời gian tái đầu tư.",
 
         "TRADING_CONDITION_4_TITLE" => "Biểu Đồ Giá",
-        "TRADING_CONDITION_4_DESCRIPTION" => "XSTrades.com cung cấp nhiều loại tài khoản giao dịch phù hợp với nhu cầu và sở thích của từng nhà giao dịch. Chúng tôi cung cấp các tài khoản với mức giá thô được tính phí hoa hồng bổ sung. Các loại tài khoản khác không có hoa hồng mà thay vào đó có phần chênh lệch được tính vào giá. Theo mặc định, biểu đồ trong nền tảng giao dịch MetaTrader sẽ hiển thị giá thô, trong khi theo dõi thị trường sẽ hiển thị giá của loại tài khoản mà khách hàng đang giao dịch.",
+        "TRADING_CONDITION_4_DESCRIPTION" => "XS.com cung cấp nhiều loại tài khoản giao dịch phù hợp với nhu cầu và sở thích của từng nhà giao dịch. Chúng tôi cung cấp các tài khoản với mức giá thô được tính phí hoa hồng bổ sung. Các loại tài khoản khác không có hoa hồng mà thay vào đó có phần chênh lệch được tính vào giá. Theo mặc định, biểu đồ trong nền tảng giao dịch MetaTrader sẽ hiển thị giá thô, trong khi theo dõi thị trường sẽ hiển thị giá của loại tài khoản mà khách hàng đang giao dịch.",
 
         "TRADING_CONDITION_5_TITLE" => "Swaps",
         "TRADING_CONDITION_5_DESCRIPTION" => "Swap long được sử dụng để giữ các vị thế mua mở qua đêm và Swap short được sử dụng để giữ các vị thế bán mở qua đêm. Swap xảy ra vào lúc 00:00 giờ máy chủ mỗi ngày, trừ cuối tuần, cho đến khi vị thế đóng. Swap được tính ba lần vào thứ Tư để trang trải chi phí tài chính phát sinh vào cuối tuần.",
 
         "TRADING_CONDITION_6_TITLE" => "Đòn Bẩy Động",
-        "TRADING_CONDITION_6_DESCRIPTION" => "XSTrades.com cung cấp đòn bẩy linh hoạt cho các chỉ số trên hầu hết các loại tài khoản. Các giá trị đòn bẩy trong bảng thông số hợp đồng là đòn bẩy tối đa cho mỗi công cụ giao dịch. Đòn bẩy tối đa sẽ thay đổi dựa trên các vị thế mở ròng của bạn. Để biết thêm chi tiết, vui lòng kiểm tra trang Đòn bẩy động.",
+        "TRADING_CONDITION_6_DESCRIPTION" => "XS.com cung cấp đòn bẩy linh hoạt cho các chỉ số trên hầu hết các loại tài khoản. Các giá trị đòn bẩy trong bảng thông số hợp đồng là đòn bẩy tối đa cho mỗi công cụ giao dịch. Đòn bẩy tối đa sẽ thay đổi dựa trên các vị thế mở ròng của bạn. Để biết thêm chi tiết, vui lòng kiểm tra trang Đòn bẩy động.",
 
         "TRADING_CONDITION_7_TITLE" => "Đòn Bẩy Cố Định",
-        "TRADING_CONDITION_7_DESCRIPTION" => "XSTrades.com cung cấp đòn bẩy cố định trên một số loại tài khoản. Trong trường hợp này, đòn bẩy tối đa được hiển thị trong bảng thông số hợp đồng sẽ KHÔNG thay đổi dựa trên các vị thế mở ròng của bạn. Đòn bẩy cố định áp dụng cho các loại tài khoản Cent & Mirco.
+        "TRADING_CONDITION_7_DESCRIPTION" => "XS.com cung cấp đòn bẩy cố định trên một số loại tài khoản. Trong trường hợp này, đòn bẩy tối đa được hiển thị trong bảng thông số hợp đồng sẽ KHÔNG thay đổi dựa trên các vị thế mở ròng của bạn. Đòn bẩy cố định áp dụng cho các loại tài khoản Cent & Mirco.
         ",
 
         "TRADING_CONDITION_8_TITLE" => "Khoảng Thời Gian Yêu Cầu Ký Quỹ Cao Hơn ",

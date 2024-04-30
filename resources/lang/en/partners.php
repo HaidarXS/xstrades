@@ -11,11 +11,11 @@ return [
     'STEP_2_TITLE' => 'REFER',
     'STEP_3_TITLE' => 'EARN',
 
-    'STEP_1_DESCRIPTION' => 'Register with XS Trades and <br/> become an XS Trades Partner',
+    'STEP_1_DESCRIPTION' => 'Register with XS and <br/> become an XS Partner',
     'STEP_2_DESCRIPTION' => 'Publish your partner link <br/> and refer clients to XS',
     'STEP_3_DESCRIPTION' => 'Grow your income as <br/> your clients trade with XS',
 
-    'WHY_JOIN_INFLUENCERS_XS' => 'Why Join Influencers Program With XS Trades?',
+    'WHY_JOIN_INFLUENCERS_XS' => 'Why Join Influencers Program With XS?',
 
     'INFLUENCERS_REASON_1_TITLE' => 'Multiple Programs:',
     'INFLUENCERS_REASON_1_DESCRIPTION' => ' Our partnership programs suit the needs of a wide range of partners.',
@@ -41,10 +41,10 @@ return [
     'INFLUENCERS_REASON_8_TITLE' => ' Premium Conditions:',
     'INFLUENCERS_REASON_8_DESCRIPTION' => ' The best conditions for you & the best experience for your clients.',
 
-    'WHY_CLIENTS_CHOSE_XS' => 'Why Do Clients Choose XS Trades?',
+    'WHY_CLIENTS_CHOSE_XS' => 'Why Do Clients Choose XS?',
 
     'CHOOSE_REASON_1_TITLE' => 'Trusted Global Broker:',
-    'CHOOSE_REASON_1_DESCRIPTION' => ' XSTrades.com is a trusted global broker with multiple regulations.',
+    'CHOOSE_REASON_1_DESCRIPTION' => ' XS.com is a trusted global broker with multiple regulations.',
 
     'CHOOSE_REASON_2_TITLE' => ' Award-Winning Broker:',
     'CHOOSE_REASON_2_DESCRIPTION' => ' Trade with a broker that has been recognized for its services. ',
@@ -71,7 +71,7 @@ return [
     'CHOOSE_REASON_9_DESCRIPTION' => 'Take advantage of our Customer Support in your language',
 
     'LETS_TALK_PARTNERSHIP' => 'LET’S TALK PARTNERSHIP',
-    'LETS_TALK_PARTNERSHIP_DESCRIPTION' => 'Our team of experts is ready to share with you their knowledge and insights to make sure you meet your objectives and implement your strategies. <br/> <br/> If you would like to talk to one of our seasoned experts about our partnership programs, please email us at <a href="mailto:partners@XSTrades.com">partners@XSTrades.com</a>',
+    'LETS_TALK_PARTNERSHIP_DESCRIPTION' => 'Our team of experts is ready to share with you their knowledge and insights to make sure you meet your objectives and implement your strategies. <br/> <br/> If you would like to talk to one of our seasoned experts about our partnership programs, please email us at <a href="mailto:partners@xs.com">partners@xs.com</a>',
 
     'BEST_FX_BROKER' => 'BEST FX BROKER',
     'BEST_B2B_BROKER' => 'BEST B2B BROKER',

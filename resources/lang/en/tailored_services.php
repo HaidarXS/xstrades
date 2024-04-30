@@ -6,7 +6,7 @@
         
         'TAILORED_SERVICES' => 'Tailored Services & Solutions',
         'TAILORED_SERVICES_DESCRIPTION' => 'Our advanced infrastructure allows us to provide tailored institutional services & solutions to a wide range of institutional clients. These services and solutions can be customized and tailored to meet the needs of our corporate and Institutional clients who wish to benefit from the knowledge and experience we have acquired over the years. We are committed to helping our clients achieve their trading objectives while providing comprehensive support, personalized service, and innovative solutions.',
-        'WHY_CHOSE_XS' => 'Why Choose XS Trades Tailored Services & Solutions?',
+        'WHY_CHOSE_XS' => 'Why Choose XS Tailored Services & Solutions?',
 
         'REASON_1_TITLE' => 'Comprehensive Solutions:',
         'REASON_1_DESCRIPTION' => ' A complete white label solution with liquidity & full support.',

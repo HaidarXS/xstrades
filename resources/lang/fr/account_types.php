@@ -1,7 +1,7 @@
 <?php
 return [
     'ACCOUNT_TYPES_TITLE' => 'Explorez nos différents types de comptes',
-    'ACCOUNT_TYPES_DESCRIPTION' => 'Explorez nos types de comptes soigneusement conçus pour répondre aux besoins des traders de tous niveaux, découvrez les avantages de chaque type de compte et choisissez celui qui correspond à vos objectifs de trading.<br/> Nos divers types de comptes offrent diverses fonctionnalités et avantages, vous permettant d\'accéder aux marchés mondiaux et de maximiser votre potentiel de trading.<br/>Accédez à une large gamme d\'instruments de trading avec des conditions de trading compétitives et profitez de la meilleure expérience de trading du secteur avec XS Trades.',
+    'ACCOUNT_TYPES_DESCRIPTION' => 'Explorez nos types de comptes soigneusement conçus pour répondre aux besoins des traders de tous niveaux, découvrez les avantages de chaque type de compte et choisissez celui qui correspond à vos objectifs de trading.<br/> Nos divers types de comptes offrent diverses fonctionnalités et avantages, vous permettant d\'accéder aux marchés mondiaux et de maximiser votre potentiel de trading.<br/>Accédez à une large gamme d\'instruments de trading avec des conditions de trading compétitives et profitez de la meilleure expérience de trading du secteur avec XS.',
     'ACCOUNT_TYPES_SUBTITLE' => 'Optimisez votre potentiel de trading avec nos différents types de comptes.',
 
     'SELECT_CATEGORY' => 'Sélectionner une catégorie',

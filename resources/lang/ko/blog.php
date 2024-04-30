@@ -7,7 +7,7 @@ return [
 
     'SHARE_THIS_BLOG'=>'이 블로그 공유하기:',
     'NO_BLOGS' =>  '블로그를 찾을 수 없습니다',
-    'SEARCH' => "찾다",
+    'SEARCH' => "찾기",
     'BY' => "By",
     'ALL' => '모두'
 ];

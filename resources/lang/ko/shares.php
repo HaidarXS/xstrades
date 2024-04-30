@@ -7,9 +7,9 @@
         'SHARES_DESCRIPTION' => 'XS 그룹은 전 세계 주요 규제 기관에서 규제를 받고 인증을 받은 글로벌 핀테크 및 금융 서비스 제공업체입니다. <br/><br/> 우리는 글로벌 금융 산업에서 신뢰, 진실성 및 책임을 보장하기 위해 규제 준수를 최우선으로합니다. 우리의 운영은 우리가 활동하는 각 관할 지역의 관련 기관이 정한 규정과 요구 사항을 준수합니다.',
         'INVEST_IN_POPULAR_COMPANIES_WITH_A_GLOBAL_BROKER' => '글로벌 브로커와 함께 인기있는 회사에 투자하기',
         'DESCRIPTION_1' => 'XS로 세계에서 가장 인기 있는 기업을 잠금 해제하고 국제 주식 CFD를 거래하세요. 글로벌 시장에 접근하고 Amazon, Alibaba, Apple 등과 같은 선도 기업을 원활하게 매수 및 매도하세요.
-        <br/> XSTrades.com에 가입하여 글로벌 시장에서 주식 및 주식 거래의 잠재력을 발휘하세요.',
+        <br/> XS.com에 가입하여 글로벌 시장에서 주식 및 주식 거래의 잠재력을 발휘하세요.',
         'SHARES_STOCKS_TRADING_WITH_XS' => 'XS와 함께 주식 거래하기',
-        'DESCRIPTION_2' => 'XSTrades.com에서 주식 및 주식 거래의 흥미를 경험하세요. 우리 플랫폼의 원활한 CFD 거래 기능을 활용하여 수천 개의 글로벌 주식에서 CFD를 거래 할 수 있습니다. 초고속 주문 실행과 경쟁력있는 거래 조건을 통해 빠르고 효율적으로 시장 기회를 포착할 수 있습니다. 미국, 영국 및 EU의 유명 기업 주식 CFD를 거래하세요.',
+        'DESCRIPTION_2' => 'XS.com에서 주식 및 주식 거래의 흥미를 경험하세요. 우리 플랫폼의 원활한 CFD 거래 기능을 활용하여 수천 개의 글로벌 주식에서 CFD를 거래 할 수 있습니다. 초고속 주문 실행과 경쟁력있는 거래 조건을 통해 빠르고 효율적으로 시장 기회를 포착할 수 있습니다. 미국, 영국 및 EU의 유명 기업 주식 CFD를 거래하세요.',
         'UNDERSTANDING_SHARES' => '주식에 대한 이해: 개요',
         
         'UNDERSTANDING_SHARES_DESC_1' => '주식은 투자자에게 특정 권리 및 혜택과 함께 회사에 대한 부분 소유권을 부여하는 일종의 증권입니다. 주식에 대해 알아야 할 사항은 다음과 같습니다. ',
@@ -47,8 +47,8 @@
             <br/>
             <br/> 
             <span class='d-flex'> US Stocks : <span class='ms-auto'> 월요일 - 금요일: 16:30 - 23:00 </span></span>
-            <span class='d-flex'> SUCRE.f : <span class='ms-auto'> 월요일 - 금요일: 10:00 - 18:30 </span></span>
-            <span class='d-flex'> BLÉ. f : <span class='ms-auto'> 월요일 - 금요일 04:30 - 11:00 </span></span>
+            <span class='d-flex'> EU Stocks : <span class='ms-auto'> 월요일 - 금요일: 10:00 - 18:30 </span></span>
+            <span class='d-flex'> HK Stocks : <span class='ms-auto'> 월요일 - 금요일 04:30 - 11:00 </span></span>
             ",
             // <br/>
             // &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Friday: 00:00 - 23:55
@@ -60,13 +60,13 @@
         ",
         
         "TRADING_CONDITION_3_TITLE" => "스프레드",
-        "TRADING_CONDITION_3_DESCRIPTION" => "XSTrades.com은 모든 계정 유형에 대해 모든 주식에 대한 변동 스프레드를 제공합니다. 따라서 계약 사양표의 스프레드는 전 거래일 기준의 평균 스프레드입니다. 실시간 스프레드에 대해서는 거래 플랫폼을 참조하세요. 롤오버 시간을 포함하여 시장의 유동성이 낮아지면 스프레드가 확대될 수 있다는 점에 유의하시기 바랍니다.",
+        "TRADING_CONDITION_3_DESCRIPTION" => "XS.com은 모든 계정 유형에 대해 모든 주식에 대한 변동 스프레드를 제공합니다. 따라서 계약 사양표의 스프레드는 전 거래일 기준의 평균 스프레드입니다. 실시간 스프레드에 대해서는 거래 플랫폼을 참조하세요. 롤오버 시간을 포함하여 시장의 유동성이 낮아지면 스프레드가 확대될 수 있다는 점에 유의하시기 바랍니다.",
     
         "TRADING_CONDITION_4_TITLE" => "차트 가격",
-        "TRADING_CONDITION_4_DESCRIPTION" => "XSTrades.com은 각 거래자의 필요와 선호도에 맞는 다양한 거래 계정을 제공합니다. 당사는 추가 수수료가 부과되는 로우 가격(raw pricing)으로 계정을 제공합니다. 다른 계정 유형에는 커미션이 없지만 대신 가격에 마크업이 포함되어 있습니다. 기본적으로 Metatrader 거래 플랫폼의 차트에는 로우 가격(raw pricing)이 표시되고, 마켓 워치에는 고객이 거래하는 계정 유형의 가격이 표시됩니다.",
+        "TRADING_CONDITION_4_DESCRIPTION" => "XS.com은 각 거래자의 필요와 선호도에 맞는 다양한 거래 계정을 제공합니다. 당사는 추가 수수료가 부과되는 로우 가격(raw pricing)으로 계정을 제공합니다. 다른 계정 유형에는 커미션이 없지만 대신 가격에 마크업이 포함되어 있습니다. 기본적으로 Metatrader 거래 플랫폼의 차트에는 로우 가격(raw pricing)이 표시되고, 마켓 워치에는 고객이 거래하는 계정 유형의 가격이 표시됩니다.",
     
         "TRADING_CONDITION_5_TITLE" => "고정 레버리지",
-        "TRADING_CONDITION_5_DESCRIPTION" => "XSTrades.com은 모든 계정 유형에서 주식에 대해 고정 레버리지를 제공합니다. 이 경우 계약 사양 표에 표시된 최대 레버리지는 순 오픈 포지션(net open positions) 또는 계정 유형에 따라 변경되지 않습니다.",
+        "TRADING_CONDITION_5_DESCRIPTION" => "XS.com은 모든 계정 유형에서 주식에 대해 고정 레버리지를 제공합니다. 이 경우 계약 사양 표에 표시된 최대 레버리지는 순 오픈 포지션(net open positions) 또는 계정 유형에 따라 변경되지 않습니다.",
     
         "TRADING_CONDITION_6_TITLE" => "스탑 레벨 ",
         "TRADING_CONDITION_6_DESCRIPTION" => "스탑 레벨은 현재 시장가와 지정가 주문 (Pending Order)가격 사이의 최소 거리(핍 차이)입니다. 계약 사양 표의 스톱 레벨 값은 변경될 수 있으며 특정 고빈도 트레이딩 전략 또는 전문가 자문가(Expert Advisors)를 사용하는 거래자에게는 제공되지 않을 수 있습니다.",

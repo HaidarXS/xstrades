@@ -13,7 +13,7 @@ return [
     'BEST_B2B_BROKER' => '최고의 B2B 브로커',
     'SOMETHING_REGARDING_AWARD' => '수상과 관련한 어떤 내용',
     'WITH_OUR_UNWAVERING_COMMITMENT' => '우리의 무한한 탁월함과 금융 시장에 대한 열정으로 모든 수준의 트레이더를 위한 포괄적인 솔루션을 제공합니다. <br/><br/> 
-    <a style="text-decoration:none;" href="https://my.XSTrades.com/register" target="_blank">XSTrades.com</a>에 가입하고 흥미진진하고 보상적인 거래 경험을 시작하세요. 
+    <a style="text-decoration:none;" href="https://my.xs.com/register" target="_blank">XS.com</a>에 가입하고 흥미진진하고 보상적인 거래 경험을 시작하세요. 
     여기에서 금융 능력을 키우세요.',
     'COMPANY_AWARDS' => '회사 수상 내역',
     'BEST_MULTI_ASSET_BROKER' => '최고의 다자산 브로커',

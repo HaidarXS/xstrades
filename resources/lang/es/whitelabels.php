@@ -8,7 +8,7 @@ return [
     'WHITE_LABEL_SOLUTIONS' => 'Soluciones de Etiqueta Blanca',
     'WHITE_LABEL_SOLUTIONS_DESCRIPTION' => 'Nuestras soluciones de etiqueta blanca están diseñadas para clientes corporativos e institucionales que planean tener su propio sistema de trading multiactivo propietario con su marca. Esta solución les permite operar como un corredor totalmente independiente y proporcionar a sus clientes la capacidad de operar productos financieros globales.
     Incluye plataformas de trading totalmente personalizadas, módulo completo de back-office, CRM, alimentación de precios, profunda liquidez, integración FIX API y conexión de puente, además de un programa de capacitación completo y soporte técnico 24/7.',
-    'WHY_CHOSE_XS' => '¿Por qué elegir las soluciones de tecnología y fintech de XS Trades?',
+    'WHY_CHOSE_XS' => '¿Por qué elegir las soluciones de tecnología y fintech de XS?',
 
     'REASON_1_TITLE' => 'Soluciones de Etiqueta Blanca Integrales:',
     'REASON_1_DESCRIPTION' => 'Proporcionamos una solución completa, que incluye acceso a profunda liquidez, tecnología avanzada, marca personalizable y soporte completo.',

@@ -7,7 +7,7 @@ return [
 
     "SECTION_1_TITLE" => "TRADEZ LES MÉTAUX AVEC LA MEILLEURE PLATEFORME DE TRADING EN LIGNE",
 
-    'DESCRIPTION_1' => "Bienvenue dans le monde du trading des métaux avec XS Trades. Découvrez les vastes possibilités du trading des métaux avec XS Trades, où vous pouvez négocier des CFD sur l'or, l'argent, le platine, le palladium, l'acier et d'autres métaux avec un courtier primé. 
+    'DESCRIPTION_1' => "Bienvenue dans le monde du trading des métaux avec XS. Découvrez les vastes possibilités du trading des métaux avec XS, où vous pouvez négocier des CFD sur l'or, l'argent, le platine, le palladium, l'acier et d'autres métaux avec un courtier primé. 
         <br/>
         <br/> 
         XS offre une plateforme fluide pour explorer le trading des métaux au comptant, vous permettant de tirer profit de nouvelles opportunités de trading.
@@ -24,7 +24,7 @@ return [
 
 
     "TRADING_CONDITION_1_TITLE" => "Heures normales de trading",
-    "TRADING_CONDITION_1_DESCRIPTION" => "Les heures normales de trading font référence aux sessions de trading régulières disponibles pour le trading. Ci-dessous, vous trouverez les heures normales de trading pour les paires de métaux disponibles pour le trading avec XS Trades. Les facteurs saisonniers et de marché peuvent affecter les heures de trading ci-dessous, il est donc important de suivre les dernières mises à jour sur la page des heures de trading pour rester à jour avec les derniers changements saisonniers des heures de trading. Tous les horaires sont indiqués en heure du serveur (GMT+2).
+    "TRADING_CONDITION_1_DESCRIPTION" => "Les heures normales de trading font référence aux sessions de trading régulières disponibles pour le trading. Ci-dessous, vous trouverez les heures normales de trading pour les paires de métaux disponibles pour le trading avec XS. Les facteurs saisonniers et de marché peuvent affecter les heures de trading ci-dessous, il est donc important de suivre les dernières mises à jour sur la page des heures de trading pour rester à jour avec les derniers changements saisonniers des heures de trading. Tous les horaires sont indiqués en heure du serveur (GMT+3).
            	
         <span class='d-flex'>XAU, XAG, XPD & XPT Pairs  <span class='ms-auto'>Monday 01:05 – Friday 23:55</span></span>
         <span class='ms-auto'>(Daily Break: 00:00 – 00:59)</span>
@@ -33,19 +33,19 @@ return [
     // &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Friday: 00:00 - 23:55
 
     "TRADING_CONDITION_2_TITLE" => "Spreads",
-    "TRADING_CONDITION_2_DESCRIPTION" => "XSTrades.com propose des spreads flottants sur tous les produits métalliques pour tous les types de compte. Ainsi, les spreads indiqués dans le tableau des spécifications de contrat représentent la moyenne des spreads basée sur la journée de trading précédente. Pour des spreads en temps réel, veuillez vous référer à la plateforme de trading. Veuillez noter que les spreads peuvent s'élargir lorsque les marchés connaissent une liquidité plus faible, notamment pendant les périodes de rollover.",
+    "TRADING_CONDITION_2_DESCRIPTION" => "XS.com propose des spreads flottants sur tous les produits métalliques pour tous les types de compte. Ainsi, les spreads indiqués dans le tableau des spécifications de contrat représentent la moyenne des spreads basée sur la journée de trading précédente. Pour des spreads en temps réel, veuillez vous référer à la plateforme de trading. Veuillez noter que les spreads peuvent s'élargir lorsque les marchés connaissent une liquidité plus faible, notamment pendant les périodes de rollover.",
 
     "TRADING_CONDITION_3_TITLE" => "Prix des graphiques",
-    "TRADING_CONDITION_3_DESCRIPTION" => "XSTrades.com propose une variété de comptes de trading adaptés aux besoins et préférences de chaque trader. Nous proposons des comptes avec des prix bruts auxquels des commissions supplémentaires sont appliquées. D'autres types de compte n'ont pas de commission, mais intègrent plutôt des majorations dans les prix. Par défaut, le graphique dans les plateformes de trading MetaTrader affiche les prix bruts, tandis que la surveillance du marché affiche les prix du type de compte sur lequel le client trade.",
+    "TRADING_CONDITION_3_DESCRIPTION" => "XS.com propose une variété de comptes de trading adaptés aux besoins et préférences de chaque trader. Nous proposons des comptes avec des prix bruts auxquels des commissions supplémentaires sont appliquées. D'autres types de compte n'ont pas de commission, mais intègrent plutôt des majorations dans les prix. Par défaut, le graphique dans les plateformes de trading MetaTrader affiche les prix bruts, tandis que la surveillance du marché affiche les prix du type de compte sur lequel le client trade.",
 
     "TRADING_CONDITION_4_TITLE" => "Swaps",
     "TRADING_CONDITION_4_DESCRIPTION" => "Le swap long est utilisé pour maintenir des positions d'achat ouvertes pendant la nuit, et le swap court est utilisé pour maintenir des positions de vente ouvertes pendant la nuit. Les swaps sont calculés et appliqués à 00h00 heure du serveur chaque jour, à l'exception du week-end, jusqu'à ce que la position soit fermée. Des swaps triples sont facturés le mercredi pour couvrir les coûts de financement encourus pendant le week-end.",
 
     "TRADING_CONDITION_5_TITLE" => "Levier Dynamique",
-    "TRADING_CONDITION_5_DESCRIPTION" => "XSTrades.com propose un effet de levier dynamique sur les métaux pour la plupart des types de compte. Les valeurs d'effet de levier indiquées dans le tableau des spécifications de contrat correspondent à l'effet de levier maximal autorisé pour chaque instrument de trading. L'effet de levier maximal peut varier en fonction de vos positions nettes ouvertes. Pour plus de détails, veuillez consulter la page sur l'effet de levier dynamique.",
+    "TRADING_CONDITION_5_DESCRIPTION" => "XS.com propose un effet de levier dynamique sur les métaux pour la plupart des types de compte. Les valeurs d'effet de levier indiquées dans le tableau des spécifications de contrat correspondent à l'effet de levier maximal autorisé pour chaque instrument de trading. L'effet de levier maximal peut varier en fonction de vos positions nettes ouvertes. Pour plus de détails, veuillez consulter la page sur l'effet de levier dynamique.",
 
     "TRADING_CONDITION_6_TITLE" => "Levier Fixe",
-    "TRADING_CONDITION_6_DESCRIPTION" => "XSTrades.com propose un effet de levier fixe sur les métaux pour certains types de compte. Dans ce cas, l'effet de levier maximal affiché dans le tableau des spécifications de contrat ne changera PAS en fonction de vos positions nettes ouvertes. L'effet de levier fixe s'applique aux types de compte Cent & Micro.",
+    "TRADING_CONDITION_6_DESCRIPTION" => "XS.com propose un effet de levier fixe sur les métaux pour certains types de compte. Dans ce cas, l'effet de levier maximal affiché dans le tableau des spécifications de contrat ne changera PAS en fonction de vos positions nettes ouvertes. L'effet de levier fixe s'applique aux types de compte Cent & Micro.",
 
     "TRADING_CONDITION_7_TITLE" => "Périodes de Exigences de Marge Supérieur",
     "TRADING_CONDITION_7_DESCRIPTION" => "Nous appliquons des mesures de gestion des risques pour protéger les positions contre une éventuelle forte volatilité pendant des événements clés et des périodes spécifiques qui influent sur la volatilité générale du marché.

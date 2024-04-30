@@ -30,7 +30,7 @@
         
         'WE_OFFER_CLIENTS_MORE'=> 'Oferecemos aos nossos clientes mais de um tipo de conta a ser usado na plataforma de copy trading da HokoCloud.
         <br/><br/>
-        Explore nossos cuidadosamene elaborados tipos de conta para Copy Trading da XS Trades, descubra os benefícios de cada uma delas e escolha aquela que se alinha com seus objetivos de trading.',
+        Explore nossos cuidadosamene elaborados tipos de conta para Copy Trading da XS, descubra os benefícios de cada uma delas e escolha aquela que se alinha com seus objetivos de trading.',
         'XS_COPY_ACCOUNTS'=> 'Contas para Copy Trading da XS',
 
         'WHY_USE_HOKOCLOUD' => 'Por que usar a HokoCloud?',

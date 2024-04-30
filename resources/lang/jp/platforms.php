@@ -1,5 +1,6 @@
-<?php 
+<?php
     return [
+'PAGE_DESC' => '受賞歴のある最先端の取引プラットフォームで金融グローバル市場を取引しましょう。',
 'PAGE_DESC_MT4'=>'世界の一流トレーダーが選ぶ、取引プラットフォームで世界の金融市場を取引しましょう。',
 'PAGE_DESC_MT5'=>'世界最高水準のマルチアセット取引プラットフォームで世界の金融市場を取引。',
 // one
@@ -30,7 +31,7 @@
 'MT4_FEATURES' => 'MT4の特徴：',
 
 // two
-'TRUST_GLOBAL_BROKER' => '信頼と実績を誇るグローバル・ブローカー： ',
+'TRUST_GLOBAL_BROKER' => '信頼と実績を誇るグローバル・ブローカー',
 'XS_IS_A_TRUSTED' => '複数の金融ライセンスの厳しい審査を通過した、10年にわたる実績のあるグローバル・ブローカーです。',
 
 'AWARD_WINNING_BROKER' => '受賞歴:',
@@ -90,7 +91,7 @@ PCにMT5プラットフォームをダウンロードしインストールしま
 'ENTER_XS_CREDENTIALS' => '  XSアカウントの認証情報を入力し、アカウントが登録されているサーバーをリストから選択します。',
 'CLICK_LOGIN_START_TRADING' => '「ログイン」をクリックして取引を開始します。',
 'FULL_POWER' => 'MT4 デスクトップによるトレーディングのフルパワー',
-'EXPERIENCE_THE_FULL_POWER' => 'MetaTrader4 (MT4) 
+'EXPERIENCE_THE_FULL_POWER' => 'MetaTrader4 (MT4)
 デスクトップ（Windows版）プラットフォームを利用して、XSでダイナミックな取引をご体験ください。 多機能なデスクトッププラットフォームをインストールし、高度なチャートツール、カスタマイズ可能なレイアウト、優れた約定率をお楽しみください。
 <br/>
 最先端の取引プラットフォームを通して、デスクトップからXSが提供するグローバルな金融市場とつながりましょう',
@@ -98,7 +99,7 @@ PCにMT5プラットフォームをダウンロードしインストールしま
 'TRADE_EASE_MT4' => 'MT4ウェブ版で簡単に取引',
 'ACCESS_GLOBAL_MT4' => 'MetaTrader4 (MT4) ウェブ版を利用し、XSが提供するグローバルな金融市場とつながる取引体験をお楽しみください。ウェブブラウザから取引口座にログインするだけで取引を開始でき、ダウンロードやインストールは必要ありません。XSのMT4ウェブトレーダーを使用し、あらゆる端末にてシームレスでユーザーフレンドリーな取引を体感しましょう。',
 
-'LAUNCH_MT4_WEB_PLATFORM' => ' こちらをクリックし、ウェブブラウザ上でMT4プラットフォームを起動します。',
+'LAUNCH_MT4_WEB_PLATFORM' => 'ウェブブラウザ上でMT4プラットフォームを起動します。',
 'CLICK_FILE_TOP_MENU' => 'トップメニューの「ファイル」をクリックします。',
 'ENTER_XS_CREDENTIALS_SERVER' => ' XS アカウントの認証情報を入力し、アカウントが登録されているサーバーをリストから選択します。',
 'MT4_WEB_FEATURES' => 'MT4ウェブ機能',
@@ -132,7 +133,7 @@ PCにMT5プラットフォームをダウンロードしインストールしま
 'TRADE_ON_THE_GO_TITLE' => 'MT4 iOS版アプリで外出先からいつでも取引',
 'TRADE_ON_THE_GO_CONTENT' => 'iOSの MetaTrader4 (MT4) アプリを利用すると、外出先からもいつでも取引できます。端末のアプリストアからダウンロードし、XSを通してグローバルな金融市場とつながりましょう。取引チャンスを逃すことなく、お手持ちのモバイル端末でシームレスな取引をお楽しみください。',
 'ACCESS_YOUR_TRADING_ACCOUNT_TITLE' => 'XS MT4 iOS版アプリで取引口座にアクセス',
-'INSTALL_IOS_APP' => 'こちらをクリックし、iOS端末にソフトウェアをインストール、または Apple Storeで「MetaTrader4」を検索します。',
+'INSTALL_IOS_APP' => 'iOS端末にソフトウェアをインストール、または Apple Storeで「MetaTrader4」を検索します。',
 'LOGIN_EXISTING_ACCOUNT' => '   [新規口座]から[既存のアカウントにログイン] を選択し、検索欄に「XS Fintech」と入力します。',
 'SELECT_SERVER' => 'アカウントが登録されているサーバーをリストから選択します。',
 'ENTER_LOGIN_PASSWORD' => 'ログイン名とパスワードを入力します。',
@@ -150,7 +151,7 @@ PCにMT5プラットフォームをダウンロードしインストールしま
 取引チャンスを逃すことなく、お手持ちのモバイル端末でシームレスな取引をお楽しみください。',
 'ACCESS_YOUR_TRADING_ACCOUNT_TITLE_ANDROID' => 'XS MT4 Android版アプリで取引口座にアクセス',
 'MT4_ANDROID_APP_FEATURES_TITLE' => 'MT4 Android版モバイルアプリの特徴',
-'INSTALL_ANDROID_APP' => 'こちらをクリックし、Android端末にソフトウェアをインストール、またはGoogle Playで「MetaTrader4」を検索します。',
+'INSTALL_ANDROID_APP' => 'Android端末にソフトウェアをインストール、またはGoogle Playで「MetaTrader4」を検索します。',
 
 // Nine
 'TRADE_ON_ANDROID_DEVICES' => 'Android スマートフォン・タブレットで取引可能',
@@ -188,7 +189,7 @@ PC に MT5 プラットフォームをダウンロードしインストールし
 'MT5_WEB_FEATURES' => 'MT5 ウェブ機能',
 
 // Eleven
-'LAUNCH_MT5_WEB_PLATFORM' => 'こちらをクリックし、ウェブブラウザ上でMT5プラットフォームを起動します。',
+'LAUNCH_MT5_WEB_PLATFORM' => 'ウェブブラウザ上でMT5プラットフォームを起動します。',
 
 'WEB_BASED_METATRADER' => '最新のウェブブラウザからいつでも気軽にアクセス',
 'REAL_TIME_MARKET_DATA_EXECUTION' => 'リアルタイムの市場データと取引実行をウェブインターフェイスから直接実行。',
@@ -210,7 +211,7 @@ PC に MT5 プラットフォームをダウンロードしインストールし
 'ACCESS_YOUR_TRADING_ACCOUNT_TITLE_MT5_IOS' => 'XS MT5 iOS版アプリで取引口座にアクセス',
 'MT5_IOS_FEATURES_TITLE' => 'MT5 iOS版アプリの特徴',
 
-'INSTALL_APPLE_APP_IOS' => 'こちらをクリックし、iOS端末にソフトウェアをインストール、または Apple Storeで「MetaTrader5」を検索します。',
+'INSTALL_APPLE_APP_IOS' => 'iOS端末にソフトウェアをインストール、または Apple Storeで「MetaTrader5」を検索します。',
 
 'TRADE_ON_THE_GO_TITLE_MT5_ANDROID' => 'MT5 Android版アプリで外出先からいつでも取引',
 'TRADE_ON_THE_GO_CONTENT_ANDROID_MT5' => 'Androidの MetaTrader5 (MT5) アプリを利用すると、外出先でもいつでも取引できます。端末のアプリストアからアプリをダウンロードし、XSを通してグローバルな金融市場とつながりましょう。
@@ -219,7 +220,7 @@ PC に MT5 プラットフォームをダウンロードしインストールし
 'ACCESS_YOUR_TRADING_ACCOUNT_TITLE_ANDROID_MT5' => 'XS MT5 Android版アプリで取引口座にアクセス',
 'MT5_ANDROID_FEATURES_TITLE' => 'MT5 Android版アプリの特徴',
 
-'INSTALL_ANDROID_APP_MT5' => 'こちらをクリックし、Android端末にソフトウェアをインストール、またはGoogle Playで「MetaTrader5」を検索します。',
+'INSTALL_ANDROID_APP_MT5' => 'Android端末にソフトウェアをインストール、またはGoogle Playで「MetaTrader5」を検索します。',
 
 'ANDROID_APP_TRADE_ON_SMARTPHONES_TABLETS' => 'スマートフォンやタブレットでの取引に最適な Android アプリ',
 'LIVE_STREAMING_QUOTES_CUSTOMIZABLE_CHARTS' => '市場分析に適したライブストリーミング相場とカスタマイズ可能なチャート',

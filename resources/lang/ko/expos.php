@@ -1,7 +1,7 @@
 <?php
 return [
 
-    'EXPOS_DESCRIPTION' => 'XS는 뛰어난 품질에 대한 약속과 금융 시장에 대한 열정으로 모든 수준의 트레이더를 위한 포괄적인 솔루션을 제공합니다. <br/><br/> <a href="https://my.XSTrades.com/register" target="_blank" style="text-decoration:none ;" >XSTrades.com</a>에 가입하여 흥미로운 보상을 얻는 거래 경험을 시작해보세요. 여기에서 금융적 자립이 시작됩니다.',
+    'EXPOS_DESCRIPTION' => 'XS는 뛰어난 품질에 대한 약속과 금융 시장에 대한 열정으로 모든 수준의 트레이더를 위한 포괄적인 솔루션을 제공합니다. <br/><br/> <a href="https://my.xs.com/register" target="_blank" style="text-decoration:none ;" >XS.com</a>에 가입하여 흥미로운 보상을 얻는 거래 경험을 시작해보세요. 여기에서 금융적 자립이 시작됩니다.',
 
     'UPCOMING_EXPOS' => '다가오는 엑스포',
     'PREVIOUS_EXPOS' => '이전 엑스포',

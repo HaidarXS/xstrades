@@ -1,4 +1,6 @@
 <?php
+$date = '22';
+$month = '/4/2024';
 return[
 
 'OPEN_POSITIONS_ON_SHARES'=>'营业日开始时（服务器时间 00:00），即相应标的资产的除息日，股票或指数的未平仓头寸将受到股息调整。
@@ -30,17 +32,22 @@ return[
 'AUS200' => 'AUS200',
 'US30_USD'=>'US30',
 
-'UPCOMING_CORPORATE_ACTIONS'=>'2024年3月25日至3月29日计划进行的公司行动',
+'UPCOMING_CORPORATE_ACTIONS'=>'2024年4月29日至5月3日计划进行的公司行动',
 
-'CASH_INDICES'=> '2024年3月25日至3月29日的现金指数',
+'CASH_INDICES'=> '现金指数 29.04 - 03.05.2024',
 
-'SHARE_CASH_DIVIDENDS'=> '2024年3月25日至3月29日之间的股票 - 现金股息',
+'SHARE_CASH_DIVIDENDS'=> '股票 - 现金股息 29.04 - 03.05.2024',
 
-'MONDAY'=> '25/03/2024 周一',
-'TUESDAY'=> '26/03/2024 周二',
-'WEDNESDAY'=> '27/03/2024 周三',
-'THURSDAY'=> '28/03/2024 周四',
-'FRIDAY'=> '29/03/2024 周五',
+'MONDAY'=> '29/4/2024 周一',
+'TUESDAY'=> '30/4/2024 周二',
+'WEDNESDAY'=> '1/5/2024 周三',
+'THURSDAY'=> '2/5/2024 周四',
+'FRIDAY'=> '3/5/2024 周五',
+// 'MONDAY'=> $date. $month . '周一',
+// 'TUESDAY'=> ($date + 1). $month. '周二',
+// 'WEDNESDAY'=> ($date + 2). $month. '周三',
+// 'THURSDAY'=> ($date + 3). $month. '周四',
+// 'FRIDAY'=> ($date + 4). $month. '周五',
 
 'EXAMPLE' => '示例：',
 'THERE_IS_A_DIVIDEND' => 'US30 的股息调整为 4.383。 客户拥有美元账户并持有 20 US30 的多头（买入）头寸。 在除息日，他们将收到 20*4.383 = <b>87.66 美元的付款。</b>

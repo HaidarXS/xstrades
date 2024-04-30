@@ -1,7 +1,7 @@
 <?php
 return [
 
-    'EXPOS_DESCRIPTION' => 'With our unwavering commitment to excellence and our passion for financial markets, we offer comprehensive solutions that cater to traders of all levels. <br/><br/> Join <a href="https://my.XSTrades.com/register" target="_blank" style="text-decoration:none ;" > XSTrades.com  </a> and embark on an exciting and rewarding trading experience. Your financial empowerment starts here.',
+    'EXPOS_DESCRIPTION' => 'With our unwavering commitment to excellence and our passion for financial markets, we offer comprehensive solutions that cater to traders of all levels. <br/><br/> Join <a href="https://my.xs.com/register" target="_blank" style="text-decoration:none ;" > XS.com  </a> and embark on an exciting and rewarding trading experience. Your financial empowerment starts here.',
 
     'UPCOMING_EXPOS' => 'Upcoming Expos',
     'PREVIOUS_EXPOS' => 'Previous Expos',
@@ -88,7 +88,7 @@ return [
     //-------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-    'UPCOMING_SEMINARS_1' => 'XS Trades Seminar in Muscat City, Oman',
+    'UPCOMING_SEMINARS_1' => 'XS Seminar in Muscat City, Oman',
     'UPCOMING_SEMINARS_1_DATE' => '7 October 2023',
     'UPCOMING_SEMINARS_1_COUNTRY' => 'Sheraton Oman Hotel, Muscat',
 ];

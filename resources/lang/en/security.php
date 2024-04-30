@@ -12,12 +12,12 @@ return [
 
     'DATA_PROTECTION_DESC' => 'We consider ensuring the security of our clients’ data of utmost importance, and we have implemented advanced security protocols to safeguard your personal information, privacy, and financial assets. We employ top-tier data encryption across our websites and applications.
     <br /><br />
-    Our dedicated team of experts maintains constant vigilance and readiness to respond to any incidents or irregularities in online payment activities. XSTrades.com is committed to upholding digital controls to ensure the security of transactions executed. Stringent password requirements, including complexity and length criteria, are enforced. Before processing any updates to personal information or handling requests related to your personal data, we will verify the authenticity of your request.
+    Our dedicated team of experts maintains constant vigilance and readiness to respond to any incidents or irregularities in online payment activities. XS.com is committed to upholding digital controls to ensure the security of transactions executed. Stringent password requirements, including complexity and length criteria, are enforced. Before processing any updates to personal information or handling requests related to your personal data, we will verify the authenticity of your request.
     <br /><br />
     We offer a two-step verification option to enhance account security. Automated email confirmations are triggered for any changes made to your account password. Our Data Protection guidelines oversee GDPR compliance, and our systems and safeguards undergo regular external audits to maintain robust protection measures.',
 
     'SAFETY_MEASURES' => 'Essential Safety Measures',
-    'SAFETY_MEASURES_SUB' => 'XSTrades.com recommends the following safety measures for ensuring your security:',
+    'SAFETY_MEASURES_SUB' => 'XS.com recommends the following safety measures for ensuring your security:',
 
     'BEWARE_OF_PHISHING' => 'Beware of Phishing: ',
     'BEWARE_OF_PHISHING_DESC' => 'Phishing remains a prevalent threat in the digital world. Fraudsters often impersonate trusted companies to obtain your personal information. It’s crucial to exercise caution and avoid opening suspicious email attachments or clicking on links. Take note of email domains that may appear legitimate but could be fraudulent. Additionally, watch for telltale signs such as spelling errors and improper formatting that could signal a phishing attempt.',
@@ -30,10 +30,10 @@ return [
 
     'WHAT_YOU_CAN_DO' => 'Here’s What You Can Do:',
 
-    'YOUR_ONLINE_SAFETY' => 'Your online safety is a priority, and at XSTrades.com, we’re committed to maintaining a secure environment for our users. While we implement robust security measures to protect you, it’s essential to stay vigilant and report any suspicious activity promptly. Here’s What You Can Do:',
+    'YOUR_ONLINE_SAFETY' => 'Your online safety is a priority, and at XS.com, we’re committed to maintaining a secure environment for our users. While we implement robust security measures to protect you, it’s essential to stay vigilant and report any suspicious activity promptly. Here’s What You Can Do:',
 
-    'CONTACT_XS' => 'Contact XSTrades.com Directly: ',
-    'CONTACT_XS_DESC' => 'If you suspect suspicious activity or encounter any security concerns, don’t hesitate to reach out to us directly. You can contact XSTrades.com through our official website or known customer service channels to report the issue and seek assistance.',
+    'CONTACT_XS' => 'Contact XS.com Directly: ',
+    'CONTACT_XS_DESC' => 'If you suspect suspicious activity or encounter any security concerns, don’t hesitate to reach out to us directly. You can contact XS.com through our official website or known customer service channels to report the issue and seek assistance.',
 
     'GATHER_INFORMATION' => 'Gather Information: ',
     'GATHER_INFORMATION_DESC' => 'When reporting suspicious activity, provide as much detail as possible. This may include the date and time of the incident, the nature of the activity, and any relevant transaction or communication details.',
@@ -42,22 +42,22 @@ return [
     'CHANGE_YOUR_PASSWORD_DESC' => 'If you suspect that your account has been compromised, change your passwords immediately. Ensure your new passwords are strong and unique for added security.',
 
     'DATA_CONFIDENTIALITY' => 'Data Confidentiality: ',
-    'DATA_CONFIDENTIALITY_DESC' => 'Your data should remain confidential. Never share your passwords or sensitive account information with anyone. Avoid the risky practice of writing down passwords or access codes. Be cautious when approached by any contact requesting account details or personal information, as legitimate companies like XSTrades.com would never make such requests.',
+    'DATA_CONFIDENTIALITY_DESC' => 'Your data should remain confidential. Never share your passwords or sensitive account information with anyone. Avoid the risky practice of writing down passwords or access codes. Be cautious when approached by any contact requesting account details or personal information, as legitimate companies like XS.com would never make such requests.',
 
     'STRENGTHEN_YOUR_SECURITY' => 'Strengthen Your Security: ',
-    'STRENGTHEN_YOUR_SECURITY_DESC' => 'Your data should remain confidential. Never share your passwords or sensitive account information with anyone. Avoid the risky practice of writing down passwords or access codes. Be cautious when approached by any contact requesting account details or personal information, as legitimate companies like XSTrades.com would never make such requests.',
+    'STRENGTHEN_YOUR_SECURITY_DESC' => 'Your data should remain confidential. Never share your passwords or sensitive account information with anyone. Avoid the risky practice of writing down passwords or access codes. Be cautious when approached by any contact requesting account details or personal information, as legitimate companies like XS.com would never make such requests.',
 
     'BEWARE_OF_FRAUD' => 'Beware of Fraud',
 
     'BEWARE_OF_FRAUD_SUB' => 'Unfortunately, scammers and fraudsters sometimes impersonate legitimate entities to deceive individuals.',
 
-    'HOW_TO_SPOT' => 'Here’s how to spot and handle a suspicious contact claiming to be XSTrades.com:',
+    'HOW_TO_SPOT' => 'Here’s how to spot and handle a suspicious contact claiming to be XS.com:',
 
     'SCRUTINIZE_THE_SOURCE' => 'Scrutinize the Source: ',
-    'SCRUTINIZE_THE_SOURCE_DESC' => 'Be wary of any contact claiming to be XSTrades.com that you did not initiate. If you receive an unsolicited email, text message, or phone call from someone claiming to be XSTrades.com, do not respond or provide any personal information. Instead, contact XSTrades.com directly to verify the legitimacy of the communication.',
+    'SCRUTINIZE_THE_SOURCE_DESC' => 'Be wary of any contact claiming to be XS.com that you did not initiate. If you receive an unsolicited email, text message, or phone call from someone claiming to be XS.com, do not respond or provide any personal information. Instead, contact XS.com directly to verify the legitimacy of the communication.',
 
     'EXERCISE_CAUTION' => 'Exercise Caution with Unsolicited Messages: ',
-    'EXERCISE_CAUTION_DESC' => 'Be wary of unexpected emails, texts, or calls that claim to be from XSTrades.com. Legitimate companies typically communicate important information through official channels, such as their official website or established customer service contacts.',
+    'EXERCISE_CAUTION_DESC' => 'Be wary of unexpected emails, texts, or calls that claim to be from XS.com. Legitimate companies typically communicate important information through official channels, such as their official website or established customer service contacts.',
 
     'BEWARE_OF_URGENT' => 'Beware of Urgent or Threatening Language: ',
     'BEWARE_OF_URGENT_DESC' => 'Scammers often employ tactics that create a sense of urgency or fear. If the message pressures you to act quickly, provides dire consequences for not complying, or requests immediate payment or personal information, exercise caution.',
@@ -70,5 +70,5 @@ return [
     Your reports can help deter cyber threats, shield potential victims, and ensure wrongdoers are held accountable,
     making a positive impact on our online environment.',
 
-    'WE_TAKE_ALL_REPORTS' => 'At XSTrades.com, we take all reports of suspicious activity seriously, and our team is ready to assist you in resolving any security concerns. Your proactive approach to reporting helps us maintain a safer online environment for all our users. Together, we can work to keep your digital experience secure and free from threats.',
+    'WE_TAKE_ALL_REPORTS' => 'At XS.com, we take all reports of suspicious activity seriously, and our team is ready to assist you in resolving any security concerns. Your proactive approach to reporting helps us maintain a safer online environment for all our users. Together, we can work to keep your digital experience secure and free from threats.',
 ];

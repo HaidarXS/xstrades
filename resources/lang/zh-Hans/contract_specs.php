@@ -69,7 +69,7 @@ return [
     'PLATFORM' => 'Platform',
 
     'SPREAD_TITLE' => '点差',
-    'SPREAD_DESCRIPTION' => 'XSTrades.com 为所有账户类型和资产类别提供浮动
+    'SPREAD_DESCRIPTION' => 'XS.com 为所有账户类型和资产类别提供浮动
         点差。因此，合约规格表中的点差是基于前
         一个交易日的平均点差。有关实时点差，请
         参阅交易平台。
@@ -77,7 +77,7 @@ return [
         间），点差可能会扩大。',
 
     'DYNAMIC_LEVERAGE_TITLE' => '动态杠杆',
-    'DYNAMIC_LEVERAGE_DESCRIPTION' => 'XSTrades.com 为大多数资产类别和账户类型提供动
+    'DYNAMIC_LEVERAGE_DESCRIPTION' => 'XS.com 为大多数资产类别和账户类型提供动
         态杠杆。 合约规格表中的杠杆值为每种交易
         工具的最大杠杆。 最大杠杆将根据您的净未
         平仓头寸而变化。 有关动态杠杆的更多详细
@@ -87,7 +87,7 @@ return [
     'SWAPS_DESCRIPTION' => '隔夜利息（多头）用于隔夜维持买入仓位，隔夜利息（空头）用于隔夜维持卖出仓位。隔夜利息发生在服务器时间每天 00:00，周末除外，直至平仓。每周三收取三倍隔夜利息费用，以支付周末产生的融资成本。',
 
     'CHARTS_TITLE' => '图表 VS 市场观察价差',
-    'CHARTS_DESCRIPTION' => 'XSTrades.com 提供各种交易账户，以满足每个交易
+    'CHARTS_DESCRIPTION' => 'XS.com 提供各种交易账户，以满足每个交易
         者的需求和偏好。我们提供原始定价账户，
         并收取额外佣金。其他账户类型则不收取佣
         金，而是在价格中包含加价。
@@ -96,7 +96,7 @@ return [
         交易的账户类型的价格。',
 
     'FIXED_LEVERAGE_TITLE' => '固定杠杆',
-    'FIXED_LEVERAGE_DESCRIPTION' => 'XSTrades.com 为某些资产类别和账户类型提供固定
+    'FIXED_LEVERAGE_DESCRIPTION' => 'XS.com 为某些资产类别和账户类型提供固定
         杠杆。在这种情况下，合约规格表中显示的
         最大杠杆不会根据您的净未平仓头寸发生变
         化。

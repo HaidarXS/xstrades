@@ -10,16 +10,16 @@ return [
     'SECTION_2_TITLE' => 'SHARES TRADING WITH XS: CONTRACT SPECIFICATIONS',
     "SECTION_3_TITLE" => "Shares TRADING WITH XS: TRADING CONDITIONS",
 
-    'DESCRIPTION_1' => 'Welcome to the world of shares trading with XS Trades. Trade CFDs on international shares with the best CFD broker and seamlessly Buy and Sell the shares of leading companies such as Amazon, Alibaba, Apple, and More. Take advantage of our online trading platforms’ seamless CFD trading capabilities, offering you the opportunity to trade CFDs on thousands of global shares. Benefit from ultra-fast order execution and competitive trading conditions, ensuring that you can seize market opportunities swiftly and efficiently. Trade CFDs on shares of renowned companies in United States (US), United Kingdom (UK), Europe (EU), & Hong Kong (HK) including some of the largest and most popular corporations.',
+    'DESCRIPTION_1' => 'Welcome to the world of shares trading with XS. Trade CFDs on international shares with the best CFD broker and seamlessly Buy and Sell the shares of leading companies such as Amazon, Alibaba, Apple, and More. Take advantage of our online trading platforms’ seamless CFD trading capabilities, offering you the opportunity to trade CFDs on thousands of global shares. Benefit from ultra-fast order execution and competitive trading conditions, ensuring that you can seize market opportunities swiftly and efficiently. Trade CFDs on shares of renowned companies in United States (US), United Kingdom (UK), Europe (EU), & Hong Kong (HK) including some of the largest and most popular corporations.',
 
-    'DESCRIPTION_2' => 'XS Trades offers access to a wide range of international shares, including United States Shares (US Shares), European Shares (EU Shares), United Kingdom Shares (UK Shares),  & Hong Kong Shares (HK Shares).
+    'DESCRIPTION_2' => 'XS offers access to a wide range of international shares, including United States Shares (US Shares), European Shares (EU Shares), United Kingdom Shares (UK Shares),  & Hong Kong Shares (HK Shares).
     Plan your trades with confidence and optimize your trading experience by utilizing our detailed contract specifications. Explore our comprehensive contract specifications and gain a deeper understanding of our exceptional trading conditions including contract size, leverage, spreads, commissions, swaps, and more for different account types.
     ',
 
 
     
     "TRADING_CONDITION_1_TITLE" => "Normal Trading Hours",
-    "TRADING_CONDITION_1_DESCRIPTION" => "Normal trading hours refer to the regular trading sessions available for trading. The below shows the normal trading hours for shares available for trading with XS Trades.
+    "TRADING_CONDITION_1_DESCRIPTION" => "Normal trading hours refer to the regular trading sessions available for trading. The below shows the normal trading hours for shares available for trading with XS.
     <br>
     Seasonal and market factors may affect the below trading hours, so it is important to follow the latest updates on the Trading Hours page to stay up to date with the latest seasonal changes to trading hours. All timings are in server time (GMT+3).
     <br><br>
@@ -35,13 +35,13 @@ return [
     ",
     
     "TRADING_CONDITION_3_TITLE" => "Spreads",
-    "TRADING_CONDITION_3_DESCRIPTION" => "XSTrades.com offers floating spreads on all shares for all account types. Hence the spreads in the contract specifications table are the average spread based on the previous trading day. For live spreads, please refer to the trading platform. Please note that spreads may widen when the markets experience lower liquidity, including rollover time.",
+    "TRADING_CONDITION_3_DESCRIPTION" => "XS.com offers floating spreads on all shares for all account types. Hence the spreads in the contract specifications table are the average spread based on the previous trading day. For live spreads, please refer to the trading platform. Please note that spreads may widen when the markets experience lower liquidity, including rollover time.",
 
     "TRADING_CONDITION_4_TITLE" => "Chart Prices",
-    "TRADING_CONDITION_4_DESCRIPTION" => "XSTrades.com offers a variety of trading accounts to suit each trader’s needs and preferences. We offer accounts with raw pricing on which additional commissions are charged. Other account types have no commission but instead have mark-ups incorporated in the prices. By default, the chart in the MetaTrader trading platforms will display the raw pricing, while the market watch will display the pricing of the account type that the client is trading on.",
+    "TRADING_CONDITION_4_DESCRIPTION" => "XS.com offers a variety of trading accounts to suit each trader’s needs and preferences. We offer accounts with raw pricing on which additional commissions are charged. Other account types have no commission but instead have mark-ups incorporated in the prices. By default, the chart in the MetaTrader trading platforms will display the raw pricing, while the market watch will display the pricing of the account type that the client is trading on.",
 
     "TRADING_CONDITION_5_TITLE" => "Fixed Leverage",
-    "TRADING_CONDITION_5_DESCRIPTION" => "XSTrades.com offers fixed leverage on shares on all account types. In this case, the maximum leverage displayed in the contract specifications table will NOT change based on your net open positions or account type",
+    "TRADING_CONDITION_5_DESCRIPTION" => "XS.com offers fixed leverage on shares on all account types. In this case, the maximum leverage displayed in the contract specifications table will NOT change based on your net open positions or account type",
 
     "TRADING_CONDITION_6_TITLE" => "Stop Level",
     "TRADING_CONDITION_6_DESCRIPTION" => "Stop level is the minimum distance (difference in pips) between the current market price and the pending order price. The stop level values in the contract specifications table are subject to change and may not be available for traders using certain high-frequency trading strategies or Expert Advisors.",

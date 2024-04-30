@@ -10,7 +10,7 @@ return [
     'SECTION_2_TITLE' => 'TRADING DE ÍNDICES COM A XS: ESPECIFICAÇÕES DE CONTRATO',
     "SECTION_3_TITLE" => "TRADING DE ÍNDICES COM A XS: CONDIÇÕES DE TRADING",
  
-    'DESCRIPTION_1' => 'Bem-vindo ao mundo do trading de índices com a XS Trades. Participe dos movimentos de preço dos índices tanto nas altas quanto nas baixas com a XS Trades, onde você pode negociar CFDs nos principais índices de ações do mundo com a melhor corretora global. A XS oferece termos de negociação abrangentes, cotações precisas de múltiplos fornecedores e análises versáteis para negociação de índices. Entender o comportamento dos índices requer atenção às notícias das empresas incluídas e eventos em toda a indústria.',
+    'DESCRIPTION_1' => 'Bem-vindo ao mundo do trading de índices com a XS. Participe dos movimentos de preço dos índices tanto nas altas quanto nas baixas com a XS, onde você pode negociar CFDs nos principais índices de ações do mundo com a melhor corretora global. A XS oferece termos de negociação abrangentes, cotações precisas de múltiplos fornecedores e análises versáteis para negociação de índices. Entender o comportamento dos índices requer atenção às notícias das empresas incluídas e eventos em toda a indústria.',
  
     'DESCRIPTION_2' => 'A XS oferece acesso a uma ampla gama de índices de ações, incluindo Dow Jones Industrial Average (US30), NASDAQ ou US Tech (US100), Standard & Poor\'s ou S&P 500 (US500), Financial Times Stock Exchange ou FTSE 100 Index (UK100), S&P/ASX 200 da Austrália (AUS200), Índice de Mercado de Ações da Alemanha / DAX (DE40), Índice do Mercado de Ações da França / Cotação Assistida em Continuação / CAC40 (F40), Índice do Mercado de Ações da Espanha / Iberia Index / IBEX (ES35), EURO STOXX 50 (EU50) e Nikkei 225 do Japão (JP225).
     <br/>
@@ -18,7 +18,7 @@ return [
  
  
     "TRADING_CONDITION_1_TITLE" => "Horário Normal de Trading",
-    "TRADING_CONDITION_1_DESCRIPTION" => "Os horários normais de trading referem-se às sessões regulares de trading disponíveis para negociação. Abaixo mostra o horário normal de trading para os índices de ações disponíveis para operação com a XS Trades.
+    "TRADING_CONDITION_1_DESCRIPTION" => "Os horários normais de trading referem-se às sessões regulares de trading disponíveis para negociação. Abaixo mostra o horário normal de trading para os índices de ações disponíveis para operação com a XS.
     <br/><br/>
     Fatores de mercado e sazonais podem afetar as horas abaixo listadas, então é importante seguir as últimas atualizações na página de Horários de Trading para ficar atualizado com as últimas mudanças sazonais nos horários de trading. 
     <br/><br/>
@@ -55,19 +55,19 @@ return [
     É importante acompanhar as últimas atualizações nas páginas de Avisos de Trading para se manter atualizado com os próximos ajustes de Dividendos.
     ",
     "TRADING_CONDITION_3_TITLE" => "Spreads",
-    "TRADING_CONDITION_3_DESCRIPTION" => "A XSTrades.com oferece spreads flutuantes em todos os índices para todos os tipos de conta. Os spreads na tabela de especificações de contrato são a média dos spreads baseados no dia de trading anterior. Por favor, note que os spreads podem alargar durante os períodos de baixa liquidez do mercado, incluindo o período de rollover.",
+    "TRADING_CONDITION_3_DESCRIPTION" => "A XS.com oferece spreads flutuantes em todos os índices para todos os tipos de conta. Os spreads na tabela de especificações de contrato são a média dos spreads baseados no dia de trading anterior. Por favor, note que os spreads podem alargar durante os períodos de baixa liquidez do mercado, incluindo o período de rollover.",
  
     "TRADING_CONDITION_4_TITLE" => "Preços dos Gráficos",
-    "TRADING_CONDITION_4_DESCRIPTION" => "A XSTrades.com oferece uma variedade de contas de trading para atender às necessidades e preferências de cada trader. Oferecemos contas com precificação bruta em que comissões adicionais são cobradas. Outros tipos de conta não têm comissões, mas incluem mark-ups incorporados nos preços. Por padrão, o gráfico na plataforma MetaTrader exibirá a precificação bruta, enquanto o market watch exibirá o preço do tipo de conta em que o cliente está utilizando.",
+    "TRADING_CONDITION_4_DESCRIPTION" => "A XS.com oferece uma variedade de contas de trading para atender às necessidades e preferências de cada trader. Oferecemos contas com precificação bruta em que comissões adicionais são cobradas. Outros tipos de conta não têm comissões, mas incluem mark-ups incorporados nos preços. Por padrão, o gráfico na plataforma MetaTrader exibirá a precificação bruta, enquanto o market watch exibirá o preço do tipo de conta em que o cliente está utilizando.",
  
     "TRADING_CONDITION_5_TITLE" => "Swaps",
     "TRADING_CONDITION_5_DESCRIPTION" => "Swap longo é utilizado para manter posições de compra abertas durante a noite, e Swap curto é utilizado para manter posições de venda abertas durante a noite. Os Swaps ocorrem à 00:00 Horário do Servidor todos os dias, exceto nos fins de semana, até que a posição seja fechada. Swaps triplos são cobrados às quartas-feiras para cobrir os custos de financiamento incorridos durante o fim de semana.",
  
     "TRADING_CONDITION_6_TITLE" => "Alavancagem Dinâmica",
-    "TRADING_CONDITION_6_DESCRIPTION" => "A XSTrades.com oferece alavancagem dinâmica nos índices na maioria dos tipos de conta. Os níveis de alavancagem na tabela de contrato são o máximo permitido para cada instrumento de trading. A alavancagem mínima pode ser baseado em posições abertas. Para mais detalhes, por favor, verifique a página de Alavancagem Dinâmica.",
+    "TRADING_CONDITION_6_DESCRIPTION" => "A XS.com oferece alavancagem dinâmica nos índices na maioria dos tipos de conta. Os níveis de alavancagem na tabela de contrato são o máximo permitido para cada instrumento de trading. A alavancagem mínima pode ser baseado em posições abertas. Para mais detalhes, por favor, verifique a página de Alavancagem Dinâmica.",
  
     "TRADING_CONDITION_7_TITLE" => "Alavancagem Fixa",
-    "TRADING_CONDITION_7_DESCRIPTION" => "A XSTrades.com oferece alavancagem fixa em alguns tipos de conta. Neste caso, a alavancagem máxima exibida na tabela de especificações do contrato NÃO mudará com base nas suas posições líquidas abertas. A alavancagem fixa aplica-se aos tipos de conta Cent e Mirco.",
+    "TRADING_CONDITION_7_DESCRIPTION" => "A XS.com oferece alavancagem fixa em alguns tipos de conta. Neste caso, a alavancagem máxima exibida na tabela de especificações do contrato NÃO mudará com base nas suas posições líquidas abertas. A alavancagem fixa aplica-se aos tipos de conta Cent e Mirco.",
  
     "TRADING_CONDITION_8_TITLE" => "Períodos de Requisitos de Margem Mais Altos",
     "TRADING_CONDITION_8_DESCRIPTION" => "Implementamos medidas de gestão de risco para proteger as posições da alta volatilidade durante períodos chave e períodos de notícias significativas que podem causar volatilidade no mercado. Maiores quantidades de margem são necessárias para abrir uma posição durante esses períodos, que são conhecidos como HMR (higher margin requirements).

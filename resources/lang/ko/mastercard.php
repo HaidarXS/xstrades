@@ -33,7 +33,7 @@ return [
 
     'APPLY_FOR_YOUR_XS_MASTER_CARD_DESC' => '지금 바로 XS에 가입하시고, XS 선불 마스터 카드를 신청하셔서 어디서나 쉽고 빠르게 귀하의 자금에 접근하세요.
     <br/><br/>
-    XS 선불 마스터카드에 대해 궁금한 사항이 있거나 추가 정보가 필요한 경우 전담 지원팀에서 도와드리겠습니다. <a href="mailto:support@XSTrades.com" class="xs-btn fill text-secondary">Support@XSTrades.com</a> 로 이메일을 보내주십시오.
+    XS 선불 마스터카드에 대해 궁금한 사항이 있거나 추가 정보가 필요한 경우 전담 지원팀에서 도와드리겠습니다. <a href="mailto:support@xs.com" class="xs-btn fill text-secondary">Support@xs.com</a> 로 이메일을 보내주십시오.
     <br/><br/>
     XS 선불 마스터카드는 금융 규제로 인해 특정 지역 거주자에게 제공되지 않을 수 있습니다.'
 ];

@@ -63,7 +63,10 @@ Route::get('new-home-ar', function () {
 
 Route::middleware(['locale'])->prefix('{lang?}')->group(function () {
 
-    Route::get('/', [HomeController::class, 'index'])->name('home');
+    Route::get('/', [HomeController::class, 'indexNew'])->name('home');
+ 
+    // Route::get('/new-home', [HomeController::class, 'indexNew'])->name('home.new');
+
     Route::get('/switch/', [LangController::class, 'switch'])->name('switch');
     // Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
 

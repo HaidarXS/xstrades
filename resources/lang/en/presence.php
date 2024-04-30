@@ -16,7 +16,7 @@ return [
     'WITH_OUR_UNWAVERING_COMMITMENT' => '  With our unwavering commitment to excellence and our passion for financial markets, 
     we offer comprehensive solutions that cater to traders of all levels. 
     <br/><br/> Join
-    <a style="text-decoration:none;" href="https://my.XSTrades.com/register" target="_blank" > XSTrades.com </a> and embark on an exciting and rewarding trading experience. 
+    <a style="text-decoration:none;" href="https://my.xs.com/register" target="_blank" > XS.com </a> and embark on an exciting and rewarding trading experience. 
     Your financial empowerment starts here.',
     'COMPANY_AWARDS' => 'COMPANY AWARDS',
     
@@ -56,11 +56,11 @@ return [
     //EVENTS
     'EVENTS' => 'EVENTS',
     'EVENT_DETAILS' => 'EVENT DETAILS',
-    'XS_GROUP_IS_A_GLOBAL_FINTECH' => 'XS Trades Group is a global fintech and financial services provider with entities regulated and authorised by leading governing bodies of the most reputable financial jurisdictions around the globe. We prioritise regulatory compliance to ensure trust, integrity, and accountability in the global financial industry. Our operations adhere to the regulations and requirements set forth by the relevant authorities in each jurisdiction where we operate.',
+    'XS_GROUP_IS_A_GLOBAL_FINTECH' => 'XS Group is a global fintech and financial services provider with entities regulated and authorised by leading governing bodies of the most reputable financial jurisdictions around the globe. We prioritise regulatory compliance to ensure trust, integrity, and accountability in the global financial industry. Our operations adhere to the regulations and requirements set forth by the relevant authorities in each jurisdiction where we operate.',
 
     'SEMINARS'=>'SEMINARS',
     'SEMINAR_DETAILS'=>'SEMINAR DETAILS',
-    'XS_GROUP_IS_A_GLOBAL_FINTECH_SEMINARS'=>'XS Trades Group is a global fintech and financial services provider with entities regulated and authorised by leading governing bodies of the most reputable financial jurisdictions around the globe. We prioritise regulatory compliance to ensure trust, integrity, and accountability in the global financial industry. Our operations adhere to the regulations and requirements set forth by the relevant authorities in each jurisdiction where we operate.',
+    'XS_GROUP_IS_A_GLOBAL_FINTECH_SEMINARS'=>'XS Group is a global fintech and financial services provider with entities regulated and authorised by leading governing bodies of the most reputable financial jurisdictions around the globe. We prioritise regulatory compliance to ensure trust, integrity, and accountability in the global financial industry. Our operations adhere to the regulations and requirements set forth by the relevant authorities in each jurisdiction where we operate.',
 
     'AWARD_1_TITLE'=> 'Best Multi-Asset Broker ',
     'AWARD_1_DATE' => 'Amman Jordan, <br/> September 2023',

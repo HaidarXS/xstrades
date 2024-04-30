@@ -9,7 +9,7 @@ return [
     'CONSULTANCY_SERVICES_DESCRIPTION' => 'Graças à nossa experiência de longo prazo no setor de serviços financeiros, criamos um extenso conjunto de conhecimento e experiência, seja no ambiente de negócios, nos aspectos técnicos ou na compreensão das necessidades e exigências dos clientes. <br/><br/> XS oferece serviços de consultoria especializada para instituições que buscam orientação profissional no setor comercial. Nossa equipe de consultores experientes fornece insights valiosos, análises de mercado e aconselhamento estratégico adaptado às necessidades e objetivos específicos de cada instituição. ',
 
     
-    'WHY_CHOSE_XS' => 'Por que escolher os Serviços de Consultoria da XS Trades?',
+    'WHY_CHOSE_XS' => 'Por que escolher os Serviços de Consultoria da XS?',
 
     'REASON_1_TITLE' => 'Serviços de Consultoria Especializada:',
     'REASON_1_DESCRIPTION' => ' Acesso a um amplo conjunto de conhecimentos e experiências adaptados às necessidades e objetivos específicos de cada instituição.',

@@ -1,8 +1,8 @@
 <?php
 return [
     'LIQUIDITY_SOLUTIONS' => 'Solusi Likuiditas',
-    'LIQUIDITY_SOLUTIONS_DESCRIPTION' => 'Di XS Trades, kami memahami pentingnya likuiditas bagi klien institusional. Kami berdedikasi untuk menyediakan solusi likuiditas yang komprehensif yang disesuaikan dengan kebutuhan khusus institusi. Peta jalan likuiditas kami menjelaskan fitur-fitur utama dan keunggulan yang membedakan kami sebagai penyedia likuiditas tepercaya.',
-    'WHY_CHOSE_XS' => 'Mengapa Memilih Solusi Likuiditas XS Trades?',
+    'LIQUIDITY_SOLUTIONS_DESCRIPTION' => 'Di XS, kami memahami pentingnya likuiditas bagi klien institusional. Kami berdedikasi untuk menyediakan solusi likuiditas yang komprehensif yang disesuaikan dengan kebutuhan khusus institusi. Peta jalan likuiditas kami menjelaskan fitur-fitur utama dan keunggulan yang membedakan kami sebagai penyedia likuiditas tepercaya.',
+    'WHY_CHOSE_XS' => 'Mengapa Memilih Solusi Likuiditas XS?',
 
     'REASON_1_TITLE' => 'Beragam Kelas Aset:',
     'REASON_1_DESCRIPTION' => 'Akses ke beragam kelas aset yang memungkinkan institusi untuk mendiversifikasi portofolio mereka secara efektif.',

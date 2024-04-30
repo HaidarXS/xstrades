@@ -27,15 +27,15 @@ return [
 
 
     "TRADING_CONDITION_2_TITLE" => "点差",
-    "TRADING_CONDITION_2_DESCRIPTION" => "XSTrades.com 为所有账户类型的所有加密货币提供浮动点差。因此，合约规格表中的点差是基于前一个交易日的平均点差。有关实时点差，请参阅交易平台。请注意，当市场流动性较低时（包括展期时间），点差可能会扩大。",
+    "TRADING_CONDITION_2_DESCRIPTION" => "XS.com 为所有账户类型的所有加密货币提供浮动点差。因此，合约规格表中的点差是基于前一个交易日的平均点差。有关实时点差，请参阅交易平台。请注意，当市场流动性较低时（包括展期时间），点差可能会扩大。",
     "TRADING_CONDITION_3_TITLE" => "图表价格",
-    "TRADING_CONDITION_3_DESCRIPTION" => "XSTrades.com 提供各种交易账户，以满足每个交易者的需求和偏好。我们提供原始定价账户，并收取额外佣金。其他账户类型不收取佣金，但在价格中包含加价。默认情况下，MetaTrader 交易平台的图表将显示原始价格，而市场观察将显示客户正在交易的账户类型的价格。",
+    "TRADING_CONDITION_3_DESCRIPTION" => "XS.com 提供各种交易账户，以满足每个交易者的需求和偏好。我们提供原始定价账户，并收取额外佣金。其他账户类型不收取佣金，但在价格中包含加价。默认情况下，MetaTrader 交易平台的图表将显示原始价格，而市场观察将显示客户正在交易的账户类型的价格。",
 
     "TRADING_CONDITION_4_TITLE" => "隔夜利息",
     "TRADING_CONDITION_4_DESCRIPTION" => "隔夜利息（多头）用于隔夜维持买入仓位，隔夜利息（空头）用于隔夜维持卖出仓位。隔夜利息发生在服务器时间每天 00:00，周末除外，直至平仓。周三收取三倍隔夜利息费用，以支付周末产生的融资成本。",
 
     "TRADING_CONDITION_5_TITLE" => "动态杠杆",
-    "TRADING_CONDITION_5_DESCRIPTION" => "XSTrades.com 为大多数账户类型的加密货币提供动态杠杆。合约规格表中的杠杆值是每种交易工具的最大杠杆。最大杠杆将根据您的净未平仓头寸而变化。有关详细信息，请查看动态杠杆页面。",
+    "TRADING_CONDITION_5_DESCRIPTION" => "XS.com 为大多数账户类型的加密货币提供动态杠杆。合约规格表中的杠杆值是每种交易工具的最大杠杆。最大杠杆将根据您的净未平仓头寸而变化。有关详细信息，请查看动态杠杆页面。",
 
     "TRADING_CONDITION_6_TITLE" => "较高保证金要求期",
     "TRADING_CONDITION_6_DESCRIPTION" => "

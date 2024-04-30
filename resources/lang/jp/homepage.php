@@ -1,6 +1,6 @@
 <?php
 return [
-    'HERO_TITLE' => '<span class="hero-sep">実績と信頼の </span><br> XSTrades.comではじめる',
+    'HERO_TITLE' => '<span class="hero-sep">実績と信頼の </span><br> XS.comではじめる',
     'HERO_SUBTITLE' => 'グローバルな金融取引',
     'HERO_DESCRIPTION' => '取引はリスクを伴います。<br class ="d-md-none"> レバレッジ商品は、全てのお客様に適しているわけではございません。',
     'EASY_STEPS_TO_START_TRADING'=>'3つのステップで今すぐ取引',

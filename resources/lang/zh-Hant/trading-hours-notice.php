@@ -1,4 +1,6 @@
 <?php
+$date = '22';
+$month = '/4/2024';
 return[
 'OPEN_POSITIONS_ON_SHARES'=>'營業日開始時（伺服器時間 00:00），即相應標的資產的除息日，股票或指數的未平倉部位將受到股利調整。
 <br/><br/>
@@ -30,17 +32,22 @@ return[
 'US30_USD'=>'US30',
 
 
-'UPCOMING_CORPORATE_ACTIONS'=>'2024年3月25日至3月29日計畫進行的公司行動',
+'UPCOMING_CORPORATE_ACTIONS'=>'2024年4月29日至5月3日計畫進行的公司行動',
 
-'CASH_INDICES'=> '2024年3月25日至3月29日的現金指數',
+'CASH_INDICES'=> '現金指數 29.04 - 03.05.2024',
 
-'SHARE_CASH_DIVIDENDS'=> '2024年3月25日至3月29日之間的股票 - 現金股息',
+'SHARE_CASH_DIVIDENDS'=> '股票 - 現金股息 29.04 - 03.05.2024',
 
-'MONDAY'=> '25/03/2024 週一',
-'TUESDAY'=> '26/03/2024 週二',
-'WEDNESDAY'=> '27/03/2024 週三',
-'THURSDAY'=> '28/03/2024 週四',
-'FRIDAY'=> '29/03/2024 週五',
+'MONDAY'=> '29/4/2024 週一',
+'TUESDAY'=> '30/4/2024 週二',
+'WEDNESDAY'=> '1/5/2024 週三',
+'THURSDAY'=> '2/5/2024 週四',
+'FRIDAY'=> '3/5/2024 週五',
+// 'MONDAY'=> ($date). $month. ' 週一',
+// 'TUESDAY'=> ($date + 1). $month. ' 週二',
+// 'WEDNESDAY'=> ($date + 2). $month. ' 週三',
+// 'THURSDAY'=> ($date + 3). $month. ' 週四',
+// 'FRIDAY'=> ($date + 4). $month. ' 週五',
 
 'EXAMPLE' => '範例：',
 'THERE_IS_A_DIVIDEND' => 'US30 的股利調整為 4.383。 客戶擁有美元帳戶並持有 20 US30 的多頭（買入）部位。 在除息日，他們將收到 20*4.383<b>87.66 美元的付款。</b>

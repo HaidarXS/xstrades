@@ -4,7 +4,7 @@
 
         'TAILORED_SERVICES_DESCRIPTION' => 'Cơ sở hạ tầng tiên tiến của chúng tôi cho phép chúng tôi cung cấp các dịch vụ và giải pháp tổ chức phù hợp cho nhiều khách hàng tổ chức. Các dịch vụ và giải pháp này có thể được tùy chỉnh và điều chỉnh để đáp ứng nhu cầu của các khách hàng doanh nghiệp và tổ chức của chúng tôi, những người mong muốn được hưởng lợi từ kiến thức và kinh nghiệm mà chúng tôi đã tích lũy được trong nhiều năm qua. Chúng tôi cam kết giúp khách hàng đạt được mục tiêu giao dịch của mình đồng thời cung cấp hỗ trợ toàn diện, dịch vụ được cá nhân hóa và các giải pháp sáng tạo.',
 
-        'WHY_CHOSE_XS' => 'Tại sao nên chọn Dịch vụ & Giải pháp phù hợp với XS Trades?',
+        'WHY_CHOSE_XS' => 'Tại sao nên chọn Dịch vụ & Giải pháp phù hợp với XS?',
 
         'REASON_1_TITLE' => 'Giải pháp toàn diện: ',
         'REASON_1_DESCRIPTION' => 'Nhiều giải pháp được thiết kế để giải quyết các yêu cầu riêng biệt của khách hàng tổ chức.',

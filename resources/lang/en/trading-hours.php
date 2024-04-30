@@ -3,13 +3,13 @@
         'PAGE_TITLE' => 'Trading Hours',
         'PAGE_DESC' => 'Plan your Trades with Confidence by Exploring our Detailed Trading Hours Schedules.',
         'TRADING_HOURS_MARKET_TITLE' => 'TRADING HOURS IN FINANCIAL MARKETS ',
-        'TRADING_HOURS_MARKET_DESC' => 'Trading hours in financial markets refer to the trading sessions available for trading a specific trading instrument. These hours may vary between asset classes, markets, instruments and days of the week. XS Trades offers access to multiple different asset classes. The opening and closing times of these markets may differ from one another.',
+        'TRADING_HOURS_MARKET_DESC' => 'Trading hours in financial markets refer to the trading sessions available for trading a specific trading instrument. These hours may vary between asset classes, markets, instruments and days of the week. XS offers access to multiple different asset classes. The opening and closing times of these markets may differ from one another.',
         'TRADING_NORMAL' => 'Normal <br/> Trading Hours',
         'TRADING_HOLIDAYS' => 'Trading Holidays',
         'TRADING_NOTICES' => 'Trading Notices',
         
         'NORMAL_HOURS_TITLE' => 'NORMAL TRADING HOURS ',
-        'NORMAL_HOURS_DESC' => 'Normal trading hours refer to the regular trading sessions available for trading in a specific financial market. The below tables show the normal trading hours of different financial instruments available for trading with XS Trades. 
+        'NORMAL_HOURS_DESC' => 'Normal trading hours refer to the regular trading sessions available for trading in a specific financial market. The below tables show the normal trading hours of different financial instruments available for trading with XS. 
         <br/><br/>
         Seasonal and market factors may affect the below trading hours, so it is important to follow the latest updates on Trading Holidays & Trading Notices pages to stay up to date with the latest seasonal changes to trading hours. 
         <br/><br/>

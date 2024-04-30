@@ -34,12 +34,12 @@ return [
 
 
     "TRADING_CONDITION_2_TITLE" => "点差",
-    "TRADING_CONDITION_2_DESCRIPTION" => "XSTrades.com 为所有账户类型的所有商品产品提供浮动点差。因此，合约规格表中的点差是基于前一个交易日的平均点差。有关实时点差，请参阅交易平台。请注意，当市场流动性较低时（包括展期时间），点差可能会扩大。",
+    "TRADING_CONDITION_2_DESCRIPTION" => "XS.com 为所有账户类型的所有商品产品提供浮动点差。因此，合约规格表中的点差是基于前一个交易日的平均点差。有关实时点差，请参阅交易平台。请注意，当市场流动性较低时（包括展期时间），点差可能会扩大。",
     "TRADING_CONDITION_3_TITLE" => "图表价格",
-    "TRADING_CONDITION_3_DESCRIPTION" => "XSTrades.com 提供各种交易账户，以满足每个交易者的需求和偏好。我们提供原始定价账户，并收取额外佣金。其他账户类型不收取佣金，但在价格中包含加价。默认情况下，MetaTrader 交易平台的图表将显示原始价格，而市场观察将显示客户正在交易的账户类型的价格。",
+    "TRADING_CONDITION_3_DESCRIPTION" => "XS.com 提供各种交易账户，以满足每个交易者的需求和偏好。我们提供原始定价账户，并收取额外佣金。其他账户类型不收取佣金，但在价格中包含加价。默认情况下，MetaTrader 交易平台的图表将显示原始价格，而市场观察将显示客户正在交易的账户类型的价格。",
 
     "TRADING_CONDITION_4_TITLE" => "固定杠杆",
-    "TRADING_CONDITION_4_DESCRIPTION" => "XSTrades.com 为所有账户类型的商品提供固定杠杆。在这种情况下，合约规格表中显示的最大杠杆率不会因您的净未平仓头寸或账户类型而改变。",
+    "TRADING_CONDITION_4_DESCRIPTION" => "XS.com 为所有账户类型的商品提供固定杠杆。在这种情况下，合约规格表中显示的最大杠杆率不会因您的净未平仓头寸或账户类型而改变。",
 
     "TRADING_CONDITION_5_TITLE" => "止损价位",
     "TRADING_CONDITION_5_DESCRIPTION" => "止损位是当前市场价格与挂单价格之间的最小距离（点差）。合约规格表中的止损位值可能会发生变化，使用某些高频交易策略或智能交易系统的交易者可能无法使用。",

@@ -2,7 +2,7 @@
 return [
     'CONSULTANCY_SERVICES' => 'Servizi di Consulenza',
     'CONSULTANCY_SERVICES_DESCRIPTION' => 'Grazie alla nostra lunga esperienza nell\'industria dei servizi finanziari, abbiamo creato un ampio pool di conoscenze ed esperienze, sia nell\'ambito aziendale, che negli aspetti tecnici, o nella comprensione delle esigenze e dei requisiti dei clienti. XS offre servizi di consulenza di esperti alle istituzioni che cercano una guida professionale nell\'industria del trading. Il nostro team di consulenti esperti fornisce preziose conoscenze, analisi di mercato e consigli strategici su misura per le esigenze specifiche e gli obiettivi di ciascuna istituzione.',
-    'WHY_CHOOSE_XS' => 'Perché Scegliere le Soluzioni Tecnologiche e Fintech di XS Trades?',
+    'WHY_CHOOSE_XS' => 'Perché Scegliere le Soluzioni Tecnologiche e Fintech di XS?',
 
     'REASON_1_TITLE' => 'Servizi di Consulenza Esperti:',
     'REASON_1_DESCRIPTION' => 'Accesso a un ampio pool di conoscenze ed esperienze su misura per le esigenze specifiche e gli obiettivi di ciascuna istituzione.',

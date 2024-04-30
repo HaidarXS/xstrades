@@ -16,7 +16,7 @@ return [
 
     'WITH_OUR_UNWAVERING_COMMITMENT' => '憑借我們對卓越的堅定承諾和對金融市場的熱情，我們為各種水平的交易者提供全面的解決方案。
     <br/><br/>
-    <a style="text-decoration:none;" href="https://my.XSTrades.com/zh_hant/register" target="_blank" >加入XSTrades.com</a> ，開始一段激動人心、回報豐厚的交易體驗。您的財務賦權從這裏開始。',
+    <a style="text-decoration:none;" href="https://my.xs.com/zh_hant/register" target="_blank" >加入XS.com</a> ，開始一段激動人心、回報豐厚的交易體驗。您的財務賦權從這裏開始。',
 
     'COMPANY_AWARDS' => '公司獎項',
 
@@ -52,13 +52,13 @@ return [
 
     'EVENT_DETAILS' => 'EVENT DETAILS',
 
-    'XS_GROUP_IS_A_GLOBAL_FINTECH' => '憑借我們對卓越的堅定承諾和對金融市場的熱情，我們為各種水平的交易者提供全面的解決方案。 加入XSTrades.com，開始一段激動人心、回報豐厚的交易體驗。您的財務賦權從這裏開始。',
+    'XS_GROUP_IS_A_GLOBAL_FINTECH' => '憑借我們對卓越的堅定承諾和對金融市場的熱情，我們為各種水平的交易者提供全面的解決方案。 加入XS.com，開始一段激動人心、回報豐厚的交易體驗。您的財務賦權從這裏開始。',
 
     'SEMINARS'=>'研討會',
 
     'SEMINAR_DETAILS'=>'SEMINAR DETAILS',
 
-    'XS_GROUP_IS_A_GLOBAL_FINTECH_SEMINARS'=>'憑借我們對卓越的堅定承諾和對金融市場的熱情，我們為各種水平的交易者提供全面的解決方案。 加入XSTrades.com，開始一段激動人心、回報豐厚的交易體驗。您的財務賦權從這裏開始。',
+    'XS_GROUP_IS_A_GLOBAL_FINTECH_SEMINARS'=>'憑借我們對卓越的堅定承諾和對金融市場的熱情，我們為各種水平的交易者提供全面的解決方案。 加入XS.com，開始一段激動人心、回報豐厚的交易體驗。您的財務賦權從這裏開始。',
 
     'AWARD_1_TITLE'=> 'Best Multi-Asset Broker ',
 

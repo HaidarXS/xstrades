@@ -28,7 +28,7 @@ return [
 
     'PAMM_USER_GUIDE' => 'Guia do Usuário PAMM',
 
-    'WHY_USE_XS_PAMM' => 'Por Que Usar o PAMM da XS Trades?',
+    'WHY_USE_XS_PAMM' => 'Por Que Usar o PAMM da XS?',
 
     'TB_1_1' => 'Processo de Onboarding Automatizado',
 
@@ -42,14 +42,14 @@ return [
 
     'TB_1_6' => 'Compartilhamento de Lucros Transparente',
 
-    'WHY_CHOOSE_XS' => 'Por Que Escolher a XS Trades? ',
+    'WHY_CHOOSE_XS' => 'Por Que Escolher a XS? ',
 
 
     'CONNECT' => 'Vamos nos conectar',
 
     'TEXT7' => 'Nossa equipe de especialistas está pronta para compartilhar seus conhecimentos e insights com você para garantir que você atinja seus objetivos e implemente suas estratégias.',
 
-    'TEXT8' => 'Se você gostaria de falar com um de nossos especialistas experientes sobre a Solução PAMM, por favor, envie um e-mail para nós em <a href="mailto:support@XSTrades.com"> support@XSTrades.com </a>',
+    'TEXT8' => 'Se você gostaria de falar com um de nossos especialistas experientes sobre a Solução PAMM, por favor, envie um e-mail para nós em <a href="mailto:support@xs.com"> support@xs.com </a>',
 
     'DISCLAIMER' => '<span style="color: #30af85;">Aviso Legal: </span> Nem a XS nem os traders PAMM são fornecedores de serviços de conta discricionária gerenciada. É sua própria decisão seguir um trader PAMM específico, significando que todas as decisões de trading feitas por um trader PAMM serão consideradas suas próprias decisões de trading.',
 

@@ -3,13 +3,13 @@
         'FUNDING_METHODS' => 'Phương thức nạp rút',
         'SUBTITLE' => 'Giao dịch thuận tiện và an toàn với XS',
 
-        'DESCRIPTION' => 'Tại XS Trades, chúng tôi hiểu tầm quan trọng của các giao dịch an toàn và hạn chế rủi ro cho những giao dịch nạp rút. Chúng tôi cung cấp cho bạn quy trình gửi và rút tiền liền mạch, đảm bảo tài sản của bạn được xử lý hiệu quả và an toàn. Khám phá các tính năng và tùy chọn có sẵn để gửi và rút tiền cùng XS Trades.',
+        'DESCRIPTION' => 'Tại XS, chúng tôi hiểu tầm quan trọng của các giao dịch an toàn và hạn chế rủi ro cho những giao dịch nạp rút. Chúng tôi cung cấp cho bạn quy trình gửi và rút tiền liền mạch, đảm bảo tài sản của bạn được xử lý hiệu quả và an toàn. Khám phá các tính năng và tùy chọn có sẵn để gửi và rút tiền cùng XS.',
         
         'DEPOSITS' => 'Nạp tiền',
         'WITHDRAWALS' => 'Rút tiền',
 
         
-        'DEPOSITS_TABLE_DESCRIPTION' => 'Nạp tiền XS rất đơn giản và thuận tiện. Chúng tôi cung cấp nhiều phương thức nạp tiền khác nhau để phù hợp với sở thích của bạn, bao gồm chuyển khoản ngân hàng, thẻ tín dụng/thẻ ghi nợ và ví điện tử phổ biến. Chỉ cần đăng nhập vào tài khoản XS Trades, điều hướng đến phần nạp tiền và chọn phương thức ưa thích. Hãy làm theo hướng dẫn được cung cấp và khoản nạp sẽ được ghi có vào tài khoản giao dịch của bạn một cách nhanh chóng, cho phép bạn bắt đầu giao dịch mà không bị chậm trễ.
+        'DEPOSITS_TABLE_DESCRIPTION' => 'Nạp tiền XS rất đơn giản và thuận tiện. Chúng tôi cung cấp nhiều phương thức nạp tiền khác nhau để phù hợp với sở thích của bạn, bao gồm chuyển khoản ngân hàng, thẻ tín dụng/thẻ ghi nợ và ví điện tử phổ biến. Chỉ cần đăng nhập vào tài khoản XS, điều hướng đến phần nạp tiền và chọn phương thức ưa thích. Hãy làm theo hướng dẫn được cung cấp và khoản nạp sẽ được ghi có vào tài khoản giao dịch của bạn một cách nhanh chóng, cho phép bạn bắt đầu giao dịch mà không bị chậm trễ.
         <br/>
         Quy trình nạp tiền của chúng tôi được thiết kế thân thiện với người dùng, đảm bảo trải nghiệm liền mạch khi bạn nạp tiền vào tài khoản giao dịch của mình.', 
 

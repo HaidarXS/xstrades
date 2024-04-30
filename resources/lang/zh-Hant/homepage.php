@@ -25,7 +25,7 @@ return [
     'METALS' => '貴金屬',
     'COMMODITIES' => '大宗商品',
     'CRYPTOS' => '加密貨幣',
-    'FOREX' => '外匯',
+    'FOREX' => '貨幣對',
     'ENERGY' => '能源',
     'PRODUCTS' => '產品',
     'SELECT_YOUR_SUITABLE_ACCOUNT_TYPE' => "選擇適合您的賬戶類型",
@@ -44,7 +44,7 @@ return [
     'ACCOUNT_TYPES' => '賬戶類型',
     'ACCESS_GLOBAL_MARKETS_FROM_THE_PALM_OF_YOUR_HAND' => '隨時隨地進入全球市場',
     'TRADE_A_WIDE_RANGE_OF_ASSET' => '在我們先進的交易平台上交易各種資產類別，該平台為您提供眾多功能和工具，為您提供最佳的交易體驗。',
-    'TRADING_PLATFORMS' => '交易平臺',
+    'TRADING_PLATFORMS' => '交易平台',
     'PARTNER_WITH_A_GLOBAL_REGULATED_BROKER' => '與全球監管經紀商合作',
     'MULTIPLE_PROGRAMS' => '多元化合作',
     'GENEROUS_REWARDS' => '豐厚的獎勵',
@@ -93,6 +93,6 @@ return [
     'DISCOVER_HOW_INSTITUTIONAL' => '了解我們的機構解決方案將如何幫助您改善業務。',
 
     'JOIN_THE_MULTI_AWARD' =>'攜手屢獲殊榮的金融經紀商',
-    'FUNDING_METHODS' => '资金存取',
+    'FUNDING_METHODS' => '資金存取',
 
 ];

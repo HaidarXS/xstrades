@@ -10,7 +10,7 @@ return [
     'SECTION_2_TITLE' => 'TRADING DE ENERGÍA CON XS: ESPECIFICACIONES DE CONTRATO',
     "SECTION_3_TITLE" => "TRADING DE ENERGÍA CON XS: CONDICIONES DE TRADING",
 
-    'DESCRIPTION_1' => 'Bienvenido al mundo del trading de energía con XS Trades. Descubra las vastas posibilidades del trading de energía, donde puede operar CFDs en Petróleo Crudo, Gas Natural y otras commodities energéticas con la mejor plataforma de trading en línea. XS proporciona plataformas de trading integrales que ofrecen acceso a los mercados y una amplia gama de commodities energéticas. Con datos de mercado en tiempo real, herramientas avanzadas de trading y precios competitivos, XS empodera a los traders para tomar decisiones informadas y ejecutar operaciones eficientemente.
+    'DESCRIPTION_1' => 'Bienvenido al mundo del trading de energía con XS. Descubra las vastas posibilidades del trading de energía, donde puede operar CFDs en Petróleo Crudo, Gas Natural y otras commodities energéticas con la mejor plataforma de trading en línea. XS proporciona plataformas de trading integrales que ofrecen acceso a los mercados y una amplia gama de commodities energéticas. Con datos de mercado en tiempo real, herramientas avanzadas de trading y precios competitivos, XS empodera a los traders para tomar decisiones informadas y ejecutar operaciones eficientemente.
     Únase a XS
     ',
 
@@ -18,9 +18,9 @@ return [
 
 
     "TRADING_CONDITION_1_TITLE" => "Horarios de Trading Normaless",
-    "TRADING_CONDITION_1_DESCRIPTION" => "Los horarios de trading normales se refieren a las sesiones regulares de trading disponibles para operar. A continuación, se muestran los horarios de trading para productos energéticos disponibles con XS Trades.
+    "TRADING_CONDITION_1_DESCRIPTION" => "Los horarios de trading normales se refieren a las sesiones regulares de trading disponibles para operar. A continuación, se muestran los horarios de trading para productos energéticos disponibles con XS.
     <br>
-    Los factores estacionales y de mercado pueden afectar los siguientes horarios de trading, por lo que es importante seguir las últimas actualizaciones en la página de Horas de Trading para mantenerse al día con los últimos cambios estacionales en los horarios de trading. Todos los horarios están en hora del servidor (GMT+2).
+    Los factores estacionales y de mercado pueden afectar los siguientes horarios de trading, por lo que es importante seguir las últimas actualizaciones en la página de Horas de Trading para mantenerse al día con los últimos cambios estacionales en los horarios de trading. Todos los horarios están en hora del servidor (GMT+3).
     <br><br>
     <span class='d-flex'> UKOIL : <span class='ms-auto'> Lunes 03:00 - Viernes 24:00 <br/> (Pausa Diaria: 00:00:01 - 02:59:59) </span></span>
     <span class='d-flex'> USOIL : <span class='ms-auto'> Lunes 01:05 - Viernes 23:55 <br/> (Pausa Diaria: 00:00 - 00:59) </span></span>
@@ -28,21 +28,21 @@ return [
 
 
     "TRADING_CONDITION_2_TITLE" => "Spreads",
-    "TRADING_CONDITION_2_DESCRIPTION" => "XSTrades.com ofrece un spread flotante en todas las commodities de energía para todos los tipos de cuenta. Por lo tanto, los spreads en la tabla de especificaciones de contratos son el promedio basado en el trading del día anterior. Para spreads en vivo, por favor refiérase a la plataforma de trading. Tenga en cuenta que los spreads pueden ampliarse cuando los mercados experimentan menor liquidez, incluyendo el tiempo de rollover.",
+    "TRADING_CONDITION_2_DESCRIPTION" => "XS.com ofrece un spread flotante en todas las commodities de energía para todos los tipos de cuenta. Por lo tanto, los spreads en la tabla de especificaciones de contratos son el promedio basado en el trading del día anterior. Para spreads en vivo, por favor refiérase a la plataforma de trading. Tenga en cuenta que los spreads pueden ampliarse cuando los mercados experimentan menor liquidez, incluyendo el tiempo de rollover.",
     
     "TRADING_CONDITION_3_TITLE" => "Precios en Gráficos",
-    "TRADING_CONDITION_3_DESCRIPTION" => "XSTrades.com ofrece una variedad de cuentas de trading para satisfacer las necesidades y preferencias de cada trader. Ofrecemos cuentas con precios en bruto sobre los cuales se cobran comisiones adicionales. Otros tipos de cuentas tienen mark-ups incorporados en los precios. Por defecto, los gráficos en las plataformas de trading MetaTrader mostrarán los precios en bruto, mientras que el market watch mostrará los precios del tipo de cuenta en el que el cliente está operando.",
+    "TRADING_CONDITION_3_DESCRIPTION" => "XS.com ofrece una variedad de cuentas de trading para satisfacer las necesidades y preferencias de cada trader. Ofrecemos cuentas con precios en bruto sobre los cuales se cobran comisiones adicionales. Otros tipos de cuentas tienen mark-ups incorporados en los precios. Por defecto, los gráficos en las plataformas de trading MetaTrader mostrarán los precios en bruto, mientras que el market watch mostrará los precios del tipo de cuenta en el que el cliente está operando.",
 
     "TRADING_CONDITION_4_TITLE" => "Swaps",
     "TRADING_CONDITION_4_DESCRIPTION" => "El swap largo se utiliza para mantener posiciones de compra abiertas durante la noche, y el swap corto se utiliza para mantener posiciones de venta abiertas durante la noche. Los swaps ocurren a las 00:00 hora del servidor cada día, excluyendo el fin de semana, hasta que la posición se cierra. Los swaps triples se cobran los miércoles para cubrir los costos de financiación incurridos durante el fin de semana.",
 
     "TRADING_CONDITION_5_TITLE" => "Apalancamiento Dinámico",
-    "TRADING_CONDITION_5_DESCRIPTION" => "XSTrades.com ofrece apalancamiento dinámico en Petróleo Crudo en la mayoría de los tipos de cuenta. Los valores de apalancamiento en la tabla de especificaciones de contrato son el apalancamiento máximo para cada instrumento de trading. El apalancamiento máximo cambiará basado en sus posiciones netas abiertas. Para más detalles, por favor consulte la página de Apalancamiento Dinámico.",
+    "TRADING_CONDITION_5_DESCRIPTION" => "XS.com ofrece apalancamiento dinámico en Petróleo Crudo en la mayoría de los tipos de cuenta. Los valores de apalancamiento en la tabla de especificaciones de contrato son el apalancamiento máximo para cada instrumento de trading. El apalancamiento máximo cambiará basado en sus posiciones netas abiertas. Para más detalles, por favor consulte la página de Apalancamiento Dinámico.",
 
     "TRADING_CONDITION_6_TITLE" => "Apalancamiento Fijo ",
-    "TRADING_CONDITION_6_DESCRIPTION" => "XSTrades.com ofrece apalancamiento fijo en Gas Natural para todos los tipos de cuenta. En este caso, el máximo apalancamiento mostrado en la tabla de especificaciones de contratos NO cambiará basado en sus posiciones abiertas netas o tipos de cuenta.
+    "TRADING_CONDITION_6_DESCRIPTION" => "XS.com ofrece apalancamiento fijo en Gas Natural para todos los tipos de cuenta. En este caso, el máximo apalancamiento mostrado en la tabla de especificaciones de contratos NO cambiará basado en sus posiciones abiertas netas o tipos de cuenta.
     <br>
-    XSTrades.com ofrece apalancamiento fijo en algunos tipos de cuenta en todos los productos. En este caso, el apalancamiento máximo mostrado en la tabla de especificaciones del contrato NO cambiará en función de sus posiciones abiertas netas. El apalancamiento fijo se aplica a los tipos de cuenta Cent y Micro.
+    XS.com ofrece apalancamiento fijo en algunos tipos de cuenta en todos los productos. En este caso, el apalancamiento máximo mostrado en la tabla de especificaciones del contrato NO cambiará en función de sus posiciones abiertas netas. El apalancamiento fijo se aplica a los tipos de cuenta Cent y Micro.
     ",
 
     "TRADING_CONDITION_7_TITLE" => "Periodos de Requerimientos de Margen Más Altos",

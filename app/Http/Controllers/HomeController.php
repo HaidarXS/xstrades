@@ -24,12 +24,19 @@ class HomeController extends Controller
      */
     public function index($lang)
     {
-       
-
         $locale = App::getLocale(); // Get the current locale
 
         $companyAwards = json_decode(file_get_contents('../awards/'. $locale .'/company_awards.json'));
 
         return view('homepage', compact('lang', 'companyAwards'));
+    }
+
+    
+    public function indexNew($lang)
+    {
+        $locale = App::getLocale();
+        $companyAwards = json_decode(file_get_contents('../awards/'. $locale .'/new_company_awards.json'));
+
+        return view('new-home', compact('lang','companyAwards'));
     }
 }

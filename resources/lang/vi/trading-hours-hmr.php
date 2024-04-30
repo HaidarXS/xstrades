@@ -3,7 +3,7 @@ return[
     'HMR'=>'HMR',
     'HMR_PERIODS'=>'Giai đoạn yêu cầu ký quỹ cao hơn',
 
-    'MR_PERIOD_BETWEEN'=>'Giai đoạn yêu cầu ký quý cao hơn từ 25.03 - 29.03.2024',
+    'MR_PERIOD_BETWEEN'=>'Giai đoạn yêu cầu Ký quỹ cao hơn từ 29.04 - 03.05.2024',
 
     'DATE'=>'Ngày',
     'TIME_ZONE'=>'Thời gian GMT+3',

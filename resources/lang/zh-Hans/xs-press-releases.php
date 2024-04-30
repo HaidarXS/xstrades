@@ -1,6 +1,6 @@
 <?php
 return[
-'title' =>'新闻发布',
+'title' =>'新聞稿',
 ];
 
 ?>

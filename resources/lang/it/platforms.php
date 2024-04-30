@@ -11,7 +11,7 @@
     'ANDROID_CAP' => 'ANDROID',
     'IOS_CAP' => 'IOS',
     'ACCESS_THE_FINANCIAL_GLOBAL_MARKETS' => 'ACCEDI AI MERCATI FINANZIARI GLOBALI CON LE PIÙ AVANZATE PIATTAFORME DI TRADING',
-    'TRADE_AND_INVEST' => 'Fai trading e investi in migliaia di strumenti finanziari in modo semplice con XS Trades, indipendentemente dalla tua posizione. Con la nostra gamma di versatili piattaforme di trading, puoi scegliere quella che meglio si adatta alle tue esigenze e al tuo dispositivo. Che tu preferisca la comodità della nostra piattaforma web, la funzionalità della nostra piattaforma desktop o la flessibilità della nostra app mobile, XS ha tutto ciò di cui hai bisogno. Inizia il tuo percorso di trading oggi stesso e accedi ai mercati globali in qualsiasi momento e ovunque.',
+    'TRADE_AND_INVEST' => 'Fai trading e investi in migliaia di strumenti finanziari in modo semplice con XS, indipendentemente dalla tua posizione. Con la nostra gamma di versatili piattaforme di trading, puoi scegliere quella che meglio si adatta alle tue esigenze e al tuo dispositivo. Che tu preferisca la comodità della nostra piattaforma web, la funzionalità della nostra piattaforma desktop o la flessibilità della nostra app mobile, XS ha tutto ciò di cui hai bisogno. Inizia il tuo percorso di trading oggi stesso e accedi ai mercati globali in qualsiasi momento e ovunque.',
     'SELECT_THE_TRADING_PLATFORMS' => 'SELEZIONA LE PIATTAFORME DI TRADING CHE SI ADATTANO AL TUO STILE DI TRADING',
     'WEB' => 'Web',
     'WINDOWS' => 'Windows',
@@ -20,12 +20,12 @@
     'APP_STORE' => 'App Store',
     'FOR_MORE_INFO_HELP' => 'Per ulteriori informazioni visita il nostro Centro Assistenza',
     'HELP_CENTER' => 'Centro Assistenza',
-    'WHY_TRADE_WITH_XS' => 'Perché fare trading con XS Trades?',
+    'WHY_TRADE_WITH_XS' => 'Perché fare trading con XS?',
     'MT4_FEATURES' => 'Caratteristiche di MT4',
 
     // two
     'TRUST_GLOBAL_BROKER' => 'Broker Globale Affidabile:',
-    'XS_IS_A_TRUSTED' => 'XSTrades.com è un broker globale affidabile con molteplici regolamentazioni',
+    'XS_IS_A_TRUSTED' => 'XS.com è un broker globale affidabile con molteplici regolamentazioni',
     'AWARD_WINNING_BROKER' => 'Broker Premiato:',
     'TRADE_RECOGNIZED_SERVICES' => 'Fai trading con un broker riconosciuto per i suoi servizi',
     'QUICK_EASY_REGISTRATION' => 'Registrazione Veloce e Semplice:',
@@ -41,7 +41,7 @@
     'MULTILINGUAL_SUPPORT' => 'Supporto Multilingue:',
     'SUPPORT_IN_YOUR_LANGUAGE' => 'Approfitta del nostro supporto clienti nella tua lingua',
     'TRADE_THE_GLOBAL_MARKETS' => 'FAI TRADING NEI MERCATI GLOBALI CON LA PIÙ POPOLARE PIATTAFORMA DI TRADING',
-    'TRADE_WITH_CONFIDENCE_MT4' => 'Fai trading con fiducia su MetaTrader 4 (MT4) e sperimenta il potere della piattaforma di trading più popolare con XS Trades. Fai trading su una vasta gamma di strumenti, goditi le avanzate capacità di analisi grafica ed esegui gli ordini con velocità e precisione. Scarica MT4 ora e inizia il tuo percorso di trading con XS Trades. MT4 è una rinomata piattaforma di trading affidata da milioni di trader in tutto il mondo. Offre un\'interfaccia utente intuitiva, strumenti avanzati di analisi tecnica e funzionalità personalizzabili adatte sia ai principianti che agli operatori esperti. Approfitta della sua robusta funzionalità e libera il tuo potenziale di trading con MT4 combinato alla migliore esperienza di trading con XS Trades.',
+    'TRADE_WITH_CONFIDENCE_MT4' => 'Fai trading con fiducia su MetaTrader 4 (MT4) e sperimenta il potere della piattaforma di trading più popolare con XS. Fai trading su una vasta gamma di strumenti, goditi le avanzate capacità di analisi grafica ed esegui gli ordini con velocità e precisione. Scarica MT4 ora e inizia il tuo percorso di trading con XS. MT4 è una rinomata piattaforma di trading affidata da milioni di trader in tutto il mondo. Offre un\'interfaccia utente intuitiva, strumenti avanzati di analisi tecnica e funzionalità personalizzabili adatte sia ai principianti che agli operatori esperti. Approfitta della sua robusta funzionalità e libera il tuo potenziale di trading con MT4 combinato alla migliore esperienza di trading con XS.',
 
     // three
     'INTUITIVE_INTERFACE' => 'Interfaccia Intuitiva Per un\'Esperienza di Trading Senza Interruzioni',

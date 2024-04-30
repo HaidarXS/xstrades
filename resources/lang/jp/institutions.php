@@ -21,10 +21,10 @@ return [
     'LETS_TALK_B2B' => 'B2Bについてのお問い合わせ',
     'LETS_TALK_B2B_DESCRIPTION' => '当社の専門家チームは、お客様が確実に目標を達成し、戦略を実行できるよう、長年の実績に基づくリソースを提供しお客様をサポートします。
     <br/><br/>
-    BtoBソリューションサービスについては、<a href="mailto:b2b@XSTrades.com">b2b@XSTrades.com</a> までメールにてお問い合わせください。',
+    BtoBソリューションサービスについては、<a href="mailto:b2b@xs.com">b2b@xs.com</a> までメールにてお問い合わせください。',
 
     'LETS_TALK_LIQUIDITY' => 'リクイディティ・ソリューションについて問い合わせる',
-    'LETS_TALK_LIQUIDITY_DISC' => 'XSでは、お客様の目標達成と戦略実行のために、金融業界エキスパートのノウハウと分析を提供します。 当社のリクイディティソリューションについてご興味のある方は、<a href="mailto:b2b@XSTrades.com">b2b@XSTrades.com</a> までメールでお問い合わせください。',
+    'LETS_TALK_LIQUIDITY_DISC' => 'XSでは、お客様の目標達成と戦略実行のために、金融業界エキスパートのノウハウと分析を提供します。 当社のリクイディティソリューションについてご興味のある方は、<a href="mailto:b2b@xs.com">b2b@xs.com</a> までメールでお問い合わせください。',
 
     'WHY_XS_TECHNOLOGY' => 'XSのテクノロジー及びフィンテック ソリューションを選ぶ理由',
     'OUR_ADVEANCED_INFRASTRUCTURE' => 'XSでは、機関投資家の皆様のご要件に応えるため、高度な取引インフラストラクチャをはじめ、幅広いテクノロジー及びフィンテック・ソリューションを提供しています。 こちらは既存及び新規のブローカーを対象としています。',
@@ -59,7 +59,7 @@ return [
     'LETS_TALK_FINTECH' => 'テクノロジー及びフィンテック・ソリューションについて問い合わせる',
     'OUR_TEAM_OF_EXPERTS' => 'XSでは、お客様が期待以上の成果を得られるよう、そしてお客様のビジネス ニーズとご要件に合わせて適切なテクノロジーとフィンテック・ソリューションを使用できるように、金融業界エキスパートのノウハウと分析を提供します。
     <br/>
-    テクノロジー及びフィンテック・ソリューションについてご興味のある方は、<a href="mailto:b2b@XSTrades.com">b2b@XSTrades.com</a>  までメールでお問い合わせください。',
+    テクノロジー及びフィンテック・ソリューションについてご興味のある方は、<a href="mailto:b2b@xs.com">b2b@xs.com</a>  までメールでお問い合わせください。',
 
     'FULL_TRADING_SOLUTION' => 'フル・トレーディング・ソリューション（Start you Own Broker）',
     'THE_FULL_TRADING_SOLUTIONS' => 'XSでは、独立して仲介ビジネスをはじめたいとお考えの法人及び機関投資家の皆様向けに、フル・トレーディング・ソリューション（Start you Own Broker）を提供しています。

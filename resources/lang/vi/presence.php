@@ -15,7 +15,7 @@ return [
     'WITH_OUR_UNWAVERING_COMMITMENT' => '  With our unwavering commitment to excellence and our passion for financial markets, 
     we offer comprehensive solutions that cater to traders of all levels. 
     <br/><br/> Join
-    <a style="text-decoration:none;" href="https://www.XSTrades.com/vn" target="_blank" > XSTrades.com </a> and embark on an exciting and rewarding trading experience. 
+    <a style="text-decoration:none;" href="https://www.xs.com/vn" target="_blank" > XS.com </a> and embark on an exciting and rewarding trading experience. 
     Your financial empowerment starts here.',
     'COMPANY_AWARDS' => 'GIẢI THƯỞNG CÔNG TY',
     'BEST_MULTI_ASSET_BROKER' => 'BEST MULTI ASSET BROKER',

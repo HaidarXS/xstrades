@@ -44,7 +44,7 @@ return [
     'WHY_CLIENTS_CHOSE_XS' => '客户为什么选择XS？',
 
     'CHOOSE_REASON_1_TITLE' => '值得信赖的全球经纪商:',
-    'CHOOSE_REASON_1_DESCRIPTION' => 'XSTrades.com是一家值得信赖的多重监管全球经纪商。',
+    'CHOOSE_REASON_1_DESCRIPTION' => 'XS.com是一家值得信赖的多重监管全球经纪商。',
 
     'CHOOSE_REASON_2_TITLE' => ' 屡获殊荣的经纪商:',
     'CHOOSE_REASON_2_DESCRIPTION' => '与服务得到认可的经纪商进行交易。',
@@ -73,7 +73,7 @@ return [
     'LETS_TALK_PARTNERSHIP' => '谈一谈合作计划',
     'LETS_TALK_PARTNERSHIP_DESCRIPTION' => '我们的专家团队随时准备与您分享他们的知识和见解，以确保您实现目标和实施成功战略。
     <br/> <br/>
-    如果您想与我们经验丰富的专家商讨合作伙伴计划，请发送电子邮件至 <a href="mailto:partners@XSTrades.com">partners@XSTrades.com</a>',
+    如果您想与我们经验丰富的专家商讨合作伙伴计划，请发送电子邮件至 <a href="mailto:partners@xs.com">partners@xs.com</a>',
 
     'BEST_FX_BROKER' => 'BEST FX BROKER',
     'BEST_B2B_BROKER' => 'BEST B2B BROKER',

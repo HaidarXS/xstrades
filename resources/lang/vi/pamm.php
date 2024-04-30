@@ -28,7 +28,7 @@ return [
 
     'PAMM_USER_GUIDE' => 'Hướng Dẫn Sử Dụng PAMM',
 
-    'WHY_USE_XS_PAMM' => 'Tại Sao Nên Sử Dụng PAMM Từ XS Trades?',
+    'WHY_USE_XS_PAMM' => 'Tại Sao Nên Sử Dụng PAMM Từ XS?',
 
     'TB_1_1' => 'Quy Trình Tự Động',
 
@@ -42,14 +42,14 @@ return [
 
     'TB_1_6' => 'Chia Sẻ Lợi Nhuận Minh Bạch',
 
-    'WHY_CHOOSE_XS' => 'Tại Sao Chọn XS Trades? ',
+    'WHY_CHOOSE_XS' => 'Tại Sao Chọn XS? ',
 
 
     'CONNECT' => 'Kết nối với chúng tôi',
 
     'TEXT7' => 'Đội ngũ chuyên gia của chúng tôi sẵn sàng chia sẻ kiến thức và hỗ trợ mọi lúc để đảm bảo bạn đáp ứng được mục tiêu và thực hiện chiến lược của mình.',
 
-    'TEXT8' => 'Để kết nối với các chuyên gia của chúng tôi về các vấn đề liên quan đến PAMM, vui lòng gửi email về địa chỉ <a href="mailto:support@XSTrades.com"> support@XSTrades.com </a>',
+    'TEXT8' => 'Để kết nối với các chuyên gia của chúng tôi về các vấn đề liên quan đến PAMM, vui lòng gửi email về địa chỉ <a href="mailto:support@xs.com"> support@xs.com </a>',
 
     'DISCLAIMER' => '<span style="color: #30af85;">Tuyên bố từ chối trách nhiệm: </span> XS và PAMM đều không phải là nhà cung cấp dịch vụ tài khoản tùy ý được quản lý. Bạn có quyền quyết định theo dõi một nhà giao dịch PAMM cụ thể, nghĩa là tất cả các quyết định giao dịch do nhà giao dịch PAMM đưa ra sẽ được coi là quyết định giao dịch của riêng bạn.',
 

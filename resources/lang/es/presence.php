@@ -15,7 +15,7 @@ return [
     'SOMETHING_REGARDING_AWARD' => 'SOMETHING REGARDING AWARD',
     'WITH_OUR_UNWAVERING_COMMITMENT' => '  With our unwavering commitment to excellence and our passion for financial markets, 
     we offer comprehensive solutions that cater to traders of all levels. 
-    Join XSTrades.com and embark on an exciting and rewarding trading experience. 
+    Join XS.com and embark on an exciting and rewarding trading experience. 
     Your financial empowerment starts here.',
     'COMPANY_AWARDS' => 'PREMIOS DE LA EMPRESA',
     'BEST_MULTI_ASSET_BROKER' => 'BEST MULTI ASSET BROKER',

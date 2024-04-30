@@ -3,7 +3,7 @@ return[
     'HMR'=>'HMR',
     'HMR_PERIODS'=>'HMR（较高保证金要求）期间',
 
-    'MR_PERIOD_BETWEEN'=>'HMR 期间： 2024年3月25日至2024年3月29日',
+    'MR_PERIOD_BETWEEN'=>'HMR 期间 29.04 - 03.05.2024',
 
     'DATE'=>'日期',
     'TIME_ZONE'=>'时间GMT+3',

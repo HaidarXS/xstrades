@@ -6,7 +6,7 @@ return [
 
     'TAILORED_SERVICES' => 'Servicios y Soluciones Personalizados',
     'TAILORED_SERVICES_DESCRIPTION' => 'Nuestra infraestructura avanzada nos permite proporcionar servicios y soluciones institucionales personalizados a una amplia gama de clientes institucionales. Estos servicios y soluciones pueden ser personalizados para satisfacer las necesidades de nuestros clientes corporativos e institucionales que desean beneficiarse del conocimiento y la experiencia que hemos adquirido a lo largo de los años. Estamos comprometidos en ayudar a nuestros clientes a alcanzar sus objetivos de trading, ofreciendo un amplio apoyo, servicio personalizado y soluciones innovadoras.',
-    'WHY_CHOSE_XS' => '¿Por qué elegir los Servicios y Soluciones Personalizados de XS Trades?',
+    'WHY_CHOSE_XS' => '¿Por qué elegir los Servicios y Soluciones Personalizados de XS?',
 
     'REASON_1_TITLE' => 'Soluciones Integrales:',
     'REASON_1_DESCRIPTION' => 'Amplia gama de soluciones diseñadas para abordar los requisitos únicos de los clientes institucionales.',

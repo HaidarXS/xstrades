@@ -59,7 +59,7 @@ return [
     
     XS Markets Ltd è autorizzata e regolamentata dalla Cyprus Securities and Exchange Commission (CySEC) con numero di licenza: 412/22.
     
-    Le entità di cui sopra sono debitamente autorizzate ad operare con il marchio e i marchi XS Trades.
+    Le entità di cui sopra sono debitamente autorizzate ad operare con il marchio e i marchi XS.
     Per ulteriori dettagli sulle suddette licenze, regolamenti e documentazione legale. Please  <b><a href="' . route('company', ['lang' => App::getLocale(), 'tab' => 'regulations']) . '">Click Here</a> </b>
     
     Avviso di rischio I nostri prodotti utilizzano il trading con margine e implicano un alto livello di rischio: è possibile perdere l’intero capitale. Questi prodotti potrebbero non essere adatti a tutti e dovresti assicurarti di comprendere i rischi connessi.

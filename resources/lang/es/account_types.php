@@ -5,7 +5,7 @@
         <br/>
         Nuestros diversos tipos de cuentas ofrecen diferentes características y ventajas, permitiéndole acceder a mercados globales y maximizar su potencial de trading. 
         <br/>
-        Acceda a una amplia gama de instrumentos de trading con condiciones competitivas y disfrute de la mejor experiencia de trading en la industria con XS Trades.',
+        Acceda a una amplia gama de instrumentos de trading con condiciones competitivas y disfrute de la mejor experiencia de trading en la industria con XS.',
 
 
         'ACCOUNT_TYPES_SUBTITLE' => 'Maximice su potencial de trading con nuestros múltiples tipos de cuentas.',

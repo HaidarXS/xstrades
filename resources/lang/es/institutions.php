@@ -19,18 +19,18 @@ return [
     'LETS_TALK_B2B' => 'Hablemos B2B',
     'LETS_TALK_B2B_DESCRIPTION' => 'Nuestro equipo de expertos está listo para compartir con usted nuestro conocimiento y perspectivas para asegurarse de que cumpla con sus objetivos e implemente sus estrategias.
     <br/><br/>
-    Si desea hablar con uno de nuestros expertos experimentados sobre sus necesidades institucionales y nuestras soluciones de trading institucional, envíenos un correo electrónico a <a href="mailto:b2b@XSTrades.com">b2b@XSTrades.com</a>',
+    Si desea hablar con uno de nuestros expertos experimentados sobre sus necesidades institucionales y nuestras soluciones de trading institucional, envíenos un correo electrónico a <a href="mailto:b2b@xs.com">b2b@xs.com</a>',
 
     'LETS_TALK_LIQUIDITY' => 'Hablemos de liquidez',
     'LETS_TALK_LIQUIDITY_DISC' => 'Nuestro equipo de expertos está listo para compartir con usted nuestro conocimiento y perspectivas para asegurarse de que cumpla con sus objetivos e implemente sus estrategias.
     <br/><br/>
-    Si desea hablar con uno de nuestros expertos experimentados sobre sus necesidades institucionales y nuestras soluciones de liquidez, envíenos un correo electrónico a <a href="mailto:b2b@XSTrades.com">b2b@XSTrades.com</a>',
+    Si desea hablar con uno de nuestros expertos experimentados sobre sus necesidades institucionales y nuestras soluciones de liquidez, envíenos un correo electrónico a <a href="mailto:b2b@xs.com">b2b@xs.com</a>',
 
     'XS_TECHNOLOGY'=>'Tecnología y Soluciones Fintech',
     'OUR_ADVEANCED_INFRASTRUCTURE'=> 'Nuestra infraestructura de trading avanzada nos permite ofrecer una amplia gama de soluciones de tecnología y fintech diseñadas para abordar los requisitos únicos de clientes institucionales. Estas soluciones están diseñadas para corredores existentes y nuevos que desean tener acceso a nuestra tecnología avanzada e infraestructura de trading. Nuestras soluciones de tecnología y fintech permiten a nuestros clientes institucionales mejorar sus productos y ofertas, y mejorar la experiencia del usuario de sus clientes utilizando la tecnología más avanzada y las soluciones fintech más actualizadas en la industria.',
 
 
-    'WHY_XS_TECHNOLOGY' => '¿Por qué elegir las soluciones de tecnología y fintech de XS Trades?',
+    'WHY_XS_TECHNOLOGY' => '¿Por qué elegir las soluciones de tecnología y fintech de XS?',
     'OUR_ADVANCED_INFRASTRUCTURE' => 'Nuestra infraestructura avanzada nos permite proporcionar servicios y soluciones institucionales personalizados a una amplia gama de clientes institucionales. Estos servicios y soluciones se pueden personalizar y adaptar para satisfacer las necesidades de nuestros clientes corporativos e institucionales que desean beneficiarse del conocimiento y la experiencia que hemos adquirido a lo largo de los años. Estamos comprometidos a ayudar a nuestros clientes a alcanzar sus objetivos comerciales al tiempo que proporcionamos un soporte integral, un servicio personalizado y soluciones innovadoras.',
     'CUTTING_EDGE' => 'Tecnología de Trading de Vanguardia: ',
     'OUR_ADVANCED_TECHNOLOGY' => 'Nuestra avanzada pila de tecnología garantiza una ejecución de operaciones eficiente, datos de mercado en tiempo real y una conectividad sin fisuras a los mercados globales. ',
@@ -52,13 +52,13 @@ return [
     'INSTITUTIONS_CAN_RELY' => 'Las instituciones pueden confiar en nuestro comprobado historial y experiencia en la industria para respaldar sus objetivos de trading.',
     'LETS_TALK_FINTECH' => 'HABLEMOS DE FINTECH',
     'OUR_TEAM_OF_EXPERTS' => 'Nuestro equipo de expertos compartirá con usted nuestro conocimiento y perspectivas para asegurarse de que obtenga los mejores resultados y utilice las soluciones de tecnología y fintech adecuadas que cumplan con las necesidades y requisitos de su negocio.
-    Si desea hablar con uno de nuestros expertos experimentados sobre sus necesidades institucionales y nuestras soluciones de tecnología y fintech, envíenos un correo electrónico a <a href="mailto:b2b@XSTrades.com">b2b@XSTrades.com</a>',
+    Si desea hablar con uno de nuestros expertos experimentados sobre sus necesidades institucionales y nuestras soluciones de tecnología y fintech, envíenos un correo electrónico a <a href="mailto:b2b@xs.com">b2b@xs.com</a>',
 
     'FULL_TRADING_SOLUTION' => 'Solución Completa de Trading',
     'THE_FULL_TRADING_SOLUTIONS' => 'La "Solución Completa de Trading" o el paquete "Inicie su Propio Broker" está diseñado para clientes corporativos e institucionales que planean iniciar su propio negocio de corretaje. Esto les permite operar como un broker totalmente independiente y proporcionar a sus clientes la capacidad de comerciar productos financieros globales.
     El paquete incluye un sistema de trading multiactivo de marca propia totalmente personalizado, con acceso a nuestros pools de liquidez multiactivo de primer nivel a través de la integración FIX API y conexión de puente. También incluye un módulo completo de back-office, CRM, un programa de capacitación completo y soporte técnico 24/7.
     Como parte del paquete, obtendrá consultoría y orientación para establecer su propia estructura corporativa y requisitos de licencia.',
-    'WHY_XS_FULL_TRADING_SOLUTION' => '¿Por qué elegir la Solución Completa de Trading de XS Trades?',
+    'WHY_XS_FULL_TRADING_SOLUTION' => '¿Por qué elegir la Solución Completa de Trading de XS?',
     
     'EXTENSIVE_KNOWLEDGE' => 'Amplio conocimiento y experiencia: ',
     'ACCESS_TO_AN_EXTENSIVE' => 'Acceso a un extenso repositorio de conocimiento y experiencia adaptado a las necesidades y objetivos específicos de cada institución. ',
@@ -77,7 +77,7 @@ return [
 
     'INSTITUTIONAL_TRADING' => 'Soluciones comerciales institucionales',
     'INSTITUTIONAL_TRADING_DESC' => 'XS es líder del mercado en soluciones de trading institucional multi-activo, Fintech y ha servido a la industria de servicios financieros desde 2010, proporcionando a clientes institucionales y corredores de todo el mundo acceso a liquidez institucional profunda y tecnología avanzada de trading, combinado con una experiencia de usuario eficiente, gestión de relaciones de alta calidad y excelente soporte al cliente.',
-    'WHY_INSTITUTIONAL_TRADING' => '¿Por qué Elegir las Soluciones de Trading Institucional de XS Trades?',
+    'WHY_INSTITUTIONAL_TRADING' => '¿Por qué Elegir las Soluciones de Trading Institucional de XS?',
 
     'MULTIPLE_INSTITUTIONAL_SOLUTIONS' => 'Múltiples Soluciones Institucionales',
     'MULTIPLE_INSTITUTIONAL_SOLUTIONS_DESC' => 'Nuestra avanzada infraestructura de trading nos permite ofrecer múltiples soluciones de trading institucional a una amplia gama de clientes institucionales.',

@@ -33,7 +33,7 @@ return [
 
     'APPLY_FOR_YOUR_XS_MASTER_CARD_DESC' => '今天就加入 XS，申請您的 XS 萬事達卡儲值卡，隨時隨地輕鬆快捷地使用您的資金。
     <br/><br/>
-    如果您對 XS 萬事達卡儲值卡有任何疑問或需要更多資訊，我們的專業支援團隊將竭誠為您服務。請發送電子郵件至 <a href="mailto:support@XSTrades.com" class="xs-btn fill text-secondary">Support@XSTrades.com</a>。
+    如果您對 XS 萬事達卡儲值卡有任何疑問或需要更多資訊，我們的專業支援團隊將竭誠為您服務。請發送電子郵件至 <a href="mailto:support@xs.com" class="xs-btn fill text-secondary">Support@xs.com</a>。
     <br/><br/>
     由於金融法規的原因，XS 萬事達卡儲值卡可能不適用於某些司法管轄區的居民。'
 ];

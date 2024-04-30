@@ -7,10 +7,10 @@
         'CHOOSE_REASON_2_DESCRIPTION' => '당사는 고객님의 자금과 개인 정보의 보안을 최우선으로 생각하며, 안심하고 거래할 수 있도록 최선을 다하고 있습니다.',
 
         'CHOOSE_REASON_3_TITLE' => '글로벌 시장 접근',
-        'CHOOSE_REASON_3_DESCRIPTION' => 'XSTrades.com은 트레이더에게 글로벌 금융시장으로 통하는 관문을 제공하여 다양한 자산 클래스에 대한 액세스를 제공합니다.',
+        'CHOOSE_REASON_3_DESCRIPTION' => 'XS.com은 트레이더에게 글로벌 금융시장으로 통하는 관문을 제공하여 다양한 자산 클래스에 대한 액세스를 제공합니다.',
 
         'CHOOSE_REASON_4_TITLE' => '고급 트레이딩 기술',
-        'CHOOSE_REASON_4_DESCRIPTION' => 'XSTrades.com 은 실시간 시장 데이터, 사용자 정의 가능한 차트, 기술 지표 및 최첨단 거래 플랫폼을 제공합니다',
+        'CHOOSE_REASON_4_DESCRIPTION' => 'XS.com 은 실시간 시장 데이터, 사용자 정의 가능한 차트, 기술 지표 및 최첨단 거래 플랫폼을 제공합니다.',
 
         'CHOOSE_REASON_5_TITLE' => '간편한 등록 절차',
         'CHOOSE_REASON_5_DESCRIPTION' => 'XS에 계정을 등록하는 것은 디지털 등록 도구를 사용하여 몇 분 안에 할 수 있는 정말 빠르고 쉬운 절차입니다.',

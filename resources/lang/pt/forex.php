@@ -10,7 +10,7 @@ return [
     'SECTION_2_TITLE' => 'TRADING DE FOREX COM A XS: ESPECIFICAÇÕES DE CONTRATO',
     "SECTION_3_TITLE" => "TRADING DE FOREX COM A XS: CONDIÇÕES DE TRADING",
  
-    'DESCRIPTION_1' => 'Bem-vindo ao mundo do Trading de Forex com a XS Trades. Explore uma ampla gama de pares de moedas e torne-se um pioneiro no trading de moedas com as melhores condições de trading.
+    'DESCRIPTION_1' => 'Bem-vindo ao mundo do Trading de Forex com a XS. Explore uma ampla gama de pares de moedas e torne-se um pioneiro no trading de moedas com as melhores condições de trading.
     <br/>
     Compre e venda CFDs em pares de moedas sem esforço através de nossas plataformas de trading MetaTrader 4 e MetaTrader 5 personalizadas, e nossos vários tipos de contas desenvolvidas para atender às suas necessidades de trading.',
  
@@ -18,7 +18,7 @@ return [
  
  
     "TRADING_CONDITION_1_TITLE" => "Horário Normal de Trading",
-    "TRADING_CONDITION_1_DESCRIPTION" => "Os horários normais de trading referem-se às sessões regulares de trading disponíveis para negociação. A tabela abaixo mostra os horários normais de trading para os pares de Forex disponíveis na plataforma da XS Trades. 
+    "TRADING_CONDITION_1_DESCRIPTION" => "Os horários normais de trading referem-se às sessões regulares de trading disponíveis para negociação. A tabela abaixo mostra os horários normais de trading para os pares de Forex disponíveis na plataforma da XS. 
     <br/><br/>
     Fatores sazonais e de mercado podem afetar os horários de trading abaixo, por isso é importante acompanhar as últimas atualizações na página de Horários de Trading para se manter atualizado com as últimas mudanças sazonais nos horários de trading. 
     <br/><br/>
@@ -28,18 +28,18 @@ return [
  
  
     "TRADING_CONDITION_2_TITLE" => "Spreads",
-    "TRADING_CONDITION_2_DESCRIPTION" => "A XSTrades.com oferece um spread flutuante em todos os pares de moedas para todos os tipos de conta. Portanto, os spreads na tabela de especificações de contrato são a média dos spreads baseada no dia de trading anterior. Para spreads ao vivo, por favor, consulte a plataforma de trading Forex. Observe que os spreads podem aumentar quando os mercados têm menor liquidez, incluindo o período de rollover.",
+    "TRADING_CONDITION_2_DESCRIPTION" => "A XS.com oferece um spread flutuante em todos os pares de moedas para todos os tipos de conta. Portanto, os spreads na tabela de especificações de contrato são a média dos spreads baseada no dia de trading anterior. Para spreads ao vivo, por favor, consulte a plataforma de trading Forex. Observe que os spreads podem aumentar quando os mercados têm menor liquidez, incluindo o período de rollover.",
     "TRADING_CONDITION_3_TITLE" => "Preços dos Gráficos",
-    "TRADING_CONDITION_3_DESCRIPTION" => "A XSTrades.com oferece uma variedade de contas de trading para atender às necessidades e preferências de cada trader. Oferecemos contas com precificação bruta em que comissões adicionais são cobradas. Outros tipos de conta não têm comissões, mas incluem mark-ups incorporados nos preços. Por padrão, o gráfico na plataforma MetaTrader exibirá a precificação bruta, enquanto o market watch exibirá o preço do tipo de conta em que o cliente está utilizando.",
+    "TRADING_CONDITION_3_DESCRIPTION" => "A XS.com oferece uma variedade de contas de trading para atender às necessidades e preferências de cada trader. Oferecemos contas com precificação bruta em que comissões adicionais são cobradas. Outros tipos de conta não têm comissões, mas incluem mark-ups incorporados nos preços. Por padrão, o gráfico na plataforma MetaTrader exibirá a precificação bruta, enquanto o market watch exibirá o preço do tipo de conta em que o cliente está utilizando.",
  
     "TRADING_CONDITION_4_TITLE" => "Swaps",
     "TRADING_CONDITION_4_DESCRIPTION" => "Swap longo é utilizado para manter posições de compra abertas durante a noite, e Swap curto é utilizado para manter posições de venda abertas durante a noite. Os Swaps ocorrem à 00:00 Horário do Servidor todos os dias, exceto nos fins de semana, até que a posição seja fechada. Swaps triplos são cobrados às quartas-feiras para cobrir os custos de financiamento incorridos durante o fim de semana.",
  
     "TRADING_CONDITION_5_TITLE" => "Alavancagem Dinâmica",
-    "TRADING_CONDITION_5_DESCRIPTION" => "A XSTrades.com oferece alavancagem dinâmica em pares de moedas na maioria dos tipos de conta. Os valores de alavancagem na tabela de especificações de contrato são a alavancagem máxima para cada instrumento de trading. A alavancagem máxima mudará com base nas suas posições abertas. Para mais detalhes, consulte a página de Alavancagem Dinâmica.",
+    "TRADING_CONDITION_5_DESCRIPTION" => "A XS.com oferece alavancagem dinâmica em pares de moedas na maioria dos tipos de conta. Os valores de alavancagem na tabela de especificações de contrato são a alavancagem máxima para cada instrumento de trading. A alavancagem máxima mudará com base nas suas posições abertas. Para mais detalhes, consulte a página de Alavancagem Dinâmica.",
  
     "TRADING_CONDITION_6_TITLE" => "Alavancagem Fixa",
-    "TRADING_CONDITION_6_DESCRIPTION" => "A XSTrades.com oferece alavancagem fixa em pares de moedas em alguns tipos de conta. Neste caso, a alavancagem máxima exibida na tabela de especificações de contrato NÃO mudará com base nas suas posições abertas. A alavancagem fixa aplica-se aos tipos de conta Cent e Mirco.",
+    "TRADING_CONDITION_6_DESCRIPTION" => "A XS.com oferece alavancagem fixa em pares de moedas em alguns tipos de conta. Neste caso, a alavancagem máxima exibida na tabela de especificações de contrato NÃO mudará com base nas suas posições abertas. A alavancagem fixa aplica-se aos tipos de conta Cent e Mirco.",
  
     "TRADING_CONDITION_7_TITLE" => "Períodos de Requisitos de Margem Mais Elevados",
     "TRADING_CONDITION_7_DESCRIPTION" => "Aplicamos medidas de gestão de risco para proteger posições de possível alta volatilidade durante eventos importantes e períodos específicos que impactam a volatilidade geral do mercado Forex. Quantidades maiores de margem são necessárias para abrir uma ordem durante esses períodos conhecidos como períodos de HMR (higher margin requirements) no trading de Forex.

@@ -22,7 +22,7 @@ return [
     "TRADING_CONDITION_1_TITLE" => "정상 거래 시간",
     "TRADING_CONDITION_1_DESCRIPTION" => "정상 거래 시간은 거래가 가능한 정규 거래 세션을 의미합니다. 아래는 XS로 거래할 수 있는 금속 쌍의 일반 거래 시간을 보여줍니다.
     <br/>
-    계절 및 시장 요인이 아래 거래 시간에 영향을 미칠 수 있으므로 거래 시간에 대한 최신 계절별 변경 사항을 최신 상태로 유지하려면 거래 시간 페이지의 최신 업데이트를 따르는 것이 중요합니다. 모든 시간은 서버 시간(GMT+2)을 기준으로 합니다.
+    계절 및 시장 요인이 아래 거래 시간에 영향을 미칠 수 있으므로 거래 시간에 대한 최신 계절별 변경 사항을 최신 상태로 유지하려면 거래 시간 페이지의 최신 업데이트를 따르는 것이 중요합니다. 모든 시간은 서버 시간(GMT+3)을 기준으로 합니다.
         <br/>
         <br/> 
         <span class='d-flex'> XAU, XAG, XPD & XPT 쌍 :  <span class='ms-auto'>월요일 01:05 - 금요일 23:55 <br/> (매일 휴식 시간: 00:00 - 00:59) </span></span>
@@ -31,19 +31,19 @@ return [
         // &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Friday: 00:00 - 23:55
 
     "TRADING_CONDITION_2_TITLE" => "스프레드",
-    "TRADING_CONDITION_2_DESCRIPTION" => "XSTrades.com은 모든 계정 유형에 대해 모든 금속에 대한 변동 스프레드를 제공합니다. 따라서 계약 사양표의 스프레드는 전 거래일 기준의 평균 스프레드입니다. 실시간 스프레드에 대해서는 거래 플랫폼을 참조하세요. 롤오버 시간을 포함하여 시장의 유동성이 낮아지면 스프레드가 확대될 수 있다는 점에 유의하시기 바랍니다.",
+    "TRADING_CONDITION_2_DESCRIPTION" => "XS.com은 모든 계정 유형에 대해 모든 금속에 대한 변동 스프레드를 제공합니다. 따라서 계약 사양표의 스프레드는 전 거래일 기준의 평균 스프레드입니다. 실시간 스프레드에 대해서는 거래 플랫폼을 참조하세요. 롤오버 시간을 포함하여 시장의 유동성이 낮아지면 스프레드가 확대될 수 있다는 점에 유의하시기 바랍니다.",
     
     "TRADING_CONDITION_3_TITLE" => "차트 가격",
-    "TRADING_CONDITION_3_DESCRIPTION" => "XSTrades.com은 각 거래자의 필요와 선호도에 맞는 다양한 거래 계정을 제공합니다. 당사는 추가 수수료가 부과되는 로우 가격(raw pricing)으로 계정을 제공합니다. 다른 계정 유형에는 커미션이 없지만 대신 가격에 마크업이 포함되어 있습니다. 기본적으로 Metatrader 거래 플랫폼의 차트에는 로우 가격(raw pricing)이 표시되고, 마켓 워치에는 고객이 거래하는 계정 유형의 가격이 표시됩니다.",
+    "TRADING_CONDITION_3_DESCRIPTION" => "XS.com은 각 거래자의 필요와 선호도에 맞는 다양한 거래 계정을 제공합니다. 당사는 추가 수수료가 부과되는 로우 가격(raw pricing)으로 계정을 제공합니다. 다른 계정 유형에는 커미션이 없지만 대신 가격에 마크업이 포함되어 있습니다. 기본적으로 Metatrader 거래 플랫폼의 차트에는 로우 가격(raw pricing)이 표시되고, 마켓 워치에는 고객이 거래하는 계정 유형의 가격이 표시됩니다.",
 
     "TRADING_CONDITION_4_TITLE" => "스왑",
     "TRADING_CONDITION_4_DESCRIPTION" => "스왑 롱은 매수 포지션을 하룻밤(overnight) 동안 유지하는데 사용되며, 스왑 숏은 매도 포지션을 하룻밤 동안 유지하는데 사용됩니다. 스왑은 주말을 제외한 매일 00:00 서버 타임에 포지션이 청산될 때까지 발생합니다. 주말 동안 발생한 자금 파이낸싱 비용을 충당하기 위해 수요일에 트리플 스왑(Triple swaps)이 청구됩니다.",
 
     "TRADING_CONDITION_5_TITLE" => "다이내믹 레버리지",
-    "TRADING_CONDITION_5_DESCRIPTION" => "XSTrades.com은 대부분의 계정 유형에서 금속에 대한 다이내믹 레버리지를 제공합니다. 계약 사양표의 레버리지 값은 각 거래 상품의 최대 레버리지입니다. 최대 레버리지는 순 오픈 포지션(net open positions)에 따라 변경됩니다. 천연가스에는 다이내믹 레버리지가 적용되지 않습니다. 자세한 내용은 다이내믹 레버리지 페이지를 확인하세요.",
+    "TRADING_CONDITION_5_DESCRIPTION" => "XS.com은 대부분의 계정 유형에서 금속에 대한 다이내믹 레버리지를 제공합니다. 계약 사양표의 레버리지 값은 각 거래 상품의 최대 레버리지입니다. 최대 레버리지는 순 오픈 포지션(net open positions)에 따라 변경됩니다. 천연가스에는 다이내믹 레버리지가 적용되지 않습니다. 자세한 내용은 다이내믹 레버리지 페이지를 확인하세요.",
 
     "TRADING_CONDITION_6_TITLE" => "고정 레버리지",
-    "TRADING_CONDITION_6_DESCRIPTION" => "XSTrades.com은 일부 계정 유형에서 금속에 대해 고정 레버리지를 제공합니다. 이 경우 계약 사양 표에 표시된 최대 레버리지는 순 오픈 포지션(net open positions)에 따라 변경되지 않습니다. 고정 레버리지는Cent & Mirco account 유형에 적용됩니다.",
+    "TRADING_CONDITION_6_DESCRIPTION" => "XS.com은 일부 계정 유형에서 금속에 대해 고정 레버리지를 제공합니다. 이 경우 계약 사양 표에 표시된 최대 레버리지는 순 오픈 포지션(net open positions)에 따라 변경되지 않습니다. 고정 레버리지는Cent & Mirco account 유형에 적용됩니다.",
 
     "TRADING_CONDITION_7_TITLE" => "더 높은 마진 요구 사항 기간(Higher Margin Requirements Periods)",
     "TRADING_CONDITION_7_DESCRIPTION" => "당사는 시장의 전반적인 변동성에 영향을 미치는 주요 이벤트 및 특정 기간 동안 발생할 수 있는 높은 변동성으로부터 포지션을 보호하기 위해 위험 관리 조치를 적용합니다.

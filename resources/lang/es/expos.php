@@ -1,7 +1,7 @@
 <?php
 return [
 
-    'EXPOS_DESCRIPTION' => 'With our unwavering commitment to excellence and our passion for financial markets, we offer comprehensive solutions that cater to traders of all levels. Join XSTrades.com and embark on an exciting and rewarding trading experience. Your financial empowerment starts here.',
+    'EXPOS_DESCRIPTION' => 'With our unwavering commitment to excellence and our passion for financial markets, we offer comprehensive solutions that cater to traders of all levels. Join XS.com and embark on an exciting and rewarding trading experience. Your financial empowerment starts here.',
 
     'UPCOMING_EXPOS' => 'Próximas exposiciones',
     'PREVIOUS_EXPOS' => 'Exposiciones anteriores',

@@ -1,16 +1,16 @@
 <?php
 return [
     'FUNDING_METHODS' => 'Méthodes de financement',
-    'SUBTITLE' => 'Transactions pratiques et sécurisées avec XS Trades.',
+    'SUBTITLE' => 'Transactions pratiques et sécurisées avec XS.',
 
-    'DESCRIPTION' => 'Chez XS Trades, nous comprenons l\'importance de transactions sécurisées et sans tracas lorsqu\'il s\'agit de déposer des fonds sur votre compte de trading ou d\'effectuer des retraits. Nous vous proposons un processus de dépôt et de retrait transparent, garantissant que vos fonds sont traités de manière efficace et sécurisée. Explorez les fonctionnalités et options disponibles pour les dépôts et les retraits avec XS Trades.',
+    'DESCRIPTION' => 'Chez XS, nous comprenons l\'importance de transactions sécurisées et sans tracas lorsqu\'il s\'agit de déposer des fonds sur votre compte de trading ou d\'effectuer des retraits. Nous vous proposons un processus de dépôt et de retrait transparent, garantissant que vos fonds sont traités de manière efficace et sécurisée. Explorez les fonctionnalités et options disponibles pour les dépôts et les retraits avec XS.',
 
     'DEPOSITS' => 'Dépôts',
     'WITHDRAWALS' => 'Retraits',
 
 
-    'DEPOSITS_TABLE_DESCRIPTION' => 'Effectuer un dépôt avec XS est simple et pratique. Nous proposons différentes méthodes de dépôt en fonction de vos préférences, notamment les virements bancaires, les cartes de crédit/débit et les portefeuilles électroniques populaires. Connectez-vous simplement à votre compte XS Trades, accédez à la section de dépôt et sélectionnez votre méthode de dépôt préférée. Suivez les instructions fournies et vos fonds seront rapidement crédités sur votre compte de trading, vous permettant de commencer à trader sans délai. Notre processus de dépôt est conçu pour être convivial, garantissant une expérience transparente lorsque vous approvisionnez votre compte de trading.',
-    'WITHDRAWAL_TABLE_DESCRIPTION' => 'En matière de retraits, XS propose un processus fiable et efficace. Nous nous efforçons de traiter les demandes de retrait rapidement, vous permettant ainsi d\'accéder à vos fonds en temps opportun. Pour effectuer un retrait, connectez-vous à votre compte XS Trades, accédez à la section de retrait et suivez les étapes indiquées. Nous comprenons l\'importance de la sécurité et veillons à ce que les demandes de retrait soient traitées avec le plus grand soin. Pour protéger vos fonds, nous pouvons exiger une vérification de votre identité et le respect de nos protocoles de sécurité. Cela garantit que seules les personnes autorisées peuvent accéder aux fonds de votre compte de trading et les retirer.',
+    'DEPOSITS_TABLE_DESCRIPTION' => 'Effectuer un dépôt avec XS est simple et pratique. Nous proposons différentes méthodes de dépôt en fonction de vos préférences, notamment les virements bancaires, les cartes de crédit/débit et les portefeuilles électroniques populaires. Connectez-vous simplement à votre compte XS, accédez à la section de dépôt et sélectionnez votre méthode de dépôt préférée. Suivez les instructions fournies et vos fonds seront rapidement crédités sur votre compte de trading, vous permettant de commencer à trader sans délai. Notre processus de dépôt est conçu pour être convivial, garantissant une expérience transparente lorsque vous approvisionnez votre compte de trading.',
+    'WITHDRAWAL_TABLE_DESCRIPTION' => 'En matière de retraits, XS propose un processus fiable et efficace. Nous nous efforçons de traiter les demandes de retrait rapidement, vous permettant ainsi d\'accéder à vos fonds en temps opportun. Pour effectuer un retrait, connectez-vous à votre compte XS, accédez à la section de retrait et suivez les étapes indiquées. Nous comprenons l\'importance de la sécurité et veillons à ce que les demandes de retrait soient traitées avec le plus grand soin. Pour protéger vos fonds, nous pouvons exiger une vérification de votre identité et le respect de nos protocoles de sécurité. Cela garantit que seules les personnes autorisées peuvent accéder aux fonds de votre compte de trading et les retirer.',
 
     'FUNDING_OPTIONS' => 'MÉTHODES DE FINANCEMENT ',
     'MIN_DEPOSIT' => 'DÉPÔT MINIMAL ',

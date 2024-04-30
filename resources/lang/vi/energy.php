@@ -9,7 +9,7 @@ return [
     'SECTION_2_TITLE' => 'GIAO DỊCH NĂNG LƯỢNG VỚI XS: THÔNG SỐ HỢP ĐỒNG',
     "SECTION_3_TITLE" => "GIAO DỊCH NĂNG LƯỢNG VỚI XS: ĐIỀU KIỆN GIAO DỊCH",
 
-    'DESCRIPTION_1' => 'Chào mừng đến với thế giới giao dịch năng lượng cùng XS Trades. Khám phá những khả năng to lớn của giao dịch năng lượng, nơi bạn có thể giao dịch CFD trên dầu thô, khí tự nhiên và các mặt hàng năng lượng khác với nền tảng giao dịch trực tuyến tốt nhất. XS cung cấp nền tảng giao dịch toàn diện cho phép tiếp cận thị trường năng lượng và nhiều loại hàng hóa năng lượng. Với dữ liệu thị trường theo thời gian thực, công cụ giao dịch tiên tiến và giá cả cạnh tranh, XS trao quyền cho các nhà giao dịch đưa ra quyết định sáng suốt và thực hiện giao dịch một cách hiệu quả.
+    'DESCRIPTION_1' => 'Chào mừng đến với thế giới giao dịch năng lượng cùng XS. Khám phá những khả năng to lớn của giao dịch năng lượng, nơi bạn có thể giao dịch CFD trên dầu thô, khí tự nhiên và các mặt hàng năng lượng khác với nền tảng giao dịch trực tuyến tốt nhất. XS cung cấp nền tảng giao dịch toàn diện cho phép tiếp cận thị trường năng lượng và nhiều loại hàng hóa năng lượng. Với dữ liệu thị trường theo thời gian thực, công cụ giao dịch tiên tiến và giá cả cạnh tranh, XS trao quyền cho các nhà giao dịch đưa ra quyết định sáng suốt và thực hiện giao dịch một cách hiệu quả.
     ',
 
     'DESCRIPTION_2' => 'XS cung cấp khả năng tiếp cận nhiều loại mặt hàng năng lượng, bao gồm Dầu thô Brent (UKOIL), Dầu thô WTI (USOIL) & Khí tự nhiên (NGAZ). Lập kế hoạch giao dịch một cách tự tin và tối ưu hóa trải nghiệm bằng cách sử dụng các thông số hợp đồng chi tiết. Khám phá các thông số kỹ thuật hợp đồng toàn diện và hiểu sâu hơn về các điều kiện giao dịch đặc biệt, bao gồm quy mô hợp đồng, đòn bẩy, chênh lệch giá, hoa hồng, phí hoán đổi, v.v. cho các loại tài khoản khác nhau.
@@ -17,9 +17,9 @@ return [
 
 
     "TRADING_CONDITION_1_TITLE" => "Giờ Giao Dịch Bình Thường",
-    "TRADING_CONDITION_1_DESCRIPTION" => "Giờ giao dịch bình thường đề cập đến các phiên giao dịch thông thường có sẵn để giao dịch. Dưới đây hiển thị giờ giao dịch bình thường của các sản phẩm năng lượng có sẵn để giao dịch với XS Trades.
+    "TRADING_CONDITION_1_DESCRIPTION" => "Giờ giao dịch bình thường đề cập đến các phiên giao dịch thông thường có sẵn để giao dịch. Dưới đây hiển thị giờ giao dịch bình thường của các sản phẩm năng lượng có sẵn để giao dịch với XS.
     <br/>
-    Các yếu tố theo mùa và thị trường có thể ảnh hưởng đến giờ giao dịch bên dưới, vì vậy điều quan trọng là phải theo dõi các cập nhật mới nhất trên trang Giờ giao dịch để luôn cập nhật những thay đổi mới nhất theo mùa về giờ giao dịch. Tất cả thời gian đều tính theo giờ máy chủ (GMT+2).
+    Các yếu tố theo mùa và thị trường có thể ảnh hưởng đến giờ giao dịch bên dưới, vì vậy điều quan trọng là phải theo dõi các cập nhật mới nhất trên trang Giờ giao dịch để luôn cập nhật những thay đổi mới nhất theo mùa về giờ giao dịch. Tất cả thời gian đều tính theo giờ máy chủ (GMT+3).
 
         <br/>
         <br/>
@@ -31,22 +31,22 @@ return [
         // &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Friday: 00:00 - 23:55
 
     "TRADING_CONDITION_2_TITLE" => "Spreads",
-    "TRADING_CONDITION_2_DESCRIPTION" => "XSTrades.com cung cấp chênh lệch thả nổi trên tất cả các mặt hàng năng lượng cho tất cả các loại tài khoản. Do đó, mức chênh lệch trong bảng thông số hợp đồng là mức chênh lệch trung bình dựa trên ngày giao dịch trước đó. Để biết chênh lệch trực tiếp, vui lòng tham khảo nền tảng giao dịch. Xin lưu ý rằng chênh lệch có thể tăng lên khi thị trường có tính thanh khoản thấp hơn, bao gồm cả thời gian tái đầu tư.",
+    "TRADING_CONDITION_2_DESCRIPTION" => "XS.com cung cấp chênh lệch thả nổi trên tất cả các mặt hàng năng lượng cho tất cả các loại tài khoản. Do đó, mức chênh lệch trong bảng thông số hợp đồng là mức chênh lệch trung bình dựa trên ngày giao dịch trước đó. Để biết chênh lệch trực tiếp, vui lòng tham khảo nền tảng giao dịch. Xin lưu ý rằng chênh lệch có thể tăng lên khi thị trường có tính thanh khoản thấp hơn, bao gồm cả thời gian tái đầu tư.",
 
     "TRADING_CONDITION_3_TITLE" => "Biểu Đồ Giá",
-    "TRADING_CONDITION_3_DESCRIPTION" => "XSTrades.com cung cấp nhiều loại tài khoản giao dịch phù hợp với nhu cầu và sở thích của từng nhà giao dịch. Chúng tôi cung cấp các tài khoản với mức giá thô được tính phí hoa hồng bổ sung. Các loại tài khoản khác không có hoa hồng mà thay vào đó có phần chênh lệch được tính vào giá. Theo mặc định, biểu đồ trong nền tảng giao dịch MetaTrader sẽ hiển thị giá thô, trong khi theo dõi thị trường sẽ hiển thị giá của loại tài khoản mà khách hàng đang giao dịch.",
+    "TRADING_CONDITION_3_DESCRIPTION" => "XS.com cung cấp nhiều loại tài khoản giao dịch phù hợp với nhu cầu và sở thích của từng nhà giao dịch. Chúng tôi cung cấp các tài khoản với mức giá thô được tính phí hoa hồng bổ sung. Các loại tài khoản khác không có hoa hồng mà thay vào đó có phần chênh lệch được tính vào giá. Theo mặc định, biểu đồ trong nền tảng giao dịch MetaTrader sẽ hiển thị giá thô, trong khi theo dõi thị trường sẽ hiển thị giá của loại tài khoản mà khách hàng đang giao dịch.",
 
     "TRADING_CONDITION_4_TITLE" => "Swaps",
     "TRADING_CONDITION_4_DESCRIPTION" => "Swap long được sử dụng để giữ các vị thế mua mở qua đêm và Swap short được sử dụng để giữ các vị thế bán mở qua đêm. Swap diễn ra vào lúc 00:00 giờ máy chủ mỗi ngày, trừ cuối tuần, cho đến khi vị thế đóng. Swap được tính ba lần vào thứ Tư để trang trải chi phí tài chính phát sinh vào cuối tuần.",
 
 
     "TRADING_CONDITION_5_TITLE" => "Đòn Bẩy Động",
-    "TRADING_CONDITION_5_DESCRIPTION" => "XSTrades.com cung cấp đòn bẩy linh hoạt cho Dầu thô trên hầu hết các loại tài khoản. Các giá trị đòn bẩy trong bảng thông số hợp đồng là đòn bẩy tối đa cho mỗi công cụ giao dịch. Đòn bẩy tối đa sẽ thay đổi dựa trên các vị thế mở ròng của bạn. Đòn bẩy động không áp dụng cho Khí thiên nhiên. Để biết thêm chi tiết, vui lòng kiểm tra trang Đòn bẩy động.",
+    "TRADING_CONDITION_5_DESCRIPTION" => "XS.com cung cấp đòn bẩy linh hoạt cho Dầu thô trên hầu hết các loại tài khoản. Các giá trị đòn bẩy trong bảng thông số hợp đồng là đòn bẩy tối đa cho mỗi công cụ giao dịch. Đòn bẩy tối đa sẽ thay đổi dựa trên các vị thế mở ròng của bạn. Đòn bẩy động không áp dụng cho Khí thiên nhiên. Để biết thêm chi tiết, vui lòng kiểm tra trang Đòn bẩy động.",
 
     "TRADING_CONDITION_6_TITLE" => "Đòn Bẩy Cố Định",
-    "TRADING_CONDITION_6_DESCRIPTION" => "XSTrades.com cung cấp đòn bẩy cố định cho Khí tự nhiên trên tất cả các loại tài khoản. Trong trường hợp này, đòn bẩy tối đa được hiển thị trong bảng thông số hợp đồng sẽ KHÔNG thay đổi dựa trên các vị thế hoặc loại tài khoản mở ròng của bạn.
+    "TRADING_CONDITION_6_DESCRIPTION" => "XS.com cung cấp đòn bẩy cố định cho Khí tự nhiên trên tất cả các loại tài khoản. Trong trường hợp này, đòn bẩy tối đa được hiển thị trong bảng thông số hợp đồng sẽ KHÔNG thay đổi dựa trên các vị thế hoặc loại tài khoản mở ròng của bạn.
     <br/>
-    XSTrades.com cung cấp đòn bẩy cố định cho một số loại tài khoản trên tất cả các sản phẩm. Trong trường hợp này, đòn bẩy tối đa được hiển thị trong bảng thông số hợp đồng sẽ KHÔNG thay đổi dựa trên các vị thế mở ròng của bạn. Đòn bẩy cố định áp dụng cho các loại tài khoản Cent & Mirco.
+    XS.com cung cấp đòn bẩy cố định cho một số loại tài khoản trên tất cả các sản phẩm. Trong trường hợp này, đòn bẩy tối đa được hiển thị trong bảng thông số hợp đồng sẽ KHÔNG thay đổi dựa trên các vị thế mở ròng của bạn. Đòn bẩy cố định áp dụng cho các loại tài khoản Cent & Mirco.
     ",
 
     "TRADING_CONDITION_7_TITLE" => "Khoảng Thời Gian Yêu Cầu Ký Quỹ Cao Hơn",

@@ -1,5 +1,19 @@
 [
   {
+    "title": "베스트 멀티 자산 브로커 - LATAM",
+    "country": "멕시코 멕시코 시티",
+    "date": "2024년 4월",
+    "sponsor": "UF 어워드 LATAM 2024<br/> Ultimate Fintech",
+    "img": "/webp/company-awards/most-multi-asset-broker-latam.webp"
+},
+{
+    "title": "베스트 거래 체결",
+    "country": "멕시코 멕시코 시티",
+    "date": "2024년 4월",
+    "sponsor": "UF 어워드 LATAM 2024<br/> Ultimate Fintech",
+    "img": "/webp/company-awards/best-trade-execution.webp"
+},
+  {
     "title": "가장 안전한 브로커",
     "country": "오만 무스카트",
     "date": "2024년 2월",
@@ -29,37 +43,37 @@
   },
   {
     "title": "올해의 글로벌 브로커",
-    "country": "트레이더스 페어 어워드",
-    "sponsor": "FINEXPO 베트남 호치민시",
+    "country": "베트남 호치민시",
+    "sponsor": "트레이더스 페어 어워드 <br/>FINEXPO",
     "date": "2023년12월",
     "img": "/webp/company-awards/global_broker_of_year-1.webp"
   },
   {
     "title": "아시아 베스트 멀티 자산 브로커",
-    "country": "트레이더스 페어 어워드",
-    "sponsor": "FINEXPO 베트남 호치민시",
+    "country": "베트남 호치민시",
+    "sponsor": "트레이더스 페어 어워드 <br/>FINEXPO",
     "date": "2023년12월",
     "img": "/webp/company-awards/best_multi_asset_asia-1.webp"
   },
   {
     "title": "아프리카 베스트 멀티 자산 브로커",
-    "country": "트레이더스 페어 어워드",
-    "sponsor": "FINEXPO 베트남 호치민시",
+    "country": "베트남 호치민시",
+    "sponsor": "트레이더스 페어 어워드 <br/>FINEXPO",
     "date": "2023년12월",
     "img": "/webp/company-awards/best_multi_asset_africa-1.webp"
   },
   {
     "title": "베스트 글로벌 밸류 브로커",
-    "country": "스마트 비전 투자 박람회",
-    "sponsor": "스마트 비전 이집트 카이로",
-    "date": "2023년11월",
+    "country": "이집트 카이로",
+    "sponsor": "스마트 비전 투자 엑스포 <br/> 스마트 비전",
+    "date": "2023년 11월",
     "img": "/webp/company-awards/best_global_value_broker-1.webp"
   },
   {
     "title": "베스트 고객 지원",
-    "country": "스마트 비전 투자 박람회",
-    "sponsor": "스마트 비전 이집트 카이로",
-    "date": "2023년11월",
+    "country": "이집트 카이로",
+    "sponsor": "스마트 비전 투자 엑스포 <br/> 스마트 비전",
+    "date": "2023년 11월",
     "img": "/webp/company-awards/best_customer_support-1.webp"
   },
   {

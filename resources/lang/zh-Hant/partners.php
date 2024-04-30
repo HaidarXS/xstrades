@@ -15,6 +15,7 @@ return [
     'STEP_2_DESCRIPTION' => '發布您的合作夥伴鏈結並向XS推薦客戶',
     'STEP_3_DESCRIPTION' => '當您的客戶與XS進行交易時，您的收入也隨之增加',
 
+    'OUR_AWARDS' => '我們的獎項',
 
     'WHY_JOIN_INFLUENCERS_XS' => '為何加入XS影響者計劃？',
 
@@ -42,10 +43,10 @@ return [
     'INFLUENCERS_REASON_8_TITLE' => '優質條件',
     'INFLUENCERS_REASON_8_DESCRIPTION' => '為您提供有競爭力的合作夥伴條以及為您的客戶提供最佳交易體驗。',
 
-    'WHY_CLIENTS_CHOSE_XS' => '客户为什么选择XS？',
+    'WHY_CLIENTS_CHOSE_XS' => '客戶為什麼選擇XS？',
 
     'CHOOSE_REASON_1_TITLE' => '值得信賴的全球經紀商',
-    'CHOOSE_REASON_1_DESCRIPTION' => 'XSTrades.com是一家值得信賴的多重監管全球經紀商。',
+    'CHOOSE_REASON_1_DESCRIPTION' => 'XS.com是一家值得信賴的多重監管全球經紀商。',
 
     'CHOOSE_REASON_2_TITLE' => '屢獲殊榮的經紀商',
     'CHOOSE_REASON_2_DESCRIPTION' => ' 與服務得到認可的經紀商進行交易。',
@@ -59,36 +60,36 @@ return [
     'CHOOSE_REASON_5_TITLE' => '先進的交易平台',
     'CHOOSE_REASON_5_DESCRIPTION' => ' 選擇最適合您交易風格的賬戶類型。',
 
-    'CHOOSE_REASON_6_TITLE' => '優質交易環境',
-    'CHOOSE_REASON_6_DESCRIPTION' => ' 以最佳交易體驗釋放您的全部潛能。',
+    'CHOOSE_REASON_6_TITLE' => '多種賬戶類型',
+    'CHOOSE_REASON_6_DESCRIPTION' => '選擇最適合您交易風格的賬戶類型。',
 
-    'CHOOSE_REASON_7_TITLE' => '公平迅速的執行',
-    'CHOOSE_REASON_7_DESCRIPTION' => '讓您受益于公平、極速的交易訂單執行。',
+    'CHOOSE_REASON_7_TITLE' => '優質交易環境',
+    'CHOOSE_REASON_7_DESCRIPTION' => '以最佳交易體驗釋放您的全部潛能。',
 
-    'CHOOSE_REASON_8_TITLE' => '多語言客戶支援',
-    'CHOOSE_REASON_8_DESCRIPTION' => '使用我們為您提供的語言客戶支持。',
+    'CHOOSE_REASON_8_TITLE' => '公平迅速的執行',
+    'CHOOSE_REASON_8_DESCRIPTION' => '讓您受益于公平、極速的交易訂單執行。',
 
-    'CHOOSE_REASON_9_TITLE' => '多語言支持：',
-    'CHOOSE_REASON_9_DESCRIPTION' => '利用我們以您的語言提供的客戶支持',
+    'CHOOSE_REASON_9_TITLE' => '多語言客戶支援',
+    'CHOOSE_REASON_9_DESCRIPTION' => '使用我們為您提供的語言客戶支持。',
 
     'LETS_TALK_PARTNERSHIP' => '談一談合作計劃',
     'LETS_TALK_PARTNERSHIP_DESCRIPTION' => '我們的專家團隊隨時准備與您分享他們的知識和見解，以確保您實現目標和實施成功戰略。
     <br/> <br/>
-    如果您想與我們經驗豐富的專家商討合作夥伴計劃，請發送電子郵件至  partners@XSTrades.com。',
+    如果您想與我們經驗豐富的專家商討合作夥伴計劃，請發送電子郵件至  partners@xs.com。',
 
-    'ASSET_MANAGEMENT_1'=>'Comprehensive Solutions:',
-    'ASSET_MANAGEMENT_DESC_1'=> 'Our multiple solutions suit the needs of traders & investor.',
-    'ASSET_MANAGEMENT_2'=>'Robust Technology:',
-    'ASSET_MANAGEMENT_DESC_2'=> 'Our trading infrastructure ensures fast & reliable trade execution.',
+    'ASSET_MANAGEMENT_1'=>'全面的解決方案:',
+    'ASSET_MANAGEMENT_DESC_1'=> ' 我們的多種資產管理解決方案旨在滿足專業交易者和投資者的獨特需求。',
+    'ASSET_MANAGEMENT_2'=>'強大的技術:',
+    'ASSET_MANAGEMENT_DESC_2'=> ' 我們先進的交易基礎設施旨在處理大量訂單並確保快速可靠的交易執行。',
     'ASSET_MANAGEMENT_3'=>'Competitive Pricing:',
     'ASSET_MANAGEMENT_DESC_3'=>'Access to institutional-grade pricing, allowing our clients to benefit from favourable pricing and premium trading conditions.',
-    'ASSET_MANAGEMENT_3'=>'Personalised Experience:',
-    'ASSET_MANAGEMENT_DESC_3'=> 'Our experts provide you with tailored guidance & support.',
-    'ASSET_MANAGEMENT_4'=>'Regulatory Compliance: ',
-    'ASSET_MANAGEMENT_DESC_4'=> 'We maintain a transparent and compliant trading environment.',
-    'ASSET_MANAGEMENT_5'=>'Multiple Asset Classes: ',
-    'ASSET_MANAGEMENT_DESC_5'=> 'Access a wide range of asset classes to diversify your portfolio.',
-    'ASSET_MANAGEMENT_6'=>'Advanced Reporting: ',
-    'ASSET_MANAGEMENT_DESC_6'=> 'Our advanced reporting allow you to monitor real-time statistics.',
+    'ASSET_MANAGEMENT_3'=>'個性化體驗:',
+    'ASSET_MANAGEMENT_DESC_3'=> '我們經驗豐富的客戶關係經理在整個交易過程中提供專家指導和量身定制的支援。',
+    'ASSET_MANAGEMENT_4'=>'監管合規: ',
+    'ASSET_MANAGEMENT_DESC_4'=> '我們維持透明合規的交易環境，實施嚴格的安全措施來保護客戶資金和資料。',
+    'ASSET_MANAGEMENT_5'=>'多種資產類別: ',
+    'ASSET_MANAGEMENT_DESC_5'=> '獲得廣泛的資產類別，使專業交易者和投資者能夠有效地實現投資組合的多元化。',
+    'ASSET_MANAGEMENT_6'=>'高級報告: ',
+    'ASSET_MANAGEMENT_DESC_6'=> '我們的高級報告工具可讓您監控每筆交易的詳細即時統計資料。',
     ];
 ?>

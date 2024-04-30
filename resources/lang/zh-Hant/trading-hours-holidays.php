@@ -12,8 +12,8 @@
         "DAY_THREE_HOLIDAY" => "美國總統日",
         'DAY_FOUR'=>'09/02/2024 週五',
 
-        'FX'=>'外匯',
-        'PRECIOUS_METALS'=>'金屬',
+        'FX'=>'貨幣對',
+        'PRECIOUS_METALS'=>'貴金屬',
         'SPOT_ENERGIES'=>'能源',
         'SPOT_INDICES'=>'指數',
         'SHARES'=>'股票',

@@ -13,11 +13,13 @@ return [
 
     'XSLTD' => 'XS Ltd',
 
-    'XSLTD_DESCRIPTION' => 'XS Ltd는 라이센스 번호 SD089로 세이셸 금융 서비스 기관(FSA)의 승인 및 규제를 받습니다.
+    'XSLTD_DESCRIPTION' => 'XS Ltd는 세이셸 법률에 따라 회사 번호(8428765-1)로 등록되어 있습니다.  등록 사무실: F20, 1st Floor, Eden Plaza, Eden Island, Seychelles.
     </br></br>
-    금융 서비스 당국(FSA)은 세이셸의 비은행 금융 서비스 부문에서 규제 및 규정 준수 요구 사항을 허가, 규제, 시행하고 비즈니스 수행을 모니터링 및 감독하는 자율 규제 기관입니다.
+    XS Ltd는 라이센스 번호: (SD089)로 세이셸 금융 서비스 기관(FSA)의 승인 및 규제를 받습니다.
     </br></br>
-    XS Ltd는 해당 조항이 현지 법률이나 규정에 위배되지 않는 특정 관할권에 서비스 및 제품을 제공하기 위해 웹사이트 <a href="https://www.XSTrades.com/" target="_blank">www.XSTrades.com</a> 에서 운영됩니다.',
+    금융 서비스 당국(FSA)은 세이셸의 비은행 금융 서비스 부문에서 규제 및 규정 준수 요구 사항에 대한 라이센스, 규제, 시행, 모니터링 및 감독을 담당하는 자율 규제 기관입니다. 규제 기관에 대한 자세한 내용은 <a href="https://fsaseychelles.sc/" target="_blank">https://fsaseychelles.sc/</a>를 참조하세요.
+    </br></br>
+    XS Ltd는 해당 조항이 현지 법률이나 규정에 위배되지 않는 특정 관할권에 서비스 및 제품을 제공하기 위해 웹사이트 <a href="https://www.xs.com/" target="_blank">www.xs.com</a> 에서 운영됩니다.',
 
     'XS_PRIME_LTD'=>'XS Prime Ltd',
 
@@ -31,11 +33,16 @@ return [
 
     'XS_MARKETS_LTD' => 'XS Markets Ltd',
 
-    'XS_MARKETS_LTD_DESCRIPTION' => 'XS Markets Ltd는 라이센스 번호 412/22로 키프로스 증권거래위원회(CySEC)의 승인 및 규제를 받습니다.
+    'XS_MARKETS_LTD_DESCRIPTION' => 'XS Markets Ltd는 등록 번호(HE 386563)로 키프로스 공화국 법률에 따라 설립되었습니다. 등록 사무실: Agiou Andreou 365, Efstathiou Court, 2nd Floor, Office 201, 3035, Limassol, Cyprus.
+
     </br></br>
-    키프로스 증권거래위원회(CySEC)는 특히 키프로스의 투자 서비스 감독을 담당하는 독립적인 공공 감독 기관입니다. 규제 기관에 대한 자세한 내용은 <a href="https://www.cysec.gov.cy/" target="_blank">www.cysec.gov.cy</a> 를 참조하십시오.
+    XS Markets Ltd는 라이센스 번호: (412/22)로 키프로스 증권거래위원회(CySEC)의 승인 및 규제를 받습니다.
     </br></br>
-    XS Markets Ltd는 <a href="https://www.xsmarkets.com/" target="_blank">https://www.xsmarkets.com</a> 웹사이트에서 운영됩니다.',
+    
+키프로스 증권거래위원회(CySEC)는 특히 키프로스의 투자 서비스 감독을 담당하는 독립적인 공공 감독 기관입니다. 규제 기관에 대한 자세한 내용은
+<a href="https://www.cysec.gov.cy/el-GR/home/" target="_blank">https://www.cysec.gov.cy/el-GR/home/</a>을 참조하십시오.
+<br/><br/>
+XS Markets Ltd는 웹사이트 <a href="https://www.xsmarkets.com/" target="_blank">https://www.xsmarkets.com/</a> 에서 운영됩니다.',
 
     'XS_FINTECH_LTD' => 'XS Fintech Ltd',
     'XS_FINTECH_LTD_DESCRIPTION' => ' XS Fintech Ltd는 등록 번호 HE 426566으로 키프로스에 등록되어 있습니다.

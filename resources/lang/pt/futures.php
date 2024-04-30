@@ -10,7 +10,7 @@ return [
     'SECTION_2_TITLE' => 'TRADING DE FUTUROS COM A XS: ESPECIFICAÇÕES DE CONTRATO',
     "SECTION_3_TITLE" => "TRADING DE FUTUROS COM A XS: CONDIÇÕES DE TRADING",
  
-    'DESCRIPTION_1' => 'Bem-vindo ao mundo do trading de futuros com a XS Trades. Descubra o potencial ilimitado do trading de futuros ao negociar CFDs em Futuros com o melhor corretor de CFDs. Transcenda as limitações da negociação de futuros tradicional e abrace as oportunidades sem paralelo oferecidas pela XS Trades.
+    'DESCRIPTION_1' => 'Bem-vindo ao mundo do trading de futuros com a XS. Descubra o potencial ilimitado do trading de futuros ao negociar CFDs em Futuros com o melhor corretor de CFDs. Transcenda as limitações da negociação de futuros tradicional e abrace as oportunidades sem paralelo oferecidas pela XS.
     <br/>
     Negociar CFDs em Futuros com a XS apresenta inúmeras vantagens. A XS concede acesso a mercados diversos, permitindo aos traders se engajar em vários contratos de futuros que abrangem commodities, índices, moedas e muito mais.
     <br/>
@@ -20,7 +20,7 @@ return [
  
  
     "TRADING_CONDITION_1_TITLE" => "Horário Normal de Trading",
-    "TRADING_CONDITION_1_DESCRIPTION" => "Os horários normais de trading referem-se às sessões regulares de trading disponíveis para negociação. Abaixo mostra o horário normal de trading para os índices futuros disponíveis para operação com a XS Trades. 
+    "TRADING_CONDITION_1_DESCRIPTION" => "Os horários normais de trading referem-se às sessões regulares de trading disponíveis para negociação. Abaixo mostra o horário normal de trading para os índices futuros disponíveis para operação com a XS. 
     <br/> <br/>
     Fatores de mercado e sazonais podem afetar as horas abaixo listadas, então é importante seguir as últimas atualizações na página de Horários de Trading para ficar atualizado com as últimas mudanças sazonais nos horários de trading. 
     <br/> <br/>
@@ -46,12 +46,12 @@ return [
  
  
     "TRADING_CONDITION_2_TITLE" => "Spreads",
-    "TRADING_CONDITION_2_DESCRIPTION" => "A XSTrades.com oferece spreads flutuantes em todos os índices futuros para todos os tipos de conta. Os spreads na tabela de especificações de contrato são a média dos spreads baseados no dia de trading anterior. Por favor, note que os spreads podem alargar durante os períodos de baixa liquidez do mercado, incluindo o período de rollover.",
+    "TRADING_CONDITION_2_DESCRIPTION" => "A XS.com oferece spreads flutuantes em todos os índices futuros para todos os tipos de conta. Os spreads na tabela de especificações de contrato são a média dos spreads baseados no dia de trading anterior. Por favor, note que os spreads podem alargar durante os períodos de baixa liquidez do mercado, incluindo o período de rollover.",
     "TRADING_CONDITION_3_TITLE" => "Preços dos Gráficos",
-    "TRADING_CONDITION_3_DESCRIPTION" => "A XSTrades.com oferece uma variedade de contas de trading para atender às necessidades e preferências de cada trader. Oferecemos contas com precificação bruta em que comissões adicionais são cobradas. Outros tipos de conta não têm comissões, mas incluem mark-ups incorporados nos preços. Por padrão, o gráfico na plataforma MetaTrader exibirá a precificação bruta, enquanto o market watch exibirá o preço do tipo de conta em que o cliente está utilizando.",
+    "TRADING_CONDITION_3_DESCRIPTION" => "A XS.com oferece uma variedade de contas de trading para atender às necessidades e preferências de cada trader. Oferecemos contas com precificação bruta em que comissões adicionais são cobradas. Outros tipos de conta não têm comissões, mas incluem mark-ups incorporados nos preços. Por padrão, o gráfico na plataforma MetaTrader exibirá a precificação bruta, enquanto o market watch exibirá o preço do tipo de conta em que o cliente está utilizando.",
  
     "TRADING_CONDITION_4_TITLE" => "Fixed Leverage",
-    "TRADING_CONDITION_4_DESCRIPTION" => "XSTrades.com offers fixed leverage on futures for all account types. In this case, the maximum leverage displayed in the contract specifications table will NOT change based on your net open positions or account types.",
+    "TRADING_CONDITION_4_DESCRIPTION" => "XS.com offers fixed leverage on futures for all account types. In this case, the maximum leverage displayed in the contract specifications table will NOT change based on your net open positions or account types.",
  
     "TRADING_CONDITION_5_TITLE" => "Nível de Stop",
     "TRADING_CONDITION_5_DESCRIPTION" => "O nível de stop é a distância mínima (diferença em pips) entre o preço de mercado atual e o preço da ordem pendente. Os valores do nível de stop na tabela de especificações de contrato estão sujeitos a alterações e podem não estar disponíveis para traders que utilizam certas estratégias de negociação de alta frequência ou Expert Advisors.",

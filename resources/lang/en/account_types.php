@@ -6,7 +6,7 @@
             <br/>
             Our diverse account types provide varying features and advantages, allowing you to access global markets and maximise your trading potential.
             <br/> 
-            Access a wide range of trading instruments with competitive trading conditions and enjoy the best trading experience in the industry with XS Trades.',
+            Access a wide range of trading instruments with competitive trading conditions and enjoy the best trading experience in the industry with XS.',
         'SELECT_CATEGORY' => 'Select Category',
         'PREFFERED_ACCOUNT_TYPES_BTN' => 'Preferred Account Types',
         'PROFESSIONAL_ACCOUNT_TYPES_BTN' => 'Professional Account Types',
@@ -60,6 +60,28 @@
         'CRYPTO' => 'Crypto',
         'COMMODITIES' => 'Commodities',
         'EXTRA' => 'Extra',
-        'FUTURES' => "Futures"
-        
+        'FUTURES' => "Futures",
+
+
+        'SMALLEST_LOT_SIZE'=>'Smallest Lot Size',
+        'UP_TO_1:1000_LEVERAGE'=>'Up to 1:1000 Leverage',
+        'SPREADS_1_1_PIPS'=>'Spreads: 1.1 Pips',
+        'ZERO_COMMISSIONS'=>'Zero Commissions',
+        'AVAILABLE_ON_MT5'=>'Available on MT5',
+        'NO_MINIMUM_DEPOSIT'=>'No Minimum Deposit',
+
+        'MICRO_LOT_SIZE'=>'Micro Lot Size',
+
+        'POPULAR_ACCOUNT_TYPE'=>'Popular Account Type',
+        'UP_TO_1:2000_LEVERAGE'=>'Up to 1:2000 Leverage',
+
+        'LOWEST_TRADING_COSTS'=>'Lowest Trading Costs',
+        'SPREADS_0_7_PIPS'=>'Spreads: 0.7 Pips',
+        'AVAILABLE_MT4_MT5'=>'Available on MT4 & MT5',
+        'MINIMUM_DEPOSIT_500'=>'Minimum Deposit $500',
+
+        'LOWEST_RAW_SPREADS'=>'Lowest Raw Spreads',
+        'SPREADS_0_1_PIPS'=>'Spreads: 0.1 Pips',
+        'COMMISSION_3'=>'3$ Commission',
+        ''=>''
     ];

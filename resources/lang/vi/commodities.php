@@ -9,7 +9,7 @@ return [
     'SECTION_2_TITLE' => 'GIAO DỊCH HÀNG HÓA VỚI XS: THÔNG SỐ HỢP ĐỒNG',
     "SECTION_3_TITLE" => "GIAO DỊCH HÀNG HÓA VỚI XS: ĐIỀU KIỆN GIAO DỊCH",
 
-    'DESCRIPTION_1' => 'Chào mừng đến với thế giới giao dịch hàng hóa cùng XS Trades. Bắt tay vào cuộc hành trình thú vị trong giao dịch hàng hóa với nhà môi giới CFD tốt nhất. Nền tảng của chúng tôi cung cấp nhiều loại công cụ CFD bao gồm nhiều mặt hàng khác nhau.
+    'DESCRIPTION_1' => 'Chào mừng đến với thế giới giao dịch hàng hóa cùng XS. Bắt tay vào cuộc hành trình thú vị trong giao dịch hàng hóa với nhà môi giới CFD tốt nhất. Nền tảng của chúng tôi cung cấp nhiều loại công cụ CFD bao gồm nhiều mặt hàng khác nhau.
     <br/><br/>
     Giao dịch hàng hóa mang lại cơ hội tham gia vào thị trường toàn cầu với tiềm năng thu được lợi nhuận thuận lợi.
     ',
@@ -21,7 +21,7 @@ return [
 
 
     "TRADING_CONDITION_1_TITLE" => "Thời Gian Giao Dịch Bình Thường",
-    "TRADING_CONDITION_1_DESCRIPTION" => "Giờ giao dịch bình thường đề cập đến các phiên giao dịch thông thường có sẵn để giao dịch. Dưới đây hiển thị giờ giao dịch bình thường đối với các mặt hàng có sẵn để giao dịch trên XS Trades.
+    "TRADING_CONDITION_1_DESCRIPTION" => "Giờ giao dịch bình thường đề cập đến các phiên giao dịch thông thường có sẵn để giao dịch. Dưới đây hiển thị giờ giao dịch bình thường đối với các mặt hàng có sẵn để giao dịch trên XS.
     <br/>
     Các yếu tố theo mùa và thị trường có thể ảnh hưởng đến giờ giao dịch bên dưới, vì vậy điều quan trọng là phải theo dõi các cập nhật mới nhất trên trang Giờ giao dịch để luôn cập nhật những thay đổi mới nhất. Tất cả thời gian đều tính theo giờ máy chủ (GMT+3).
 
@@ -41,13 +41,13 @@ return [
         // &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Friday: 00:00 - 23:55
 
     "TRADING_CONDITION_2_TITLE" => "Spreads",
-    "TRADING_CONDITION_2_DESCRIPTION" => "XSTrades.com cung cấp mức chênh lệch thả nổi trên tất cả các sản phẩm hàng hóa cho tất cả các loại tài khoản. Do đó, mức chênh lệch trong bảng thông số hợp đồng là mức chênh lệch trung bình dựa trên ngày giao dịch trước đó. Để biết chênh lệch trực tiếp, vui lòng tham khảo nền tảng giao dịch. Xin lưu ý rằng chênh lệch có thể tăng lên khi thị trường có tính thanh khoản thấp hơn, bao gồm cả thời gian tái đầu tư.",
+    "TRADING_CONDITION_2_DESCRIPTION" => "XS.com cung cấp mức chênh lệch thả nổi trên tất cả các sản phẩm hàng hóa cho tất cả các loại tài khoản. Do đó, mức chênh lệch trong bảng thông số hợp đồng là mức chênh lệch trung bình dựa trên ngày giao dịch trước đó. Để biết chênh lệch trực tiếp, vui lòng tham khảo nền tảng giao dịch. Xin lưu ý rằng chênh lệch có thể tăng lên khi thị trường có tính thanh khoản thấp hơn, bao gồm cả thời gian tái đầu tư.",
 
     "TRADING_CONDITION_3_TITLE" => "Biểu Đồ Giá",
-    "TRADING_CONDITION_3_DESCRIPTION" => "XSTrades.com cung cấp nhiều loại tài khoản giao dịch phù hợp với nhu cầu và sở thích của từng nhà giao dịch. Chúng tôi cung cấp các tài khoản với mức giá thô được tính phí hoa hồng bổ sung. Các loại tài khoản khác không có hoa hồng mà thay vào đó có phần chênh lệch được tính vào giá. Theo mặc định, biểu đồ trong nền tảng giao dịch MetaTrader sẽ hiển thị giá thô, trong khi theo dõi thị trường sẽ hiển thị giá của loại tài khoản mà khách hàng đang giao dịch.",
+    "TRADING_CONDITION_3_DESCRIPTION" => "XS.com cung cấp nhiều loại tài khoản giao dịch phù hợp với nhu cầu và sở thích của từng nhà giao dịch. Chúng tôi cung cấp các tài khoản với mức giá thô được tính phí hoa hồng bổ sung. Các loại tài khoản khác không có hoa hồng mà thay vào đó có phần chênh lệch được tính vào giá. Theo mặc định, biểu đồ trong nền tảng giao dịch MetaTrader sẽ hiển thị giá thô, trong khi theo dõi thị trường sẽ hiển thị giá của loại tài khoản mà khách hàng đang giao dịch.",
 
     "TRADING_CONDITION_4_TITLE" => "Đòn Bẩy Cố Định",
-    "TRADING_CONDITION_4_DESCRIPTION" => "XSTrades.com cung cấp đòn bẩy cố định cho hàng hóa cho tất cả các loại tài khoản. Trong trường hợp này, đòn bẩy tối đa được hiển thị trong bảng thông số hợp đồng sẽ KHÔNG thay đổi dựa trên các vị thế hoặc loại tài khoản mở ròng của bạn.",
+    "TRADING_CONDITION_4_DESCRIPTION" => "XS.com cung cấp đòn bẩy cố định cho hàng hóa cho tất cả các loại tài khoản. Trong trường hợp này, đòn bẩy tối đa được hiển thị trong bảng thông số hợp đồng sẽ KHÔNG thay đổi dựa trên các vị thế hoặc loại tài khoản mở ròng của bạn.",
 
     "TRADING_CONDITION_5_TITLE" => "Mức Dừng",
     "TRADING_CONDITION_5_DESCRIPTION" => "Mức dừng là khoảng cách tối thiểu (chênh lệch tính bằng pip) giữa giá thị trường hiện tại và giá lệnh chờ. Các giá trị mức dừng trong bảng thông số hợp đồng có thể thay đổi và có thể không có sẵn cho các nhà giao dịch sử dụng các chiến lược giao dịch tần suất cao hoặc Expert Advisor nhất định.",

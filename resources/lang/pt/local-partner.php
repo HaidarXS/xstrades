@@ -8,7 +8,7 @@ return[
     <br/><br/>
     Este programa permite que você ofereça aos clientes da sua comunidade local acesso a tecnologia avançada e às melhores experiências de negociação do setor.',
 
-    'WHY_PARTNER_WITH_XS'=>'Por que fazer parceria com XS Trades?',
+    'WHY_PARTNER_WITH_XS'=>'Por que fazer parceria com XS?',
 
     'WE_SPEAK_YOUR_LANG'=>'Falamos a sua língua.. Vamos conversar',
 ];

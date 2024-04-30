@@ -7,10 +7,10 @@
         'CHOOSE_REASON_2_DESCRIPTION' => '我们优先考虑您的资金和个人信息的安全，让您在交易时安枕无忧。',
 
         'CHOOSE_REASON_3_TITLE' => '全球市场准入',
-        'CHOOSE_REASON_3_DESCRIPTION' => 'XSTrades.com为交易者提供了进入全球金融市场的门户，提供广泛的资产类别。',
+        'CHOOSE_REASON_3_DESCRIPTION' => 'XS.com为交易者提供了进入全球金融市场的门户，提供广泛的资产类别。',
 
         'CHOOSE_REASON_4_TITLE' => '先进的交易技术',
-        'CHOOSE_REASON_4_DESCRIPTION' => 'XSTrades.com 提供实时市场数据、可定制图表、技术指标和尖端交易平台。',
+        'CHOOSE_REASON_4_DESCRIPTION' => 'XS.com 提供实时市场数据、可定制图表、技术指标和尖端交易平台。',
 
         'CHOOSE_REASON_5_TITLE' => '简单的注册流程',
         'CHOOSE_REASON_5_DESCRIPTION' => '在XS注册账户是一个非常快速且简单的过程，通过使用数码注册工具，只需几分钟即可完成。',

@@ -1,20 +1,20 @@
 <?php 
     return [
         'FUNDING_METHODS' => 'Métodos de depósito',
-        'SUBTITLE' => 'Transacciones cómodas y seguras con XS Trades.',
+        'SUBTITLE' => 'Transacciones cómodas y seguras con XS.',
 
-        'DESCRIPTION' => 'En XS Trades, entendemos la importancia de transacciones sin complicaciones y seguras cuando se trata de depositar fondos en su cuenta de trading o realizar retiros. Le proporcionamos un proceso de depósito y retiro sin interrupciones, asegurando que sus fondos se manejen de manera eficiente y segura. Explore las características y opciones disponibles para depósitos y retiros con XS Trades.',
+        'DESCRIPTION' => 'En XS, entendemos la importancia de transacciones sin complicaciones y seguras cuando se trata de depositar fondos en su cuenta de trading o realizar retiros. Le proporcionamos un proceso de depósito y retiro sin interrupciones, asegurando que sus fondos se manejen de manera eficiente y segura. Explore las características y opciones disponibles para depósitos y retiros con XS.',
         
         'DEPOSITS' => 'Depósitos',
         'WITHDRAWALS' => 'Retiros',
 
         
-        'DEPOSITS_TABLE_DESCRIPTION' => 'Hacer un depósito con XS es simple y conveniente. Ofrecemos varios métodos de depósito para adaptarse a sus preferencias, incluyendo transferencias bancarias, tarjetas de crédito/débito y monederos electrónicos populares. Simplemente inicie sesión en su cuenta XS Trades, vaya a la sección de depósito y seleccione su método de depósito preferido. Siga las instrucciones proporcionadas y sus fondos se acreditarán rápidamente a su cuenta de trading, permitiéndole comenzar a operar sin demora. 
+        'DEPOSITS_TABLE_DESCRIPTION' => 'Hacer un depósito con XS es simple y conveniente. Ofrecemos varios métodos de depósito para adaptarse a sus preferencias, incluyendo transferencias bancarias, tarjetas de crédito/débito y monederos electrónicos populares. Simplemente inicie sesión en su cuenta XS, vaya a la sección de depósito y seleccione su método de depósito preferido. Siga las instrucciones proporcionadas y sus fondos se acreditarán rápidamente a su cuenta de trading, permitiéndole comenzar a operar sin demora. 
         <br/>
         Nuestro proceso de depósito está diseñado para ser amigable con el usuario, garantizando una experiencia fluida al financiar su cuenta de trading.', 
 
 
-        'WITHDRAWAL_TABLE_DESCRIPTION' => 'CCuando se trata de retiros, XS ofrece un proceso confiable y eficiente. Nos esforzamos por procesar las solicitudes de retiro rápidamente, permitiéndole acceder a sus fondos de manera oportuna. Para iniciar un retiro, inicie sesión en su cuenta XS Trades, vaya a la sección de retiro y siga los pasos proporcionados. 
+        'WITHDRAWAL_TABLE_DESCRIPTION' => 'CCuando se trata de retiros, XS ofrece un proceso confiable y eficiente. Nos esforzamos por procesar las solicitudes de retiro rápidamente, permitiéndole acceder a sus fondos de manera oportuna. Para iniciar un retiro, inicie sesión en su cuenta XS, vaya a la sección de retiro y siga los pasos proporcionados. 
         <br/>
         Entendemos la importancia de la seguridad y garantizamos que las solicitudes de retiro se procesen con el máximo cuidado. Para proteger sus fondos, podemos requerir la verificación de su identidad y la adhesión a nuestros protocolos de seguridad. Esto garantiza que solo las personas autorizadas puedan acceder y retirar fondos de su cuenta de trading.', 
 
@@ -50,7 +50,7 @@
         <br/>
         Tomamos todas las medidas necesarias y adecuadas para proteger a nuestros clientes y garantizar que todas las Regulaciones AML se cumplan estrictamente. XS no acepta depósitos o solicitudes de retiro de terceros.
         <br/>
-        Experimente transacciones sin problemas, retiros rápidos y soporte confiable mientras gestiona sus fondos con XS Trades. 
+        Experimente transacciones sin problemas, retiros rápidos y soporte confiable mientras gestiona sus fondos con XS. 
         <br/>
         Únase a XS hoy y disfrute de la facilidad y eficiencia al depositar y retirar fondos y operar con un líder de mercado global.',
 

@@ -33,7 +33,7 @@ return [
 
     'APPLY_FOR_YOUR_XS_MASTER_CARD_DESC' => '今天就加入 XS，申请您的 XS 预付万事达卡，随时随地轻松快捷地使用您的资金。
     <br/><br/>
-    如果您对 XS 预付万事达卡有任何疑问或需要更多信息，我们的专业支持团队将竭诚为您服务。请发送电子邮件至 <a href="mailto:support@XSTrades.com" class="xs-btn fill text-secondary">Support@XSTrades.com</a>。
+    如果您对 XS 预付万事达卡有任何疑问或需要更多信息，我们的专业支持团队将竭诚为您服务。请发送电子邮件至 <a href="mailto:support@xs.com" class="xs-btn fill text-secondary">Support@xs.com</a>。
     <br/><br/>
     由于金融法规的原因，XS 预付万事达卡可能不适用于某些司法管辖区的居民。'
 ];

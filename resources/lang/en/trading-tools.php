@@ -6,7 +6,7 @@ return [
 
     'PAGE_BANNER_SUBTITLE'=>'Explore Our Suite of Trading Tools to Improve your Trading Experience',
 
-    'TRADING_TOOLS_DESCRIPTION' => 'XS Trades uses a dynamic leverage model that automatically adapts to the clients trading positions. As the
+    'TRADING_TOOLS_DESCRIPTION' => 'XS uses a dynamic leverage model that automatically adapts to the clients trading positions. As the
     </br>
     volume per instrument of a client increases the maximum leverage offered decreases accordingly',
 

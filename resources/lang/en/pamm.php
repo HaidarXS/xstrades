@@ -28,7 +28,7 @@ return [
 
     'PAMM_USER_GUIDE' => 'PAMM User Guide',
 
-    'WHY_USE_XS_PAMM' => 'Why Use XS Trades PAMM?',
+    'WHY_USE_XS_PAMM' => 'Why Use XS PAMM?',
 
     'TB_1_1' => 'Automated Onboarding Process',
 
@@ -42,16 +42,16 @@ return [
 
     'TB_1_6' => 'Transparent Profit Sharing',
 
-    'WHY_CHOOSE_XS' => 'Why Choose XS Trades? ',
+    'WHY_CHOOSE_XS' => 'Why Choose XS? ',
 
 
     'CONNECT' => 'Let us connect',
 
     'TEXT7' => 'Our team of experts is ready to  share their knowledge and insights with you to make sure you meet your objectives and implement your strategies.',
 
-    'TEXT8' => 'If you would like to talk to one of our seasoned experts about PAMM, please email us at <a href="mailto:support@XSTrades.com"> support@XSTrades.com </a>',
+    'TEXT8' => 'If you would like to talk to one of our seasoned experts about PAMM, please email us at <a href="mailto:support@xs.com"> support@xs.com </a>',
 
-    'DISCLAIMER' => '<span style="color: #30af85;">Disclaimer: </span> Neither XS Trades nor PAMM traders are providers of managed discretionary account services. It is your own decision to follow a particular PAMM trader, meaning all trading decisions made by a PAMM trader will be deemed your own trading decisions.',
+    'DISCLAIMER' => '<span style="color: #30af85;">Disclaimer: </span> Neither XS nor PAMM traders are providers of managed discretionary account services. It is your own decision to follow a particular PAMM trader, meaning all trading decisions made by a PAMM trader will be deemed your own trading decisions.',
 
     ]
 ?>

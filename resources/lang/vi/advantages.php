@@ -7,10 +7,10 @@
         'CHOOSE_REASON_2_DESCRIPTION' => 'Ưu tiên bảo mật tài sản và thông tin cá nhân, giúp khách hàng yên tâm khi giao dịch.',
 
         'CHOOSE_REASON_3_TITLE' => 'Tiếp Cận Thị Trường Toàn Cầu',
-        'CHOOSE_REASON_3_DESCRIPTION' => 'XSTrades.com cung cấp cho các nhà giao dịch một cánh cổng tiếp cận thị trường tài chính toàn cầu, cung cấp quyền truy cập vào nhiều loại tài sản.',
+        'CHOOSE_REASON_3_DESCRIPTION' => 'XS.com cung cấp cho các nhà giao dịch một cánh cổng tiếp cận thị trường tài chính toàn cầu, cung cấp quyền truy cập vào nhiều loại tài sản.',
 
         'CHOOSE_REASON_4_TITLE' => 'Công Nghệ Giao Dịch Tiên Tiến',
-        'CHOOSE_REASON_4_DESCRIPTION' => 'XSTrades.com cung cấp dữ liệu thị trường theo thời gian thực, biểu đồ có thể tùy chỉnh, chỉ báo kỹ thuật và nền tảng giao dịch tiên tiến.',
+        'CHOOSE_REASON_4_DESCRIPTION' => 'XS.com cung cấp dữ liệu thị trường theo thời gian thực, biểu đồ có thể tùy chỉnh, chỉ báo kỹ thuật và nền tảng giao dịch tiên tiến.',
 
         'CHOOSE_REASON_5_TITLE' => 'Quy Trình Đăng Ký Dễ Dàng',
         'CHOOSE_REASON_5_DESCRIPTION' => 'Đăng ký tài khoản với XS là một quá trình thực sự nhanh chóng và dễ dàng, có thể được thực hiện trong vòng vài phút bằng cách sử dụng các công cụ đăng ký kỹ thuật số.',

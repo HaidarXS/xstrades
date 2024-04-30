@@ -16,7 +16,7 @@ return [
 
     'WITH_OUR_UNWAVERING_COMMITMENT' => '凭借我们对卓越的坚定承诺和对金融市场的热情，我们为各种水平的交易者提供全面的解决方案
     <br/><br/>
-    加入 <a style="text-decoration:none;" href="https://www.XSTrades.com/cn" target="_blank" > XSTrades.com </a>，开始一段激动人心、回报丰厚的交易体验。您的财务赋权从这里开始。',
+    加入 <a style="text-decoration:none;" href="https://www.xs.com/cn" target="_blank" > XS.com </a>，开始一段激动人心、回报丰厚的交易体验。您的财务赋权从这里开始。',
 
     'COMPANY_AWARDS' => '公司奖项',
 

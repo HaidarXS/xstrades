@@ -16,7 +16,7 @@ return [
     <br />
     La Autoridad de Servicios Financieros (FSA) es el órgano regulador autónomo responsable de licenciar, regular, hacer cumplir los requisitos regulatorios y de cumplimiento, monitorear y supervisar la conducta del negocio en el sector de servicios financieros no bancarios en Seychelles.
     <br />
-    XS Ltd opera bajo el sitio web <a href="https://www.XSTrades.com/" target="_blank">www.XSTrades.com</a> para la provisión de sus servicios y productos a ciertas jurisdicciones donde dicha provisión no sería contraria a la ley o regulación local.',
+    XS Ltd opera bajo el sitio web <a href="https://www.xs.com/" target="_blank">www.xs.com</a> para la provisión de sus servicios y productos a ciertas jurisdicciones donde dicha provisión no sería contraria a la ley o regulación local.',
 
     'XS_PRIME_LTD' => 'XS Prime Ltd.',
 
@@ -51,7 +51,7 @@ return [
     <br />
     XS Fintech Ltd es un proveedor de soluciones Fintech y el brazo tecnológico de XS Group.
     <br />
-    Las entidades mencionadas anteriormente están debidamente autorizadas para operar bajo la marca y marcas registradas del Grupo XS Trades.
+    Las entidades mencionadas anteriormente están debidamente autorizadas para operar bajo la marca y marcas registradas del Grupo XS.
     <br />
     Restricciones regionales: El Grupo XS no ofrece sus servicios a residentes de ciertas jurisdicciones como EE. UU., Irán, Corea del Norte y Myanmar.',
 

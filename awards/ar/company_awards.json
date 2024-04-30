@@ -1,4 +1,18 @@
-[ 
+[
+    {
+        "title": "أفضل وسيط متعدد الاصول - اميركا اللاتينية",
+        "country": "مكسيكو سيتي، المكسيك",
+        "date": "ابريل 2024",
+        "sponsor": "التيميت فينتك<br/> اميركا اللاتينية (UF) مراسم جوائز 'يو أف' ",
+        "img": "/webp/company-awards/most-multi-asset-broker-latam.webp"
+    },
+    {
+        "title": "أفضل تنفيذ للتداول",
+        "country": "مكسيكو سيتي، المكسيك",
+        "date": "ابريل 2024",
+        "sponsor": "التيميت فينتك<br/> اميركا اللاتينية (UF) مراسم جوائز 'يو أف' ",
+        "img": "/webp/company-awards/best-trade-execution.webp"
+    },
     {
         "title": "الوسيط الأكثر أماناً",
         "country": "مسقط، عُمان",
@@ -51,14 +65,14 @@
     },
     {
         "title": "أفضل وسيط ذو قيمة عالمية",
-        "country": "Cairo, Egypt",
+        "country": "القاهرة، مصر",
         "date": "نوفمبر 2023",
         "sponsor": "معرض سمارت فيجن الاستثماري <br/> سمارت فيجن",
         "img": "/webp/company-awards/best_global_value_broker-1.webp"
     },
     {
         "title": "افضل دعم للعملاء",
-        "country": "Cairo, Egypt",
+        "country": "القاهرة، مصر",
         "date": "نوفمبر 2023",
         "sponsor": "معرض سمارت فيجن الاستثماري <br/> سمارت فيجن",
         "img": "/webp/company-awards/best_customer_support-1.webp"

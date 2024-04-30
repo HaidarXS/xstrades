@@ -3,7 +3,7 @@
         "PAGE_BANNER_TITLE" => "Sécurité",
  
         "PAGE_TITLE" => "Protection des fonds des clients",
-        "PAGE_DESCRIPTION" => "Chez XSTrades.com, nous priorisons la sécurité et la sûreté des fonds des clients en investissant continuellement dans notre infrastructure et en mettant en œuvre des protocoles de sécurité avancés pour maintenir les normes de sécurité les plus élevées et protéger ces fonds. Nous travaillons en partenariat avec les institutions financières les plus réputées du monde entier et mettons en œuvre la séparation des fonds des clients pour nous assurer que les fonds de nos clients sont sûrs et protégés en tout temps.",
+        "PAGE_DESCRIPTION" => "Chez XS.com, nous priorisons la sécurité et la sûreté des fonds des clients en investissant continuellement dans notre infrastructure et en mettant en œuvre des protocoles de sécurité avancés pour maintenir les normes de sécurité les plus élevées et protéger ces fonds. Nous travaillons en partenariat avec les institutions financières les plus réputées du monde entier et mettons en œuvre la séparation des fonds des clients pour nous assurer que les fonds de nos clients sont sûrs et protégés en tout temps.",
        
         "SECTION_1_TITLE" => "ASSURANCE BONIFIÉE JUSQU’À <span class=\"fiveM\">5 000 000 $</span> ",
         "SECTION_1_DESCRIPTION" => "XS offre aux clients une protection d’assurance supplémentaire pour couvrir les pertes supérieures à 10000 USD et jusqu’à 5000000 USD contre les réclamations contre l’omission, la fraude, la négligence et d’autres risques qui peuvent entraîner des pertes financières pour les clients, sans frais directs pour les clients. Ce programme d’assurance responsabilité civile est souscrit par Lloyd’s de Londres et garantit que tous les clients et les tiers travaillant avec XS bénéficient de la protection dont ils ont besoin.",
@@ -18,7 +18,7 @@
         "SECTION_3_BUTTON_TEXT" => "Règlements",
  
         "SECTION_4_TITLE" => "Normes de sécurité",
-        "SECTION_4_DESCRIPTION" => "Chez XSTrades.com, nous avons investi massivement dans notre infrastructure et mis en œuvre des protocoles de sécurité avancés pour nous assurer que nos systèmes sont conformes aux normes de sécurité mondiales les plus strictes.",
+        "SECTION_4_DESCRIPTION" => "Chez XS.com, nous avons investi massivement dans notre infrastructure et mis en œuvre des protocoles de sécurité avancés pour nous assurer que nos systèmes sont conformes aux normes de sécurité mondiales les plus strictes.",
         "SECTION_4_BUTTON_TEXT" => "Sécurité",
  
         "SECTION_5_TITLE" => "Histoire à succès.",

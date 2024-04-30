@@ -1,8 +1,8 @@
 <?php
 return [
     'LIQUIDITY_SOLUTIONS' => 'Soluzioni di Liquidità',
-    'LIQUIDITY_SOLUTIONS_DESCRIPTION' => 'Presso XS Trades, comprendiamo l\'importanza della liquidità per i clienti istituzionali. Siamo dedicati a fornire soluzioni di liquidità complete su misura per soddisfare le esigenze specifiche delle istituzioni. La nostra roadmap della liquidità delinea le principali caratteristiche e vantaggi che ci distinguono come un fornitore di liquidità affidabile.',
-    'WHY_CHOOSE_XS' => 'Perché Scegliere le Soluzioni di Liquidità di XS Trades?',
+    'LIQUIDITY_SOLUTIONS_DESCRIPTION' => 'Presso XS, comprendiamo l\'importanza della liquidità per i clienti istituzionali. Siamo dedicati a fornire soluzioni di liquidità complete su misura per soddisfare le esigenze specifiche delle istituzioni. La nostra roadmap della liquidità delinea le principali caratteristiche e vantaggi che ci distinguono come un fornitore di liquidità affidabile.',
+    'WHY_CHOOSE_XS' => 'Perché Scegliere le Soluzioni di Liquidità di XS?',
 
     'REASON_1_TITLE' => 'Diverse Classi di Asset:',
     'REASON_1_DESCRIPTION' => 'Accesso a una vasta gamma di classi di asset che permette alle istituzioni di diversificare efficacemente i loro portafogli.',

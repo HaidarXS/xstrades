@@ -8,7 +8,7 @@ return [
     'CONFERENCES' => 'CONFERÊNCIAS',
     'ACTIVITIES' => 'ATIVIDADES',
     'SOMETHING_REGARDING_AWARD' => 'ALGO SOBRE PRÊMIOS',
-    'WITH_OUR_UNWAVERING_COMMITMENT' => 'Com nosso compromisso inabalável com a excelência e nossa paixão pelos mercados financeiros, oferecemos soluções abrangentes que atendem a traders de todos os níveis. Junte-se ao XSTrades.com e embarque em uma experiência de negociação emocionante e gratificante. Sua capacitação financeira começa aqui.',
+    'WITH_OUR_UNWAVERING_COMMITMENT' => 'Com nosso compromisso inabalável com a excelência e nossa paixão pelos mercados financeiros, oferecemos soluções abrangentes que atendem a traders de todos os níveis. Junte-se ao XS.com e embarque em uma experiência de negociação emocionante e gratificante. Sua capacitação financeira começa aqui.',
     'COMPANY_AWARDS' => 'PRÊMIOS DA EMPRESA',
     'BEST_MULTI_ASSET_BROKER' => 'MELHOR CORRETORA DE MÚLTIPLOS ATIVOS',
     'DUBAI_UAE_MAY_2023' => 'Dubai, Emirados Árabes Unidos, maio de 2023',

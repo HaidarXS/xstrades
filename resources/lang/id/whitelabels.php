@@ -2,7 +2,7 @@
 return [
     'WHITE_LABEL_SOLUTIONS' => 'Solusi Label Putih',
     'WHITE_LABEL_SOLUTIONS_DESCRIPTION' => 'Solusi label putih kami dirancang untuk klien korporat dan institusi yang berencana memiliki sistem perdagangan multi-aset eksklusif mereka sendiri dengan merek mereka sendiri. Solusi ini memungkinkan mereka beroperasi sebagai broker yang sepenuhnya independen dan memberikan kemampuan kepada klien mereka untuk melakukan perdagangan produk keuangan global. Ini mencakup platform perdagangan yang sepenuhnya bermerk, modul back-office lengkap, CRM, aliran harga, likuiditas mendalam, integrasi API FIX, dan koneksi jembatan, serta program pelatihan lengkap dan dukungan teknis 24/7.',
-    'WHY_CHOOSE_XS' => 'Mengapa Memilih Solusi Teknologi & Fintech XS Trades?',
+    'WHY_CHOOSE_XS' => 'Mengapa Memilih Solusi Teknologi & Fintech XS?',
 
     'REASON_1_TITLE' => 'Solusi Label Putih yang Komprehensif:',
     'REASON_1_DESCRIPTION' => 'Kami menyediakan solusi lengkap, termasuk akses ke likuiditas mendalam, teknologi canggih, personalisasi merek, dan dukungan penuh.',

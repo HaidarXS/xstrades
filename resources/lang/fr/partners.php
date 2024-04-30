@@ -28,7 +28,7 @@ return [
     "INFLUENCERS_REASON_3_DESCRIPTION" => " vos paiements sont versés quotidiennement dans votre portefeuille partenaire et vous pouvez accéder instantanément à vos paiements via différentes méthodes de paiement, quand vous le souhaitez.",
 
     "INFLUENCERS_REASON_4_TITLE" => "Rapports avancés :",
-    "INFLUENCERS_REASON_4_DESCRIPTION" => " nos outils de reporting avancés vous permettent de surveiller des statistiques détaillées en temps réel sur les transactions de chaque client dans votre portail partenaire XS Trades.",
+    "INFLUENCERS_REASON_4_DESCRIPTION" => " nos outils de reporting avancés vous permettent de surveiller des statistiques détaillées en temps réel sur les transactions de chaque client dans votre portail partenaire XS.",
 
     "INFLUENCERS_REASON_5_TITLE" => "Outils promotionnels :",
     "INFLUENCERS_REASON_5_DESCRIPTION" => " nous fournissons tous les outils dont vous avez besoin pour promouvoir nos produits, notamment des bannières de sites Web, des publicités, des pages de destination, du matériel pédagogique et des webinaires.",
@@ -45,7 +45,7 @@ return [
     "WHY_CLIENTS_CHOSE_XS" => "Pourquoi les clients choisissent-ils XS ?",
 
     "CHOOSE_REASON_1_TITLE" => "Courtier mondial de confiance :",
-    "CHOOSE_REASON_1_DESCRIPTION" => " XSTrades.com est un courtier mondial de confiance soumis à de multiples réglementations.",
+    "CHOOSE_REASON_1_DESCRIPTION" => " XS.com est un courtier mondial de confiance soumis à de multiples réglementations.",
 
     "CHOOSE_REASON_2_TITLE" => "Courtier primé :",
     "CHOOSE_REASON_2_DESCRIPTION" => " négociez avec un courtier reconnu pour ses services.",
@@ -72,7 +72,7 @@ return [
     "CHOOSE_REASON_9_DESCRIPTION" => " profitez de notre support client dans votre langue.",
 
     "LETS_TALK_PARTNERSHIP" => "Parlons partenariat",
-    "LETS_TALK_PARTNERSHIP_DESCRIPTION" => "Notre équipe d’experts est prête à partager avec vous ses connaissances et ses idées pour s’assurer que vous atteignez vos objectifs et mettez en œuvre vos stratégies. <br/> <br/> Si vous souhaitez parler à l'un de nos experts chevronnés de nos programmes de partenariat, veuillez nous envoyer un e-mail à <a href='mailto:Partners@XSTrades.com' > Partners@XSTrades.com </a> ",
+    "LETS_TALK_PARTNERSHIP_DESCRIPTION" => "Notre équipe d’experts est prête à partager avec vous ses connaissances et ses idées pour s’assurer que vous atteignez vos objectifs et mettez en œuvre vos stratégies. <br/> <br/> Si vous souhaitez parler à l'un de nos experts chevronnés de nos programmes de partenariat, veuillez nous envoyer un e-mail à <a href='mailto:Partners@xs.com' > Partners@xs.com </a> ",
 
     "BEST_FX_BROKER" => "MEILLEUR COURTIER FOREX",
     "BEST_FUNDAMENTAL" => "MEILLEURE ANALYSE FONDAMENTALE ET TECHNIQUE",

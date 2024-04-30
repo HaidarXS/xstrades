@@ -75,22 +75,22 @@ return [
     'PLATFORM' => 'Platform',
 
     'SPREAD_TITLE' => 'Spreads',
-    'SPREAD_DESCRIPTION' => 'A XSTrades.com oferece spread flutuante em todos os tipos de conta e classes de ativos. Portanto, os spreads na tabela de especificações do contrato são a média do spread com base no dia de negociação anterior. Para spreads ao vivo, consulte a plataforma de negociação.
+    'SPREAD_DESCRIPTION' => 'A XS.com oferece spread flutuante em todos os tipos de conta e classes de ativos. Portanto, os spreads na tabela de especificações do contrato são a média do spread com base no dia de negociação anterior. Para spreads ao vivo, consulte a plataforma de negociação.
         Observe que os spreads podem se ampliar quando os mercados experimentam menor liquidez, incluindo o horário de rolagem.
     ',
 
     'DYNAMIC_LEVERAGE_TITLE' => 'Alavancagem Dinâmica',
-    'DYNAMIC_LEVERAGE_DESCRIPTION' => 'A XSTrades.com oferece alavancagem dinâmica na maioria das classes de ativos e tipos de contas. Os valores de alavancagem na tabela de especificações do contrato representam a alavancagem máxima para cada instrumento de negociação. A alavancagem máxima será alterada com base nas suas posições líquidas em aberto. Para obter mais detalhes sobre a Alavancagem Dinâmica, clique aqui.',
+    'DYNAMIC_LEVERAGE_DESCRIPTION' => 'A XS.com oferece alavancagem dinâmica na maioria das classes de ativos e tipos de contas. Os valores de alavancagem na tabela de especificações do contrato representam a alavancagem máxima para cada instrumento de negociação. A alavancagem máxima será alterada com base nas suas posições líquidas em aberto. Para obter mais detalhes sobre a Alavancagem Dinâmica, clique aqui.',
 
     'SWAPS_TITLE' => 'Swaps',
     'SWAPS_DESCRIPTION' => 'Swap comprado usado para manter posições de compra abertas durante a noite, e Swap vendido usado para manter posições de venda abertas durante a noite. As trocas ocorrem às 00:00, horário do servidor, todos os dias, exceto nos finais de semana, até que a posição seja fechada. Os swaps triplos são cobrados às quartas-feiras para cobrir os custos de financiamento incorridos no fim de semana..',
 
     'CHARTS_TITLE' => 'Gráficos vs. Spreads do Market Watch',
-    'CHARTS_DESCRIPTION' => 'A XSTrades.com oferece uma variedade de contas de negociação para atender às necessidades e preferências de cada trader. Oferecemos contas com preços brutos nos quais são cobradas comissões adicionais. Outros tipos de conta não possuem comissão, mas, em vez disso, têm mark-ups incorporados nos preços.
+    'CHARTS_DESCRIPTION' => 'A XS.com oferece uma variedade de contas de negociação para atender às necessidades e preferências de cada trader. Oferecemos contas com preços brutos nos quais são cobradas comissões adicionais. Outros tipos de conta não possuem comissão, mas, em vez disso, têm mark-ups incorporados nos preços.
         Por padrão, o gráfico nas plataformas de negociação Metatrader exibirá os preços brutos, enquanto o Market Watch exibirá os preços do tipo de conta em que o cliente está negociando.',
 
     'FIXED_LEVERAGE_TITLE' => 'Alavancagem Fixa',
-    'FIXED_LEVERAGE_DESCRIPTION' => 'A XSTrades.com oferece alavancagem fixa em algumas classes de ativos e tipos de contas. Neste caso, a alavancagem máxima exibida na tabela de especificações do contrato NÃO será alterada com base em suas posições líquidas em aberto.
+    'FIXED_LEVERAGE_DESCRIPTION' => 'A XS.com oferece alavancagem fixa em algumas classes de ativos e tipos de contas. Neste caso, a alavancagem máxima exibida na tabela de especificações do contrato NÃO será alterada com base em suas posições líquidas em aberto.
         A alavancagem fixa se aplica aos seguintes casos:
 
         Todas as classes de ativos nos tipos de conta Cent e Micro

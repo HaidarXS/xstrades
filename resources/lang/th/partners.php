@@ -17,7 +17,7 @@ return [
     'STEP_3_DESCRIPTION' => 'เพิ่มรายได้ของคุณด้วยการเป็นลูกค้าที่เทรดกับ XS',
 
 
-    'WHY_JOIN_INFLUENCERS_XS' => 'ทำไมต้องเข้าร่วมโปรแกรมอินฟลูเอนเซอร์กับ XS Trades?',
+    'WHY_JOIN_INFLUENCERS_XS' => 'ทำไมต้องเข้าร่วมโปรแกรมอินฟลูเอนเซอร์กับ XS?',
 
     'INFLUENCERS_REASON_1_TITLE' => 'โปรแกรมหลายรูปแบบ :',
     'INFLUENCERS_REASON_1_DESCRIPTION' => ' โปรแกรมพาร์ทเนอร์ของเราออกแบบมาเพื่อให้เหมาะกับความต้องการของพาร์ทเนอร์ที่หลากหลาย',
@@ -43,7 +43,7 @@ return [
     'INFLUENCERS_REASON_8_TITLE' => 'เงื่อนไขระดับพรีเมียม:',
     'INFLUENCERS_REASON_8_DESCRIPTION' => 'เงื่อนไขที่ดีที่สุดสำหรับคุณและประสบการณ์ที่ดีที่สุดสำหรับลูกค้าของคุณ',
 
-    'WHY_CLIENTS_CHOSE_XS' => 'ทำไมลูกค้าถึงเลือก XS Trades?',
+    'WHY_CLIENTS_CHOSE_XS' => 'ทำไมลูกค้าถึงเลือก XS?',
 
     'CHOOSE_REASON_1_TITLE' => 'การสนับสนุนที่ยอดเยี่ยม:',
     'CHOOSE_REASON_1_DESCRIPTION' => 'รับผลประโยชน์จากการจัดการความสัมพันธ์คุณภาพสูงและการสนับสนุนลูกค้าที่เป็นเลิศ',
@@ -75,7 +75,7 @@ return [
     'LETS_TALK_PARTNERSHIP' => 'พูดคุยกับพาร์ทเนอร์',
     'LETS_TALK_PARTNERSHIP_DESCRIPTION' => 'ทีมผู้เชี่ยวชาญของเราพร้อมที่จะแบ่งปันความรู้และข้อมูลเชิงลึกเพื่อให้แน่ใจว่าคุณบรรลุวัตถุประสงค์และสามารถนำกลยุทธ์ของคุณไปใช้ได้
     <br/> <br/>
-    หากคุณต้องการพูดคุยกับผู้เชี่ยวชาญที่มีประสบการณ์เกี่ยวกับโปรแกรมพันธมิตรของเรา โปรดส่งอีเมลถึงเราที่ <a href="mailto:partners@XSTrades.com">partners@XSTrades.com</a>',
+    หากคุณต้องการพูดคุยกับผู้เชี่ยวชาญที่มีประสบการณ์เกี่ยวกับโปรแกรมพันธมิตรของเรา โปรดส่งอีเมลถึงเราที่ <a href="mailto:partners@xs.com">partners@xs.com</a>',
 
     'BEST_FX_BROKER' => 'BEST FX BROKER',
     'BEST_B2B_BROKER' => 'BEST B2B BROKER',

@@ -79,7 +79,7 @@ return [
     이러한 사양을 숙지하면 정보에 입각한 거래 결정을 내리고 포지션을 효과적으로 관리할 수 있습니다.',
 
     'SPREAD_TITLE' => '스프레드',
-    'SPREAD_DESCRIPTION' => 'XSTrades.com은 모든 계정 유형과 자산 클래스에
+    'SPREAD_DESCRIPTION' => 'XS.com은 모든 계정 유형과 자산 클래스에
         대해 변동 스프레드를 제공합니다. 따라서
         계약 사양 표의 스프레드는 전 거래일을
         기준으로 한 평균 스프레드입니다. 실시간
@@ -89,7 +89,7 @@ return [
         낮아지면 스프레드가 확대될 수 있습니다.',
 
     'DYNAMIC_LEVERAGE_TITLE' => '다이내믹 레버리지',
-    'DYNAMIC_LEVERAGE_DESCRIPTION' => 'XSTrades.com은 대부분의 자산 클래스와 계정
+    'DYNAMIC_LEVERAGE_DESCRIPTION' => 'XS.com은 대부분의 자산 클래스와 계정
         유형에 대해 다이내믹 레버리지를
         제공합니다. 계약 사양 표의 레버리지 값은
         각 거래 상품의 최대 레버리지입니다. 최대
@@ -103,7 +103,7 @@ return [
     스왑은 주말을 제외한 매일 00:00 서버 타임에 포지션이 청산될 때까지 발생합니다. 주말 동안 발생한 자금 파이낸싱 비용을 충당하기 위해 수요일에 트리플 스왑(Triple swaps)이 청구됩니다.',
 
     'CHARTS_TITLE' => '차트 VS 마켓 워치 스프레드',
-    'CHARTS_DESCRIPTION' => 'XSTrades.com은 각 거래자의 필요와 선호에 맞는
+    'CHARTS_DESCRIPTION' => 'XS.com은 각 거래자의 필요와 선호에 맞는
         다양한 거래 계정을 제공합니다. 추가
         커미션이 부과되는 원가(raw pricing) 계정을
         제공합니다. 다른 계정 유형은 커미션이
@@ -115,7 +115,7 @@ return [
         호가가 표시됩니다.',
 
     'FIXED_LEVERAGE_TITLE' => '고정 레버리지',
-    'FIXED_LEVERAGE_DESCRIPTION' => 'XSTrades.com은 일부 자산 클래스 및 계정 유형에
+    'FIXED_LEVERAGE_DESCRIPTION' => 'XS.com은 일부 자산 클래스 및 계정 유형에
         대해 고정 레버리지를 제공합니다. 이 경우
         계약 사양 표에 표시된 최대 레버리지는 순
         오픈 포지션에 따라 변경되지 않습니다.

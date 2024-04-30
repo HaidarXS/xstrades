@@ -10,7 +10,7 @@ return [
     'SECTION_2_TITLE' => 'TRADING DE AÇÕES COM A XS: ESPECIFICAÇÕES DE CONTRATO',
     "SECTION_3_TITLE" => "TRADING DE AÇÕES COM A XS: CONDIÇÕES DE TRADING",
  
-    'DESCRIPTION_1' => 'Bem-vindo ao mundo do trading de ações com a XS Trades. Negocie CFDs em ações internacionais com a melhor corretora de CFDs e compre e venda de forma transparente as ações de empresas líderes como Amazon, Alibaba, Apple e mais. Aproveite as capacidades de trading de CFDs sem interrupções de nossas plataformas de trading online, oferecendo-lhe a oportunidade de negociar CFDs em milhares de ações globais. Beneficie-se da execução ultra-rápida de ordens e condições competitivas de trading, garantindo que você possa aproveitar as oportunidades de mercado de forma rápida e eficiente. Negocie CFDs em ações de empresas renomadas nos Estados Unidos (US), Reino Unido (UK), Europa (EU) e Hong Kong (HK), incluindo algumas das maiores e mais populares corporações.',
+    'DESCRIPTION_1' => 'Bem-vindo ao mundo do trading de ações com a XS. Negocie CFDs em ações internacionais com a melhor corretora de CFDs e compre e venda de forma transparente as ações de empresas líderes como Amazon, Alibaba, Apple e mais. Aproveite as capacidades de trading de CFDs sem interrupções de nossas plataformas de trading online, oferecendo-lhe a oportunidade de negociar CFDs em milhares de ações globais. Beneficie-se da execução ultra-rápida de ordens e condições competitivas de trading, garantindo que você possa aproveitar as oportunidades de mercado de forma rápida e eficiente. Negocie CFDs em ações de empresas renomadas nos Estados Unidos (US), Reino Unido (UK), Europa (EU) e Hong Kong (HK), incluindo algumas das maiores e mais populares corporações.',
  
     'DESCRIPTION_2' => 'A XS oferece acesso a uma ampla gama de ações internacionais, incluindo Ações dos Estados Unidos (US Shares), Ações Europeias (EU Shares), Ações do Reino Unido (UK Shares) e Ações de Hong Kong (HK Shares).
     <br/><br/>
@@ -19,7 +19,7 @@ return [
  
  
     "TRADING_CONDITION_1_TITLE" => "Horário Normal de Operação",
-    "TRADING_CONDITION_1_DESCRIPTION" => "Os horários normais de trading referem-se às sessões de operação regulares disponíveis para negociação. A tabela abaixo mostra os horários normais de operação para ações disponíveis para negociação com a XS Trades.
+    "TRADING_CONDITION_1_DESCRIPTION" => "Os horários normais de trading referem-se às sessões de operação regulares disponíveis para negociação. A tabela abaixo mostra os horários normais de operação para ações disponíveis para negociação com a XS.
     <br/><br/>
     Fatores sazonais e de mercado podem afetar os horários de operação abaixo, então é importante seguir as últimas atualizações na página de Avisos Sobre o Mercado para se manter atualizado com as últimas mudanças sazonais nos horários de operação. 
     <br/><br/>
@@ -37,13 +37,13 @@ return [
     <br/>
     É importante seguir as últimas atualizações na página de Avisos Sobre o Mercado para se manter atualizado com os próximos ajustes de dividendos.",
     "TRADING_CONDITION_3_TITLE" => "Spreads",
-    "TRADING_CONDITION_3_DESCRIPTION" => "A XSTrades.com oferece spreads flutuantes em todas as ações para todos os tipos de conta. Portanto, os spreads nas especificações de contrato são a média dos spreads baseados no dia de negociação anterior. Para os spreads ao vivo, por favor, consulte a plataforma de negociação. Note que os spreads podem aumentar quando o mercado tem menor liquidez, incluindo o período de rollover.",
+    "TRADING_CONDITION_3_DESCRIPTION" => "A XS.com oferece spreads flutuantes em todas as ações para todos os tipos de conta. Portanto, os spreads nas especificações de contrato são a média dos spreads baseados no dia de negociação anterior. Para os spreads ao vivo, por favor, consulte a plataforma de negociação. Note que os spreads podem aumentar quando o mercado tem menor liquidez, incluindo o período de rollover.",
  
     "TRADING_CONDITION_4_TITLE" => "Preços dos Gráficos",
-    "TRADING_CONDITION_4_DESCRIPTION" => "A XSTrades.com oferece uma variedade de contas de trading para atender às necessidades e preferências de cada trader. Oferecemos contas com precificação bruta em que comissões adicionais são cobradas. Outros tipos de conta têm mark-ups incorporados nos preços. Por padrão, o gráfico na plataforma MetaTrader mostrará a precificação bruta, enquanto o relógio do mercado exibirá a precificação do tipo de conta que o cliente está negociando.",
+    "TRADING_CONDITION_4_DESCRIPTION" => "A XS.com oferece uma variedade de contas de trading para atender às necessidades e preferências de cada trader. Oferecemos contas com precificação bruta em que comissões adicionais são cobradas. Outros tipos de conta têm mark-ups incorporados nos preços. Por padrão, o gráfico na plataforma MetaTrader mostrará a precificação bruta, enquanto o relógio do mercado exibirá a precificação do tipo de conta que o cliente está negociando.",
  
     "TRADING_CONDITION_5_TITLE" => "Alavancagem Fixa",
-    "TRADING_CONDITION_5_DESCRIPTION" => "A XSTrades.com oferece alavancagem fixa em ações em todos os tipos de conta. Neste caso, a alavancagem máxima exibida na tabela de especificações de contrato NÃO mudará com base em suas posições abertas ou tipo de conta.",
+    "TRADING_CONDITION_5_DESCRIPTION" => "A XS.com oferece alavancagem fixa em ações em todos os tipos de conta. Neste caso, a alavancagem máxima exibida na tabela de especificações de contrato NÃO mudará com base em suas posições abertas ou tipo de conta.",
  
     "TRADING_CONDITION_6_TITLE" => "Nível de Stop",
     "TRADING_CONDITION_6_DESCRIPTION" => "O nível de stop é a distância mínima (diferença em pips) entre o preço de mercado atual e o preço da ordem pendente. Os valores do nível de stop na tabela de especificações de contrato estão sujeitos a alterações e podem não estar disponíveis para traders que utilizam certas estratégias de negociação de alta frequência ou Expert Advisors.",

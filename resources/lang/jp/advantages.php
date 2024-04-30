@@ -7,10 +7,10 @@
         'CHOOSE_REASON_2_DESCRIPTION' => '安心してお取引いただくため、お客様の資金と個人情報のセキュリティを最優先するシステムを採用しています。',
 
         'CHOOSE_REASON_3_TITLE' => 'グローバル市場へのアクセス',
-        'CHOOSE_REASON_3_DESCRIPTION' => 'XSTrades.comが提供する高い安定性と深いリクイ ディティにより、グローバルなアセットク ラスに手軽に投資できます。',
+        'CHOOSE_REASON_3_DESCRIPTION' => 'XS.comが提供する高い安定性と深いリクイ ディティにより、グローバルなアセットク ラスに手軽に投資できます。',
 
         'CHOOSE_REASON_4_TITLE' => '進化したトレーディング・テクノロジー',
-        'CHOOSE_REASON_4_DESCRIPTION' => 'XSTrades.comでは、リアルタイムのマーケットデータやカスタマイズ可能なチャート、テクニカル指標、最先端の取引プラットフォームをご用意しています。',
+        'CHOOSE_REASON_4_DESCRIPTION' => 'XS.comでは、リアルタイムのマーケットデータやカスタマイズ可能なチャート、テクニカル指標、最先端の取引プラットフォームをご用意しています。',
 
         'CHOOSE_REASON_5_TITLE' => 'スムーズな口座開設',
         'CHOOSE_REASON_5_DESCRIPTION' => 'XSの口座開設は、オンライン上のみで最短 3分で完了します。',

@@ -11,7 +11,7 @@
  'ANDROID_CAP' => 'ANDROID',
  'IOS_CAP' => 'IOS',
  'ACCESS_THE_FINANCIAL_GLOBAL_MARKETS' => 'AKSES PASAR KEUANGAN GLOBAL DENGAN PLATFORM TRADING TERKEMUKA',
- 'TRADE_AND_INVEST' => 'Trading dan investasi dalam ribuan aset keuangan seamlessly bersama XS Trades, tanpa memandang lokasi Anda. Dengan berbagai platform trading serbaguna kami, Anda dapat memilih yang paling sesuai dengan kebutuhan dan perangkat Anda. Apakah Anda lebih suka kenyamanan platform berbasis web kami, fungsionalitas platform desktop kami, atau fleksibilitas aplikasi seluler kami, XS memiliki semua yang Anda butuhkan. Mulailah perjalanan trading Anda hari ini dan akses pasar global kapan saja, di mana saja.',
+ 'TRADE_AND_INVEST' => 'Trading dan investasi dalam ribuan aset keuangan seamlessly bersama XS, tanpa memandang lokasi Anda. Dengan berbagai platform trading serbaguna kami, Anda dapat memilih yang paling sesuai dengan kebutuhan dan perangkat Anda. Apakah Anda lebih suka kenyamanan platform berbasis web kami, fungsionalitas platform desktop kami, atau fleksibilitas aplikasi seluler kami, XS memiliki semua yang Anda butuhkan. Mulailah perjalanan trading Anda hari ini dan akses pasar global kapan saja, di mana saja.',
  'SELECT_THE_TRADING_PLATFORMS' => 'PILIH PLATFORM TRADING YANG SESUAI DENGAN GAYA TRADING ANDA',
  'WEB' => 'Web',
  'WINDOWS' => 'Windows',
@@ -20,12 +20,12 @@
  'APP_STORE' => 'App Store',
  'FOR_MORE_INFO_HELP' => 'Untuk informasi lebih lanjut, kunjungi Pusat Bantuan kami',
  'HELP_CENTER' => 'Pusat Bantuan',
- 'WHY_TRADE_WITH_XS' => 'Mengapa Trading Dengan XS Trades?',
+ 'WHY_TRADE_WITH_XS' => 'Mengapa Trading Dengan XS?',
  'MT4_FEATURES' => 'Fitur MT4',
 
  // Two
  'TRUST_GLOBAL_BROKER' => 'Broker Global Terpercaya:',
- 'XS_IS_A_TRUSTED' => 'XSTrades.com adalah broker global terpercaya dengan berbagai regulasi',
+ 'XS_IS_A_TRUSTED' => 'XS.com adalah broker global terpercaya dengan berbagai regulasi',
  'AWARD_WINNING_BROKER' => 'Broker Pemenang Penghargaan:',
  'TRADE_RECOGNIZED_SERVICES' => 'Trading dengan broker yang diakui untuk layanannya',
  'QUICK_EASY_REGISTRATION' => 'Registrasi Cepat & Mudah:',
@@ -41,7 +41,7 @@
  'MULTILINGUAL_SUPPORT' => 'Dukungan Multibahasa:',
  'SUPPORT_IN_YOUR_LANGUAGE' => 'Manfaatkan Dukungan Pelanggan kami dalam bahasa Anda',
  'TRADE_THE_GLOBAL_MARKETS' => 'TRADING DI PASAR GLOBAL DENGAN PLATFORM TRADING TERPOPULER',
- 'TRADE_WITH_CONFIDENCE_MT4' => 'Trading dengan Percaya Diri di MetaTrader 4 (MT4) dan rasakan kekuatan Platform Trading Terpopuler dengan XS Trades. Trading berbagai instrumen, nikmati kemampuan analisis grafik yang canggih, dan eksekusi trades dengan kecepatan dan ketepatan. Unduh MT4 sekarang dan mulai perjalanan trading Anda bersama XS Trades. MT4 adalah platform trading terkenal yang dipercayai oleh jutaan trader di seluruh dunia. Ini menawarkan antarmuka yang ramah pengguna, alat analisis teknis canggih, dan fitur yang dapat disesuaikan yang cocok untuk pemula dan trader berpengalaman. Manfaatkan fungsionalitasnya yang kuat dan ungkapkan potensi trading Anda dengan MT4 yang digabungkan dengan pengalaman trading terbaik bersama XS Trades.',
+ 'TRADE_WITH_CONFIDENCE_MT4' => 'Trading dengan Percaya Diri di MetaTrader 4 (MT4) dan rasakan kekuatan Platform Trading Terpopuler dengan XS. Trading berbagai instrumen, nikmati kemampuan analisis grafik yang canggih, dan eksekusi trades dengan kecepatan dan ketepatan. Unduh MT4 sekarang dan mulai perjalanan trading Anda bersama XS. MT4 adalah platform trading terkenal yang dipercayai oleh jutaan trader di seluruh dunia. Ini menawarkan antarmuka yang ramah pengguna, alat analisis teknis canggih, dan fitur yang dapat disesuaikan yang cocok untuk pemula dan trader berpengalaman. Manfaatkan fungsionalitasnya yang kuat dan ungkapkan potensi trading Anda dengan MT4 yang digabungkan dengan pengalaman trading terbaik bersama XS.',
  // Three
  'INTUITIVE_INTERFACE' => 'Antarmuka yang Intuitif Untuk Pengalaman Trading yang Lancar',
  'ADVANCED_CHARTING_TOOLS' => 'Alat Grafik Lanjutan dan Indikator untuk Analisis Mendalam',

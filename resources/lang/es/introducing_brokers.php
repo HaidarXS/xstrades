@@ -1,6 +1,6 @@
 <?php 
     return [
-        'WHY_INTRODUCING_BROKER' => '¿Por qué convertirse en un Introducing Broker con XS Trades?',
+        'WHY_INTRODUCING_BROKER' => '¿Por qué convertirse en un Introducing Broker con XS?',
         'INTRODUCING_BROKER_PROGRAM' => 'Programa De Introducing Brokers',
         'INTRODUCING_BROKER_PROGRAM_DISC' => 'El programa Introducing Broker (IB) es un programa de asociación que le permite recibir comisiones a cambio de presentar XS a los clientes.
         <br/>

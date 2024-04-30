@@ -17,7 +17,7 @@
 
         'TRADING_CONDITIONS_DESCRIPTION2' => 'La transparencia está en el centro de nuestras operaciones, por lo que proporcionamos especificaciones contractuales integrales para cada instrumento comercial.
         <br/><br/>
-        Obtenga una comprensión más profunda de los términos y condiciones comerciales con las completas especificaciones de contrato de XS Trades. Nuestras especificaciones de contrato proporcionan información crucial sobre los instrumentos comerciales. Al familiarizarse con estas especificaciones, podrá tomar decisiones comerciales informadas y gestionar sus posiciones de forma eficaz.
+        Obtenga una comprensión más profunda de los términos y condiciones comerciales con las completas especificaciones de contrato de XS. Nuestras especificaciones de contrato proporcionan información crucial sobre los instrumentos comerciales. Al familiarizarse con estas especificaciones, podrá tomar decisiones comerciales informadas y gestionar sus posiciones de forma eficaz.
         <br/><br/>
         Planifique sus operaciones con confianza y optimice su experiencia comercial utilizando nuestras especificaciones de contrato detalladas.',
     ];

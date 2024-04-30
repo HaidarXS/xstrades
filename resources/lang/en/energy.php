@@ -10,15 +10,15 @@ return [
     'SECTION_2_TITLE' => 'ENERGY TRADING WITH XS: CONTRACT SPECIFICATIONS',
     "SECTION_3_TITLE" => "ENERGY TRADING WITH XS: TRADING CONDITIONS",
 
-    'DESCRIPTION_1' => 'Welcome to the world of energy trading with XS Trades. Discover the vast possibilities of energy trading, where you can trade CFDs on Crude Oil, Natural Gas, and other energy commodities with  the best online trading platform. XS Trades provides comprehensive trading platforms that offer access to energy markets and a wide range of energy commodities. With real-time market data, advanced trading tools, and competitive pricing, XS Trades empowers traders to make informed decisions and execute trades efficiently. ',
+    'DESCRIPTION_1' => 'Welcome to the world of energy trading with XS. Discover the vast possibilities of energy trading, where you can trade CFDs on Crude Oil, Natural Gas, and other energy commodities with  the best online trading platform. XS provides comprehensive trading platforms that offer access to energy markets and a wide range of energy commodities. With real-time market data, advanced trading tools, and competitive pricing, XS empowers traders to make informed decisions and execute trades efficiently. ',
 
-    'DESCRIPTION_2' => 'XS Trades offers access to a wide range of energy commodities, including Brent Crude Oil (UKOIL), WTI Crude Oil (USOIL), & Natural Gas (NGAZ). Plan your trades with confidence and optimize your energy trading experience by utilizing our detailed contract specifications. Explore our comprehensive contract specifications and gain a deeper understanding of our exceptional trading conditions including contract size, leverage, spreads, commissions, swaps, and more for different account types.',
+    'DESCRIPTION_2' => 'XS offers access to a wide range of energy commodities, including Brent Crude Oil (UKOIL), WTI Crude Oil (USOIL), & Natural Gas (NGAZ). Plan your trades with confidence and optimize your energy trading experience by utilizing our detailed contract specifications. Explore our comprehensive contract specifications and gain a deeper understanding of our exceptional trading conditions including contract size, leverage, spreads, commissions, swaps, and more for different account types.',
 
 
     "TRADING_CONDITION_1_TITLE" => "Normal Trading Hours",
-    "TRADING_CONDITION_1_DESCRIPTION" => "Normal trading hours refer to the regular trading sessions available for trading. The below shows the normal trading hours for energy products available for trading with XS Trades.
+    "TRADING_CONDITION_1_DESCRIPTION" => "Normal trading hours refer to the regular trading sessions available for trading. The below shows the normal trading hours for energy products available for trading with XS.
     <br>
-    Seasonal and market factors may affect the below trading hours, so it is important to follow the latest updates on the Trading Hours page to stay up to date with the latest seasonal changes to trading hours. All timings are in server time (GMT+2).
+    Seasonal and market factors may affect the below trading hours, so it is important to follow the latest updates on the Trading Hours page to stay up to date with the latest seasonal changes to trading hours. All timings are in server time (GMT+3).
     <br><br>
     <span class='d-flex'> UKOIL : <span class='ms-auto'> Monday 03:00 - Friday 24:00 <br/> (Daily Break: 00:00:01 - 02:59:59) </span></span>
     <span class='d-flex'> USOIL : <span class='ms-auto'> Monday 01:05 - Friday 23:55 <br/> (Daily Break: 00:00 - 00:59) </span></span>
@@ -26,21 +26,21 @@ return [
 
 
     "TRADING_CONDITION_2_TITLE" => "Spreads",
-    "TRADING_CONDITION_2_DESCRIPTION" => "XSTrades.com offers floating spreads on all energy commodities for all account types. Hence the spreads in the contract specifications table are the average spread based on the previous trading day. For live spreads, please refer to the trading platform. Please note that spreads may widen when the markets experience lower liquidity, including rollover time.",
+    "TRADING_CONDITION_2_DESCRIPTION" => "XS.com offers floating spreads on all energy commodities for all account types. Hence the spreads in the contract specifications table are the average spread based on the previous trading day. For live spreads, please refer to the trading platform. Please note that spreads may widen when the markets experience lower liquidity, including rollover time.",
     
     "TRADING_CONDITION_3_TITLE" => "Chart Prices",
-    "TRADING_CONDITION_3_DESCRIPTION" => "XSTrades.com offers a variety of trading accounts to suit each trader’s needs and preferences. We offer accounts with raw pricing on which additional commissions are charged. Other account types have no commission but instead have mark-ups incorporated in the prices. By default, the chart in the MetaTrader trading platforms will display the raw pricing, while the market watch will display the pricing of the account type that the client is trading on.",
+    "TRADING_CONDITION_3_DESCRIPTION" => "XS.com offers a variety of trading accounts to suit each trader’s needs and preferences. We offer accounts with raw pricing on which additional commissions are charged. Other account types have no commission but instead have mark-ups incorporated in the prices. By default, the chart in the MetaTrader trading platforms will display the raw pricing, while the market watch will display the pricing of the account type that the client is trading on.",
 
     "TRADING_CONDITION_4_TITLE" => "Swaps",
     "TRADING_CONDITION_4_DESCRIPTION" => "Swap long is used for keeping buy positions open overnight, and Swap short is used for keeping sell positions open overnight. Swaps occur at 00:00 Server Time each day, excluding the weekend, until the position is closed. Triple swaps are charged on Wednesdays to cover financing costs incurred over the weekend.",
 
     "TRADING_CONDITION_5_TITLE" => "Dynamic Leverage",
-    "TRADING_CONDITION_5_DESCRIPTION" => "XSTrades.com offers dynamic leverage on Crude Oil on most account types. The leverage values in the contract specifications table are the maximum leverage for each trading instrument. The maximum leverage will change based on your net open positions. Dynamic leverage does not apply to Natural Gas. For more details, please check the Dynamic Leverage page.",
+    "TRADING_CONDITION_5_DESCRIPTION" => "XS.com offers dynamic leverage on Crude Oil on most account types. The leverage values in the contract specifications table are the maximum leverage for each trading instrument. The maximum leverage will change based on your net open positions. Dynamic leverage does not apply to Natural Gas. For more details, please check the Dynamic Leverage page.",
 
     "TRADING_CONDITION_6_TITLE" => "Fixed Leverage",
-    "TRADING_CONDITION_6_DESCRIPTION" => "XSTrades.com offers fixed leverage on Natural Gas on all account types. In this case, the maximum leverage displayed in the contract specifications table will NOT change based on your net open positions or account type. 
+    "TRADING_CONDITION_6_DESCRIPTION" => "XS.com offers fixed leverage on Natural Gas on all account types. In this case, the maximum leverage displayed in the contract specifications table will NOT change based on your net open positions or account type. 
     <br>
-    XSTrades.com offers fixed leverage on some account types on all products. In this case, the maximum leverage displayed in the contract specifications table will NOT change based on your net open positions. The fixed leverage applies to Cent & Mirco account types.",
+    XS.com offers fixed leverage on some account types on all products. In this case, the maximum leverage displayed in the contract specifications table will NOT change based on your net open positions. The fixed leverage applies to Cent & Mirco account types.",
 
     "TRADING_CONDITION_7_TITLE" => "Higher Margin Requirements Periods",
     "TRADING_CONDITION_7_DESCRIPTION" => "We apply risk management measures to protect positions from possible high volatility during key events and specific time periods  that impact the general volatility of the market.

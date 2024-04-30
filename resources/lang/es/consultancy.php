@@ -8,7 +8,7 @@ return [
     'CONSULTANCY_SERVICES' => 'Servicios de Consultoría',
     'CONSULTANCY_SERVICES_DESCRIPTION' => 'Gracias a nuestra experiencia a largo plazo en la industria de servicios financieros, hemos creado un extenso repositorio de conocimiento y experiencia, ya sea en el entorno empresarial, aspectos técnicos o en la comprensión de las necesidades y requisitos de los clientes.
     XS ofrece servicios de consultoría experta a instituciones que buscan orientación profesional en la industria del trading. Nuestro equipo de consultores experimentados proporciona valiosos conocimientos, análisis de mercado y asesoramiento estratégico adaptado a las necesidades y objetivos específicos de cada institución.',
-    'WHY_CHOSE_XS' => '¿Por qué elegir los servicios de consultoría de XS Trades?',
+    'WHY_CHOSE_XS' => '¿Por qué elegir los servicios de consultoría de XS?',
 
     'REASON_1_TITLE' => 'Servicios de Consultoría Experta:',
     'REASON_1_DESCRIPTION' => 'Acceso a un extenso repositorio de conocimiento y experiencia adaptado a las necesidades y objetivos específicos de cada institución.',

@@ -1,11 +1,11 @@
 <?php
 return [
     'LIQUIDITY_SOLUTIONS' => 'Giải pháp thanh khoản',
-    'LIQUIDITY_SOLUTIONS_DESCRIPTION' => 'Tại XS Trades, chúng tôi hiểu tầm quan trọng của tính thanh khoản đối với khách hàng tổ chức. Chúng tôi cung cấp các giải pháp thanh khoản toàn diện được thiết kế để đáp ứng nhu cầu cụ thể của các tổ chức.
+    'LIQUIDITY_SOLUTIONS_DESCRIPTION' => 'Tại XS, chúng tôi hiểu tầm quan trọng của tính thanh khoản đối với khách hàng tổ chức. Chúng tôi cung cấp các giải pháp thanh khoản toàn diện được thiết kế để đáp ứng nhu cầu cụ thể của các tổ chức.
     <br />
     Lộ trình thanh khoản của chúng tôi nêu ra các tính năng và lợi thế chính giúp chúng tôi trở thành nhà cung cấp thanh khoản đáng tin cậy.',
 
-    'WHY_CHOSE_XS' => 'Tại sao chọn giải pháp thanh khoản XS Trades?',
+    'WHY_CHOSE_XS' => 'Tại sao chọn giải pháp thanh khoản XS?',
 
     'REASON_1_TITLE' => 'Nhiều loại tài sản: ',
     'REASON_1_DESCRIPTION' => 'Tiếp cận nhiều loại tài sản cho phép các tổ chức đa dạng hóa danh mục đầu tư của mình một cách hiệu quả.',

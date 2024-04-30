@@ -1,5 +1,19 @@
 [
     {
+        "title": "ベスト・マルチアセット・ブローカー賞（LATAM）",
+        "country": "メキシコ、メキシコシティ",
+        "date": "2024年4月",
+        "sponsor": "UF Awards LATAM 2024<br/> Ultimate Fintech",
+        "img": "/webp/company-awards/most-multi-asset-broker-latam.webp"
+    },
+    {
+        "title": "最高の約定力賞",
+        "country": "メキシコ、メキシコシティ",
+        "date": "2024年4月",
+        "sponsor": "UF Awards LATAM 2024<br/> Ultimate Fintech",
+        "img": "/webp/company-awards/best-trade-execution.webp"
+    },
+    {
         "title": "「最も信頼できるブローカー賞」",
         "country": "オマーン、マスカット",
         "date": "2024年2月",
@@ -15,106 +29,106 @@
     },
     {
         "title": "中東ベスト・マルチアセット・ブローカー賞",
-        "country": "ドバイ、アラブ首長国連邦",
+        "country": "アラブ首長国連邦、ドバイ",
         "date": "2024年1月",
         "sponsor": "UFアワードMEA 2024 <br/> Ultimate Fintech Group",
         "img": "/img/awards/award01-2.webp"
     },
     {
-        "title": "BEST TRADING CONDITIONS-MEA",
-        "country": "ドバイ、アラブ首長国連邦",
+        "title": "ベスト・トレーディング・コンディション賞",
+        "country": "アラブ首長国連邦、ドバイ",
         "date": "2024年1月",
-        "sponsor": "UF AWARDS MEA 2024 <br/>Ultimate Fintech Group",
+        "sponsor": "中東 UFアワード <br/>Ultimate Fintech Group",
         "img": "/webp/company-awards/award02-1.webp"
     },
     {
         "title": "グローバル・ブローカー・オブ・ザ・イヤー",
-        "country": "トレーダーズ・フェア・アワード",
-        "sponsor": "FINEXPO ベトナム、ホーチミン",
+        "country": "ベトナム・ホーチミン",
+        "sponsor": "FINEXPO トレーダーズ・フェア・アワード",
         "date": "2023年12月",
         "img": "/webp/company-awards/global_broker_of_year-1.webp"
     },
     {
         "title": "アジア最優秀マルチアセット・ブローカー",
-        "country": "トレーダーズ・フェア・アワード",
-        "sponsor": "FINEXPO ベトナム・ホーチミン",
+        "country": "ベトナム・ホーチミン",
+        "sponsor": "FINEXPO トレーダーズ・フェア・アワード",
         "date": "2023年12月",
         "img": "/webp/company-awards/best_multi_asset_asia-1.webp"
     },
     {
         "title": "アフリカ最優秀マルチアセット・ブローカー",
-        "country": "トレーダーズ・フェア・アワード",
-        "sponsor": "FINEXPO ベトナム・ホーチミン",
+        "country": "ベトナム・ホーチミン",
+        "sponsor": "FINEXPO トレーダーズ・フェア・アワード",
         "date": "2023年12月",
         "img": "/webp/company-awards/best_multi_asset_africa-1.webp"
     },
     {
         "title": "ベスト・グローバル・バリュー・ブローカー",
-        "country": "スマート・ビジョン・インベストメント・エキスポ",
-        "sponsor": "Smart Vision エジプト、カイロ",
+        "country": "エジプト、カイロ",
+        "sponsor": "Smart Vision スマート・ビジョン・インベストメント・エキスポ",
         "date": "2023年11月",
         "img": "/webp/company-awards/best_global_value_broker-1.webp"
     },
     {
         "title": "ベスト・カスタマーサポート",
-        "country": "スマート・ビジョン・インベストメント・エキスポ",
-        "sponsor": "Smart Vision エジプト、カイロ",
+        "country": "エジプト、カイロ",
+        "sponsor": "Smart Vision スマート・ビジョン・インベストメント・エキスポ",
         "date": "2023年11月",
         "img": "/webp/company-awards/best_customer_support-1.webp"
     },
     {
         "title": "ベスト・グローバル・マーケット・リーダー賞",
-        "country": "ドバイ、アラブ首長国連邦",
+        "country": "アラブ首長国連邦、ドバイ",
         "date": "2023年9月",
         "sponsor": "『フォレックス・エキスポ・ドバイ2023』HQMENA <br/>ワールドトレードセンター",
         "img": "/img/top-100.webp"
     },
 
     {
-        "title": "TOP TRUSTED FINANCIAL BROKER ",
-        "country": "ドバイ、アラブ首長国連邦",
+        "title": "最も信頼できるブローカー",
+        "country": "アラブ首長国連邦、ドバイ",
         "date": "2023年9月",
         "sponsor": "Middle East Awards Ceremony <br/> Smart Vision",
         "img": "/img/best-market-leader-2023.webp"
     },
     {
-        "title": "BEST MULTI-ASSET BROKER",
-        "country": "Amman Jordan,",
+        "title": "ベスト・マルチアセット・ブローカー賞",
+        "country": "ヨルダン、アンマン",
         "date": "2023年9月",
-        "sponsor": "Jordan Financial Expo & Award JFEX <br/> Afaq Group  ",
+        "sponsor": "ヨルダン金融エキスポ＆アワードJFEX2023",
         "img": "/img/multi-asset-jordan.webp"
     },
     {
-        "title": "BEST B2B BROKER",
-        "country": "ドバイ、アラブ首長国連邦 ",
+        "title": "ベスト・B2B・ブローカー",
+        "country": "アラブ首長国連邦、ドバイ ",
         "date": "2023年5月",
         "sponsor": "Forex Traders Summit <br/> Smart Vision  ",
         "img": "/img/best-b2b-broker.webp"
     },
     {
-        "title": "BEST MULTI ASSET BROKER",
-        "country": "ドバイ、アラブ首長国連邦",
+        "title": "ベスト・マルチアセット・ブローカー賞",
+        "country": "アラブ首長国連邦、ドバイ",
         "date": "2023年5月",
         "sponsor": "Forex Traders Summit <br/> Smart Vision",
         "img": "/img/best-multi-asset-dubai.webp"
     },
     {
-        "title": "THE MOST INNOVATIVE TEAM",
-        "country": "Kuala Lumpur, Malaysia ",
+        "title": "最も革新的な企業",
+        "country": "マレーシア、クアラルンプール",
         "date": "2023年5月",
         "sponsor": "トレーディング・インフルエンサー・アワード授賞式 <br/> TradingLive   ",
         "img": "/img/most-innovatiove-team.webp"
     },
     {
-        "title": "THE MOST VALUED BRAND",
-        "country": "Kuala Lumpur, Malaysia ",
+        "title": "最も価値の高い企業",
+        "country": "マレーシア、クアラルンプール",
         "date": "2023年5月",
         "sponsor": "トレーディング・インフルエンサー・アワード授賞式 <br/> TradingLive ",
         "img": "/img/most-valued-brand.webp"
     },
     {
         "title": "機関投資家向けベスト・ブローカー",
-        "country": "Manama, Bahrain",
+        "country": "2023年2月",
         "date": "February 2023",
         "sponsor": "FinTech & Crypto Summit <br/> Smart Vision ",
         "img": "/img/best-institutional-broker.webp"

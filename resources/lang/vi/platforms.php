@@ -35,13 +35,13 @@
 
         'HELP_CENTER'=>'Help Center',
 
-        'WHY_TRADE_WITH_XS'=>'Tại sao nên giao dịch với XS Trades?',
+        'WHY_TRADE_WITH_XS'=>'Tại sao nên giao dịch với XS?',
 
         'MT4_FEATURES' =>'Tính năng MT4',
 
         //two
         'TRUST_GLOBAL_BROKER' => 'Nhà môi giới toàn cầu đáng tin cậy:',
-        'XS_IS_A_TRUSTED' => 'XSTrades.com là nhà môi giới toàn cầu đáng tin cậy đã được chứng minh',
+        'XS_IS_A_TRUSTED' => 'XS.com là nhà môi giới toàn cầu đáng tin cậy đã được chứng minh',
 
         'AWARD_WINNING_BROKER' => 'Nhà môi giới giành nhiều giải thưởng:',
         'TRADE_RECOGNIZED_SERVICES' => 'Giao dịch với nhà môi giới đã được công nhận về dịch vụ của họ',
@@ -69,11 +69,11 @@
 
         'TRADE_THE_GLOBAL_MARKETS'=>'Giao dịch trên thị trường toàn cầu với nền tảng giao dịch phổ biến nhất',
 
-        'TRADE_WITH_CONFIDENCE_MT4'=>'Tự tin giao dịch trên MetaTrader 4 (MT4) và trải nghiệm sức mạnh của Nền tảng giao dịch phổ biến nhất với XS Trades.
+        'TRADE_WITH_CONFIDENCE_MT4'=>'Tự tin giao dịch trên MetaTrader 4 (MT4) và trải nghiệm sức mạnh của Nền tảng giao dịch phổ biến nhất với XS.
         <br/>
-        Giao dịch nhiều loại công cụ, tận hưởng khả năng lập biểu đồ nâng cao và thực hiện giao dịch với tốc độ và độ chính xác. Tải xuống MT4 ngay bây giờ và bắt đầu hành trình giao dịch của bạn với XS Trades.
+        Giao dịch nhiều loại công cụ, tận hưởng khả năng lập biểu đồ nâng cao và thực hiện giao dịch với tốc độ và độ chính xác. Tải xuống MT4 ngay bây giờ và bắt đầu hành trình giao dịch của bạn với XS.
         <br/>
-        MT4 là nền tảng giao dịch nổi tiếng được hàng triệu nhà giao dịch trên toàn thế giới tin cậy. Cung cấp giao diện thân thiện với người dùng, các công cụ phân tích kỹ thuật tiên tiến và các tính năng có thể tùy chỉnh phục vụ cho cả người giao dịch mới bắt đầu và người giao dịch có kinh nghiệm. Hưởng lợi từ các chức năng mạnh mẽ và giải phóng tiềm năng giao dịch của bạn với MT4 kết hợp với trải nghiệm giao dịch tốt nhất với XS Trades.',
+        MT4 là nền tảng giao dịch nổi tiếng được hàng triệu nhà giao dịch trên toàn thế giới tin cậy. Cung cấp giao diện thân thiện với người dùng, các công cụ phân tích kỹ thuật tiên tiến và các tính năng có thể tùy chỉnh phục vụ cho cả người giao dịch mới bắt đầu và người giao dịch có kinh nghiệm. Hưởng lợi từ các chức năng mạnh mẽ và giải phóng tiềm năng giao dịch của bạn với MT4 kết hợp với trải nghiệm giao dịch tốt nhất với XS.',
         //three
         'INTUITIVE_INTERFACE' => 'Giao diện trực quan cho trải nghiệm giao dịch liền mạch',
 
@@ -248,9 +248,9 @@
 
         'TRADE_THE _GLOBAL_MARKETS'=>'Giao dịch trên thị trường toàn cầu với Nền tảng đa tài sản tốt nhất',
 
-        'MT5_TRADING_PLATFORM_DESKTOP'=>'Trải nghiệm giao dịch nâng cao với nền tảng giao dịch MetaTrader 5 (MT5) và mở khóa sức mạnh của nền tảng giao dịch Đa tài sản tốt nhất bằng cách giao dịch với XS Trades, nhà môi giới đa tài sản tốt nhất. Giao dịch nhiều loại công cụ, sử dụng các công cụ giao dịch tiên tiến và thực hiện giao dịch với tốc độ và độ chính xác cao.
+        'MT5_TRADING_PLATFORM_DESKTOP'=>'Trải nghiệm giao dịch nâng cao với nền tảng giao dịch MetaTrader 5 (MT5) và mở khóa sức mạnh của nền tảng giao dịch Đa tài sản tốt nhất bằng cách giao dịch với XS, nhà môi giới đa tài sản tốt nhất. Giao dịch nhiều loại công cụ, sử dụng các công cụ giao dịch tiên tiến và thực hiện giao dịch với tốc độ và độ chính xác cao.
         <br/>
-        MetaTrader 5 (MT5) là một nền tảng giao dịch tiên tiến cung cấp các tính năng và chức năng nâng cao. Được xây dựng dựa trên sự thành công của MT4, MT5 cung cấp biểu đồ nâng cao, nhiều loại lệnh và khả năng khớp lệnh được cải thiện. Khám phá cấp độ đổi mới giao dịch tiếp theo của MT5 kết hợp với trải nghiệm giao dịch tốt nhất với XS Trades.',
+        MetaTrader 5 (MT5) là một nền tảng giao dịch tiên tiến cung cấp các tính năng và chức năng nâng cao. Được xây dựng dựa trên sự thành công của MT4, MT5 cung cấp biểu đồ nâng cao, nhiều loại lệnh và khả năng khớp lệnh được cải thiện. Khám phá cấp độ đổi mới giao dịch tiếp theo của MT5 kết hợp với trải nghiệm giao dịch tốt nhất với XS.',
 
         'THE_FULL_POWER_MT5'=>'Toàn bộ sức mạnh của giao dịch với MT5 phiên bản máy tính bàn',
 

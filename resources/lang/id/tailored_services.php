@@ -2,7 +2,7 @@
 return [
     'TAILORED_SERVICES' => 'Layanan dan Solusi Tersesuaikan',
     'TAILORED_SERVICES_DESCRIPTION' => 'Infrastruktur canggih kami memungkinkan kami untuk memberikan layanan dan solusi institusi yang disesuaikan kepada berbagai klien institusi. Layanan dan solusi ini dapat disesuaikan dan disesuaikan dengan kebutuhan khusus perusahaan dan klien institusi kami yang ingin memanfaatkan pengetahuan dan pengalaman yang kami peroleh selama bertahun-tahun. Kami berkomitmen untuk membantu klien mencapai tujuan perdagangan mereka sambil memberikan dukungan komprehensif, layanan yang dipersonalisasi, dan solusi inovatif.',
-    'WHY_CHOSE_XS' => 'Mengapa Memilih Layanan dan Solusi Tersesuaikan XS Trades?',
+    'WHY_CHOSE_XS' => 'Mengapa Memilih Layanan dan Solusi Tersesuaikan XS?',
 
     'REASON_1_TITLE' => 'Solusi yang Komprehensif:',
     'REASON_1_DESCRIPTION' => 'Beragam solusi yang dirancang untuk mengatasi kebutuhan khusus klien institusi.',

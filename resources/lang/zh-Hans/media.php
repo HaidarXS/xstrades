@@ -4,9 +4,9 @@ return [
     'STAY_INFORMED' => '透過媒體中心隨時了解 XS 的最新動態。 從新聞稿、公司新聞到最新更新，您將找到有關我們公司活動和里程碑的所有重要資訊。',
     'MEDIA_CONTACT' => 'Media Contact',
     'MEDIA_CONTACT_DESC' => 'For any press related inquiries please reach out to:',
-    'READ_MORE' => 'Read More',
+    'READ_MORE' => '閱讀更多',
     
-    'JOIN_XS' => 'Join XS Trades',
+    'JOIN_XS' => 'Join XS',
     'XS_PRESS' => 'XS Press Releases',
     'XS_PRESS_SUB' => 'Read our latest press releases and news.',
     'XS_PRESS_BUTTON' => 'View All Press Releases',

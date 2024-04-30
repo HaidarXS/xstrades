@@ -7,7 +7,7 @@ return [
     'LIQUIDITY_SOLUTIONS' => 'Soluções de Liquidez',
     'LIQUIDITY_SOLUTIONS_DESCRIPTION' => 'Na XS entendemos a importância da liquidez para clientes institucionais. Dedicamo-nos a fornecer soluções de liquidez abrangentes e adaptadas às necessidades específicas das instituições. <br/> <br/> Nosso roteiro de liquidez descreve os principais recursos e vantagens que nos diferenciam como um provedor de liquidez confiável. ',
 
-    'WHY_CHOSE_XS' => 'Por Que Escolher As Soluções de Liquidez da XS Trades?',
+    'WHY_CHOSE_XS' => 'Por Que Escolher As Soluções de Liquidez da XS?',
 
     'REASON_1_TITLE' => 'Múltiplas Classes de Ativos:',
     'REASON_1_DESCRIPTION' => ' Acesso a uma ampla gama de classes de ativos que permitem às instituições diversificar as suas carteiras de forma eficaz.',

@@ -30,7 +30,7 @@ return [
     //Metals page
     'METALS_DESC' => '通过XS探索金属交易的巨大可能性，您可以与屡获殊荣的经纪商交易黄金、白银、铂金、鈀金和其他金属的差价合约。 XS 提供了一个探索现货金属交易的无缝平台，让您能够探索新的交易机会。',
     'UNLOCK_THE_POTENTIAL' => '通过 XS 释放金属交易的潜力',
-    'UNLOCK_THE_POTENTIAL_DESC' => 'Unleash the Power of Trading the worlds leading stock indices, and Trade International Stock Indices with XS Trades. Gain Access to Global Markets and Seamlessly Buy and Sell Leading stock indices such as Dow Jones, Dax, Nasdaq, and More <br/>Join XSTrades.com today and and unleash the power of stock indices trading',
+    'UNLOCK_THE_POTENTIAL_DESC' => 'Unleash the Power of Trading the worlds leading stock indices, and Trade International Stock Indices with XS. Gain Access to Global Markets and Seamlessly Buy and Sell Leading stock indices such as Dow Jones, Dax, Nasdaq, and More <br/>Join XS.com today and and unleash the power of stock indices trading',
     'METALS_TRADING_WITH_XS' => '通过 XS 进行金属交易',
     'METALS_TRADING_WITH_XS_DESC' => '无论您选择交易黄金差价合约、白银差价合约、铂金差价合约还是钯金差价合约，XS 都可以为您提供贵金属和贱金属的交易机会，使您能够实现投资组合多元化并对冲通胀。
     <br/>
@@ -70,9 +70,9 @@ return [
     'CRYPTOS_DESC_1' => 'XS Group is a global fintech and financial services provider with entities regulated and authorised by leading governing bodies of the most reputable financial jurisdictions around the globe.',
     'CRYPTOS_DESC_2' => 'We prioritise regulatory compliance to ensure trust, integrity, and accountability in the global financial industry. Our operations adhere to the regulations and requirements set forth by the relevant authorities in each jurisdiction where we operate.',
     'JOIN_THE_DIGITAL_REVOLUTION' => '通过加密货币交易加入数字革命',
-    'JOIN_THE_DIGITAL_REVOLUTION_DESC' => '通过 XS 探索加密货币世界并释放数字资产的潜力。 交易比特币、以太坊、莱特币等流行的加密货币，并在快速发展的加密货币市场中抓住机遇。 立即加入 XSTrades.com，开始您的加密货币交易之旅。',
+    'JOIN_THE_DIGITAL_REVOLUTION_DESC' => '通过 XS 探索加密货币世界并释放数字资产的潜力。 交易比特币、以太坊、莱特币等流行的加密货币，并在快速发展的加密货币市场中抓住机遇。 立即加入 XS.com，开始您的加密货币交易之旅。',
     'CRYPTOCURRENCY_TRADING_WITH_XS' => '使用 XS 进行加密货币交易',
-    'CRYPTOCURRENCY_TRADING_WITH_XS_DESC' => '通过 XSTrades.com 体验加密货币交易的刺激。 我们的平台提供多种加密货币的无缝交易，让您能够利用市场波动和潜在的价格变动。 受益于我们先进的交易工具、安全的存储解决方案和可靠的执行，可以充满信心地交易加密货币。',
+    'CRYPTOCURRENCY_TRADING_WITH_XS_DESC' => '通过 XS.com 体验加密货币交易的刺激。 我们的平台提供多种加密货币的无缝交易，让您能够利用市场波动和潜在的价格变动。 受益于我们先进的交易工具、安全的存储解决方案和可靠的执行，可以充满信心地交易加密货币。',
     'UNDERSTANDING_CRTYPTOCURRENCIES' => '了解加密货币：概述',
     'UNDERSTANDING_CRTYPTOCURRENCIES_DESC_1' => '加密货币是利用加密技术进行安全交易并控制新单位创建的数字或虚拟货币。 以下是有关加密货币的关键点：',
     'UNDERSTANDING_CRTYPTOCURRENCIES_DESC_2' => '去中心化：加密货币在去中心化网络上运行，例如区块链技术，这消除了对银行等中介机构的需求。 这种去中心化提供了交易的透明度、安全性和控制力。',
@@ -86,7 +86,7 @@ return [
     'EXPERIENCE_THE_WORLD_OF_COMMODITIES' => '与全球经纪商一起体验商品交易的世界',
     'EXPERIENCE_THE_WORLD_OF_COMMODITIES_DESC' => '通过 XS 踏上激动人心的商品交易之旅。 我们的平台提供涵盖各种商品的多种差价合约工具。 大宗商品交易提供了参与全球市场的独特机会，并有可能获得丰厚的回报。',
     'COMMODITIES_TRADING_WITH_XS' => '使用 XS 进行商品交易',
-    'COMMODITIES_TRADING_WITH_XS_DESC' => 'Experience the excitement of Share & Stock trading with XSTrades.com. Take advantage of our platforms’ seamless CFD trading capabilities, offering you the opportunity to trade CFDs on thousands of global shares. Benefit from ultra-fast order execution and competitive trading conditions, ensuring that you can seize market opportunities swiftly and efficiently. Trade CFDs on shares of renowned companies in the US, UK, and EU, including some of the largest and most popular corporations.',
+    'COMMODITIES_TRADING_WITH_XS_DESC' => 'Experience the excitement of Share & Stock trading with XS.com. Take advantage of our platforms’ seamless CFD trading capabilities, offering you the opportunity to trade CFDs on thousands of global shares. Benefit from ultra-fast order execution and competitive trading conditions, ensuring that you can seize market opportunities swiftly and efficiently. Trade CFDs on shares of renowned companies in the US, UK, and EU, including some of the largest and most popular corporations.',
     'UNDERSTANDING_COMMODITIES' => '商品概览：通过 XS 探索商品交易世界',
     'UNDERSTANDING_COMMODITIES_DESC_1' => '介绍<br/>欢迎来到 XS 的商品交易世界。 大宗商品代表对我们日常生活至关重要的有形商品，例如金属、能源、农产品等。 在本概述中，我们将探讨商品交易的关键方面，包括热门商品、市场动态以及通过 XS 交易商品的优势。',
     'UNDERSTANDING_COMMODITIES_DESC_2' => '热门商品<br/> 大宗商品交易涉及广泛的资产，包括黄金、白银等贵金属，石油、天然气等能源，小麦、玉米等农产品，以及铜、铝等工业金属。 这些商品在各个行业中发挥着重要作用，并提供多样化的贸易机会。',

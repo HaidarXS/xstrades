@@ -109,14 +109,16 @@
         <link href="{{ asset('css/font-family.css') }}" rel="stylesheet">
     @endif
 
-    <link href="{{ asset('css/new-css.css?v4.1') }}" rel="stylesheet">
-    <link href="{{ asset('css/app.css?v3.0') }}" rel="stylesheet">
-    <link href="{{ asset('css/main.css?v2.1') }}" rel="stylesheet">
-    <link href="{{ asset('css/custom.css?v1.9') }}" rel="stylesheet">
-    <link href="{{ asset('css/menu.css?v2') }}" rel="stylesheet">
+    <link href="{{ asset('css/new-css.css?v5.4') }}" rel="stylesheet">
+    <link href="{{ asset('css/app.css?v5.5') }}" rel="stylesheet">
+    <link href="{{ asset('css/main.css?v3.1') }}" rel="stylesheet">
+    <link href="{{ asset('css/custom.css?v3.1') }}" rel="stylesheet">
+    <link href="{{ asset('css/menu.css?v3.1') }}" rel="stylesheet">
+    <link href="{{ asset('css/preloader.css?v2.1') }}" rel="stylesheet">
 
     <link href="{{ asset('css/flipbook.style.css') }}" rel="stylesheet">
     <link href="{{ asset('css/font-awesome.css') }}" rel="stylesheet">
+    @stack('styles')
     <!-- slick CSS -->
     {{-- <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css" /> --}}
     <link href="{{ asset('css/slick-carousel-1.8.1-slick.css') }}" rel="stylesheet">

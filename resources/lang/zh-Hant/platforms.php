@@ -1,8 +1,8 @@
-<?php 
+<?php
     return [
 
         //one
-        'PLATFORMS' => '平台',
+        'PLATFORMS' => '交易平台',
         'METATRADER_4' => 'Metatrader 4',
         'METATRADER_5' => 'Metatrader 5',
         'DESKTOP_CAP' => 'DESKTOP',
@@ -10,6 +10,9 @@
         'MAC_CAP' => 'MAC',
         'ANDROID_CAP' => 'ANDROID',
         'IOS_CAP' => 'IOS',
+        'PAGE_DESC' => '使用最先進的交易平台進入全球金融市場交易。',
+        'PAGE_DESC_MT4' => '使用最受歡迎的交易平台進入全球金融市場交易。.',
+        'PAGE_DESC_MT5' => '使用最佳多資產交易平台進入全球金融市場交易。',
 
         'ACCESS_THE_FINANCIAL_GLOBAL_MARKETS'=>'通過最先進的交易平台進入全球金融市場',
 
@@ -33,7 +36,7 @@
 
         'TRUST_GLOBAL_BROKER' => '值得信賴的全球經紀商：',
 
-        'XS_IS_A_TRUSTED' => 'XSTrades.com 是一家受多重監管的值得信賴的全球經紀商',
+        'XS_IS_A_TRUSTED' => 'XS.com 是一家受多重監管的值得信賴的全球經紀商',
 
         'AWARD_WINNING_BROKER' => '屡获殊荣的经纪商:',
 
@@ -53,9 +56,7 @@
 
         'MULTIPLE_ACCOUNT_TYPES' => '多種賬戶類型：',
 
-        'CHOOSE_ACCOUNT_TYPES' => '選擇最適合您交易風格的賬戶類型',
-
-        'PREMIUM_TRADING_CONDITIONS' => '優質交易條件：',
+        'CHOOSE_ACCOUNT_TYPES' => '一個滿足不同交易者口味的平台，適合各種類型交易者的解決方案。',
 
         'UNLOCK_THE_FULL_POTENTIAL'=>'Unlock the full potential of online trading with the best trading experience.',
 
@@ -63,9 +64,9 @@
 
         'ULTRA_FAST_TRADING_EXECUTION' => '受益於超快速公平的交易執行',
 
-        'MULTILINGUAL_SUPPORT' => '多語言支持：',
+        'MULTILINGUAL_SUPPORT' => '多語言客戶支援：',
 
-        'SUPPORT_IN_YOUR_LANGUAGE' => '利用我們以您的語言提供的客戶支持',
+        'SUPPORT_IN_YOUR_LANGUAGE' => '使用我們為您提供的語言客戶支持。',
 
         'TRADE_THE_GLOBAL_MARKETS'=>'通過最佳多資產平台進行全球市場交易',
 
@@ -88,14 +89,14 @@
         'REAL_TIME_MARKET_QUOTES' => '實時市場報價和新聞更新',
 
         'MULTIPLE_ORDER_TYPES' => '多種訂單類型，交易策略靈活',
-        
-        'MT4_DESKTOP_FEATURES'=>'MT4 桌面功能',
+
+        'MT4_DESKTOP_FEATURES'=>'MT4 桌面版功能',
 
         'EXPERIENCE_THE_FULL_POWER' => '使用桌面版 Metatrader 4 (MT4) 交易平台體驗 XS 交易的全部功能。 在您的計算機上安裝我們功能豐富的桌面平台，享受先進的圖表工具、可定制的佈局和閃電般的交易執行。直接在您的桌面上利用全面的交易功能並挖掘全球市場的潛力。',
 
 //four
 
-        'POPULAR_PC_PLATFORM' => '獲得廣泛的金融工具選擇。',
+        'POPULAR_PC_PLATFORM' => '一個流行且廣泛使用的個人電腦和筆記型電腦交易平台。',
 
         'VAST_SELECTION_INSTRUMENTS' => '獲得廣泛的金融工具選擇。',
 
@@ -111,7 +112,7 @@
 
         'ACCESS_DESKTOP'=>'使用 XS MT4 桌面訪問您的交易賬戶',
 
-        'ACCESS_WEB'=>'使用 MT4 Web 輕鬆交易',
+        'ACCESS_WEB'=>'使用 MT4 網頁版輕鬆交易',
 
 //five
 
@@ -129,7 +130,7 @@
 
         'EXPERIENCE_THE _FULL_POWER'=>'使用桌面版 Metatrader 4 (MT4) 交易平台體驗 XS 交易的全部功能。 在您的計算機上安裝我們功能豐富的桌面平台，享受先進的圖表工具、可定制的佈局和閃電般的交易執行。 直接在您的桌面上利用全面的交易功能並挖掘全球市場的潛力。',
 
-        'TRADE_EASE_MT4'=>'使用 MT4 Web 輕鬆交易',
+        'TRADE_EASE_MT4'=>'使用 MT4 網頁版輕鬆交易',
 
         'ACCESS_GLOBAL_MT4'=>'使用 Metatrader 4 (MT4) Web Trader 訪問全球市場並通過 XS 方便地進行交易。 無需下載或安裝 – 只需通過網絡瀏覽器登錄您的交易賬戶即可開始交易。 使用 MT4 Web Trader 在任何 XS 設備上享受無縫且用戶友好的交易體驗。',
 
@@ -188,7 +189,7 @@
 
         'SECURE_ENCRYPTED_TRANSMISSION' => '安全加密的數據傳輸可增強安全性。',
 
-        'SEAMLESS_SYNCHRONIZATION_MAC' => '與其他 MT5 平台無縫同步。', 
+        'SEAMLESS_SYNCHRONIZATION_MAC' => '與其他 MT5 平台無縫同步。',
 
 //seven
 
@@ -206,7 +207,7 @@
 
         'ENTER_LOGIN_PASSWORD' => '輸入您的登錄名和密碼',
 
-        'MT4_IOS_APP_FEATURES_TITLE' => '點擊“登錄”並開始交易',
+        'MT4_IOS_APP_FEATURES_TITLE' => 'MT4 iOS 應用程式功能',
 
 //eight
 
@@ -237,7 +238,7 @@
         'LIVE_STREAMING_QUOTES_CHARTS' => '實時流媒體報價和可定制的圖表。',
 
         'QUICK_ORDER_EXECUTION_MANAGEMENT' => '快速訂單執行和管理。',
-    
+
         'MT5_Features'=>'MT5 特點',
 
         'ADVANCED_CHARTING_TOOLS_INDICATORS' => '先進的圖表工具和技術分析指標',
@@ -252,7 +253,7 @@
 
         'EXPERT_ADVISORS_EAS' => '用於自動交易的專家顧問 (EA)',
 
-        'PREMIUM_TRADING_CONDITIONS' => '優質交易條件：',
+        'PREMIUM_TRADING_CONDITIONS' => '優質交易條件',
 
         'MARKET_DEPTH_TIME_SALES_INFO' => '市場深度、時間以及銷售信息',
 
@@ -285,8 +286,8 @@
         'ECONOMIC_CALENDAR_NEWS_UPDATES' => '用於基本面分析的經濟日曆和實時新聞更新。',
 
         'BUILT_IN_MQL5_PROGRAMMING' => '內置 MQL5 編程語言，用於創建自定義指標和 EA。',
-    
-        'ACCESS_YOUR_ACCOUNT_WEB'=>'使用 XS MT5 Web 訪問您的交易賬戶',
+
+        'ACCESS_YOUR_ACCOUNT_WEB'=>'使用 XS MT5 網頁版訪問您的交易帳戶',
 
         'ON_THE_GO_WEB'=>"MT5 Web、iOS 和 Android：使用我們的 MT5 Web、iOS 和 Android 平台隨時隨地進行交易。 從任何具有互聯網連接的設備訪問您的交易賬戶，無需下載即可享受完整功能。 無論您使用智能手機、平板電腦還是計算機，我們的 MT5 移動解決方案都能讓您隨時了解市場。",
 
@@ -325,7 +326,7 @@
         'ACCESS_YOUR_TRADING_ACCOUNT_TITLE_MT5_IOS' => '使用 XS MT5 iOS 應用程序訪問您的交易賬戶',
 
         'MT5_IOS_FEATURES_TITLE' => 'MT5 iOS 應用程序功能',
-        
+
         'INSTALL_APPLE_APP_IOS' => '單擊此處將軟件安裝到您的 Apple 上，或在打開的 App Store 中搜索“Metatrader 5”。',
 
         'TRADE_ON_THE_GO_TITLE_MT5_ANDROID' => '使用 MT5 Android 應用程序隨時隨地進行交易',
@@ -347,6 +348,24 @@
         'REAL_TIME_ORDER_EXECUTION_MANAGEMENT' => '實時訂單執行和管理。',
 
         'SECURE_ENCRYPTED_TRANSMISSION_PROTECT_USER_INFO' => '安全加密的數據傳輸，保護用戶信息。',
+
+        'MT4_DOWLOAD_DESKTOP'=>'下載桌面版 MT4',
+        'MT4_DOWLOAD_WEB'=>' MT4 網頁版',
+        'MT4_DOWLOAD_IOS'=>'下載 iOS 版 MT4',
+        'MT4_DOWLOAD_ANDROID'=>'下載 Android 版 MT4',
+        'MT5_DOWLOAD_DESKTOP'=>'下載桌面版 MT5',
+        'MT5_DOWLOAD_WEB'=>'MT5 網頁版',
+        'MT5_DOWLOAD_IOS'=>'下載 iOS 版 MT5',
+
+        'MT5_IOS_FEATURE_1'=>'專為在 iPhone 和 iPad 上進行交易而設計的 iOS 應用程式。',
+        'MT5_IOS_FEATURE_2'=>'使用者界面友好，導航直觀，訂單執行迅速。',
+        'MT5_IOS_FEATURE_3'=>'即時報價和帶有技術指標的互動式圖表。',
+        'MT5_IOS_FEATURE_4'=>'即時報價和帶有技術指標的互動式圖表。',
+        'MT5_IOS_FEATURE_5'=>'安全加密資料傳輸，提高安全性。',
+        'MT5_IOS_FEATURE_6'=>'多種訂單類型，包括市價訂單、限價訂單、止損訂單和追蹤止損訂單。',
+        'MT5_IOS_FEATURE_7'=>'與其他 MT5 平台無縫同步。',
+        'MT5_DOWLOAD_ANDROID'=>'下載 Android 版 MT5',
+
 
     ];
 ?>

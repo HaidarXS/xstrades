@@ -32,10 +32,10 @@ return [
     ",
 
     "TRADING_CONDITION_2_TITLE" => "点差",
-    "TRADING_CONDITION_2_DESCRIPTION" => "XSTrades.com 为所有账户类型的所有货币对提供浮动点差。因此，合约规格表中的点差是基于前一个交易日的平均点差。有关实时点差，请参阅交易平台。请注意，当市场流动性较低时（包括展期时间），点差可能会扩大。",
+    "TRADING_CONDITION_2_DESCRIPTION" => "XS.com 为所有账户类型的所有货币对提供浮动点差。因此，合约规格表中的点差是基于前一个交易日的平均点差。有关实时点差，请参阅交易平台。请注意，当市场流动性较低时（包括展期时间），点差可能会扩大。",
 
     "TRADING_CONDITION_3_TITLE" => "图表价格",
-    "TRADING_CONDITION_3_DESCRIPTION" => "XSTrades.com 提供各种交易账户，以满足每个交易者的需求和偏好。我们提供原始定价账户，并收取额外佣金。其他账户类型不收取佣金，但在价格中包含加价。默认情况下，Metatrader 交易平台的图表将显示原始价格，而市场观察将显示客户正在交易的账户类型的价格。",
+    "TRADING_CONDITION_3_DESCRIPTION" => "XS.com 提供各种交易账户，以满足每个交易者的需求和偏好。我们提供原始定价账户，并收取额外佣金。其他账户类型不收取佣金，但在价格中包含加价。默认情况下，Metatrader 交易平台的图表将显示原始价格，而市场观察将显示客户正在交易的账户类型的价格。",
 
     "TRADING_CONDITION_4_TITLE" => "隔夜利息",
     "TRADING_CONDITION_4_DESCRIPTION" => "隔夜利息（多头）用于隔夜维持买入仓位，隔夜利息（空头）用于隔夜维持卖出仓位。隔夜利息发生在服务器时间每天 00:00，周末除外，直至平仓。周三收取三倍隔夜利息费用，以支付周末产生的融资成本。",
@@ -44,10 +44,10 @@ return [
     "TRADING_CONDITION_5_DESCRIPTION" => "止损位是指当前市场价格与挂单价格之间的最小距离（点差）。合约规格表中的止损位值可能会发生变化，使用某些高频交易策略或智能交易系统的交易者可能无法使用。",
 
     "TRADING_CONDITION_6_TITLE" => "动态杠杆",
-    "TRADING_CONDITION_6_DESCRIPTION" => "XSTrades.com 为大多数账户类型的货币对提供动态杠杆。合约规格表中的杠杆值是每种交易工具的最大杠杆。最大杠杆将根据您的净未平仓头寸而变化。详情请查看动态杠杆页面。",
+    "TRADING_CONDITION_6_DESCRIPTION" => "XS.com 为大多数账户类型的货币对提供动态杠杆。合约规格表中的杠杆值是每种交易工具的最大杠杆。最大杠杆将根据您的净未平仓头寸而变化。详情请查看动态杠杆页面。",
 
     "TRADING_CONDITION_7_TITLE" => "固定杠杆",
-    "TRADING_CONDITION_7_DESCRIPTION" => "XSTrades.com 为某些账户类型的货币对提供固定杠杆。 在这种情况下，合约规格表中显示的最大杠杆不会根据您的净未平仓头寸而变化。 固定杠杆适用于美分账户和微型账户类型。",
+    "TRADING_CONDITION_7_DESCRIPTION" => "XS.com 为某些账户类型的货币对提供固定杠杆。 在这种情况下，合约规格表中显示的最大杠杆不会根据您的净未平仓头寸而变化。 固定杠杆适用于美分账户和微型账户类型。",
 
     "TRADING_CONDITION_8_TITLE" => "较高保证金要求期间",
     "TRADING_CONDITION_8_DESCRIPTION" => "在影响市场总体波动性的关键事件和特定时段，我们采用风险管理措施来保护仓位免受可能出现的剧烈波动的影响。在这些时间段内（即较高保证金要求期间，简称HMR），开仓订单需要更高的保证金金额。

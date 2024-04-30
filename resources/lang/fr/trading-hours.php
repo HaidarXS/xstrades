@@ -8,7 +8,7 @@
         'TRADING_HOLIDAYS' => 'Jours Fériés de Trading',
         'TRADING_NOTICES' => 'Avis de Trading',
         'NORMAL_HOURS_TITLE' => 'Heures normales de Trading',
-        'NORMAL_HOURS_DESC' => 'Les heures normales de trading font référence aux sessions de trading régulières disponibles pour le trading sur un marché financier spécifique. Les tableaux ci-dessous montrent les heures normales de trading des différents instruments financiers disponibles pour le trading avec XS Trades. 
+        'NORMAL_HOURS_DESC' => 'Les heures normales de trading font référence aux sessions de trading régulières disponibles pour le trading sur un marché financier spécifique. Les tableaux ci-dessous montrent les heures normales de trading des différents instruments financiers disponibles pour le trading avec XS. 
         <br/><br/>
         Les facteurs saisonniers et de marché peuvent affecter les heures de trading ci-dessous, il est donc important de suivre les dernières mises à jour sur les pages Jours fériés et avis de trading pour rester à jour avec les derniers changements saisonniers des heures de trading. 
         <br/><br/>

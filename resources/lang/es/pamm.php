@@ -42,14 +42,14 @@ return [
 
     'TB_1_6' => 'Reparto de Ganancias Transparente',
 
-    'WHY_CHOOSE_XS' => '¿Por Qué Elegir XS Trades?',
+    'WHY_CHOOSE_XS' => '¿Por Qué Elegir XS?',
 
 
     'CONNECT' => 'Conectémonos',
 
     'TEXT7' => 'Nuestro equipo de expertos está listo para compartir sus conocimientos y perspectivas con usted para asegurarse de que cumpla sus objetivos e implemente sus estrategias.',
 
-    'TEXT8' => 'Si desea hablar con uno de nuestros expertos experimentados sobre la Solución PAMM, por favor envíenos un correo electrónico a <a href="mailto:support@XSTrades.com"> support@XSTrades.com </a>',
+    'TEXT8' => 'Si desea hablar con uno de nuestros expertos experimentados sobre la Solución PAMM, por favor envíenos un correo electrónico a <a href="mailto:support@xs.com"> support@xs.com </a>',
 
     'DISCLAIMER' => '<span style="color: #30af85;">Aviso Legal: </span> Ni XS ni los traders PAMM son proveedores de servicios de cuenta discrecional gestionada. Es su propia decisión seguir a un trader PAMM en particular, lo que significa que todas las decisiones de trading hechas por un trader PAMM se considerarán sus propias decisiones de trading.',
 

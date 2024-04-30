@@ -6,7 +6,7 @@ return[
     Nuestro programa de socios locales está diseñado para aquellos que desean aprovechar sus fuertes conexiones dentro de la comunidad de trading en su región y asociarse con una marca global de buena reputación.
     <br/><br/>  
     Este programa le permite ofrecer a los clientes de su comunidad local acceso a tecnología avanzada y las mejores experiencias de trading en la industria.',
-    'WHY_PARTNER_WITH_XS'=>'¿Por qué asociarse con XS Trades?',
+    'WHY_PARTNER_WITH_XS'=>'¿Por qué asociarse con XS?',
     'WE_SPEAK_YOUR_LANG'=>'Hablamos tu idioma... Hablemos',
 ];
 ?>

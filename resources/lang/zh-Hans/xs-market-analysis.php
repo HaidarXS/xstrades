@@ -1,6 +1,6 @@
 <?php
 return[
-'title' =>'市场评论',
+'title' =>'市場評論',
 ];
 
 ?>

@@ -3,7 +3,7 @@
         'HMR'=>'HMR',
         'HMR_PERIODS'=>'HMR Periods',
 
-        'MR_PERIOD_BETWEEN'=>'HMR Period Between 25.03 - 29.03.2024',
+        'MR_PERIOD_BETWEEN'=>'HMR Period Between 29.04 - 03.05.2024',
 
         'DATE'=>'Date',
         'TIME_ZONE'=>'Time GMT+3',

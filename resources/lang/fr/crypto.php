@@ -6,7 +6,7 @@ return [
 
     "SECTION_1_TITLE" => "TRADEZ LES CRYPTOMONNAIES AVEC LA MEILLEURE PLATEFORME DE TRADING EN LIGNE",
 
-    'DESCRIPTION_1' => "Bienvenue dans le monde du trading de crypto-monnaies avec XS Trades. Découvrez le monde des crypto-monnaies et exploitez le potentiel des actifs numériques avec le meilleur courtier en CFD. Tradez des crypto-monnaies populaires telles que Bitcoin (BTC), Ethereum (ETH), Litecoin (LTC) et bien d'autres, et saisissez les opportunités sur le marché des crypto-monnaies en constante évolution. 
+    'DESCRIPTION_1' => "Bienvenue dans le monde du trading de crypto-monnaies avec XS. Découvrez le monde des crypto-monnaies et exploitez le potentiel des actifs numériques avec le meilleur courtier en CFD. Tradez des crypto-monnaies populaires telles que Bitcoin (BTC), Ethereum (ETH), Litecoin (LTC) et bien d'autres, et saisissez les opportunités sur le marché des crypto-monnaies en constante évolution. 
         <br/>
         <br/> 
         Nos plateformes offrent un trading fluide d'une large gamme de crypto-monnaies, vous permettant de profiter de la volatilité du marché et des mouvements potentiels des prix.
@@ -23,7 +23,7 @@ return [
     "SECTION_3_TITLE" => "TRADING CRYPTO AVEC XS : CONDITIONS DE TRADING",
   	
     "TRADING_CONDITION_1_TITLE" => "Heures normales de Trading",
-    "TRADING_CONDITION_1_DESCRIPTION" => "Heures normales de trading Les heures normales de trading font référence aux sessions de trading régulières disponibles. Ci-dessous, vous trouverez les heures normales de trading pour les cryptomonnaies disponibles avec XS Trades. Les facteurs saisonniers et de marché peuvent affecter les heures de trading ci-dessous, il est donc important de suivre les dernières mises à jour sur la page des heures de trading pour rester informé des derniers changements saisonniers. Tous les horaires sont en temps serveur (GMT+3).
+    "TRADING_CONDITION_1_DESCRIPTION" => "Heures normales de trading Les heures normales de trading font référence aux sessions de trading régulières disponibles. Ci-dessous, vous trouverez les heures normales de trading pour les cryptomonnaies disponibles avec XS. Les facteurs saisonniers et de marché peuvent affecter les heures de trading ci-dessous, il est donc important de suivre les dernières mises à jour sur la page des heures de trading pour rester informé des derniers changements saisonniers. Tous les horaires sont en temps serveur (GMT+3).
         <br/>
         <br/>         	
         <span class='d-flex'>  All Cryptocurrencies <span class='ms-auto'>24/7 sauf pendant la maintenance du serveur.</span></span>
@@ -32,16 +32,16 @@ return [
     // &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Friday: 00:00 - 23:55
 
     "TRADING_CONDITION_2_TITLE" => "Spreads",
-    "TRADING_CONDITION_2_DESCRIPTION" => "XSTrades.com offers un spread flottant sur toutes les crypto-monnaies pour tous les types de comptes. Par conséquent, les spreads dans le tableau des spécifications du contrat sont les spreads moyens basés sur le jour de bourse précédent. Pour les spreads en direct, veuillez vous référer à la plateforme de trading. Veuillez noter que les spreads peuvent s'élargir lorsque les marchés connaissent une liquidité plus faible, y compris pendant le temps de rollover.",
+    "TRADING_CONDITION_2_DESCRIPTION" => "XS.com offers un spread flottant sur toutes les crypto-monnaies pour tous les types de comptes. Par conséquent, les spreads dans le tableau des spécifications du contrat sont les spreads moyens basés sur le jour de bourse précédent. Pour les spreads en direct, veuillez vous référer à la plateforme de trading. Veuillez noter que les spreads peuvent s'élargir lorsque les marchés connaissent une liquidité plus faible, y compris pendant le temps de rollover.",
 
     "TRADING_CONDITION_3_TITLE" => "Prix des graphiques",
-    "TRADING_CONDITION_3_DESCRIPTION" => "XSTrades.com propose une variété de comptes de trading pour répondre aux besoins et aux préférences de chaque trader. Nous offrons des comptes avec des prix bruts sur lesquels des commissions supplémentaires sont facturées. D'autres types de comptes n'ont pas de commission, mais ont des majorations incorporées dans les prix. Par défaut, le graphique des plateformes de trading MetaTrader affichera le prix brut, tandis que la surveillance du marché affichera le prix du type de compte sur lequel le client négocie.",
+    "TRADING_CONDITION_3_DESCRIPTION" => "XS.com propose une variété de comptes de trading pour répondre aux besoins et aux préférences de chaque trader. Nous offrons des comptes avec des prix bruts sur lesquels des commissions supplémentaires sont facturées. D'autres types de comptes n'ont pas de commission, mais ont des majorations incorporées dans les prix. Par défaut, le graphique des plateformes de trading MetaTrader affichera le prix brut, tandis que la surveillance du marché affichera le prix du type de compte sur lequel le client négocie.",
 
     "TRADING_CONDITION_4_TITLE" => "Swaps",
     "TRADING_CONDITION_4_DESCRIPTION" => "Le swap long est utilisé pour maintenir les positions d'achat ouvertes pendant la nuit, et le swap court est utilisé pour maintenir les positions de vente ouvertes pendant la nuit. Les swaps ont lieu à 00:00 heure serveur chaque jour, à l'exception du week-end, jusqu'à ce que la position soit fermée. Des swaps triples sont facturés le mercredi pour couvrir les coûts de financement encourus pendant le week-end.",
 
     "TRADING_CONDITION_5_TITLE" => "Levier Dynamique",
-    "TRADING_CONDITION_5_DESCRIPTION" => "XSTrades.com propose un levier dynamique sur les cryptomonnaies pour la plupart des types de comptes. Les valeurs  de levier dans le tableau des spécifications de contrat représentent l'effet de levier maximal pour chaque instrument de trading. Le levier maximal variera en fonction de vos positions nettes ouvertes. Pour plus de détails, veuillez consulter la page sur l'Effet de Levier Dynamique.",
+    "TRADING_CONDITION_5_DESCRIPTION" => "XS.com propose un levier dynamique sur les cryptomonnaies pour la plupart des types de comptes. Les valeurs  de levier dans le tableau des spécifications de contrat représentent l'effet de levier maximal pour chaque instrument de trading. Le levier maximal variera en fonction de vos positions nettes ouvertes. Pour plus de détails, veuillez consulter la page sur l'Effet de Levier Dynamique.",
     
     "TRADING_CONDITION_6_TITLE" => "Périodes de Exigences de Marge Supérieur",
     "TRADING_CONDITION_6_DESCRIPTION" => "Nous appliquons des mesures de gestion des risques pour protéger les positions contre une éventuelle forte volatilité pendant des événements clés et des périodes spécifiques qui influent sur la volatilité générale du marché.

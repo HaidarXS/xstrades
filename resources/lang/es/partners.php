@@ -15,7 +15,7 @@ return [
     'STEP_2_DESCRIPTION' => 'Comparta su enlace de asociación y recomiende clientes a XS',
     'STEP_3_DESCRIPTION' => 'Aumente sus ingresos mientras sus clientes operan con XS',
 
-    'WHY_JOIN_INFLUENCERS_XS' => '¿Por qué unirse al Programa de Influencers con XS Trades?',
+    'WHY_JOIN_INFLUENCERS_XS' => '¿Por qué unirse al Programa de Influencers con XS?',
 
     'INFLUENCERS_REASON_1_TITLE' => 'Programas Múltiples:',
     'INFLUENCERS_REASON_1_DESCRIPTION' => 'Nuestros múltiples programas de asociación están diseñados para adaptarse a las necesidades de una amplia gama de socios.',
@@ -27,7 +27,7 @@ return [
     'INFLUENCERS_REASON_3_DESCRIPTION' => 'Sus pagos se depositan diariamente en su wallet de socio y puede acceder a sus pagos instantáneamente a través de varios métodos de pago, cuando lo desee.',
 
     'INFLUENCERS_REASON_4_TITLE' => 'Reporte Avanzado:',
-    'INFLUENCERS_REASON_4_DESCRIPTION' => 'Nuestras herramientas de informes avanzados le permiten monitorear estadísticas detalladas y en tiempo real de cada transacción de su cliente en su portal de socio XS Trades.',
+    'INFLUENCERS_REASON_4_DESCRIPTION' => 'Nuestras herramientas de informes avanzados le permiten monitorear estadísticas detalladas y en tiempo real de cada transacción de su cliente en su portal de socio XS.',
 
     'INFLUENCERS_REASON_5_TITLE' => 'Herramientas Promocionales:',
     'INFLUENCERS_REASON_5_DESCRIPTION' => ' Proporcionamos todas las herramientas que necesita para promocionar nuestros productos, incluyendo banners para sitios web, publicidad, páginas de aterrizaje, material educativo y seminarios web.',
@@ -41,10 +41,10 @@ return [
     'INFLUENCERS_REASON_8_TITLE' => 'Condiciones Premium:',
     'INFLUENCERS_REASON_8_DESCRIPTION' => 'Condiciones de asociación competitivas para usted y la mejor experiencia de trading para sus clientes.',
 
-    'WHY_CLIENTS_CHOSE_XS' => '¿Por qué los clientes eligen XS Trades?',
+    'WHY_CLIENTS_CHOSE_XS' => '¿Por qué los clientes eligen XS?',
 
     'CHOOSE_REASON_1_TITLE' => 'Broker Global de Confianza:',
-    'CHOOSE_REASON_1_DESCRIPTION' => 'XSTrades.com es un broker global de confianza con múltiples regulaciones.',
+    'CHOOSE_REASON_1_DESCRIPTION' => 'XS.com es un broker global de confianza con múltiples regulaciones.',
 
     'CHOOSE_REASON_2_TITLE' => 'Broker Galardonado:',
     'CHOOSE_REASON_2_DESCRIPTION' => 'Opere con un broker que ha sido reconocido por sus servicios.',
@@ -73,7 +73,7 @@ return [
     'LETS_TALK_PARTNERSHIP' => 'Hablemos de asociación',
     'LETS_TALK_PARTNERSHIP_DESCRIPTION' => 'Nuestro equipo de expertos está listo para compartir con usted nuestro conocimiento y perspectivas para asegurarse de que cumpla con sus objetivos e implemente sus estrategias.
     <br/><br/>
-    Si desea hablar con uno de nuestros expertos experimentados sobre nuestros programas de asociación, envíenos un correo electrónico a <a href="mailto:partners@XSTrades.com">partners@XSTrades.com</a>',
+    Si desea hablar con uno de nuestros expertos experimentados sobre nuestros programas de asociación, envíenos un correo electrónico a <a href="mailto:partners@xs.com">partners@xs.com</a>',
 
     'BEST_FX_BROKER' => 'MEJOR BROKER DE FX',
     'BEST_FUNDAMENTAL' => 'MEJOR ANÁLISIS FUNDAMENTAL Y TÉCNICO',

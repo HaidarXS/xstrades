@@ -10,7 +10,7 @@ return [
     'SECTION_2_TITLE' => 'TRADING DE COMMODITIES CON XS: ESPECIFICACIONES DE CONTRATOS',
     "SECTION_3_TITLE" => "TRADING DE COMMODITIES CON XS: CONDICIONES DE TRADING",
 
-    'DESCRIPTION_1' => 'Bienvenido al mundo del trading de commodities con XS Trades. Embarque en un emocionante viaje al trading de commodities con el mejor broker de CFD. Nuestras plataformas ofrecen una amplia gama de instrumentos CFD que abarcan diversas commodities. El trading de commodities ofrece una oportunidad única para participar en los mercados globales, con el potencial de obtener rendimientos favorables.',
+    'DESCRIPTION_1' => 'Bienvenido al mundo del trading de commodities con XS. Embarque en un emocionante viaje al trading de commodities con el mejor broker de CFD. Nuestras plataformas ofrecen una amplia gama de instrumentos CFD que abarcan diversas commodities. El trading de commodities ofrece una oportunidad única para participar en los mercados globales, con el potencial de obtener rendimientos favorables.',
 
     'DESCRIPTION_2' => 'XS ofrece acceso a una amplia gama de commodities, incluyendo Cacao, Café, Cobre, Maíz, Algodón, Soya, Azúcar y Trigo. Planifique sus trades con confianza y optimice su experiencia de trading de commodities utilizando nuestras detalladas especificaciones de contrato. Explore nuestras exhaustivas especificaciones de contrato y obtenga un mayor entendimiento de nuestras excepcionales condiciones de trading incluyendo tamaño del contrato, apalancamiento, spreads, comisiones, swaps y más para diferentes tipos de cuentas.',
 
@@ -18,7 +18,7 @@ return [
     "TRADING_CONDITION_1_TITLE" => "Horarios de Trading Normales",
     "TRADING_CONDITION_1_DESCRIPTION" => "Los horarios de trading normales se refieren a las sesiones regulares de trading disponibles para operar.
     <br>
-    A continuación, se muestran los horarios de trading para commodities disponibles con XS Trades. Los factores estacionales y de mercado pueden afectar los siguientes horarios de trading, por lo que es importante seguir las últimas actualizaciones en la página de Horas de Trading para mantenerse al día con los últimos cambios estacionales en los horarios de trading. Todos los horarios están en hora del servidor (GMT+3).
+    A continuación, se muestran los horarios de trading para commodities disponibles con XS. Los factores estacionales y de mercado pueden afectar los siguientes horarios de trading, por lo que es importante seguir las últimas actualizaciones en la página de Horas de Trading para mantenerse al día con los últimos cambios estacionales en los horarios de trading. Todos los horarios están en hora del servidor (GMT+3).
     <br><br>
     <span class='d-flex'> Instrumentos : <span class='ms-auto'> Horarios de Trading </span></span>
     <span class='d-flex'> COCOA.f : <span class='ms-auto'> Lunes - Viernes: 11:45 - 20:30 </span></span>
@@ -32,13 +32,13 @@ return [
     
 
     "TRADING_CONDITION_2_TITLE" => "Spreads",
-    "TRADING_CONDITION_2_DESCRIPTION" => "XSTrades.com ofrece un spread flotante en todos los productos de commodities para todos los tipos de cuenta. Por lo tanto, los spreads en la tabla de especificaciones de contratos son el promedio basado en el trading del día anterior. Para spreads en vivo, por favor refiérase a la plataforma de trading. Tenga en cuenta que los spreads pueden ampliarse cuando los mercados experimentan menor liquidez, incluyendo el tiempo de rollover.",
+    "TRADING_CONDITION_2_DESCRIPTION" => "XS.com ofrece un spread flotante en todos los productos de commodities para todos los tipos de cuenta. Por lo tanto, los spreads en la tabla de especificaciones de contratos son el promedio basado en el trading del día anterior. Para spreads en vivo, por favor refiérase a la plataforma de trading. Tenga en cuenta que los spreads pueden ampliarse cuando los mercados experimentan menor liquidez, incluyendo el tiempo de rollover.",
     
     "TRADING_CONDITION_3_TITLE" => "Precios en Gráficos",
-    "TRADING_CONDITION_3_DESCRIPTION" => "XSTrades.com ofrece una variedad de cuentas de trading para satisfacer las necesidades y preferencias de cada trader. Ofrecemos cuentas con precios en bruto sobre los cuales se cobran comisiones adicionales. Otros tipos de cuentas tienen mark-ups incorporados en los precios. Por defecto, los gráficos en las plataformas de trading MetaTrader mostrarán los precios en bruto, mientras que el market watch mostrará los precios del tipo de cuenta en el que el cliente está operando.",
+    "TRADING_CONDITION_3_DESCRIPTION" => "XS.com ofrece una variedad de cuentas de trading para satisfacer las necesidades y preferencias de cada trader. Ofrecemos cuentas con precios en bruto sobre los cuales se cobran comisiones adicionales. Otros tipos de cuentas tienen mark-ups incorporados en los precios. Por defecto, los gráficos en las plataformas de trading MetaTrader mostrarán los precios en bruto, mientras que el market watch mostrará los precios del tipo de cuenta en el que el cliente está operando.",
 
     "TRADING_CONDITION_4_TITLE" => "Apalancamiento Fijo ",
-    "TRADING_CONDITION_4_DESCRIPTION" => "XSTrades.com ofrece apalancamiento fijo en commodities para todos los tipos de cuenta. En este caso, el máximo apalancamiento mostrado en la tabla de especificaciones de contratos NO cambiará basado en sus posiciones abiertas netas o tipos de cuenta.",
+    "TRADING_CONDITION_4_DESCRIPTION" => "XS.com ofrece apalancamiento fijo en commodities para todos los tipos de cuenta. En este caso, el máximo apalancamiento mostrado en la tabla de especificaciones de contratos NO cambiará basado en sus posiciones abiertas netas o tipos de cuenta.",
 
     "TRADING_CONDITION_5_TITLE" => "Nivel de Stop",
     "TRADING_CONDITION_5_DESCRIPTION" => "El nivel de stop es la distancia mínima (diferencia en pips) entre el precio actual del mercado y el precio de la orden pendiente. Los valores del nivel de stop en la tabla de especificaciones de contratos están sujetos a cambios y pueden no estar disponibles para traders que usen ciertas estrategias de trading de alta frecuencia o Expert Advisors (EAs).",

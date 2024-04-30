@@ -7,7 +7,7 @@ return [
 
     "SECTION_1_TITLE" => "TRADEZ AVEC LA MEILLEURE PLATEFORME DE TRADING EN LIGNE",
 
-    'DESCRIPTION_1' => "Explorez le monde du trading des matières premières avec le meilleur courtier mondial multi-actifs, XS Trades. Embarquez pour une expérience passionnante de trading des matières premières avec notre plateforme offrant une variété d 'instruments CFD couvrant différents types de matières premières. 
+    'DESCRIPTION_1' => "Explorez le monde du trading des matières premières avec le meilleur courtier mondial multi-actifs, XS. Embarquez pour une expérience passionnante de trading des matières premières avec notre plateforme offrant une variété d 'instruments CFD couvrant différents types de matières premières. 
         <br/>
         <br/> 
         Le trading des matières premières vous offre une opportunité unique de participer aux marchés mondiaux, avec un potentiel de rendements favorables.
@@ -29,7 +29,7 @@ return [
 
 
     "TRADING_CONDITION_1_TITLE" => "Heures normales de Trading",
-    "TRADING_CONDITION_1_DESCRIPTION" => "Les heures normales de trading font référence aux sessions de trading régulières disponibles pour le trading. Vous trouverez ci-dessous les heures normales de trading des matières premières disponibles pour le trading avec XS Trades.
+    "TRADING_CONDITION_1_DESCRIPTION" => "Les heures normales de trading font référence aux sessions de trading régulières disponibles pour le trading. Vous trouverez ci-dessous les heures normales de trading des matières premières disponibles pour le trading avec XS.
         <br/>
         <br/> 
         Les facteurs saisonniers et de marché peuvent affecter les heures de trading ci-dessous, il est donc important de suivre les dernières mises à jour sur la page Heures de trading pour rester à jour avec les derniers changements saisonniers des heures de trading. Tous les horaires sont en temps serveur (GMT+3).
@@ -55,14 +55,14 @@ return [
 
 
     "TRADING_CONDITION_2_TITLE" => "Spreads",
-    "TRADING_CONDITION_2_DESCRIPTION" => "XSTrades.com propose un spread variable sur tous les produits de matières premières pour tous les types de compte. Par conséquent, les spreads indiqués dans le tableau des spécifications de contrat sont les spreads moyens basés sur la journée de trading précédente. Pour les spreads en direct, veuillez-vous référer à la plateforme de trading. Veuillez noter que les spreads peuvent s'élargir lorsque les marchés connaissent une liquidité plus faible, y compris pendant les périodes de rollover.",
+    "TRADING_CONDITION_2_DESCRIPTION" => "XS.com propose un spread variable sur tous les produits de matières premières pour tous les types de compte. Par conséquent, les spreads indiqués dans le tableau des spécifications de contrat sont les spreads moyens basés sur la journée de trading précédente. Pour les spreads en direct, veuillez-vous référer à la plateforme de trading. Veuillez noter que les spreads peuvent s'élargir lorsque les marchés connaissent une liquidité plus faible, y compris pendant les périodes de rollover.",
 
     "TRADING_CONDITION_3_TITLE" => "Prix des graphiques",
-    "TRADING_CONDITION_3_DESCRIPTION" => "XSTrades.com propose une variété de comptes de trading pour répondre aux besoins et aux préférences de chaque trader. Nous proposons des comptes avec des prix bruts auxquels des commissions supplémentaires sont facturées. D'autres types de compte n'ont pas de commission, mais intègrent plutôt des marges dans les prix. Par défaut, le graphique dans les plateformes de trading MetaTrader affichera les prix bruts, tandis que la liste des cours affichera les prix du type de compte sur lequel le client effectue des transactions.",
+    "TRADING_CONDITION_3_DESCRIPTION" => "XS.com propose une variété de comptes de trading pour répondre aux besoins et aux préférences de chaque trader. Nous proposons des comptes avec des prix bruts auxquels des commissions supplémentaires sont facturées. D'autres types de compte n'ont pas de commission, mais intègrent plutôt des marges dans les prix. Par défaut, le graphique dans les plateformes de trading MetaTrader affichera les prix bruts, tandis que la liste des cours affichera les prix du type de compte sur lequel le client effectue des transactions.",
 
 
     "TRADING_CONDITION_4_TITLE" => "Levier fixe",
-    "TRADING_CONDITION_4_DESCRIPTION" => "XSTrades.com offre un Levier fixe sur les matières premières pour tous les types de comptes. Dans ce cas, Le levier maximal affiché dans le tableau des spécifications du contrat ne changera PAS en fonction de vos positions ouvertes nettes ou de vos types de compte.",
+    "TRADING_CONDITION_4_DESCRIPTION" => "XS.com offre un Levier fixe sur les matières premières pour tous les types de comptes. Dans ce cas, Le levier maximal affiché dans le tableau des spécifications du contrat ne changera PAS en fonction de vos positions ouvertes nettes ou de vos types de compte.",
 
     "TRADING_CONDITION_5_TITLE" => "Niveau de stop",
     "TRADING_CONDITION_5_DESCRIPTION" => "Le niveau de stop est la distance minimale (différence en pips) entre le prix actuel du marché et le prix de l'ordre en attente. Les valeurs de niveau de stop dans le tableau des spécifications de contrat sont susceptibles de changer et peuvent ne pas être disponibles pour les traders utilisant certaines stratégies de trading à haute fréquence ou des experts-conseils",

@@ -2,6 +2,7 @@
 return [
     'CONTRACT_SPECIFICATIONS' => '合約規格',
     'CONTRACT_SPECIFICATIONS_DESCRIPTION' => 'Access the global markets and trade a wide range of asset classes with best trading conditions. Plan your trades with confidence and optimize your trading experience by utilizing our detailed contract specifications. Explore our comprehensive contract specifications and gain a deeper understanding of our exceptional trading conditions including contract sizes, leverage options, trading hours, margin requirements, and more. By familiarizing yourself with these specifications, you can make informed trading decisions and effectively manage your positions.',
+    'PAGE_DESC' => '瞭解我們詳細的合約規格，做出成功的交易決策。',
 
     'FX' => 'FX',
     'INDICES' => 'INDICES',
@@ -68,7 +69,7 @@ return [
     'PLATFORM' => 'Platform',
 
     'SPREAD_TITLE' => '點差',
-    'SPREAD_DESCRIPTION' => 'XSTrades.com 為所有帳戶類型和資產類別提供浮動
+    'SPREAD_DESCRIPTION' => 'XS.com 為所有帳戶類型和資產類別提供浮動
         點差。 因此，合約規格表中的點差是基於前
         一個交易日的平均點差。 有關即時點差，請
         參閱交易平台。
@@ -76,17 +77,17 @@ return [
         ），點差可能會擴大。',
 
     'DYNAMIC_LEVERAGE_TITLE' => '動態槓桿',
-    'DYNAMIC_LEVERAGE_DESCRIPTION' => 'XSTrades.com 為大多數資產類別和帳戶類型提供動
+    'DYNAMIC_LEVERAGE_DESCRIPTION' => 'XS.com 為大多數資產類別和帳戶類型提供動
         態槓桿。 合約規格表中的槓桿值為每種交易
         工具的最大槓桿。 最大槓桿將根據您的淨未
         平倉頭寸而變化。 有關動態槓桿的更多詳細
         信息，請點擊此處。',
 
-    'SWAPS_TITLE' => '掉期',
-    'SWAPS_DESCRIPTION' => '掉期多頭用於保持隔夜買入頭寸，掉期空頭用於保持隔夜賣出頭寸。隔夜利息發生在每天 00:00 伺服器時間（週末除外），直至平倉。每週三收取三倍掉期費用，以彌補週末產生的融資成本。',
+    'SWAPS_TITLE' => '隔夜利息',
+    'SWAPS_DESCRIPTION' => '隔夜利息（多頭）用於隔夜維持買入倉位，隔夜利息（空頭）用於隔夜維持賣出倉位。隔夜利息發生在伺服器時間每天 00:00，週末除外，直至平倉。每週三收取三倍隔夜利息費用，以支付週末產生的融資成本。',
 
     'CHARTS_TITLE' => '圖表 VS 市場觀察價差',
-    'CHARTS_DESCRIPTION' => 'XSTrades.com 提供各種交易帳戶，以滿足每個交易
+    'CHARTS_DESCRIPTION' => 'XS.com 提供各種交易帳戶，以滿足每個交易
         者的需求和偏好。 我們提供原始定價帳戶，
         並收取額外佣金。 其他帳戶類型則不收取佣
         金，而是在價格中包含加價。
@@ -94,8 +95,8 @@ return [
         顯示原始價格，而市場觀察將顯示客戶正在交
         易的帳戶類型的價格。',
 
-    'FIXED_LEVERAGE_TITLE' => '固定杠杆',
-    'FIXED_LEVERAGE_DESCRIPTION' => 'XSTrades.com 為某些資產類別和帳戶類型提供固定
+    'FIXED_LEVERAGE_TITLE' => '固定槓桿',
+    'FIXED_LEVERAGE_DESCRIPTION' => 'XS.com 為某些資產類別和帳戶類型提供固定
         槓桿。 在這種情況下，合約規格表中顯示的
         最大槓桿不會根據您的淨未平倉部位發生變化
         。

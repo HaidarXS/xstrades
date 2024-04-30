@@ -8,12 +8,12 @@ return [
     'FULL_SOLUTION' => 'Solusi Lengkap',
 
     'LETS_TALK_B2B' => 'MARI BICARA B2B',
-    'LETS_TALK_B2B_DESCRIPTION' => 'Tim ahli kami siap berbagi pengetahuan dan wawasan dengan Anda untuk memastikan Anda mencapai tujuan Anda dan menerapkan strategi Anda. Jika Anda ingin berbicara dengan salah satu ahli berpengalaman kami tentang kebutuhan institusional Anda dan solusi likuiditas kami, silakan email kami di b2b@XSTrades.com.',
+    'LETS_TALK_B2B_DESCRIPTION' => 'Tim ahli kami siap berbagi pengetahuan dan wawasan dengan Anda untuk memastikan Anda mencapai tujuan Anda dan menerapkan strategi Anda. Jika Anda ingin berbicara dengan salah satu ahli berpengalaman kami tentang kebutuhan institusional Anda dan solusi likuiditas kami, silakan email kami di b2b@xs.com.',
 
     'LETS_TALK_LIQUIDITY' => 'MARI BICARA TENTANG LIKUIDITAS',
-    'LETS_TALK_LIQUIDITY_DISC' => 'Tim ahli kami siap berbagi pengetahuan dan wawasan dengan Anda untuk memastikan Anda mencapai tujuan Anda dan menerapkan strategi Anda. Jika Anda ingin berbicara dengan salah satu ahli berpengalaman kami tentang kebutuhan institusional Anda dan solusi likuiditas kami, silakan email kami di b2b@XSTrades.com.',
+    'LETS_TALK_LIQUIDITY_DISC' => 'Tim ahli kami siap berbagi pengetahuan dan wawasan dengan Anda untuk memastikan Anda mencapai tujuan Anda dan menerapkan strategi Anda. Jika Anda ingin berbicara dengan salah satu ahli berpengalaman kami tentang kebutuhan institusional Anda dan solusi likuiditas kami, silakan email kami di b2b@xs.com.',
 
-    'WHY_XS_TECHNOLOGY' => 'Mengapa Memilih Teknologi & Solusi Fintech XS Trades?',
+    'WHY_XS_TECHNOLOGY' => 'Mengapa Memilih Teknologi & Solusi Fintech XS?',
     'OUR_ADVEANCED_INFRASTRUCTURE' => 'Infrastruktur canggih kami memungkinkan kami untuk menyediakan layanan dan solusi institusional yang disesuaikan dengan berbagai klien institusional. Layanan dan solusi ini dapat disesuaikan dan disesuaikan dengan kebutuhan klien korporat dan institusi kami yang ingin memanfaatkan pengetahuan dan pengalaman yang kami miliki selama bertahun-tahun. Kami berkomitmen untuk membantu klien kami mencapai tujuan perdagangan mereka sambil memberikan dukungan komprehensif, layanan personal, dan solusi inovatif.',
     'CUTTING_EDGE' => 'Teknologi Perdagangan Cutting-Edge:',
     'OUR_ADVANCED_TECHNOLOGY' => 'Teknologi canggih kami memastikan eksekusi perdagangan yang efisien, data pasar real-time, dan konektivitas mulus ke pasar global.',
@@ -34,11 +34,11 @@ return [
     'REPUTATION_AND_TRUST' => 'Reputasi dan Kepercayaan:',
     'INSTITUTIONS_CAN_RELY' => 'Institusi dapat mengandalkan catatan terbukti dan keahlian industri kami untuk mendukung tujuan perdagangan mereka.',
     'LETS_TALK_FINTECH' => 'MARI BICARA FINTECH',
-    'OUR_TEAM_OF_EXPERTS' => 'Tim ahli kami akan berbagi dengan Anda pengetahuan dan wawasan mereka untuk memastikan Anda mendapatkan hasil terbaik dan menggunakan teknologi & solusi fintech yang sesuai dengan kebutuhan dan persyaratan bisnis Anda. Jika Anda ingin berbicara dengan salah satu ahli berpengalaman kami tentang kebutuhan institusional Anda dan solusi teknologi & fintech kami, silakan email kami di b2b@XSTrades.com.',
+    'OUR_TEAM_OF_EXPERTS' => 'Tim ahli kami akan berbagi dengan Anda pengetahuan dan wawasan mereka untuk memastikan Anda mendapatkan hasil terbaik dan menggunakan teknologi & solusi fintech yang sesuai dengan kebutuhan dan persyaratan bisnis Anda. Jika Anda ingin berbicara dengan salah satu ahli berpengalaman kami tentang kebutuhan institusional Anda dan solusi teknologi & fintech kami, silakan email kami di b2b@xs.com.',
 
     'FULL_TRADING_SOLUTION' => 'Solusi Perdagangan Lengkap',
     'THE_FULL_TRADING_SOLUTIONS' => 'Paket "Solusi Perdagangan Lengkap" atau "Memulai Broker Sendiri" dirancang untuk klien korporat dan institusi yang berencana untuk memulai bisnis broker mereka sendiri. Ini memungkinkan mereka untuk beroperasi sebagai broker yang sepenuhnya independen dan memberikan kepada klien mereka kemampuan untuk melakukan perdagangan produk keuangan global. Paket ini mencakup sistem perdagangan multi-aset yang sepenuhnya bermerk, dengan akses ke kolam likuiditas multi-aset tier-1 kami melalui integrasi API FIX dan koneksi jembatan. Ini juga mencakup modul back-office lengkap, CRM, program pelatihan lengkap, dan dukungan teknis 24/7. Sebagai bagian dari paket ini, Anda akan mendapatkan konsultasi dan panduan dalam menyiapkan struktur korporasi Anda sendiri dan persyaratan lisensi.',
-    'WHY_XS_FULL_TRADING_SOLUTION' => 'Mengapa Memilih Solusi Perdagangan Lengkap XS Trades?',
+    'WHY_XS_FULL_TRADING_SOLUTION' => 'Mengapa Memilih Solusi Perdagangan Lengkap XS?',
     'EXTENSIVE_KNOWLEDGE' => 'Pengetahuan dan pengalaman yang luas:',
     'ACCESS_TO_AN_EXTENSIVE' => 'Akses ke beragam pengetahuan dan pengalaman yang luas yang disesuaikan dengan kebutuhan dan tujuan khusus setiap institusi.',
     'CUSTOMISED_SOLUTIONS' => 'Solusi yang Disesuaikan:',
@@ -56,7 +56,7 @@ return [
 
     'INSTITUTIONAL_TRADING' => 'Solusi Perdagangan Institusional',
     'INSTITUTIONAL_TRADING_DESC' => 'XS adalah pemimpin pasar dalam solusi perdagangan multi-aset institusional, Fintech, dan industri layanan keuangan sejak 2010, menyediakan akses kepada klien institusional dan pialang di seluruh dunia ke likuiditas institusional mendalam dan teknologi perdagangan canggih, yang dikombinasikan dengan pengalaman pengguna yang efisien, manajemen hubungan berkualitas tinggi, dan dukungan pelanggan yang luar biasa.',
-    'WHY_INSTITUTIONAL_TRADING' => 'Mengapa Memilih Solusi Perdagangan Institusional XS Trades?',
+    'WHY_INSTITUTIONAL_TRADING' => 'Mengapa Memilih Solusi Perdagangan Institusional XS?',
 
     'MULTIPLE_INSTITUTIONAL_SOLUTIONS' => 'SOLUSI INSTITUSIONAL BERBAGI',
     'MULTIPLE_INSTITUTIONAL_SOLUTIONS_DESC' => 'Infrastruktur perdagangan canggih kami memungkinkan kami untuk menawarkan beberapa solusi perdagangan institusional kepada berbagai klien institusional.',

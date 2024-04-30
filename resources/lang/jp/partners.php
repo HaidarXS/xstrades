@@ -15,7 +15,7 @@ return [
     'STEP_1_DESCRIPTION' => 'XSのパートナーとして登録します。',
     'STEP_2_DESCRIPTION' => 'パートナーリンクを公開し、お客様に XS を紹介します。',
     'STEP_3_DESCRIPTION' => 'お客様のXSでの取引がパートナーの収益につながります。',
-    
+
     'WHY_JOIN_INFLUENCERS_XS' => 'XSのインフルエンサー／ブランドアンバサダー・プログラムに参加する理由',
 
     'INFLUENCERS_REASON_1_TITLE' => '選べるプログラム：',
@@ -44,7 +44,7 @@ return [
 
     'WHY_CLIENTS_CHOSE_XS' => 'XSで取引する理由',
 
-    'CHOOSE_REASON_1_TITLE' => '信頼と実績を誇るグローバル・ブローカー： ',
+    'CHOOSE_REASON_1_TITLE' => '信頼と実績を誇るグローバル・ブローカー',
     'CHOOSE_REASON_1_DESCRIPTION' => '複数の金融ライセンスの厳しい審査を通過した、10年にわたる実績のあるグローバル・ブローカーです。',
 
     'CHOOSE_REASON_2_TITLE' => '受賞歴:',
@@ -74,9 +74,9 @@ return [
 お気軽にご連絡ください。',
 
     'LETS_TALK_PARTNERSHIP' => 'パートナーシップについてのお問い合わせ',
-    'LETS_TALK_PARTNERSHIP_DESCRIPTION' => '当社の専門家チームは、お客様が確実に目標を達成し、戦略を実行できるよう、長年の実績に基づくリソースを提供しお客様をサポートします。 
+    'LETS_TALK_PARTNERSHIP_DESCRIPTION' => '当社の専門家チームは、お客様が確実に目標を達成し、戦略を実行できるよう、長年の実績に基づくリソースを提供しお客様をサポートします。
     <br/> <br/>
-    パートナーシップ プログラムについては、partners@XSTrades.com までメールにてお問い合わせください。',
+    パートナーシップ プログラムについては、partners@xs.com までメールにてお問い合わせください。',
 
     'BEST_FX_BROKER' => 'BEST FX BROKER',
     'BEST_B2B_BROKER' => 'BEST B2B BROKER',

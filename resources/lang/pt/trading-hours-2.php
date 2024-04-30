@@ -4,7 +4,7 @@ return [
     'HOLIDAYS_HOURS_DESC' => '
     O horário normal de operação pode ser afetado por alguns fatores sazonais e de mercado, incluindo feriados. Isso pode variar de país para país e de um instrumento de negociação para outro, portanto, é importante manter-se atualizado com as mudanças vindouras e os horários de operação durante os feriados para planejar suas negociações de acordo. 
     <br/><br/>
-    A seção abaixo mostra as últimas atualizações sobre os próximos feriados e seu efeito nos horários de operação de diferentes instrumentos financeiros disponíveis para negociação com a XS Trades.
+    A seção abaixo mostra as últimas atualizações sobre os próximos feriados e seu efeito nos horários de operação de diferentes instrumentos financeiros disponíveis para negociação com a XS.
     <br/><br/>
     Todos os horários nas tabelas abaixo estão no horário do servidor (GMT+3)',
     'UPCOMING_TITLE' => 'Próximos Feriados',

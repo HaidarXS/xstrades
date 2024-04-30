@@ -6,7 +6,7 @@ return [
 
     "SECTION_1_TITLE" => "TRADEZ L'ÉNERGIE AVEC LA MEILLEURE PLATEFORME DE TRADING EN LIGNE",
 
-    'DESCRIPTION_1' => "Bienvenue dans le monde du trading d'énergie avec XS Trades. Découvrez les vastes possibilités du trading d'énergie, où vous pouvez échanger des CFD sur le pétrole brut, le gaz naturel et d'autres matières premières énergétiques avec la meilleure plateforme de trading en ligne. XS propose des plateformes de trading complètes offrant un accès aux marchés de l'énergie et à une large gamme de matières premières énergétiques. 
+    'DESCRIPTION_1' => "Bienvenue dans le monde du trading d'énergie avec XS. Découvrez les vastes possibilités du trading d'énergie, où vous pouvez échanger des CFD sur le pétrole brut, le gaz naturel et d'autres matières premières énergétiques avec la meilleure plateforme de trading en ligne. XS propose des plateformes de trading complètes offrant un accès aux marchés de l'énergie et à une large gamme de matières premières énergétiques. 
         <br/>
         <br/> 
         Avec des données de marché en temps réel, des outils de trading avancés et des prix compétitifs, XS permet aux traders de prendre des décisions éclairées et d'exécuter des transactions efficacement.
@@ -23,8 +23,8 @@ return [
     "SECTION_3_TITLE" => "TRADING D'ÉNERGIE AVEC XS : CONDITIONS DE TRADING",
 
     "TRADING_CONDITION_1_TITLE" => "Heures normales de Trading",
-    "TRADING_CONDITION_1_DESCRIPTION" => "Les heures normales de trading font référence aux sessions régulières disponibles pour le trading. Ci-dessous sont indiquées les heures normales de trading des produits énergétiques disponibles avec XS Trades.
-        Des facteurs saisonniers et de marché peuvent influencer les heures de trading ci-dessous. Il est donc important de suivre les dernières mises à jour sur la page des heures de trading pour rester informé des derniers changements saisonniers aux heures de trading. Tous les horaires sont en temps serveur (GMT+2).        <br/>
+    "TRADING_CONDITION_1_DESCRIPTION" => "Les heures normales de trading font référence aux sessions régulières disponibles pour le trading. Ci-dessous sont indiquées les heures normales de trading des produits énergétiques disponibles avec XS.
+        Des facteurs saisonniers et de marché peuvent influencer les heures de trading ci-dessous. Il est donc important de suivre les dernières mises à jour sur la page des heures de trading pour rester informé des derniers changements saisonniers aux heures de trading. Tous les horaires sont en temps serveur (GMT+3).        <br/>
            	
         <span class='d-flex'> UKOIL  <span class='ms-auto'>Lundi 03:00 – Vendredi 24:00</span></span>
         <span class='ms-auto'>(Pause Quotidienne: 00:00:01 - 02:59:59)</span>
@@ -39,19 +39,19 @@ return [
     // &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Friday: 00:00 - 23:55
 
     "TRADING_CONDITION_2_TITLE" => "Spreads",
-    "TRADING_CONDITION_2_DESCRIPTION" => "XSTrades.com propose des spreads variables sur toutes les matières premières énergétiques, pour tous les types de compte. Ainsi, les spreads indiqués dans le tableau des spécifications des contrats sont les spreads moyens basés sur la journée de trading précédente. Pour connaître les spreads en direct, veuillez-vous référer à la plateforme de trading. Veuillez noter que les spreads peuvent s'élargir lorsque les marchés connaissent une liquidité plus faible, notamment lors des rollovers.",
+    "TRADING_CONDITION_2_DESCRIPTION" => "XS.com propose des spreads variables sur toutes les matières premières énergétiques, pour tous les types de compte. Ainsi, les spreads indiqués dans le tableau des spécifications des contrats sont les spreads moyens basés sur la journée de trading précédente. Pour connaître les spreads en direct, veuillez-vous référer à la plateforme de trading. Veuillez noter que les spreads peuvent s'élargir lorsque les marchés connaissent une liquidité plus faible, notamment lors des rollovers.",
 
     "TRADING_CONDITION_3_TITLE" => "Prix des graphiques",
-    "TRADING_CONDITION_3_DESCRIPTION" => "XSTrades.com propose une variété de comptes de trading pour répondre aux besoins et aux préférences de chaque trader. Nous proposons des comptes avec des prix bruts auxquels des commissions supplémentaires sont facturées. D'autres types de compte ne facturent pas de commission, mais intègrent plutôt des mark-ups dans les prix. Par défaut, le graphique dans les plateformes de trading MetaTrader affiche les prix bruts, tandis que la liste de marché affiche les prix du type de compte sur lequel le client effectue des transactions.",
+    "TRADING_CONDITION_3_DESCRIPTION" => "XS.com propose une variété de comptes de trading pour répondre aux besoins et aux préférences de chaque trader. Nous proposons des comptes avec des prix bruts auxquels des commissions supplémentaires sont facturées. D'autres types de compte ne facturent pas de commission, mais intègrent plutôt des mark-ups dans les prix. Par défaut, le graphique dans les plateformes de trading MetaTrader affiche les prix bruts, tandis que la liste de marché affiche les prix du type de compte sur lequel le client effectue des transactions.",
 
     "TRADING_CONDITION_4_TITLE" => "Swaps",
     "TRADING_CONDITION_4_DESCRIPTION" => "Le swap long est utilisé pour maintenir des positions d'achat ouvertes pendant la nuit, et le swap court est utilisé pour maintenir des positions de vente ouvertes pendant la nuit. Les swaps sont effectués à 00h00, heure du serveur, chaque jour, à l'exception du week-end, jusqu'à ce que la position soit clôturée. Des swaps triples sont appliqués le mercredi pour couvrir les frais de financement encourus pendant le week-end.",
 
     "TRADING_CONDITION_5_TITLE" => "Levier Dynamique",
-    "TRADING_CONDITION_5_DESCRIPTION" => "XSTrades.com propose un levier dynamique sur le pétrole brut sur la plupart des types de comptes. Les valeurs de levier dans le tableau des spécifications de contrat représentent le levier maximal pour chaque instrument de trading. Le levier maximal variera en fonction de vos positions nettes ouvertes. Le levier dynamique ne s'applique pas au gaz naturel. Pour plus de détails, veuillez consulter la page sur Levier Dynamique.",
+    "TRADING_CONDITION_5_DESCRIPTION" => "XS.com propose un levier dynamique sur le pétrole brut sur la plupart des types de comptes. Les valeurs de levier dans le tableau des spécifications de contrat représentent le levier maximal pour chaque instrument de trading. Le levier maximal variera en fonction de vos positions nettes ouvertes. Le levier dynamique ne s'applique pas au gaz naturel. Pour plus de détails, veuillez consulter la page sur Levier Dynamique.",
 
     "TRADING_CONDITION_6_TITLE" => "Levier Fixe",
-    "TRADING_CONDITION_6_DESCRIPTION" => "XSTrades.com propose un levier fixe sur le gaz naturel pour tous les types de compte. Dans ce cas, l'effet de levier maximal affiché dans le tableau des spécifications de contrat ne changera PAS en fonction de vos positions nettes ouvertes ou du type de compte. XSTrades.com propose un levier fixe sur certains types de compte pour tous les produits. Dans ce cas, le levier maximal affiché dans le tableau des spécifications de contrat ne changera PAS en fonction de vos positions nettes ouvertes. Le levier fixe s'applique aux types de compte Cent & Micro.",
+    "TRADING_CONDITION_6_DESCRIPTION" => "XS.com propose un levier fixe sur le gaz naturel pour tous les types de compte. Dans ce cas, l'effet de levier maximal affiché dans le tableau des spécifications de contrat ne changera PAS en fonction de vos positions nettes ouvertes ou du type de compte. XS.com propose un levier fixe sur certains types de compte pour tous les produits. Dans ce cas, le levier maximal affiché dans le tableau des spécifications de contrat ne changera PAS en fonction de vos positions nettes ouvertes. Le levier fixe s'applique aux types de compte Cent & Micro.",
 
     "TRADING_CONDITION_7_TITLE" => "Périodes de Exigences de Marge Supérieur",
     "TRADING_CONDITION_7_DESCRIPTION" => "Nous appliquons des mesures de gestion des risques pour protéger les positions contre une éventuelle forte volatilité pendant des événements clés et des périodes spécifiques qui influent sur la volatilité générale du marché.

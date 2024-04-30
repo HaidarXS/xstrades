@@ -19,12 +19,12 @@ return [
     'LETS_TALK_B2B' => 'Parlons B2B',
     'LETS_TALK_B2B_DESCRIPTION' => 'Notre équipe d’experts est prête à partager avec vous ses connaissances et ses idées pour s’assurer que vous atteignez vos objectifs et mettez en œuvre vos stratégies.
     <br /><br/> 
-   Si vous souhaitez parler à l\'un de nos experts chevronnés de vos besoins institutionnels et de nos solutions de trading institutionnel, veuillez nous envoyer un e-mail à <a href="mailto:b2b@XSTrades.com">b2b@XSTrades.com</a>.',
+   Si vous souhaitez parler à l\'un de nos experts chevronnés de vos besoins institutionnels et de nos solutions de trading institutionnel, veuillez nous envoyer un e-mail à <a href="mailto:b2b@xs.com">b2b@xs.com</a>.',
 
     'LETS_TALK_LIQUIDITY'=>'LET’S TALK LIQUIDITY',
     'LETS_TALK_LIQUIDITY_DISC'=>'Notre équipe d’experts est prête à partager avec vous ses connaissances et ses idées pour s’assurer que vous atteignez vos objectifs et mettez en œuvre vos stratégies.
     <br /><br/> 
-    Si vous souhaitez parler à l\'un de nos experts chevronnés de vos besoins institutionnels et de nos solutions de trading institutionnel, veuillez nous envoyer un e-mail à <a href="mailto:b2b@XSTrades.com">b2b@XSTrades.com</a>.',
+    Si vous souhaitez parler à l\'un de nos experts chevronnés de vos besoins institutionnels et de nos solutions de trading institutionnel, veuillez nous envoyer un e-mail à <a href="mailto:b2b@xs.com">b2b@xs.com</a>.',
 
     'XS_TECHNOLOGY'=>'Solutions technologiques et Fintech',
     'OUR_ADVEANCED_INFRASTRUCTURE'=> ' Notre infrastructure de trading avancée nous permet d\'offrir une large gamme de solutions technologiques et fintech conçues pour répondre aux exigences uniques des clients institutionnels. Ces solutions sont conçues pour les courtiers existants et nouveaux qui souhaitent avoir accès à notre technologie avancée et à notre infrastructure de négociation.',
@@ -67,7 +67,7 @@ return [
 
     'OUR_TEAM_OF_EXPERTS'=>'Notre équipe d\'experts partagera avec vous ses connaissances et ses idées pour s\'assurer que vous obtenez les meilleurs résultats et que vous utilisez les solutions technologiques et fintech appropriées qui répondent aux besoins et aux exigences de votre entreprise.
     <br/><br/>
-    Si vous souhaitez parler à l\'un de nos experts chevronnés de vos besoins institutionnels et de nos solutions technologiques et fintech, veuillez nous envoyer un e-mail à <a href="mailto:b2b@XSTrades.com">b2b@XSTrades.com</a>.',
+    Si vous souhaitez parler à l\'un de nos experts chevronnés de vos besoins institutionnels et de nos solutions technologiques et fintech, veuillez nous envoyer un e-mail à <a href="mailto:b2b@xs.com">b2b@xs.com</a>.',
     
     'FULL_TRADING_SOLUTION'=>'Solution de trading complète',
     'THE_FULL_TRADING_SOLUTIONS'=>'Le forfait « Solution de négociation complète » ou « Démarrez votre propre courtier » est conçu pour les clients corporatifs et institutionnels qui envisagent de démarrer leur propre entreprise de courtage. Cela leur permet d\'opérer en tant que courtier totalement indépendant et d\'offrir à leurs clients la possibilité de négocier des produits financiers mondiaux.

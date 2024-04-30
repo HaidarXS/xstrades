@@ -1,64 +1,78 @@
 [
   {
-    "title": "Most Secure Broker",
-    "country": "Muscat, Oman",
-    "date": "阿曼馬斯喀特",
+    "title": "最佳多資產經紀商 - LATAM",
+    "country": "墨西哥墨西哥城",
+    "date": "2024 年 4 月",
+    "sponsor": "UF Awards LATAM 2024<br/> Ultimate Fintech",
+    "img": "/webp/company-awards/most-multi-asset-broker-latam.webp"
+},
+{
+    "title": "最佳交易執行",
+    "country": "墨西哥墨西哥城",
+    "date": "2024 年 4 月",
+    "sponsor": "UF Awards LATAM 2024<br/> Ultimate Fintech",
+    "img": "/webp/company-awards/best-trade-execution.webp"
+},
+  {
+    "title": "最安全經紀商",
+    "country": "阿曼馬斯喀特",
+    "date": "2024 年 2 月",
     "sponsor": "阿曼高峰會 <br/> Smart Vision",
     "img": "/webp/company-awards/most-secure-broker-1.webp"
   },
   {
-    "title": "Best Global Broker",
+    "title": "最佳全球經紀商",
     "country": "卡達多哈",
-    "date": "February 2024",
-    "sponsor": "卡達金融博覽會 QFEX <br/> Afaq Group",
+    "date": "2024 年 2 月",
+    "sponsor": "卡達金融博覽會 QFEX <br/> Afaq 集團",
     "img": "/webp/company-awards/award03-1.webp"
   },
   {
     "title": "最佳多元資產經紀商-MEA",
-    "country": "Dubai, UAE",
-    "date": "January 2024  ",
+    "country": "阿聯酋杜拜",
+    "date": "2024 年 1 月",
     "sponsor": "UF AWARDS MEA 2024 <br/> Ultimate Fintech 集團",
     "img": "/img/awards/award01-2.webp"
   },
   {
     "title": "最佳交易條件-MEA",
-    "country": "Dubai, UAE,",
-    "date": "January 2024  ",
+    "country": "阿聯酋杜拜,",
+    "date": "2024 年 1 月",
     "sponsor": "UF授予MEA 2024 <br/> Ultimate Fintech 集團",
     "img": "/webp/company-awards/award02-1.webp"
   },
   {
     "title": "年度全球最佳經紀商",
-    "country": "Traders Fair Awards 大獎",
-    "sponsor": "FINEXPO 越南胡志明市",
+    "country": "越南胡志明市",
+    "sponsor": "Traders Fair Awards 大獎 <br> FINEXPO",
     "date": "2023 年 12 月",
     "img": "/webp/company-awards/global_broker_of_year-1.webp"
   },
   {
     "title": "亞洲最佳多元資產經紀商",
-    "country": "Traders Fair Awards 大獎",
-    "sponsor": "FINEXPO 越南胡志明市",
+    "country": "越南胡志明市",
+    "sponsor": "Traders Fair Awards 大獎 <br> FI",
     "date": "2023 年 12 月",
     "img": "/webp/company-awards/best_multi_asset_asia-1.webp"
   },
   {
     "title": "非洲最佳多元資產經紀商",
-    "country": "Traders Fair Awards 大獎",
-    "sponsor": "FINEXPO 越南胡志明市",
+    "country": "越南胡志明市",
+    "sponsor": "Traders Fair Awards 大獎 <br> FI",
     "date": "2023 年 12 月",
     "img": "/webp/company-awards/best_multi_asset_africa-1.webp"
   },
   {
     "title": "全球最具價值經紀商",
-    "country": "Smart Vision Investment Expo 展會",
-    "sponsor": "Smart Vision 埃及開羅",
+    "country": "埃及開羅",
+    "sponsor": "Smart Vision 投資博覽會 <br> Smart Vision",
     "date": "2023 年 11 月",
     "img": "/webp/company-awards/best_global_value_broker-1.webp"
   },
   {
     "title": "最佳客戶支援",
-    "country": "Smart Vision Investment Expo 展會",
-    "sponsor": "Smart Vision 埃及開羅",
+    "country": "埃及開羅",
+    "sponsor": "Smart Vision 投資博覽會  <br> Smart Vision",
     "date": "2023 年 11 月",
     "img": "/webp/company-awards/best_customer_support-1.webp"
   },

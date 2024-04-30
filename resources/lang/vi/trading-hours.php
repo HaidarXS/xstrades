@@ -8,7 +8,7 @@
         'TRADING_HOLIDAYS' => 'Ngày Lễ Giao Dịch',
         'TRADING_NOTICES' => 'Thông Báo Giao Dịch',
         'NORMAL_HOURS_TITLE' => 'Giờ Giao Dịch Bình Thường ',
-        'NORMAL_HOURS_DESC' => 'Giờ giao dịch thông thường đề cập đến các phiên giao dịch thông thường có sẵn để giao dịch trên một thị trường tài chính cụ thể. Bảng bên dưới hiển thị giờ giao dịch bình thường của các công cụ tài chính khác nhau có sẵn để giao dịch với XS Trades.
+        'NORMAL_HOURS_DESC' => 'Giờ giao dịch thông thường đề cập đến các phiên giao dịch thông thường có sẵn để giao dịch trên một thị trường tài chính cụ thể. Bảng bên dưới hiển thị giờ giao dịch bình thường của các công cụ tài chính khác nhau có sẵn để giao dịch với XS.
         <br/><br/>
         Các yếu tố thị trường và mùa vụ có thể ảnh hưởng đến giờ giao dịch dưới đây, vì vậy điều quan trọng là phải theo dõi các cập nhật mới nhất trên trang Thông báo giao dịch và ngày lễ giao dịch để luôn cập nhật những thay đổi mới nhất theo mùa về giờ giao dịch.
         <br/><br/>

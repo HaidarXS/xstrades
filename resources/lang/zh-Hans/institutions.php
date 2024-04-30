@@ -19,13 +19,13 @@ return [
     'LETS_TALK_B2B' => '谈一谈 B2B',
     'LETS_TALK_B2B_DESCRIPTION' => '我们的专家团队随时准备与您分享他们的知识和见解，以确保您实现目标和实施成功战略。
         <br/> <br/>
-        如果您想与我们经验丰富的专家讨论您的机构需求和我们的流动性解决方案，请发送电子邮件至 <a href="mailto:b2b@XSTrades.com" >b2b@XSTrades.com </a> 。
+        如果您想与我们经验丰富的专家讨论您的机构需求和我们的流动性解决方案，请发送电子邮件至 <a href="mailto:b2b@xs.com" >b2b@xs.com </a> 。
     ',
 
     'LETS_TALK_LIQUIDITY'=> '谈一谈流动性',
     'LETS_TALK_LIQUIDITY_DISC'=> '我们的专家团队随时准备与您分享他们的知识和见解，以确保您实现目标和实施成功战略。
         <br/><br/>
-        如果您想与我们经验丰富的专家讨论您的机构需求和我们的流动性解决方案，请发送电子邮件至 <a href="mailto:b2b@XSTrades.com">b2b@XSTrades.com</a>.',
+        如果您想与我们经验丰富的专家讨论您的机构需求和我们的流动性解决方案，请发送电子邮件至 <a href="mailto:b2b@xs.com">b2b@xs.com</a>.',
 
     'XS_TECHNOLOGY'=> '技术与金融科技解决方案',
     'WHY_XS_TECHNOLOGY'=> '为什么选择 XS 技术和金融技术解决方案？',
@@ -61,7 +61,7 @@ return [
     'LETS_TALK_FINTECH'=> '谈一谈金融科技',
     'OUR_TEAM_OF_EXPERTS'=> '我们的专家团队将与您分享他们的知识和见解，以确保您获得最佳结果并使用合适的技术和金融科技解决方案来满足您的业务需求。
     <br/><br/>
-    如果您想与我们经验丰富的专家讨论您的机构需求以及我们的技术和金融科技解决方案，请发送电子邮件至 <a href="mailto:b2b@XSTrades.com">b2b@XSTrades.com</a>.',
+    如果您想与我们经验丰富的专家讨论您的机构需求以及我们的技术和金融科技解决方案，请发送电子邮件至 <a href="mailto:b2b@xs.com">b2b@xs.com</a>.',
 
     'FULL_TRADING_SOLUTION'=> '全面的交易解決方案',
     'THE_FULL_TRADING_SOLUTIONS'=> '“全面的交易解决方案”或“启动您自己的经纪商”套餐计划专为开展自己的经纪业务的企业和机构客户而设计。该套餐使他们能够作为完全独立的经纪人开展业务，并为客户提供交易全球金融产品的能力。',

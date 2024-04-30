@@ -9,7 +9,7 @@
         'BENIFITS_TITLE' => 'PRINCIPALES BENEFICIOS DE LA CUENTA COPY STANDARD  ',
 
         'BENIFIT_1' => 'Sin requisitos de depósito mínimo.',
-        'BENIFIT_2' => 'Disponible en plataformas de Copy Trading de XS Trades. Available on XS Copy Trading Platforms.',
+        'BENIFIT_2' => 'Disponible en plataformas de Copy Trading de XS. Available on XS Copy Trading Platforms.',
         'BENIFIT_3' => 'Spreads estables y bajos sin comisiones.',
         'BENIFIT_4' => 'Ejecución de mercado rápida y confiable (sin recotizaciones).',
         'BENIFIT_5' => 'Disponible en la plataforma de trading avanzada MT5.',

@@ -10,12 +10,12 @@ return [
     'LETS_TALK_B2B' => 'Hãy kết nối ',
     'LETS_TALK_B2B_DESCRIPTION' => 'Đội ngũ chuyên gia của chúng tôi sẵn sàng chia sẻ với bạn kiến thức và hiểu biết sâu sắc của họ để đảm bảo bạn đáp ứng được mục tiêu và thực hiện chiến lược của mình.
     <br /><br/> 
-   Để kết nối với các chuyên gia dày dạn kinh nghiệm của chúng tôi về nhu cầu của tổ chức, vui lòng gởi email cho chúng tôi theo địa chỉ <a href="mailto:b2b@XSTrades.com">b2b@XSTrades.com</a>.',
+   Để kết nối với các chuyên gia dày dạn kinh nghiệm của chúng tôi về nhu cầu của tổ chức, vui lòng gởi email cho chúng tôi theo địa chỉ <a href="mailto:b2b@xs.com">b2b@xs.com</a>.',
 
     'LETS_TALK_LIQUIDITY'=>'Hãy kết nối',
     'LETS_TALK_LIQUIDITY_DISC'=>'Đội ngũ chuyên gia của chúng tôi sẵn sàng chia sẻ với bạn kiến thức và hiểu biết sâu sắc của họ để đảm bảo bạn đáp ứng được mục tiêu và thực hiện chiến lược của mình.
     <br /><br/> 
-    Để kết nối với các chuyên gia dày dạn kinh nghiệm của chúng tôi về nhu cầu của tổ chức, vui lòng gởi email cho chúng tôi theo địa chỉ <a href="mailto:b2b@XSTrades.com">b2b@XSTrades.com</a>.',
+    Để kết nối với các chuyên gia dày dạn kinh nghiệm của chúng tôi về nhu cầu của tổ chức, vui lòng gởi email cho chúng tôi theo địa chỉ <a href="mailto:b2b@xs.com">b2b@xs.com</a>.',
 
     'XS_TECHNOLOGY'=>'Giải pháp Công nghệ & Fintech',
 
@@ -63,13 +63,13 @@ return [
 
     'OUR_TEAM_OF_EXPERTS'=>'Đội ngũ chuyên gia của chúng tôi sẽ chia sẻ với bạn kiến thức và hiểu biết sâu sắc của họ để đảm bảo bạn nhận được kết quả tốt nhất và sử dụng các giải pháp công nghệ & fintech phù hợp, đáp ứng nhu cầu và yêu cầu kinh doanh của bạn.
     <br/><br/>
-    Nếu bạn muốn nói chuyện với một trong những chuyên gia dày dạn kinh nghiệm của chúng tôi về nhu cầu tổ chức của bạn cũng như các giải pháp công nghệ & fintech của chúng tôi, vui lòng gửi email cho chúng tôi theo địa chỉ b2b@XSTrades.com.',
+    Nếu bạn muốn nói chuyện với một trong những chuyên gia dày dạn kinh nghiệm của chúng tôi về nhu cầu tổ chức của bạn cũng như các giải pháp công nghệ & fintech của chúng tôi, vui lòng gửi email cho chúng tôi theo địa chỉ b2b@xs.com.',
     
     'FULL_TRADING_SOLUTION'=>'Giải pháp giao dịch đầy đủ',
 
     'THE_FULL_TRADING_SOLUTIONS'=>'Gói “Giải pháp giao dịch đầy đủ” hoặc “Bắt đầu nhà môi giới riêng cho bạn” được thiết kế dành cho các khách hàng doanh nghiệp và tổ chức đang có kế hoạch bắt đầu hoạt động kinh doanh môi giới của riêng mình. Nó cho phép họ hoạt động như một nhà môi giới hoàn toàn độc lập và cung cấp cho khách hàng khả năng giao dịch các sản phẩm tài chính toàn cầu. Gói này bao gồm một hệ thống giao dịch đa tài sản độc quyền có thương hiệu đầy đủ, với quyền truy cập vào nhóm thanh khoản cấp 1 đa tài sản của chúng tôi thông qua tích hợp API FIX và kết nối cầu nối. Nó cũng bao gồm mô-đun hỗ trợ đầy đủ, CRM, chương trình đào tạo hoàn chỉnh và hỗ trợ kỹ thuật 24/7. Là một phần của gói, bạn sẽ nhận được tư vấn và hướng dẫn trong việc thiết lập cơ cấu công ty và các yêu cầu cấp phép của riêng bạn.',
 
-    'WHY_XS_FULL_TRADING_SOLUTION'=>'Tại sao chọn Giải pháp giao dịch đầy đủ XS Trades?',
+    'WHY_XS_FULL_TRADING_SOLUTION'=>'Tại sao chọn Giải pháp giao dịch đầy đủ XS?',
 
     'EXTENSIVE_KNOWLEDGE'=>'Kiến thức và kinh nghiệm sâu rộng: ',
 
@@ -103,7 +103,7 @@ return [
 
     'INSTITUTIONAL_TRADING_DESC' => 'XS là công ty dẫn đầu thị trường về các giải pháp giao dịch đa tài sản của tổ chức, Fintech và ngành dịch vụ tài chính kể từ năm 2010, cung cấp cho khách hàng tổ chức và nhà môi giới trên toàn thế giới khả năng tiếp cận thanh khoản sâu của tổ chức và công nghệ giao dịch tiên tiến, kết hợp với trải nghiệm người dùng hiệu quả, mối quan hệ chất lượng cao. quản lý và hỗ trợ khách hàng tuyệt vời.',
 
-    'WHY_INSTITUTIONAL_TRADING' => 'Tại sao chọn Giải pháp giao dịch tổ chức XS Trades?',
+    'WHY_INSTITUTIONAL_TRADING' => 'Tại sao chọn Giải pháp giao dịch tổ chức XS?',
 
     'MULTIPLE_INSTITUTIONAL_SOLUTIONS' => 'Nhiều giải pháp thể chế',
 

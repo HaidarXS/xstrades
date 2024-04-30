@@ -7,10 +7,10 @@
         'CHOOSE_REASON_2_DESCRIPTION' => 'Nous accordons la priorité à la sécurité de vos fonds et de vos informations personnelles, vous offrant ainsi la tranquillité d\'esprit lorsque vous tradez.',
 
         'CHOOSE_REASON_3_TITLE' => 'Accès aux marchés mondiaux',
-        'CHOOSE_REASON_3_DESCRIPTION' => 'XSTrades.com fournit aux traders une passerelle vers les marchés financiers mondiaux, offrant un accès à une large gamme de classes d\'actifs.',
+        'CHOOSE_REASON_3_DESCRIPTION' => 'XS.com fournit aux traders une passerelle vers les marchés financiers mondiaux, offrant un accès à une large gamme de classes d\'actifs.',
 
         'CHOOSE_REASON_4_TITLE' => 'Technologie de trading avancée',
-        'CHOOSE_REASON_4_DESCRIPTION' => 'XSTrades.com propose des données de marché en temps réel, des graphiques personnalisables, des indicateurs techniques et des plateformes de trading de pointe.',
+        'CHOOSE_REASON_4_DESCRIPTION' => 'XS.com propose des données de marché en temps réel, des graphiques personnalisables, des indicateurs techniques et des plateformes de trading de pointe.',
 
         'CHOOSE_REASON_5_TITLE' => 'Processus d\'inscription facile',
         'CHOOSE_REASON_5_DESCRIPTION' => 'L\'inscription à un compte chez XS est un processus rapide et facile qui peut être effectué en quelques minutes, en utilisant des outils d\'inscription numériques.',

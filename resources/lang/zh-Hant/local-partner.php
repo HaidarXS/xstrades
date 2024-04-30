@@ -1,6 +1,6 @@
 <?php
 return[
-    'LOCAL_PARTNERS'=>'當地合作夥伴計劃',
+    'LOCAL_PARTNERS'=>'本地合作夥伴計劃',
 
     'LOCAL_PARTNERS_DESC'=>'作為全球市場的領導者，XS堅信為客戶提供本地客戶支持並使用他們的當地語言尤其重要，因此我們深知與本地合作夥伴合作的重要性。
     <br/><br/>

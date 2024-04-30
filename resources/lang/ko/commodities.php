@@ -35,13 +35,13 @@ return [
         // &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Friday: 00:00 - 23:55
 
     "TRADING_CONDITION_2_TITLE" => "스프레드",
-    "TRADING_CONDITION_2_DESCRIPTION" => "XSTrades.com은 모든 계정 유형에 대해 모든 원자재에 대한 변동 스프레드를 제공합니다. 따라서 계약 사양표의 스프레드는 전 거래일 기준의 평균 스프레드입니다. 실시간 스프레드에 대해서는 거래 플랫폼을 참조하세요. 롤오버 시간을 포함하여 시장의 유동성이 낮아지면 스프레드가 확대될 수 있다는 점에 유의하시기 바랍니다.",
+    "TRADING_CONDITION_2_DESCRIPTION" => "XS.com은 모든 계정 유형에 대해 모든 원자재에 대한 변동 스프레드를 제공합니다. 따라서 계약 사양표의 스프레드는 전 거래일 기준의 평균 스프레드입니다. 실시간 스프레드에 대해서는 거래 플랫폼을 참조하세요. 롤오버 시간을 포함하여 시장의 유동성이 낮아지면 스프레드가 확대될 수 있다는 점에 유의하시기 바랍니다.",
     
     "TRADING_CONDITION_3_TITLE" => "차트 가격",
-    "TRADING_CONDITION_3_DESCRIPTION" => "XSTrades.com은 각 거래자의 필요와 선호도에 맞는 다양한 거래 계정을 제공합니다. 당사는 추가 수수료가 부과되는 로우 가격(raw pricing)으로 계정을 제공합니다. 다른 계정 유형에는 커미션이 없지만 대신 가격에 마크업이 포함되어 있습니다. 기본적으로 Metatrader 거래 플랫폼의 차트에는 로우 가격(raw pricing)이 표시되고, 마켓 워치에는 고객이 거래하는 계정 유형의 가격이 표시됩니다.",
+    "TRADING_CONDITION_3_DESCRIPTION" => "XS.com은 각 거래자의 필요와 선호도에 맞는 다양한 거래 계정을 제공합니다. 당사는 추가 수수료가 부과되는 로우 가격(raw pricing)으로 계정을 제공합니다. 다른 계정 유형에는 커미션이 없지만 대신 가격에 마크업이 포함되어 있습니다. 기본적으로 Metatrader 거래 플랫폼의 차트에는 로우 가격(raw pricing)이 표시되고, 마켓 워치에는 고객이 거래하는 계정 유형의 가격이 표시됩니다.",
 
     "TRADING_CONDITION_4_TITLE" => "고정 레버리지",
-    "TRADING_CONDITION_4_DESCRIPTION" => "XSTrades.com은 모든 계정 유형에 대해 원자재에 대한 고정 레버리지를 제공합니다. 이 경우 계약 사양 표에 표시된 최대 레버리지는 순 오픈 포지션(net open positions) 또는 계정 유형에 따라 변경되지 않습니다.",
+    "TRADING_CONDITION_4_DESCRIPTION" => "XS.com은 모든 계정 유형에 대해 원자재에 대한 고정 레버리지를 제공합니다. 이 경우 계약 사양 표에 표시된 최대 레버리지는 순 오픈 포지션(net open positions) 또는 계정 유형에 따라 변경되지 않습니다.",
 
     "TRADING_CONDITION_5_TITLE" => "스탑 레벨 ",
     "TRADING_CONDITION_5_DESCRIPTION" => "스탑 레벨은 현재 시장가와 지정가 주문 (Pending Order)가격 사이의 최소 거리(핍 차이)입니다. 계약 사양 표의 스톱 레벨 값은 변경될 수 있으며 특정 고빈도 트레이딩 전략 또는 전문가 자문가(Expert Advisors)를 사용하는 거래자에게는 제공되지 않을 수 있습니다.",

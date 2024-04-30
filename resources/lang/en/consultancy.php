@@ -7,10 +7,10 @@ return [
     'CONSULTANCY_SERVICES' => 'Consultancy Services',
     'CONSULTANCY_SERVICES_DESCRIPTION' => 'Thanks to our long-term experience in the financial services industry, we have created an extensive pool of knowledge & experience, whether in the business environment, technical aspects, or understanding of customers’ needs and requirements.
     <br /><br />
-    XS  Trades offers expert consultancy services to institutions seeking professional guidance in the trading industry. Our team of experienced consultants provides valuable insights, market analysis, and strategic advice tailored to the specific needs and goals of each institution.',
+    XS offers expert consultancy services to institutions seeking professional guidance in the trading industry. Our team of experienced consultants provides valuable insights, market analysis, and strategic advice tailored to the specific needs and goals of each institution.',
 
     
-    'WHY_CHOSE_XS' => 'Why Choose XS Trades Consultancy Services?',
+    'WHY_CHOSE_XS' => 'Why Choose XS Consultancy Services?',
 
     'REASON_1_TITLE' => 'Expert Consultancy:',
     'REASON_1_DESCRIPTION' => ' Extensive pool of knowledge and experience tailored to your needs.',

@@ -10,17 +10,17 @@ return [
     'SECTION_2_TITLE' => 'TRADING DE METAIS COM A XS: ESPECIFICAÇÕES DE CONTRATO',
     "SECTION_3_TITLE" => "TRADING DE METAIS COM A XS: CONDIÇÕES DE TRADING",
  
-    'DESCRIPTION_1' => 'Bem-vindo ao mundo do trading de metais com a XS Trades. Descubra as vastas possibilidades de trading de metais com a XS Trades, onde você pode negociar CFDs em ouro, prata, platina, paládio, aço e outros metais com uma corretora premiada. A XS oferece uma plataforma perfeita para explorar a negociação de metais spot, permitindo que você capitalize em novas oportunidades de trading.',
+    'DESCRIPTION_1' => 'Bem-vindo ao mundo do trading de metais com a XS. Descubra as vastas possibilidades de trading de metais com a XS, onde você pode negociar CFDs em ouro, prata, platina, paládio, aço e outros metais com uma corretora premiada. A XS oferece uma plataforma perfeita para explorar a negociação de metais spot, permitindo que você capitalize em novas oportunidades de trading.',
  
     'DESCRIPTION_2' => 'A XS oferece acesso a uma ampla gama de metais, incluindo Ouro, Prata, Platina e Paládio. Planeje seus trades com confiança e otimize sua experiência de negociação de metais utilizando nossas especificações detalhadas de contrato. Explore nossas especificações de contrato abrangentes e obtenha um entendimento mais profundo de nossas excepcionais condições de trading, incluindo tamanho do contrato, alavancagem, spreads, comissões, swaps e mais para diferentes tipos de conta.',
  
  
     "TRADING_CONDITION_1_TITLE" => "Horário Normal de Trading",
-    "TRADING_CONDITION_1_DESCRIPTION" => "Os horários normais de trading referem-se às sessões regulares de trading disponíveis para negociação. Abaixo mostra os horários normais de trading para pares de metais disponíveis para trading com a XS Trades. 
+    "TRADING_CONDITION_1_DESCRIPTION" => "Os horários normais de trading referem-se às sessões regulares de trading disponíveis para negociação. Abaixo mostra os horários normais de trading para pares de metais disponíveis para trading com a XS. 
     <br/><br/>
     Fatores sazonais e de mercado podem afetar os horários de trading abaixo, então é importante seguir as últimas atualizações na página de Horários de Trading para se manter atualizado com as últimas mudanças sazonais nos horários de trading. 
     <br/><br/>
-    Todos os horários são no horário do servidor (GMT+2).
+    Todos os horários são no horário do servidor (GMT+3).
     <br/><br/>
     <span class='d-flex'>Pares XAU, XAG, XPD e XPT:  <span class='ms-auto'>Segunda 01:05 – Sexta 23:55
     <br/>
@@ -30,18 +30,18 @@ return [
  
  
     "TRADING_CONDITION_2_TITLE" => "Spreads",
-    "TRADING_CONDITION_2_DESCRIPTION" => "A XSTrades.com oferece spreads flutuantes em todos os metais para todos os tipos de conta. Os spreads na tabela de especificações de contrato são a média dos spreads baseados no dia de trading anterior. Por favor, note que os spreads podem alargar durante os períodos de baixa liquidez do mercado, incluindo o período de rollover.",
+    "TRADING_CONDITION_2_DESCRIPTION" => "A XS.com oferece spreads flutuantes em todos os metais para todos os tipos de conta. Os spreads na tabela de especificações de contrato são a média dos spreads baseados no dia de trading anterior. Por favor, note que os spreads podem alargar durante os períodos de baixa liquidez do mercado, incluindo o período de rollover.",
     "TRADING_CONDITION_3_TITLE" => "Preços dos Gráficos",
-    "TRADING_CONDITION_3_DESCRIPTION" => "A XSTrades.com oferece uma variedade de contas de trading para atender às necessidades e preferências de cada trader. Oferecemos contas com precificação bruta em que comissões adicionais são cobradas. Outros tipos de conta não têm comissões, mas incluem mark-ups incorporados nos preços. Por padrão, o gráfico na plataforma MetaTrader exibirá a precificação bruta, enquanto o market watch exibirá o preço do tipo de conta em que o cliente está utilizando.",
+    "TRADING_CONDITION_3_DESCRIPTION" => "A XS.com oferece uma variedade de contas de trading para atender às necessidades e preferências de cada trader. Oferecemos contas com precificação bruta em que comissões adicionais são cobradas. Outros tipos de conta não têm comissões, mas incluem mark-ups incorporados nos preços. Por padrão, o gráfico na plataforma MetaTrader exibirá a precificação bruta, enquanto o market watch exibirá o preço do tipo de conta em que o cliente está utilizando.",
  
     "TRADING_CONDITION_4_TITLE" => "Swaps",
     "TRADING_CONDITION_4_DESCRIPTION" => "Swap longo é utilizado para manter posições de compra abertas durante a noite, e Swap curto é utilizado para manter posições de venda abertas durante a noite. Os Swaps ocorrem à 00:00 Horário do Servidor todos os dias, exceto nos fins de semana, até que a posição seja fechada. Swaps triplos são cobrados às quartas-feiras para cobrir os custos de financiamento incorridos durante o fim de semana.",
  
     "TRADING_CONDITION_5_TITLE" => "Alavancagem Dinâmica",
-    "TRADING_CONDITION_5_DESCRIPTION" => "A XSTrades.com oferece alavancagem dinâmica em metais na maioria dos tipos de conta. Os valores de alavancagem na tabela de especificações de contrato são a alavancagem máxima para cada instrumento de trading. A alavancagem máxima mudará com base nas suas posições líquidas abertas. Para mais detalhes, por favor, verifique a página de Alavancagem Dinâmica.",
+    "TRADING_CONDITION_5_DESCRIPTION" => "A XS.com oferece alavancagem dinâmica em metais na maioria dos tipos de conta. Os valores de alavancagem na tabela de especificações de contrato são a alavancagem máxima para cada instrumento de trading. A alavancagem máxima mudará com base nas suas posições líquidas abertas. Para mais detalhes, por favor, verifique a página de Alavancagem Dinâmica.",
  
     "TRADING_CONDITION_6_TITLE" => "Alavancagem Fixa",
-    "TRADING_CONDITION_6_DESCRIPTION" => "A XSTrades.com oferece alavancagem fixa em alguns tipos de conta. Neste caso, a alavancagem máxima exibida na tabela de especificações do contrato NÃO mudará com base nas suas posições líquidas abertas. A alavancagem fixa aplica-se aos tipos de conta Cent e Mirco.",
+    "TRADING_CONDITION_6_DESCRIPTION" => "A XS.com oferece alavancagem fixa em alguns tipos de conta. Neste caso, a alavancagem máxima exibida na tabela de especificações do contrato NÃO mudará com base nas suas posições líquidas abertas. A alavancagem fixa aplica-se aos tipos de conta Cent e Mirco.",
  
     "TRADING_CONDITION_7_TITLE" => "Períodos de Requisitos de Margem Mais Altos",
     "TRADING_CONDITION_7_DESCRIPTION" => "Aplicamos medidas de gerenciamento de risco para proteger posições de possíveis altas volatilidades durante eventos-chave e períodos específicos de tempo que afetam a volatilidade geral do mercado. Maiores quantidades de margem são necessárias para abrir uma ordem durante esses períodos, que são conhecidos como períodos HMR (higher margin requirements). 

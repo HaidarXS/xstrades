@@ -7,7 +7,7 @@ return [
 
     'EASY_AND_FAST_DESC' => 'XS cung cấp thẻ Mastercard trả trước cùng ứng dụng di động cho phép bạn chuyển tiền trực tiếp từ tài khoản XS sang thẻ và ngược lại.
     <br/><br/>
-    Thẻ Mastercard trả trước XS cùng với Ứng dụng XS Cards được tích hợp hoàn toàn với Cổng thông tin khách hàng XS Trades, giúp toàn bộ quá trình gửi và rút tiền trở nên suôn sẻ và đơn giản.
+    Thẻ Mastercard trả trước XS cùng với Ứng dụng XS Cards được tích hợp hoàn toàn với Cổng thông tin khách hàng XS, giúp toàn bộ quá trình gửi và rút tiền trở nên suôn sẻ và đơn giản.
     <br/><br/>
     Ứng dụng Thẻ XS & Mastercard trả trước XS có một số tính năng độc quyền, cho phép các nhà giao dịch và đối tác theo dõi giao dịch ngay trên điện thoại di động.
     <br/><br/>
@@ -31,9 +31,9 @@ return [
 
     'APPLY_FOR_YOUR_XS_MASTER_CARD' => 'Đăng ký thẻ XS Mastercard ',
 
-    'APPLY_FOR_YOUR_XS_MASTER_CARD_DESC' => 'Tham gia XS Trades, nhận thẻ XS Mastercard trả trước, tận hưởng đặc quyền truy cập tài sản mọi lúc.
+    'APPLY_FOR_YOUR_XS_MASTER_CARD_DESC' => 'Tham gia XS, nhận thẻ XS Mastercard trả trước, tận hưởng đặc quyền truy cập tài sản mọi lúc.
     <br/><br/>
-    Mọi thắc mắc liên quan đến thẻ XS Mastercard trả trước, vui lòng liên hệ với chúng tôi theo <a href="mailto:support@XSTrades.com" class="xs-btn fill text-secondary">Support@XSTrades.com</a>.
+    Mọi thắc mắc liên quan đến thẻ XS Mastercard trả trước, vui lòng liên hệ với chúng tôi theo <a href="mailto:support@xs.com" class="xs-btn fill text-secondary">Support@xs.com</a>.
     <br/><br/>
     Thẻ XS Mastercard trả trước có thể không được cung cấp cho khách hàng ở một số khu vực pháp lý nhất định do các quy định tài chính.'
 ];

@@ -3,6 +3,7 @@ return [
 
     'PAGE_TITLE' => '諮詢服務',
     'PAGE_DESC' => '透過我們的專家諮詢服務，最大限度地挖掘您的業務潛力。',
+    'WHY_CHOSE_XS' => '為什麼選擇XS諮詢服務？',
 
     'CONSULTANCY_SERVICES' => '諮詢服務',
 

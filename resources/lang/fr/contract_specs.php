@@ -77,23 +77,23 @@ return [
     En vous familiarisant avec ces spécifications, vous pouvez prendre des décisions de trading éclairées et gérer efficacement vos positions.',
 
     'SPREAD_TITLE' => 'Spreads',
-    'SPREAD_DESCRIPTION' => 'XSTrades.com propose un spread flottant sur tous les types de comptes et toutes les classes d’actifs. Par conséquent, les spreads dans le tableau des spécifications du contrat sont le spread moyen basé sur le jour de bourse précédent. Pour les spreads en direct, veuillez-vous référer à la plateforme de trading.
+    'SPREAD_DESCRIPTION' => 'XS.com propose un spread flottant sur tous les types de comptes et toutes les classes d’actifs. Par conséquent, les spreads dans le tableau des spécifications du contrat sont le spread moyen basé sur le jour de bourse précédent. Pour les spreads en direct, veuillez-vous référer à la plateforme de trading.
         Veuillez noter que les spreads peuvent s’élargir lorsque les marchés connaissent une liquidité plus faible, y compris le temps de rollover',
 
     'DYNAMIC_LEVERAGE_TITLE' => 'Levier dynamique',
-    'DYNAMIC_LEVERAGE_DESCRIPTION' => "XSTrades.com propose un levier dynamique sur la plupart des classes d'actifs et types de comptes. Les valeurs d'effet de levier dans le tableau des spécifications contractuelles représentent le levier maximal pour chaque instrument de trading. Le levier maximal peut changer en fonction de vos positions nettes ouvertes. Pour plus de détails sur l'effet de levier dynamique, veuillez cliquer ici.",
+    'DYNAMIC_LEVERAGE_DESCRIPTION' => "XS.com propose un levier dynamique sur la plupart des classes d'actifs et types de comptes. Les valeurs d'effet de levier dans le tableau des spécifications contractuelles représentent le levier maximal pour chaque instrument de trading. Le levier maximal peut changer en fonction de vos positions nettes ouvertes. Pour plus de détails sur l'effet de levier dynamique, veuillez cliquer ici.",
     
     'SWAPS_TITLE' => "Swaps",
     "SWAPS_DESCRIPTION" => "Le swap long est utilisé pour maintenir les positions d'achat ouvertes pendant la nuit, tandis que le swap court est utilisé pour maintenir les positions de vente ouvertes pendant la nuit.
         Les swaps ont lieu à 00:00 heure du serveur, à l'exception du week-end, jusqu'à ce que la position soit fermée. Des swaps triples sont facturés les mercredis pour couvrir les coûts de financement encourus pendant le week-end.",
 
     "CHARTS_TITLE" => "Graphiques par rapport aux écarts du Market Watch",
-    "CHARTS_DESCRIPTION" => "XSTrades.com propose une variété de comptes de trading pour répondre aux besoins et préférences de chaque trader. Nous proposons des comptes avec une tarification brute sur laquelle des commissions supplémentaires sont facturées. D'autres types de comptes n'ont pas de commission, mais intègrent plutôt des majorations dans les prix.
+    "CHARTS_DESCRIPTION" => "XS.com propose une variété de comptes de trading pour répondre aux besoins et préférences de chaque trader. Nous proposons des comptes avec une tarification brute sur laquelle des commissions supplémentaires sont facturées. D'autres types de comptes n'ont pas de commission, mais intègrent plutôt des majorations dans les prix.
         Par défaut, le graphique dans les plateformes de trading Metatrader affichera la tarification brute, tandis que le Market Watch affichera la tarification du type de compte sur lequel le client effectue des transactions.
     ",
 
     "FIXED_LEVERAGE_TITLE" => "Levier fixe",
-    "FIXED_LEVERAGE_DESCRIPTION" => "XSTrades.com offre un levier fixe sur certaines classes d'actifs et types de comptes. Dans ce cas, le niveau maximal d'effet de levier affiché dans le tableau des spécifications contractuelles NE changera PAS en fonction de vos positions nettes ouvertes.
+    "FIXED_LEVERAGE_DESCRIPTION" => "XS.com offre un levier fixe sur certaines classes d'actifs et types de comptes. Dans ce cas, le niveau maximal d'effet de levier affiché dans le tableau des spécifications contractuelles NE changera PAS en fonction de vos positions nettes ouvertes.
         Le Levier fixe s'applique aux éléments suivants :
         -Toutes les classes d'actifs sur les types de compte Cent et Micro
         -Contrats à terme, matières premières, actions et cryptomonnaies (à l'exception de BTC et ETH) sur tous les types de compte.

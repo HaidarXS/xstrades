@@ -2,7 +2,7 @@
 return [
     'MEDIA_CENTER' => 'المركز الإعلامي',
     'STAY_INFORMED' => "كُن دوماً على اطلاع على أخر التطورات في إكس أس من خلال المركز الإعلامي.",
-    'JOIN_XS' => 'Join XS Trades',
+    'JOIN_XS' => 'Join XS',
     // 'STAY_INFORMED' => "كُن دوماً على اطلاع على التطورات في مجموعة إكس أس العالمية من خلال مركز إكس أس الإعلامي. يمكنك متابعة جميع المعلومات الأساسية المتعلقة بأنشطة شركتنا وانجازاتها كالبيانات الصحفية، أخبار الشركة، آخر التحديثات، وغيرها.",
     'MEDIA_CONTACT' => 'Media Contact',
     'MEDIA_CONTACT_DESC' => 'For any press related inquiries please reach out to:',

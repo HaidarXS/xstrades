@@ -17,17 +17,17 @@ return [
     //markets
     'TRADE_GLOBAL_MULTI_ASSET'=>'Negocie nos mercados financeiros globais com a melhor corretora de múltiplos ativos.',
 
-    'TRADE_GLOBAL_MULTI_ASSET_DISC'=>'Explore o mundo da negociação online com o XS Trades, onde você pode negociar nos maiores mercados financeiros globais e acessar mais de 1.000 instrumentos de negociação e múltiplas classes de ativos a partir de uma única conta.Negocie uma ampla gama de classes de ativos, incluindo forex, ações, metais, futuros, commodities e índices. Experimente spreads reduzidos, preços competitivos, execução perfeita e beneficie-se de pesquisas de mercado de alta qualidade fornecidas por nossa equipe profissional de especialistas e analistas de mercado.',
+    'TRADE_GLOBAL_MULTI_ASSET_DISC'=>'Explore o mundo da negociação online com o XS, onde você pode negociar nos maiores mercados financeiros globais e acessar mais de 1.000 instrumentos de negociação e múltiplas classes de ativos a partir de uma única conta.Negocie uma ampla gama de classes de ativos, incluindo forex, ações, metais, futuros, commodities e índices. Experimente spreads reduzidos, preços competitivos, execução perfeita e beneficie-se de pesquisas de mercado de alta qualidade fornecidas por nossa equipe profissional de especialistas e analistas de mercado.',
 
-    'WHY_TRADE_WITH_XS'=>'Por que negociar com XS Trades?',
+    'WHY_TRADE_WITH_XS'=>'Por que negociar com XS?',
 
-    'WHY_TRADE_CDF'=>'Por que negociar CFDs com XS Trades?',
+    'WHY_TRADE_CDF'=>'Por que negociar CFDs com XS?',
 
-    'WHY_TRADE_CDF_DISC'=>'Descubra as vantagens de negociar CFDs com XS Trades. Desfrute de uma experiência de negociação otimizada.',
+    'WHY_TRADE_CDF_DISC'=>'Descubra as vantagens de negociar CFDs com XS. Desfrute de uma experiência de negociação otimizada.',
 
     'LEVERAGE_AND_FLEXIBILITY'=>'Alavancagem e flexibilidade:',
 
-    'LEVERAGE_AND_FLEXIBILITY_DISC'=>'Maximize seu potencial comercial com XS Trades. Beneficie da alavancagem, permitindo-lhe ampliar a exposição ao mercado com investimentos mais pequenos. Desfrute de maior flexibilidade nas suas estratégias de negociação.',
+    'LEVERAGE_AND_FLEXIBILITY_DISC'=>'Maximize seu potencial comercial com XS. Beneficie da alavancagem, permitindo-lhe ampliar a exposição ao mercado com investimentos mais pequenos. Desfrute de maior flexibilidade nas suas estratégias de negociação.',
 
     'LONG_AND_SHORT'=>'Posições longas e curtas:',
 
@@ -38,11 +38,11 @@ return [
     'FRACTIONAL_TRADING_DISC'=>'Diversifique seu portfólio sem limitações. XS oferece negociação fracionária, permitindo investir em múltiplas classes de ativos com orçamentos menores. Expanda sua participação no mercado e melhore a diversificação do portfólio.',
 
     //Metals page
-    'METALS_DESC' => 'Descubra as vastas possibilidades de negociação de metais com XS Trades, onde pode negociar CFDs sobre ouro, prata, platina, paládio e outros metais com um corretor premiado. XS oferece uma plataforma perfeita para explorar a negociação de metais à vista, permitindo que você capitalize novas oportunidades de negociação.',
+    'METALS_DESC' => 'Descubra as vastas possibilidades de negociação de metais com XS, onde pode negociar CFDs sobre ouro, prata, platina, paládio e outros metais com um corretor premiado. XS oferece uma plataforma perfeita para explorar a negociação de metais à vista, permitindo que você capitalize novas oportunidades de negociação.',
 
     'UNLOCK_THE_POTENTIAL' => 'Desbloqueie o potencial do comércio de metais com XS',
 
-    'UNLOCK_THE_POTENTIAL_DESC' => 'Unleash the Power of Trading the worlds leading stock indices, and Trade International Stock Indices with XS Trades. Gain Access to Global Markets and Seamlessly Buy and Sell Leading stock indices such as Dow Jones, Dax, Nasdaq, and More Join XSTrades.com today and and unleash the power of stock indices trading',
+    'UNLOCK_THE_POTENTIAL_DESC' => 'Unleash the Power of Trading the worlds leading stock indices, and Trade International Stock Indices with XS. Gain Access to Global Markets and Seamlessly Buy and Sell Leading stock indices such as Dow Jones, Dax, Nasdaq, and More Join XS.com today and and unleash the power of stock indices trading',
 
     'METALS_TRADING_WITH_XS' => 'Negociação de Metais com XS',
 
@@ -75,7 +75,7 @@ return [
 
     'ENERGY_TRADING_WITH_XS' => 'Comercialização de Energia com XS',
 
-    'ENERGY_TRADING_WITH_XS_DESC' => 'Com o XS Trades, você pode aproveitar nosso ambiente de negociação vantajoso, com preços competitivos, spreads reduzidos e execução eficiente. Aproveite as vantagens de nossas plataformas de negociação MetaTrader 4 e MetaTrader 5 de última geração, acessíveis em vários dispositivos, garantindo uma experiência de negociação perfeita.',
+    'ENERGY_TRADING_WITH_XS_DESC' => 'Com o XS, você pode aproveitar nosso ambiente de negociação vantajoso, com preços competitivos, spreads reduzidos e execução eficiente. Aproveite as vantagens de nossas plataformas de negociação MetaTrader 4 e MetaTrader 5 de última geração, acessíveis em vários dispositivos, garantindo uma experiência de negociação perfeita.',
 
     'UNDERSTANDING_ENERGIES' => 'Visão geral da energia',
     
@@ -96,11 +96,11 @@ return [
 
     'JOIN_THE_DIGITAL_REVOLUTION' => 'Junte-se à Revolução Digital com Negociação de Criptomoedas',
 
-    'JOIN_THE_DIGITAL_REVOLUTION_DESC' => 'Descubra o mundo das criptomoedas e libere o potencial dos ativos digitais com XS Trades. Negocie criptomoedas populares, como Bitcoin, Ethereum, Litecoin e muito mais, e aproveite as oportunidades no mercado de criptomoedas em rápida evolução. Cadastre-se hoje mesmo em XSTrades.com e embarque em sua jornada de negociação de criptomoedas.',
+    'JOIN_THE_DIGITAL_REVOLUTION_DESC' => 'Descubra o mundo das criptomoedas e libere o potencial dos ativos digitais com XS. Negocie criptomoedas populares, como Bitcoin, Ethereum, Litecoin e muito mais, e aproveite as oportunidades no mercado de criptomoedas em rápida evolução. Cadastre-se hoje mesmo em XS.com e embarque em sua jornada de negociação de criptomoedas.',
 
     'CRYPTOCURRENCY_TRADING_WITH_XS' => 'Negociação de criptomoeda com XS',
 
-    'CRYPTOCURRENCY_TRADING_WITH_XS_DESC' => 'Experimente a emoção da negociação de criptomoedas com XSTrades.com. Nossas plataformas oferecem negociação contínua de uma ampla variedade de criptomoedas, permitindo que você aproveite a volatilidade do mercado e possíveis movimentos de preços. Beneficie-se de nossas ferramentas de negociação avançadas, soluções de armazenamento seguras e execução confiável para negociar criptomoedas com confiança.',
+    'CRYPTOCURRENCY_TRADING_WITH_XS_DESC' => 'Experimente a emoção da negociação de criptomoedas com XS.com. Nossas plataformas oferecem negociação contínua de uma ampla variedade de criptomoedas, permitindo que você aproveite a volatilidade do mercado e possíveis movimentos de preços. Beneficie-se de nossas ferramentas de negociação avançadas, soluções de armazenamento seguras e execução confiável para negociar criptomoedas com confiança.',
 
     'UNDERSTANDING_CRTYPTOCURRENCIES' => 'Compreendendo as criptomoedas: uma visão geral',
 
@@ -121,15 +121,15 @@ return [
 
     'EXPERIENCE_THE_WORLD_OF_COMMODITIES' => 'Experimente o mundo do comércio de commodities com um corretor global',
 
-    'EXPERIENCE_THE_WORLD_OF_COMMODITIES_DESC' => 'Embarque em uma jornada emocionante no comércio de commodities com XS Trades. Nossas plataformas oferecem uma ampla gama de instrumentos CFD que abrangem diversas commodities. A negociação de commodities oferece uma oportunidade única de participação nos mercados globais, com potencial para retornos favoráveis.',
+    'EXPERIENCE_THE_WORLD_OF_COMMODITIES_DESC' => 'Embarque em uma jornada emocionante no comércio de commodities com XS. Nossas plataformas oferecem uma ampla gama de instrumentos CFD que abrangem diversas commodities. A negociação de commodities oferece uma oportunidade única de participação nos mercados globais, com potencial para retornos favoráveis.',
 
     'COMMODITIES_TRADING_WITH_XS' => 'Negociação de commodities com XS',
 
-    'COMMODITIES_TRADING_WITH_XS_DESC' => 'Experience the excitement of Share & Stock trading with XSTrades.com. Take advantage of our platforms’ seamless CFD trading capabilities, offering you the opportunity to trade CFDs on thousands of global shares. Benefit from ultra-fast order execution and competitive trading conditions, ensuring that you can seize market opportunities swiftly and efficiently. Trade CFDs on shares of renowned companies in the US, UK, and EU, including some of the largest and most popular corporations.',
+    'COMMODITIES_TRADING_WITH_XS_DESC' => 'Experience the excitement of Share & Stock trading with XS.com. Take advantage of our platforms’ seamless CFD trading capabilities, offering you the opportunity to trade CFDs on thousands of global shares. Benefit from ultra-fast order execution and competitive trading conditions, ensuring that you can seize market opportunities swiftly and efficiently. Trade CFDs on shares of renowned companies in the US, UK, and EU, including some of the largest and most popular corporations.',
 
     'UNDERSTANDING_COMMODITIES' => 'Visão geral de commodities: descubra o mundo do comércio de commodities com XS',
 
-    'UNDERSTANDING_COMMODITIES_DESC_1' => 'Bem-vindo ao mundo do comércio de commodities com XS Trades. As commodities representam bens tangíveis que são vitais para a nossa vida diária, como metais, recursos energéticos, produtos agrícolas e muito mais. Nesta visão geral, exploraremos os principais aspectos da negociação de commodities, incluindo commodities populares, a dinâmica do mercado e as vantagens da negociação de commodities com XS Trades.',
+    'UNDERSTANDING_COMMODITIES_DESC_1' => 'Bem-vindo ao mundo do comércio de commodities com XS. As commodities representam bens tangíveis que são vitais para a nossa vida diária, como metais, recursos energéticos, produtos agrícolas e muito mais. Nesta visão geral, exploraremos os principais aspectos da negociação de commodities, incluindo commodities populares, a dinâmica do mercado e as vantagens da negociação de commodities com XS.',
 
     'UNDERSTANDING_COMMODITIES_DESC_2' => 'Mercadorias Populares O comércio de mercadorias abrange uma vasta gama de activos, incluindo metais preciosos como o ouro e a prata, recursos energéticos como o petróleo e o gás natural, produtos agrícolas como o trigo e o milho, bem como metais industriais como o cobre e o alumínio. Estas mercadorias desempenham papéis essenciais em vários setores e oferecem diversas oportunidades comerciais.',
 

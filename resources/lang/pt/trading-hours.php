@@ -8,7 +8,7 @@
         'TRADING_HOLIDAYS' => 'Operação em Feriados',
         'TRADING_NOTICES' => 'Avisos sobre o Mercado',
         'NORMAL_HOURS_TITLE' => 'Horários Normais de Operação',
-        'NORMAL_HOURS_DESC' => 'Os Horários Normais de Operação referem-se às sessões de operação regulares disponíveis para negociação em um mercado financeiro específico. As tabelas abaixo mostram os horários normais de diferentes instrumentos financeiros disponíveis para negociação com a XS Trades.
+        'NORMAL_HOURS_DESC' => 'Os Horários Normais de Operação referem-se às sessões de operação regulares disponíveis para negociação em um mercado financeiro específico. As tabelas abaixo mostram os horários normais de diferentes instrumentos financeiros disponíveis para negociação com a XS.
         <br/><br/>
         Fatores sazonais e de mercado podem afetar os horários de operação abaixo, por isso é importante seguir as últimas atualizações nas páginas de Operações em Feriados & Avisos sobre o Mercado para se manter atualizado com as últimas mudanças sazonais nos horários de operação.
         <br/><br/>

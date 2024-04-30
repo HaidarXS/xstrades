@@ -19,15 +19,15 @@ return [
     'LETS_TALK_B2B' => 'LET\'S TALK B2B',
     'LETS_TALK_B2B_DESCRIPTION' => 'Our team of experts is ready to share with you their knowledge and insights to make sure you meet your objectives and implement your strategies.
     <br /><br/> 
-    If you would like to talk to one of our seasoned experts about your institutional needs and our liquidity solutions, please email us at <a href="mailto:b2b@XSTrades.com">b2b@XSTrades.com</a>.',
+    If you would like to talk to one of our seasoned experts about your institutional needs and our liquidity solutions, please email us at <a href="mailto:b2b@xs.com">b2b@xs.com</a>.',
 
     'LETS_TALK_LIQUIDITY'=>'LET’S TALK LIQUIDITY',
-    'LETS_TALK_LIQUIDITY_DISC'=>'Our team of experts is ready to share with you their knowledge and insights to make sure you meet your objectives and implement your strategies. If you would like to talk to one of our seasoned experts about your institutional needs and our liquidity solutions, please email us at <a href="mailto:b2b@XSTrades.com">b2b@XSTrades.com</a>.',
+    'LETS_TALK_LIQUIDITY_DISC'=>'Our team of experts is ready to share with you their knowledge and insights to make sure you meet your objectives and implement your strategies. If you would like to talk to one of our seasoned experts about your institutional needs and our liquidity solutions, please email us at <a href="mailto:b2b@xs.com">b2b@xs.com</a>.',
 
     'XS_TECHNOLOGY'=>'Technology & Fintech Solutions',
     'OUR_ADVEANCED_INFRASTRUCTURE'=> ' Our advanced infrastructure allows us to provide tailored institutional services & solutions to a wide range of institutional clients. These services and solutions can be customized and tailored to meet the needs of our corporate and Institutional clients who wish to benefit from the knowledge and experience we have acquired over the years. We are committed to helping our clients achieve their trading objectives while providing comprehensive support, personalized service, and innovative solutions.',
 
-    'WHY_XS_TECHNOLOGY'=>'Why Choose XS Trades Technology & Fintech Solutions?',
+    'WHY_XS_TECHNOLOGY'=>'Why Choose XS Technology & Fintech Solutions?',
     
     'CUTTING_EDGE'=> 'Advanced Technology:',
     'OUR_ADVANCED_TECHNOLOGY'=> 'Efficient execution, real-time market data, & seamless connectivity. ',
@@ -65,13 +65,13 @@ return [
 
     'OUR_TEAM_OF_EXPERTS'=>'Our team of experts will share with you their knowledge and insights to make sure you get the best results and use the suitable technology & fintech solutions that meet your business needs and requirements.
     <br/><br/>
-    If you would like to talk to one of our seasoned experts about your institutional needs and our technology & fintech solutions, please email us at <a href="mailto:b2b@XSTrades.com">b2b@XSTrades.com</a>.',
+    If you would like to talk to one of our seasoned experts about your institutional needs and our technology & fintech solutions, please email us at <a href="mailto:b2b@xs.com">b2b@xs.com</a>.',
     
     'FULL_TRADING_SOLUTION'=>'Full Trading Solution',
     'THE_FULL_TRADING_SOLUTIONS'=>'The “Full Trading Solution” or “Start you Own Broker” Package is designed for corporate and institutional clients who are planning to start their own brokerage business. It enables them to operate as a fully independent broker and to provide their clients with the ability to trade global financial products. 
     The package includes a fully branded proprietary multi-asset trading system, with access to our multi-asset tier-1 liquidity pools via FIX API integration and bridge connection. It also includes a full back-office module, CRM, a complete training program and 24/7 technical support. As a part of the package, you will get consultancy and guidance in setting up your own corporate structure and licensing requirements.',
     
-    'WHY_XS_FULL_TRADING_SOLUTION'=>'Why Choose XS Trades Full Trading Solution?',
+    'WHY_XS_FULL_TRADING_SOLUTION'=>'Why Choose XS Full Trading Solution?',
     
     'EXTENSIVE_KNOWLEDGE'=> 'Expert Guidance: ',
     'ACCESS_TO_AN_EXTENSIVE'=> ' Extensive pool of knowledge and experience tailored to your needs. ',
@@ -95,8 +95,8 @@ return [
     'OUR_EXPERIENCED_RELATIONSHIP_MANAGERS'=> ' Our experts provide you with tailored guidance & continuous support.',
 
     'INSTITUTIONAL_TRADING' => 'Institutional Trading Solution',
-    'INSTITUTIONAL_TRADING_DESC' => 'XS Trades is a market leader in institutional multi-asset trading solutions, Fintech, and financial services industry since 2010, providing institutional clients and brokers worldwide with access to deep institutional liquidity and advanced trading technology, combined with an efficient user experience, high-quality relationship management and excellent customer support.',
-    'WHY_INSTITUTIONAL_TRADING' => 'Why Choose XS Trades Institutional Trading Solutions?',
+    'INSTITUTIONAL_TRADING_DESC' => 'XS is a market leader in institutional multi-asset trading solutions, Fintech, and financial services industry since 2010, providing institutional clients and brokers worldwide with access to deep institutional liquidity and advanced trading technology, combined with an efficient user experience, high-quality relationship management and excellent customer support.',
+    'WHY_INSTITUTIONAL_TRADING' => 'Why Choose XS Institutional Trading Solutions?',
 
     'MULTIPLE_INSTITUTIONAL_SOLUTIONS' => 'MULTIPLE INSTITUTIONAL SOLUTIONS',
     'MULTIPLE_INSTITUTIONAL_SOLUTIONS_DESC' => 'Our advanced trading infrastructure allows us to offer multiple institutional trading solutions to a wide range of institutional clients.',

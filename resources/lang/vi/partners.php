@@ -16,7 +16,7 @@ return [
     'STEP_2_DESCRIPTION' => 'Chia sẻ đường link giới thiệu đến khách hàng',
     'STEP_3_DESCRIPTION' => 'Gia tăng thu nhập khi khách hàng giao dịch trên XS',
 
-    'WHY_JOIN_INFLUENCERS_XS' => 'Tại sao nên tham gia chương trình Influencers tại XS Trades?',
+    'WHY_JOIN_INFLUENCERS_XS' => 'Tại sao nên tham gia chương trình Influencers tại XS?',
 
     'INFLUENCERS_REASON_1_TITLE' => 'Nhiều chương trình:',
     'INFLUENCERS_REASON_1_DESCRIPTION' => ' Nhiều chương trình hợp tác của chúng tôi được thiết kế để phù hợp với nhu cầu của nhiều đối tác.',
@@ -42,10 +42,10 @@ return [
     'INFLUENCERS_REASON_8_TITLE' => ' Điều khoản độc quyền:',
     'INFLUENCERS_REASON_8_DESCRIPTION' => 'Điều kiện hợp tác cạnh tranh dành cho bạn và trải nghiệm giao dịch tốt nhất cho khách hàng của bạn.',
 
-    'WHY_CLIENTS_CHOSE_XS' => 'Tại sao khách hàng chọn XS Trades?',
+    'WHY_CLIENTS_CHOSE_XS' => 'Tại sao khách hàng chọn XS?',
 
     'CHOOSE_REASON_1_TITLE' => 'Nhà môi giới toàn cầu đáng tin cậy:',
-    'CHOOSE_REASON_1_DESCRIPTION' => ' XSTrades.com là nhà môi giới toàn cầu đáng tin cậy đã được chứng minh',
+    'CHOOSE_REASON_1_DESCRIPTION' => ' XS.com là nhà môi giới toàn cầu đáng tin cậy đã được chứng minh',
 
     'CHOOSE_REASON_2_TITLE' => 'Nhà môi giới giành nhiều giải thưởng:',
     'CHOOSE_REASON_2_DESCRIPTION' => 'Giao dịch với nhà môi giới đã được công nhận về dịch vụ của họ',
@@ -74,7 +74,7 @@ return [
     'LETS_TALK_PARTNERSHIP' => 'Hãy cùng hợp tác',
     'LETS_TALK_PARTNERSHIP_DESCRIPTION' => 'Đội ngũ chuyên gia của chúng tôi sẵn sàng chia sẻ với bạn kiến thức và hiểu biết sâu sắc của họ để đảm bảo bạn đáp ứng được mục tiêu và thực hiện chiến lược của mình.
     <br/> <br/>
-    Để kết nối với các chuyên gia dày dạn kinh nghiệm về các chương trình hợp tác, vui lòng gởi email cho chúng tôi theo địa chỉ  <a href="mailto:partners@XSTrades.com">partners@XSTrades.com</a>',
+    Để kết nối với các chuyên gia dày dạn kinh nghiệm về các chương trình hợp tác, vui lòng gởi email cho chúng tôi theo địa chỉ  <a href="mailto:partners@xs.com">partners@xs.com</a>',
 
     'BEST_FX_BROKER' => 'BEST FX BROKER',
 

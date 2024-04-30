@@ -5,10 +5,10 @@ return [
     'PAGE_DESC' => 'El Mejor Proveedor de Liquidez Multi-Activo para Brokers e Instituciones desde 2010.',
 
     'LIQUIDITY_SOLUTIONS' => 'Soluciones de Liquidez',
-    'LIQUIDITY_SOLUTIONS_DESCRIPTION' => 'En XS Trades, comprendemos la importancia de la liquidez para clientes institucionales. Estamos dedicados a proporcionar soluciones de liquidez integrales diseñadas para satisfacer las necesidades específicas de las instituciones.
+    'LIQUIDITY_SOLUTIONS_DESCRIPTION' => 'En XS, comprendemos la importancia de la liquidez para clientes institucionales. Estamos dedicados a proporcionar soluciones de liquidez integrales diseñadas para satisfacer las necesidades específicas de las instituciones.
     <br/><br/>
     Nuestro mapa de ruta de liquidez destaca las características clave y ventajas que nos distinguen como un proveedor de liquidez confiable.',
-    'WHY_CHOSE_XS' => 'Por Que Escolher As Soluções de Liquidez da XS Trades?',
+    'WHY_CHOSE_XS' => 'Por Que Escolher As Soluções de Liquidez da XS?',
 
     'REASON_1_TITLE' => 'Múltiples Clases de Activos:',
     'REASON_1_DESCRIPTION' => 'Acceso a una amplia gama de clases de activos que permite a las instituciones diversificar eficazmente sus carteras.',

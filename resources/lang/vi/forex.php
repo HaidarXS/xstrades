@@ -18,7 +18,7 @@ return [
 
     'UNDERSTANDING_FOREX' => 'Tổng quan về tiền tệ: Khám phá sức mạnh của giao dịch tiền tệ với XS',
 
-    'UNDERSTANDING_FOREX_DESC_1' => 'Chào mừng đến với thế giới giao dịch Forex với XS Trades. Tiền tệ là xương sống của các giao dịch kinh tế toàn cầu và giao dịch tiền tệ mang lại nhiều cơ hội đa dạng cho các nhà giao dịch. Trong phần tổng quan này, chúng ta sẽ khám phá các khía cạnh chính của giao dịch tiền tệ, bao gồm các cặp tiền tệ chính, động lực thị trường và lợi thế của việc giao dịch tiền tệ với XS Trades.',
+    'UNDERSTANDING_FOREX_DESC_1' => 'Chào mừng đến với thế giới giao dịch Forex với XS. Tiền tệ là xương sống của các giao dịch kinh tế toàn cầu và giao dịch tiền tệ mang lại nhiều cơ hội đa dạng cho các nhà giao dịch. Trong phần tổng quan này, chúng ta sẽ khám phá các khía cạnh chính của giao dịch tiền tệ, bao gồm các cặp tiền tệ chính, động lực thị trường và lợi thế của việc giao dịch tiền tệ với XS.',
 
     'UNDERSTANDING_FOREX_DESC_2' => 'Các cặp tiền tệ chính
     <br/>
@@ -30,7 +30,7 @@ return [
 
     'UNDERSTANDING_FOREX_DESC_4' => 'Tiếp cận thị trường 24/7
     <br/>
-    Giao dịch tiền tệ là một thị trường toàn cầu hoạt động 24 giờ một ngày, 7 ngày một tuần. Với XS Trades, bạn có thể linh hoạt giao dịch tiền tệ bất kỳ lúc nào, tận dụng các cơ hội thị trường phát sinh ở các múi giờ khác nhau. Cho dù bạn là nhà giao dịch toàn thời gian hay có các cam kết khác, XS đảm bảo rằng bạn có quyền truy cập vào thị trường bất cứ khi nào phù hợp với bạn.',
+    Giao dịch tiền tệ là một thị trường toàn cầu hoạt động 24 giờ một ngày, 7 ngày một tuần. Với XS, bạn có thể linh hoạt giao dịch tiền tệ bất kỳ lúc nào, tận dụng các cơ hội thị trường phát sinh ở các múi giờ khác nhau. Cho dù bạn là nhà giao dịch toàn thời gian hay có các cam kết khác, XS đảm bảo rằng bạn có quyền truy cập vào thị trường bất cứ khi nào phù hợp với bạn.',
 
 
 
@@ -39,7 +39,7 @@ return [
     'SECTION_2_TITLE' => 'GIAO DỊCH FOREX VỚI XS: THÔNG SỐ HỢP ĐỒNG',
     "SECTION_3_TITLE" => "GIAO DỊCH FOREX VỚI XS: ĐIỀU KIỆN GIAO DỊCH",
 
-    'DESCRIPTION_1' => 'Chào mừng đến với thế giới giao dịch Forex cùng XS Trades. Khám phá nhiều cặp tiền tệ và trở thành người tiên phong trong giao dịch Forex với điều kiện giao dịch tốt nhất.
+    'DESCRIPTION_1' => 'Chào mừng đến với thế giới giao dịch Forex cùng XS. Khám phá nhiều cặp tiền tệ và trở thành người tiên phong trong giao dịch Forex với điều kiện giao dịch tốt nhất.
         <br/>
         <br/>
         Mua và bán CFD trên các cặp tiền tệ một cách dễ dàng thông qua nền tảng giao dịch MetaTrader 4 và MetaTrader 5 riêng biệt của chúng tôi cũng như nhiều loại tài khoản khác được thiết kế để đáp ứng nhu cầu giao dịch của bạn.
@@ -57,7 +57,7 @@ return [
 
 
     "TRADING_CONDITION_1_TITLE" => "Thời Gian Giao Dịch Bình Thường",
-    "TRADING_CONDITION_1_DESCRIPTION" => "Thời gian giao dịch bình thường đề cập đến các phiên giao dịch thông thường. Dưới đây hiển thị giờ giao dịch bình thường đối với các cặp Forex có sẵn để giao dịch với XS Trades. Các yếu tố theo mùa và thị trường có thể ảnh hưởng đến giờ giao dịch bên dưới, vì vậy điều quan trọng là phải theo dõi các cập nhật mới nhất trên trang Giờ Giao Dịch để luôn cập nhật những thay đổi mới nhất theo mùa về giờ giao dịch. Tất cả thời gian đều tính theo giờ máy chủ (GMT+3).
+    "TRADING_CONDITION_1_DESCRIPTION" => "Thời gian giao dịch bình thường đề cập đến các phiên giao dịch thông thường. Dưới đây hiển thị giờ giao dịch bình thường đối với các cặp Forex có sẵn để giao dịch với XS. Các yếu tố theo mùa và thị trường có thể ảnh hưởng đến giờ giao dịch bên dưới, vì vậy điều quan trọng là phải theo dõi các cập nhật mới nhất trên trang Giờ Giao Dịch để luôn cập nhật những thay đổi mới nhất theo mùa về giờ giao dịch. Tất cả thời gian đều tính theo giờ máy chủ (GMT+3).
         <br/>
         <br/>
         Tất Cả Các Cặp Ngoại Hối &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Thứ Hai 00:00 - Thứ Sáu 23:55
@@ -66,10 +66,10 @@ return [
     // &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Friday: 00:00 - 23:55
 
     "TRADING_CONDITION_2_TITLE" => "Spreads",
-    "TRADING_CONDITION_2_DESCRIPTION" => "XSTrades.com cung cấp chênh lệch thả nổi trên tất cả các cặp tiền tệ cho tất cả các loại tài khoản. Do đó, mức chênh lệch trong bảng thông số hợp đồng là mức chênh lệch trung bình dựa trên ngày giao dịch trước đó. Để biết chênh lệch trực tiếp, vui lòng tham khảo nền tảng giao dịch. Xin lưu ý rằng chênh lệch có thể tăng lên khi thị trường có tính thanh khoản thấp hơn, bao gồm cả thời gian chuyển đổi.",
+    "TRADING_CONDITION_2_DESCRIPTION" => "XS.com cung cấp chênh lệch thả nổi trên tất cả các cặp tiền tệ cho tất cả các loại tài khoản. Do đó, mức chênh lệch trong bảng thông số hợp đồng là mức chênh lệch trung bình dựa trên ngày giao dịch trước đó. Để biết chênh lệch trực tiếp, vui lòng tham khảo nền tảng giao dịch. Xin lưu ý rằng chênh lệch có thể tăng lên khi thị trường có tính thanh khoản thấp hơn, bao gồm cả thời gian chuyển đổi.",
 
     "TRADING_CONDITION_3_TITLE" => "Biểu Đồ Giá",
-    "TRADING_CONDITION_3_DESCRIPTION" => "XSTrades.com cung cấp nhiều loại tài khoản giao dịch phù hợp với nhu cầu và sở thích của từng nhà giao dịch. Chúng tôi cung cấp các tài khoản với mức giá thô được tính phí hoa hồng bổ sung. Các loại tài khoản khác không có hoa hồng mà thay vào đó có phần chênh lệch được tính vào giá. Theo mặc định, biểu đồ trong nền tảng giao dịch Metatrader sẽ hiển thị giá thô, trong khi theo dõi thị trường sẽ hiển thị giá của loại tài khoản mà khách hàng đang giao dịch.",
+    "TRADING_CONDITION_3_DESCRIPTION" => "XS.com cung cấp nhiều loại tài khoản giao dịch phù hợp với nhu cầu và sở thích của từng nhà giao dịch. Chúng tôi cung cấp các tài khoản với mức giá thô được tính phí hoa hồng bổ sung. Các loại tài khoản khác không có hoa hồng mà thay vào đó có phần chênh lệch được tính vào giá. Theo mặc định, biểu đồ trong nền tảng giao dịch Metatrader sẽ hiển thị giá thô, trong khi theo dõi thị trường sẽ hiển thị giá của loại tài khoản mà khách hàng đang giao dịch.",
 
     "TRADING_CONDITION_4_TITLE" => "Swaps",
     "TRADING_CONDITION_4_DESCRIPTION" => "Swap long được sử dụng để giữ các vị thế mua mở qua đêm và Swap short được sử dụng để giữ các vị thế bán mở qua đêm. Hoán đổi xảy ra vào lúc 00:00 giờ máy chủ mỗi ngày, trừ cuối tuần, cho đến khi vị thế đóng. Hoán đổi được tính ba lần vào thứ Tư để trang trải chi phí phát sinh vào cuối tuần.",
@@ -78,10 +78,10 @@ return [
     "TRADING_CONDITION_5_DESCRIPTION" => "Mức dừng là khoảng cách tối thiểu (chênh lệch tính bằng pip) giữa giá thị trường hiện tại và giá lệnh chờ. Các giá trị mức dừng trong bảng thông số hợp đồng có thể thay đổi và có thể không có sẵn cho các nhà giao dịch sử dụng một số chiến lược giao dịch tần suất cao hoặc chuyên gia cố vấn.",
 
     "TRADING_CONDITION_6_TITLE" => "Đòn Bẩy Động",
-    "TRADING_CONDITION_6_DESCRIPTION" => "XSTrades.com cung cấp đòn bẩy linh hoạt cho các cặp tiền tệ trên hầu hết các loại tài khoản. Các giá trị đòn bẩy trong bảng thông số hợp đồng là đòn bẩy tối đa cho mỗi công cụ giao dịch. Đòn bẩy tối đa sẽ thay đổi dựa trên các vị thế mở ròng của bạn. Để biết thêm chi tiết, vui lòng kiểm tra trang Đòn Bẩy Động.",
+    "TRADING_CONDITION_6_DESCRIPTION" => "XS.com cung cấp đòn bẩy linh hoạt cho các cặp tiền tệ trên hầu hết các loại tài khoản. Các giá trị đòn bẩy trong bảng thông số hợp đồng là đòn bẩy tối đa cho mỗi công cụ giao dịch. Đòn bẩy tối đa sẽ thay đổi dựa trên các vị thế mở ròng của bạn. Để biết thêm chi tiết, vui lòng kiểm tra trang Đòn Bẩy Động.",
 
     "TRADING_CONDITION_7_TITLE" => "Đòn Bẩy Cố Định",
-    "TRADING_CONDITION_7_DESCRIPTION" => "XSTrades.com cung cấp đòn bẩy cố định cho các cặp tiền tệ trên một số loại tài khoản. Trong trường hợp này, đòn bẩy tối đa được hiển thị trong bảng thông số hợp đồng sẽ KHÔNG thay đổi dựa trên các vị thế mở ròng của bạn. Đòn bẩy cố định áp dụng cho các loại tài khoản Cent & Mirco.",
+    "TRADING_CONDITION_7_DESCRIPTION" => "XS.com cung cấp đòn bẩy cố định cho các cặp tiền tệ trên một số loại tài khoản. Trong trường hợp này, đòn bẩy tối đa được hiển thị trong bảng thông số hợp đồng sẽ KHÔNG thay đổi dựa trên các vị thế mở ròng của bạn. Đòn bẩy cố định áp dụng cho các loại tài khoản Cent & Mirco.",
 
     "TRADING_CONDITION_8_TITLE" => "Khoảng Thời Gian Yêu Cầu Ký Quỹ Cao Hơn",
     "TRADING_CONDITION_8_DESCRIPTION" => "Chúng tôi áp dụng các biện pháp quản lý rủi ro để bảo vệ các vị thế khỏi biến động cao có thể xảy ra trong các sự kiện quan trọng và khoảng thời gian cụ thể ảnh hưởng đến biến động chung của thị trường. Cần có số tiền ký quỹ cao hơn để mở lệnh trong những khoảng thời gian này được gọi là khoảng thời gian HMR (thời gian yêu cầu ký quỹ cao hơn). Yêu cầu ký quỹ cao hơn sẽ chỉ áp dụng cho các vị thế được mở trong những khoảng thời gian này. Yêu cầu ký quỹ của các vị thế hiện tại sẽ không bị ảnh hưởng.

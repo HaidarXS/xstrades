@@ -1,6 +1,6 @@
 <?php
 return[
-'title' =>'XS Trades News',
+'title' =>'XS News',
 ];
 
 ?>

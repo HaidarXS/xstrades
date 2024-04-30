@@ -53,7 +53,7 @@ return [
 
     'TEXT7' => '당사의 전문가 팀은 귀하가 목표를 달성하고 전략을 구현할 수 있도록 지식과 통찰력을 공유할 준비가 되어 있습니다.',
 
-    'TEXT8' => 'PAMM 솔루션에 관해 숙련된 전문가와 상담하고 싶으시면  <a href="mailto:support@XSTrades.com"> support@XSTrades.com </a> 으로 이메일을 ',
+    'TEXT8' => 'PAMM 솔루션에 관해 숙련된 전문가와 상담하고 싶으시면  <a href="mailto:support@xs.com"> support@xs.com </a> 으로 이메일을 ',
 
     'DISCLAIMER' => '<span style="color: #30af85;">면책조항: </span>XS 또는 PAMM 트레이더는 관리형 투자일임 계좌 서비스를 제공하지 않습니다. 특정 PAMM 트레이더를 추종하는 것은 트레이더 본인의 결정이며, PAMM 트레이더가 내린 모든 거래 결정은 귀하 본인의 거래 결정으로 간주됩니다.',
 

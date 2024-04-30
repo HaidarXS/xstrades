@@ -11,13 +11,13 @@
 
         'INVEST_IN_POPULAR_COMPANIES_WITH_A_GLOBAL_BROKER' => 'Đầu tư vào các công ty nổi tiếng với nhà môi giới toàn cầu',
 
-        'DESCRIPTION_1' => 'Mở khóa các công ty phổ biến nhất thế giới và giao dịch CFD cổ phiếu quốc tế với XS Trades. Có được quyền truy cập vào thị trường toàn cầu và mua và bán liền mạch các công ty hàng đầu như Amazon, Alibaba, Apple, v.v.
+        'DESCRIPTION_1' => 'Mở khóa các công ty phổ biến nhất thế giới và giao dịch CFD cổ phiếu quốc tế với XS. Có được quyền truy cập vào thị trường toàn cầu và mua và bán liền mạch các công ty hàng đầu như Amazon, Alibaba, Apple, v.v.
         <br/>
-        Hãy tham gia XSTrades.com ngay hôm nay và mở khóa tiềm năng giao dịch Cổ phiếu & Chứng khoán trên thị trường toàn cầu.',
+        Hãy tham gia XS.com ngay hôm nay và mở khóa tiềm năng giao dịch Cổ phiếu & Chứng khoán trên thị trường toàn cầu.',
 
         'SHARES_STOCKS_TRADING_WITH_XS' => 'Giao dịch Cổ phiếu với XS',
 
-        'DESCRIPTION_2' => 'Trải nghiệm sự phấn khích khi giao dịch Cổ phiếu & Chứng khoán với XSTrades.com. Tận dụng khả năng giao dịch CFD liền mạch trên nền tảng của chúng tôi, mang đến cho bạn cơ hội giao dịch CFD trên hàng nghìn cổ phiếu toàn cầu. Hưởng lợi từ việc thực hiện lệnh cực nhanh và điều kiện giao dịch cạnh tranh, đảm bảo bạn có thể nắm bắt các cơ hội thị trường một cách nhanh chóng và hiệu quả. Giao dịch CFD trên cổ phiếu của các công ty nổi tiếng ở Hoa Kỳ, Vương quốc Anh và EU, bao gồm một số tập đoàn lớn nhất và phổ biến nhất.',
+        'DESCRIPTION_2' => 'Trải nghiệm sự phấn khích khi giao dịch Cổ phiếu & Chứng khoán với XS.com. Tận dụng khả năng giao dịch CFD liền mạch trên nền tảng của chúng tôi, mang đến cho bạn cơ hội giao dịch CFD trên hàng nghìn cổ phiếu toàn cầu. Hưởng lợi từ việc thực hiện lệnh cực nhanh và điều kiện giao dịch cạnh tranh, đảm bảo bạn có thể nắm bắt các cơ hội thị trường một cách nhanh chóng và hiệu quả. Giao dịch CFD trên cổ phiếu của các công ty nổi tiếng ở Hoa Kỳ, Vương quốc Anh và EU, bao gồm một số tập đoàn lớn nhất và phổ biến nhất.',
 
         'UNDERSTANDING_SHARES' => 'Hiểu về cổ phiếu: Tổng quan',
 
@@ -42,7 +42,7 @@
         'SECTION_2_TITLE' => 'GIAO DỊCH CỔ PHIẾU VỚI XS: THÔNG SỐ HỢP ĐỒNG',
         "SECTION_3_TITLE" => "GIAO DỊCH CỔ PHIẾU VỚI XS: ĐIỀU KIỆN GIAO DỊCH",
 
-        'DESCRIPTION_1' => 'Chào mừng đến với thế giới giao dịch cổ phiếu với XS Trades. Giao dịch CFD trên cổ phiếu quốc tế với nhà môi giới CFD tốt nhất và trải nghiệm liền mạch cổ phiếu của các công ty hàng đầu như Amazon, Alibaba, Apple, v.v. Tận dụng khả năng giao dịch CFD của nền tảng giao dịch trực tuyến, mang đến cho bạn cơ hội giao dịch CFD trên hàng nghìn cổ phiếu toàn cầu. Hưởng lợi từ việc thực hiện lệnh cực nhanh và điều kiện giao dịch cạnh tranh, đảm bảo bạn có thể nắm bắt các cơ hội thị trường một cách nhanh chóng và hiệu quả. Giao dịch CFD trên cổ phiếu của các công ty nổi tiếng ở Hoa Kỳ (Mỹ), Vương quốc Anh (Anh), Châu Âu (EU) và Hồng Kông (HK), bao gồm một số tập đoàn lớn và phổ biến nhất.
+        'DESCRIPTION_1' => 'Chào mừng đến với thế giới giao dịch cổ phiếu với XS. Giao dịch CFD trên cổ phiếu quốc tế với nhà môi giới CFD tốt nhất và trải nghiệm liền mạch cổ phiếu của các công ty hàng đầu như Amazon, Alibaba, Apple, v.v. Tận dụng khả năng giao dịch CFD của nền tảng giao dịch trực tuyến, mang đến cho bạn cơ hội giao dịch CFD trên hàng nghìn cổ phiếu toàn cầu. Hưởng lợi từ việc thực hiện lệnh cực nhanh và điều kiện giao dịch cạnh tranh, đảm bảo bạn có thể nắm bắt các cơ hội thị trường một cách nhanh chóng và hiệu quả. Giao dịch CFD trên cổ phiếu của các công ty nổi tiếng ở Hoa Kỳ (Mỹ), Vương quốc Anh (Anh), Châu Âu (EU) và Hồng Kông (HK), bao gồm một số tập đoàn lớn và phổ biến nhất.
         ',
 
         'DESCRIPTION_2' => 'XS cung cấp quyền truy cập vào nhiều loại cổ phiếu quốc tế, bao gồm Cổ phiếu Hoa Kỳ (Cổ phiếu Hoa Kỳ), Cổ phiếu Châu Âu (Cổ phiếu EU), Cổ phiếu Vương quốc Anh (Cổ phiếu Vương quốc Anh) và Cổ phiếu Hồng Kông (Cổ phiếu HK).
@@ -53,7 +53,7 @@
 
 
         "TRADING_CONDITION_1_TITLE" => "Giờ Giao Dịch Bình Thường",
-        "TRADING_CONDITION_1_DESCRIPTION" => "Giờ giao dịch bình thường đề cập đến các phiên giao dịch thông thường có sẵn để giao dịch. Dưới đây hiển thị giờ giao dịch bình thường đối với các cổ phiếu có sẵn để giao dịch với XS Trades.
+        "TRADING_CONDITION_1_DESCRIPTION" => "Giờ giao dịch bình thường đề cập đến các phiên giao dịch thông thường có sẵn để giao dịch. Dưới đây hiển thị giờ giao dịch bình thường đối với các cổ phiếu có sẵn để giao dịch với XS.
         Các yếu tố theo mùa và thị trường có thể ảnh hưởng đến giờ giao dịch bên dưới, vì vậy điều quan trọng là phải theo dõi các cập nhật mới nhất trên trang Giờ giao dịch để luôn cập nhật những thay đổi mới nhất theo mùa về giờ giao dịch. Tất cả thời gian đều tính theo giờ máy chủ (GMT+3).
             <br/>
             <br/>
@@ -73,13 +73,13 @@
         ",
 
         "TRADING_CONDITION_3_TITLE" => "Chênh Lệch",
-        "TRADING_CONDITION_3_DESCRIPTION" => "XSTrades.com cung cấp chênh lệch thả nổi trên tất cả các cổ phiếu cho tất cả các loại tài khoản. Do đó, mức chênh lệch trong bảng thông số hợp đồng là mức chênh lệch trung bình dựa trên ngày giao dịch trước đó. Để biết chênh lệch trực tiếp, vui lòng tham khảo nền tảng giao dịch. Xin lưu ý rằng chênh lệch có thể tăng lên khi thị trường có tính thanh khoản thấp hơn, bao gồm cả thời gian tái đầu tư.",
+        "TRADING_CONDITION_3_DESCRIPTION" => "XS.com cung cấp chênh lệch thả nổi trên tất cả các cổ phiếu cho tất cả các loại tài khoản. Do đó, mức chênh lệch trong bảng thông số hợp đồng là mức chênh lệch trung bình dựa trên ngày giao dịch trước đó. Để biết chênh lệch trực tiếp, vui lòng tham khảo nền tảng giao dịch. Xin lưu ý rằng chênh lệch có thể tăng lên khi thị trường có tính thanh khoản thấp hơn, bao gồm cả thời gian tái đầu tư.",
 
         "TRADING_CONDITION_4_TITLE" => "Biểu Đồ Giá",
-        "TRADING_CONDITION_4_DESCRIPTION" => "XSTrades.com cung cấp nhiều loại tài khoản giao dịch phù hợp với nhu cầu và sở thích của từng nhà giao dịch. Chúng tôi cung cấp các tài khoản với mức giá thô được tính phí hoa hồng bổ sung. Các loại tài khoản khác không có hoa hồng mà thay vào đó có phần chênh lệch được tính vào giá. Theo mặc định, biểu đồ trong nền tảng giao dịch MetaTrader sẽ hiển thị giá thô, trong khi theo dõi thị trường sẽ hiển thị giá của loại tài khoản mà khách hàng đang giao dịch.",
+        "TRADING_CONDITION_4_DESCRIPTION" => "XS.com cung cấp nhiều loại tài khoản giao dịch phù hợp với nhu cầu và sở thích của từng nhà giao dịch. Chúng tôi cung cấp các tài khoản với mức giá thô được tính phí hoa hồng bổ sung. Các loại tài khoản khác không có hoa hồng mà thay vào đó có phần chênh lệch được tính vào giá. Theo mặc định, biểu đồ trong nền tảng giao dịch MetaTrader sẽ hiển thị giá thô, trong khi theo dõi thị trường sẽ hiển thị giá của loại tài khoản mà khách hàng đang giao dịch.",
 
         "TRADING_CONDITION_5_TITLE" => "Đòn Bẩy Cố Định",
-        "TRADING_CONDITION_5_DESCRIPTION" => "XSTrades.com cung cấp đòn bẩy cố định cho cổ phiếu trên tất cả các loại tài khoản. Trong trường hợp này, đòn bẩy tối đa được hiển thị trong bảng thông số hợp đồng sẽ KHÔNG thay đổi dựa trên các vị thế hoặc loại tài khoản mở ròng của bạn.",
+        "TRADING_CONDITION_5_DESCRIPTION" => "XS.com cung cấp đòn bẩy cố định cho cổ phiếu trên tất cả các loại tài khoản. Trong trường hợp này, đòn bẩy tối đa được hiển thị trong bảng thông số hợp đồng sẽ KHÔNG thay đổi dựa trên các vị thế hoặc loại tài khoản mở ròng của bạn.",
 
         "TRADING_CONDITION_6_TITLE" => "Mức Đừng",
         "TRADING_CONDITION_6_DESCRIPTION" => "Mức dừng là khoảng cách tối thiểu (chênh lệch tính bằng pip) giữa giá thị trường hiện tại và giá lệnh chờ. Các giá trị mức dừng trong bảng thông số hợp đồng có thể thay đổi và có thể không có sẵn cho các nhà giao dịch sử dụng các chiến lược giao dịch tần suất cao hoặc Expert Advisor nhất định.",

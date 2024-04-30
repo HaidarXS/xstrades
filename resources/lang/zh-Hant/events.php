@@ -1,5 +1,7 @@
 <?php
 return [
+    'EVENTS_PAGE_SUBTITLE'=>'我們在全球最重要的活動中都表現突出。',
+
     'PREVIOUS_CONFERENCES' => '往屆會議',
     'UPCOMING_CONFERENCES' => 'Upcoming Conferences',
     'PREVIOUS_ACTIVITIES' => '往屆活動',
@@ -16,7 +18,7 @@ return [
     'CONFERENCES' => '業界大會',
     'CONFERENCES_PAGE_SUBTITLE' => '我們在最重要的會議上表現突出。',
 
-    
+
     'CEREMONIES' => '頒獎典禮',
     'CEREMONIES_PAGE_SUBTITLE' => '我們很榮幸能夠在最負盛名的頒獎典禮上獲獎。',
 

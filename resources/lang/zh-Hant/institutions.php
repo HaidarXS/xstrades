@@ -10,7 +10,7 @@ return [
     'PAGE_TITLE' => '機構',
     'PAGE_DESC' => '自 2010 年以來，一直是經紀商和機構的最佳交易解決方案提供者。',
 
-    'PAGE_TITLE_TECHNOLOGY' => '交易技術',
+    'PAGE_TITLE_TECHNOLOGY' => '技術方案',
     'PAGE_DESC_TECHNOLOGY' => '自 2010 年以來，一直是經紀商和機構的最佳交易技術提供者。',
 
     'PAGE_TITLE_FULL_SOLUTION' => '全面解決方案',
@@ -18,17 +18,17 @@ return [
 
     'LETS_TALK_B2B' => '談一談 B2B',
     'LETS_TALK_B2B_DESCRIPTION' => '我們的專家團隊隨時准備與您分享他們的知識和見解，以確保您實現目標和實施成功戰略。
-    <br /><br/> 
-    如果您想與我們經驗豐富的專家討論您的機構需求和我們的流動性解決方案，請發送電子郵件至 b2b@XSTrades.com。',
+    <br /><br/>
+    如果您想與我們經驗豐富的專家討論您的機構需求和我們的流動性解決方案，請發送電子郵件至 b2b@xs.com。',
 
-    'LETS_TALK_LIQUIDITY'=>'我們來談談流動性',
-    'LETS_TALK_LIQUIDITY_DISC'=>'我們的專家團隊隨時準備與您分享他們的知識和見解，以確保您實現您的目標並實施您的策略。如果您想與我們經驗豐富的專家討論您的機構需求和我們的流動性解決方案，請發送電子郵件至 b2b@XSTrades.com。',
+    'LETS_TALK_LIQUIDITY'=>'談一談流動性',
+    'LETS_TALK_LIQUIDITY_DISC'=>'我們的專家團隊隨時準備與您分享他們的知識和見解，以確保您實現您的目標並實施您的策略。如果您想與我們經驗豐富的專家討論您的機構需求和我們的流動性解決方案，請發送電子郵件至 b2b@xs.com。',
 
     'XS_TECHNOLOGY'=>'技術與金融科技解決方案',
     'OUR_ADVEANCED_INFRASTRUCTURE'=> '我們擁有先進的基礎設施，能夠為各類機構客戶提供量身定製的機構服務和解決方案。這些服務的解決方案均可量身定製，以滿足我們的企業和機構客戶的需求，他們希望從我們多年積累的知識和經驗中獲益。我們致力于幫助客戶實現其交易目標，同時提供全面支持、個性化服務和創新解決方案。',
 
     'WHY_XS_TECHNOLOGY'=>'為什麼選擇XS技術和金融科技解決方案？',
-    
+
     'CUTTING_EDGE'=> '先進技術:',
     'OUR_ADVANCED_TECHNOLOGY'=> '高效的交易執行、實時市場數據以及無縫連接。',
 
@@ -59,15 +59,15 @@ return [
     'REGULATORY_COMPLIANCE'=> '監管合規性：',
     'WE_MAINTAIN'=> '我們保持著透明、合規的交易環境。',
 
-    
+
     'INSTITUTIONS_CAN_RELY'=>'Institutions can rely on our proven track record and industry expertise to support their trading objectives.',
 
-    'LETS_TALK_FINTECH'=>'我們來談談金融科技',
+    'LETS_TALK_FINTECH'=>'談一談金融科技',
 
     'OUR_TEAM_OF_EXPERTS'=>'我們的專家團隊將與您分享他們的知識和見解，以確保您獲得最佳結果並使用合適的技術和金融科技解決方案來滿足您的業務需求和要求。
     <br/><br/>
-    如果您想與我們經驗豐富的專家討論您的機構需求以及我們的技術和金融科技解決方案，請發送電子郵件至 b2b@XSTrades.com。',
-    
+    如果您想與我們經驗豐富的專家討論您的機構需求以及我們的技術和金融科技解決方案，請發送電子郵件至 b2b@xs.com。',
+
     'FULL_TRADING_SOLUTION'=>'全面的交易解决方案',
 
     'THE_FULL_TRADING_SOLUTIONS'=>'“全面的交易解决方案”或“启动您自己的经纪商”套餐计划专为开展自己的经纪业务的企业和机构客户而设计。该套餐使他们能够作为完全独立的经纪人开展业务，并为客户提供交易全球金融产品的能力。',
@@ -115,7 +115,7 @@ return [
     'MULTI_ASSET_LIQUIDITY_2' => '多元資産流動性',
 
     'ADVANCED_TECHNOLOGY_2' => '先進技術',
-    
+
     'COMPREHENSIVE_SOLUTIONS' => '全面的解決方案：',
 
     'WIDE_RANGE_OF_SOLUTIONS' => '多種解決方案滿足機構客戶的獨特需求。',

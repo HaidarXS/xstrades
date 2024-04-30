@@ -6,7 +6,7 @@ return [
     'MEDIA_CONTACT_DESC' => 'For any press related inquiries please reach out to:',
     'READ_MORE' => 'อ่านเพิ่มเติม',
 
-    'JOIN_XS' => 'Join XS Trades',
+    'JOIN_XS' => 'Join XS',
     'XS_PRESS' => 'XS Press Releases',
     'XS_PRESS_SUB' => 'Read our latest press releases and news.',
     'XS_PRESS_BUTTON' => 'View All Press Releases',

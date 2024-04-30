@@ -1,7 +1,7 @@
 <?php
 return [
     'MEDIA_CENTER' => 'Truyền thông XS',
-    'JOIN_XS' => 'Join XS Trades',
+    'JOIN_XS' => 'Join XS',
     'STAY_INFORMED' => 'Cập nhật thông tin về những sự kiện mới nhất tại XS với Media Center. ',
     'MEDIA_CONTACT' => 'Media Contact',
     'MEDIA_CONTACT_DESC' => 'For any press related inquiries please reach out to:',
@@ -23,9 +23,9 @@ return [
     'XS_NEWS_SUB' => 'Read our latest press releases and news.',
     'XS_NEWS_BUTTON' => 'View All News',
 
-    'XS_PRESS_KITS_DESC' => 'Bộ tài liệu báo chí dành cho các buổi ra mắt sản phẩm hoặc thông báo quan trọng, bộ công cụ truyền thông, tờ thông tin và thông tin cơ bản. Truy cập các tài nguyên cần thiết thông qua bộ công cụ truyền thông XS Trades. Tìm các hình ảnh, biểu tượng, tài liệu báo chí có độ phân giải cao cũng như các thông tin chi tiết để hỗ trợ bạn hiểu hơn về XS Trades.',
+    'XS_PRESS_KITS_DESC' => 'Bộ tài liệu báo chí dành cho các buổi ra mắt sản phẩm hoặc thông báo quan trọng, bộ công cụ truyền thông, tờ thông tin và thông tin cơ bản. Truy cập các tài nguyên cần thiết thông qua bộ công cụ truyền thông XS. Tìm các hình ảnh, biểu tượng, tài liệu báo chí có độ phân giải cao cũng như các thông tin chi tiết để hỗ trợ bạn hiểu hơn về XS.',
 
-    'XS_PRESS_RISK_WARNING' => 'Tất cả các nhãn hiệu và/hoặc logo hiển thị trên biểu ngữ/ tài liệu/ trang web này là nhãn hiệu và/ hoặc logo của chủ sở hữu tương ứng và không phải là sự chứng thực hay khuyến nghị của các tổ chức đó. Ngoài ra, việc sử dụng nhãn hiệu và/ hoặc liên kết đến trang web của tổ chức bên thứ ba không nhằm mục đích ngụ ý, trực tiếp hoặc gián tiếp, rằng các tổ chức đó xác nhận hoặc có bất kỳ mối liên kết nào với XS Trades.',
+    'XS_PRESS_RISK_WARNING' => 'Tất cả các nhãn hiệu và/hoặc logo hiển thị trên biểu ngữ/ tài liệu/ trang web này là nhãn hiệu và/ hoặc logo của chủ sở hữu tương ứng và không phải là sự chứng thực hay khuyến nghị của các tổ chức đó. Ngoài ra, việc sử dụng nhãn hiệu và/ hoặc liên kết đến trang web của tổ chức bên thứ ba không nhằm mục đích ngụ ý, trực tiếp hoặc gián tiếp, rằng các tổ chức đó xác nhận hoặc có bất kỳ mối liên kết nào với XS.',
 
     "XS_SOCIAL_MEDIA" => "Truyền Thông",
     "XS_MEDIA_KITS" => "Bộ Truyền Thông",

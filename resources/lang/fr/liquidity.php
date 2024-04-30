@@ -5,7 +5,7 @@ return [
     'PAGE_DESC' => 'Le Meilleur Fournisseur de Liquidité Multi-Actifs pour les Courtiers et les Institutions depuis 2010.',
 
     'LIQUIDITY_SOLUTIONS' => 'Solutions de liquidité',
-    'LIQUIDITY_SOLUTIONS_DESCRIPTION' => 'Chez XS Trades, nous comprenons l\'importance de la liquidité pour les clients institutionnels. Nous nous engageons à fournir des solutions de liquidité complètes adaptées pour répondre aux besoins spécifiques des institutions. Notre feuille de route en matière de liquidité présente les principales caractéristiques et avantages qui nous distinguent en tant que fournisseur de liquidité de confiance. ',
+    'LIQUIDITY_SOLUTIONS_DESCRIPTION' => 'Chez XS, nous comprenons l\'importance de la liquidité pour les clients institutionnels. Nous nous engageons à fournir des solutions de liquidité complètes adaptées pour répondre aux besoins spécifiques des institutions. Notre feuille de route en matière de liquidité présente les principales caractéristiques et avantages qui nous distinguent en tant que fournisseur de liquidité de confiance. ',
     'WHY_CHOSE_XS' => 'Pourquoi choisir les solutions de liquidité XS ?',
 
     'REASON_1_TITLE' => 'Classes d\'actifs multiples :',

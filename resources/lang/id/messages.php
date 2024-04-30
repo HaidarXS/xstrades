@@ -59,7 +59,7 @@ return [
     
     XS Markets Ltd disahkan dan diatur oleh Komisi Sekuritas dan Bursa Siprus (CySEC) dengan Nomor Lisensi: 412/22.
     
-    Entitas di atas diberi wewenang untuk beroperasi di bawah merek dan merek dagang XS Trades.
+    Entitas di atas diberi wewenang untuk beroperasi di bawah merek dan merek dagang XS.
     Untuk perincian lebih lanjut tentang lisensi, peraturan, dan dokumentasi hukum di atas. Please  <b><a href="' . route('company', ['lang' => App::getLocale(), 'tab' => 'regulations']) . '">Click Here</a> </b>
     
     Peringatan Risiko: Produk kami diperdagangkan dengan margin dan berisiko tinggi. Anda dapat kehilangan seluruh modal Anda. Produk ini mungkin tidak cocok untuk semua orang, dan Anda harus memastikan bahwa Anda memahami risiko yang terlibat.

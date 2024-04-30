@@ -1,4 +1,6 @@
 <?php
+$date = '22';
+$month = '4';
 return[
 
 'OPEN_POSITIONS_ON_SHARES'=>'Vị thế mở trên Cổ phiếu hoặc Chỉ số vào đầu ngày làm việc (Giờ máy chủ 00:00), trùng với ngày hết hạn của tài sản cơ bản tương ứng, sẽ được điều chỉnh cổ tức.
@@ -33,17 +35,22 @@ Các vị thế mua (Long) sẽ nhận được khoản thanh toán, trong khi c
 'AUS200' => 'AUS200',
 'US30_USD'=>'US30',
 
-'UPCOMING_CORPORATE_ACTIONS'=>'Các Hoạt động được lên lịch của Công ty từ ngày 25/3 đến ngày 29/3 năm 2024',
+'UPCOMING_CORPORATE_ACTIONS'=>'Các hoạt động sắp tới của công ty từ ngày 29 tháng Tư đến ngày 03 tháng Năm năm 2024 ',
 
-'CASH_INDICES'=> 'Chỉ số tiền mặt từ 25.03 - 29.03.2024',
+'CASH_INDICES'=> 'Chỉ số tiền mặt từ 29.04 - 03.05.2024',
 
-'SHARE_CASH_DIVIDENDS'=> 'Cổ phiếu - Cổ tức bằng tiền từ 25.03 - 29.03.2024',
+'SHARE_CASH_DIVIDENDS'=> 'Cổ phiếu - Cổ tức bằng Tiền từ 29.04 - 03.05.2024',
 
-'MONDAY'=> 'Thứ Hai, 25 Tháng 3, 2024',
-'TUESDAY'=> 'Thứ Ba, 26 Tháng 3, 2024',
-'WEDNESDAY'=> 'Thứ Tư, 27 Tháng 3, 2024',
-'THURSDAY'=> 'Thứ Năm, 28 Tháng 3, 2024',
-'FRIDAY'=> 'Thứ Sáu, 29 Tháng 3, 2024',
+'MONDAY'=> 'Thứ Hai ngày 29 tháng Tư, 2024',
+'TUESDAY'=> 'Thứ Ba ngày 30 tháng Tư, 2024',
+'WEDNESDAY'=> 'Thứ Tư ngày 01 tháng Năm, 2024',
+'THURSDAY'=> 'Thứ Năm ngày 02 tháng Năm, 2024',
+'FRIDAY'=> 'Thứ Sáu ngày 03 tháng Năm, 2024',
+// 'MONDAY'=> 'Thứ Hai, '.($date).' Ngày '.$month.' Tháng, 2024',
+// 'TUESDAY'=> 'Thứ Ba, '.($date + 1).' Ngày '.$month.' Tháng, 2024',
+// 'WEDNESDAY'=> 'Thứ Tư, '.($date + 2).' Ngày '.$month.' Tháng, 2024',
+// 'THURSDAY'=> 'Thứ Năm, '.($date + 3).' Ngày '.$month.' Tháng, 2024',
+// 'FRIDAY'=> 'Thứ  Sáu, '.($date + 4).' Ngày '.$month.' Tháng, 2024',
 
 'EXAMPLE' => 'Ví dụ:',
 'THERE_IS_A_DIVIDEND' => 'Mức điều chỉnh cổ tức 4.383 trên US30. Một khách hàng có tài khoản USD và giữ vị thế mua (mua) là 20 US30. Vào ngày hết hạn, họ sẽ nhận được khoản thanh toán 20*4,383 = <b>87.66 USD</b>.

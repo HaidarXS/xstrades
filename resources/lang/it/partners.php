@@ -3,7 +3,7 @@ return [
     'BANNER_TITLE' => '',
     'BANNER_DESCRIPTION' => '',
 
-    'WHY_JOIN_INFLUENCERS_XS' => 'Perché unirsi al Programma Influencer di XS Trades?',
+    'WHY_JOIN_INFLUENCERS_XS' => 'Perché unirsi al Programma Influencer di XS?',
 
     'INFLUENCERS_REASON_1_TITLE' => 'Programmi Multipli:',
     'INFLUENCERS_REASON_1_DESCRIPTION' => 'I nostri programmi di partnership multipli sono progettati per soddisfare le esigenze di una vasta gamma di partner.',
@@ -15,7 +15,7 @@ return [
     'INFLUENCERS_REASON_3_DESCRIPTION' => 'I tuoi pagamenti vengono effettuati quotidianamente sul tuo account partner e puoi accedere ai tuoi guadagni in qualsiasi momento tramite diverse opzioni di pagamento flessibili e affidabili.',
 
     'INFLUENCERS_REASON_4_TITLE' => 'Report Avanzati:',
-    'INFLUENCERS_REASON_4_DESCRIPTION' => 'I nostri strumenti avanzati di reportistica ti consentono di monitorare statistiche dettagliate in tempo reale su ogni transazione dei clienti nel tuo portale partner XS Trades.',
+    'INFLUENCERS_REASON_4_DESCRIPTION' => 'I nostri strumenti avanzati di reportistica ti consentono di monitorare statistiche dettagliate in tempo reale su ogni transazione dei clienti nel tuo portale partner XS.',
 
     'INFLUENCERS_REASON_5_TITLE' => 'Strumenti Promozionali:',
     'INFLUENCERS_REASON_5_DESCRIPTION' => 'Forniamo tutti gli strumenti di cui hai bisogno per promuovere i nostri prodotti, inclusi banner per il sito web, pubblicità, pagine di destinazione, materiale educativo e webinar.',
@@ -29,10 +29,10 @@ return [
     'INFLUENCERS_REASON_8_TITLE' => 'Condizioni Premium:',
     'INFLUENCERS_REASON_8_DESCRIPTION' => 'Condizioni di partnership competitive per te e la migliore esperienza di trading per i tuoi clienti.',
 
-    'WHY_CLIENTS_CHOSE_XS' => 'Perché i Clienti Scelgono XS Trades?',
+    'WHY_CLIENTS_CHOSE_XS' => 'Perché i Clienti Scelgono XS?',
 
     'CHOOSE_REASON_1_TITLE' => 'Broker Globale Affidabile:',
-    'CHOOSE_REASON_1_DESCRIPTION' => 'XSTrades.com è un broker globale affidabile con diverse regolamentazioni.',
+    'CHOOSE_REASON_1_DESCRIPTION' => 'XS.com è un broker globale affidabile con diverse regolamentazioni.',
 
     'CHOOSE_REASON_2_TITLE' => 'Broker Premiato:',
     'CHOOSE_REASON_2_DESCRIPTION' => 'Fai trading con un broker che è stato riconosciuto per i suoi servizi.',
@@ -59,7 +59,7 @@ return [
     'CHOOSE_REASON_9_DESCRIPTION' => 'Approfitta del nostro supporto clienti nella tua lingua.',
 
     'LETS_TALK_PARTNERSHIP' => 'PARLIAMO DI PARTNERSHIP',
-    'LETS_TALK_PARTNERSHIP_DESCRIPTION' => 'Il nostro team di esperti è pronto a condividere con te le loro conoscenze e competenze per garantire che tu raggiunga i tuoi obiettivi e attui le tue strategie. Se desideri parlare con uno dei nostri esperti esperti dei nostri programmi di partnership, ti preghiamo di inviarci un\'email a "partners@XSTrades.com".',
+    'LETS_TALK_PARTNERSHIP_DESCRIPTION' => 'Il nostro team di esperti è pronto a condividere con te le loro conoscenze e competenze per garantire che tu raggiunga i tuoi obiettivi e attui le tue strategie. Se desideri parlare con uno dei nostri esperti esperti dei nostri programmi di partnership, ti preghiamo di inviarci un\'email a "partners@xs.com".',
 
     'BEST_FX_BROKER' => 'MIGLIOR BROKER FOREX',
     'BEST_FUNDAMENTAL' => 'MIGLIOR ANALISI FONDAMENTALE E TECNICA',

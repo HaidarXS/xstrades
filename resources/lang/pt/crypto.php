@@ -10,13 +10,13 @@ return [
     'SECTION_2_TITLE' => 'TRADING DE CRIPTOMOEDAS COM A XS: ESPECIFICAÇÕES DE CONTRATO',
     "SECTION_3_TITLE" => "TRADING DE CRIPTOMOEDAS COM A XS: CONDIÇÕES DE TRADING",
  
-    'DESCRIPTION_1' => 'Bem-vindo ao mundo do trading de Criptomoedas com a XS Trades. Descubra o mundo das criptomoedas e desbloqueie o potencial de ativos digitais com a melhor corretora de CFD. Negocie criptomoedas populares como Bitcoin (BTC), Ethereum (ETH), Litecoin (LTC) e outras, e aproveite as oportunidades no mercado de criptomoedas em rápida evolução. Nossas plataformas oferecem trading sem interrupções de uma ampla gama de criptomoedas, permitindo que você tire vantagem da volatilidade do mercado e movimentos potenciais de preço.',
+    'DESCRIPTION_1' => 'Bem-vindo ao mundo do trading de Criptomoedas com a XS. Descubra o mundo das criptomoedas e desbloqueie o potencial de ativos digitais com a melhor corretora de CFD. Negocie criptomoedas populares como Bitcoin (BTC), Ethereum (ETH), Litecoin (LTC) e outras, e aproveite as oportunidades no mercado de criptomoedas em rápida evolução. Nossas plataformas oferecem trading sem interrupções de uma ampla gama de criptomoedas, permitindo que você tire vantagem da volatilidade do mercado e movimentos potenciais de preço.',
  
     'DESCRIPTION_2' => 'A XS oferece acesso a uma ampla gama de Criptomoedas, Bitcoin (BTC), Ethereum (ETH), Litecoin (LTC) e outras. Planeje suas negociações de cripto com confiança e otimize sua experiência de trading utilizando nossas especificações detalhadas de contrato. Explore nossas especificações de contrato abrangentes e obtenha um entendimento mais profundo de nossas condições excepcionais de trading, incluindo tamanho do contrato, alavancagem, spreads, comissões, swaps e mais para diferentes tipos de conta.',
  
  
     "TRADING_CONDITION_1_TITLE" => "Horário Normal de Trading",
-    "TRADING_CONDITION_1_DESCRIPTION" => "Os horários normais de trading referem-se às sessões regulares de trading disponíveis para negociação. Abaixo mostra os horários normais de trading para Criptomoedas disponíveis para trading com a XS Trades. 
+    "TRADING_CONDITION_1_DESCRIPTION" => "Os horários normais de trading referem-se às sessões regulares de trading disponíveis para negociação. Abaixo mostra os horários normais de trading para Criptomoedas disponíveis para trading com a XS. 
     <br/><br/>
     Fatores sazonais e de mercado podem afetar os horários de trading abaixo, então é importante seguir as últimas atualizações na página de Horários de Trading para se manter atualizado com as últimas mudanças sazonais nos horários de trading.
     <br/><br/>
@@ -27,15 +27,15 @@ return [
  
  
     "TRADING_CONDITION_2_TITLE" => "Spreads",
-    "TRADING_CONDITION_2_DESCRIPTION" => "A XSTrades.com oferece spreads flutuantes em todas as criptomoedas para todos os tipos de conta. Portanto, os spreads na tabela de especificações de contrato são a média de spread baseada no dia de trading anterior. Para spreads ao vivo, por favor, consulte a plataforma de trading. Observe que os spreads podem aumentar quando os mercados experimentam menor liquidez, incluindo o período de rollover.",
+    "TRADING_CONDITION_2_DESCRIPTION" => "A XS.com oferece spreads flutuantes em todas as criptomoedas para todos os tipos de conta. Portanto, os spreads na tabela de especificações de contrato são a média de spread baseada no dia de trading anterior. Para spreads ao vivo, por favor, consulte a plataforma de trading. Observe que os spreads podem aumentar quando os mercados experimentam menor liquidez, incluindo o período de rollover.",
     "TRADING_CONDITION_3_TITLE" => "Preços dos Gráficos",
-    "TRADING_CONDITION_3_DESCRIPTION" => "A XSTrades.com oferece uma variedade de contas de trading para atender às necessidades e preferências de cada trader. Oferecemos contas com precificação bruta em que comissões adicionais são cobradas. Outros tipos de conta têm mark-ups incorporados nos preços. Por padrão, o gráfico na plataforma MetaTrader mostrará a precificação bruta, enquanto o market watch exibirá o preço do tipo de conta que o cliente está utilizando.",
+    "TRADING_CONDITION_3_DESCRIPTION" => "A XS.com oferece uma variedade de contas de trading para atender às necessidades e preferências de cada trader. Oferecemos contas com precificação bruta em que comissões adicionais são cobradas. Outros tipos de conta têm mark-ups incorporados nos preços. Por padrão, o gráfico na plataforma MetaTrader mostrará a precificação bruta, enquanto o market watch exibirá o preço do tipo de conta que o cliente está utilizando.",
  
     "TRADING_CONDITION_4_TITLE" => "Swaps",
     "TRADING_CONDITION_4_DESCRIPTION" => "Swap longo é utilizado para manter posições de compra abertas durante a noite, e Swap curto é utilizado para manter posições de venda abertas durante a noite. Os Swaps ocorrem à 00:00 Horário do Servidor todos os dias, exceto nos fins de semana, até que a posição seja fechada. Swaps triplos são cobrados às quartas-feiras para cobrir os custos de financiamento incorridos durante o fim de semana.",
  
     "TRADING_CONDITION_5_TITLE" => "Alavancagem Dinâmica",
-    "TRADING_CONDITION_5_DESCRIPTION" => "A XSTrades.com oferece alavancagem dinâmica nas criptomoedas na maioria dos tipos de conta. Os valores de alavancagem na tabela de especificações de contrato são a alavancagem máxima para cada instrumento de trading. A alavancagem máxima mudará com base nas suas posições líquidas abertas. Para mais detalhes, por favor, verifique a página de Alavancagem Dinâmica.",
+    "TRADING_CONDITION_5_DESCRIPTION" => "A XS.com oferece alavancagem dinâmica nas criptomoedas na maioria dos tipos de conta. Os valores de alavancagem na tabela de especificações de contrato são a alavancagem máxima para cada instrumento de trading. A alavancagem máxima mudará com base nas suas posições líquidas abertas. Para mais detalhes, por favor, verifique a página de Alavancagem Dinâmica.",
  
     "TRADING_CONDITION_6_TITLE" => "Períodos de Requisitos de Margem Mais Altos",
     "TRADING_CONDITION_6_DESCRIPTION" => "Aplicamos medidas de gerenciamento de risco para proteger posições de possíveis altas volatilidades durante eventos-chave e períodos específicos de tempo que afetam a volatilidade geral do mercado. Maiores quantidades de margem são necessárias para abrir uma ordem durante esses períodos, que são conhecidos como períodos HMR (higher margin requirements). 

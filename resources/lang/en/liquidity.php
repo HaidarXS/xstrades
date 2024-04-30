@@ -5,10 +5,10 @@ return [
     'PAGE_DESC' => 'The Best Multi-Asset Liquidity Provider for Brokers & Institutions since 2010.',
 
     'LIQUIDITY_SOLUTIONS' => 'Liquidity Solutions',
-    'LIQUIDITY_SOLUTIONS_DESCRIPTION' => 'At XS Trades, we understand the importance of liquidity for institutional clients. We are dedicated to providing comprehensive liquidity solutions tailored to meet the specific needs of institutions.
+    'LIQUIDITY_SOLUTIONS_DESCRIPTION' => 'At XS, we understand the importance of liquidity for institutional clients. We are dedicated to providing comprehensive liquidity solutions tailored to meet the specific needs of institutions.
     <br />
     Our liquidity roadmap outlines the key features and advantages that set us apart as a trusted liquidity provider.',
-    'WHY_CHOSE_XS' => 'Why Choose XS Trades Liquidity Solutions?',
+    'WHY_CHOSE_XS' => 'Why Choose XS Liquidity Solutions?',
 
     'REASON_1_TITLE' => 'Multiple Asset Classes:',
     'REASON_1_DESCRIPTION' => 'We offer a wide range of asset classes to diversify your portfolio.',

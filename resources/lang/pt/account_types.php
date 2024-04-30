@@ -1,7 +1,7 @@
 <?php 
     return [
         'ACCOUNT_TYPES_TITLE' => 'Explore nossos diversos tipos de conta',
-        'ACCOUNT_TYPES_DESCRIPTION' => 'Explore nossos tipos de contas cuidadosamente elaborados, projetados para atender traders de todos os níveis, descubra os benefícios de cada tipo de conta e escolha aquele que se alinha aos seus objetivos de negociação. Nossos diversos tipos de contas oferecem diversos recursos e vantagens, permitindo que você acesse mercados globais e maximize seu potencial de negociação. Aceda a uma vasta gama de instrumentos de negociação com condições de negociação competitivas e desfrute da melhor experiência de negociação do setor com XS Trades.',
+        'ACCOUNT_TYPES_DESCRIPTION' => 'Explore nossos tipos de contas cuidadosamente elaborados, projetados para atender traders de todos os níveis, descubra os benefícios de cada tipo de conta e escolha aquele que se alinha aos seus objetivos de negociação. Nossos diversos tipos de contas oferecem diversos recursos e vantagens, permitindo que você acesse mercados globais e maximize seu potencial de negociação. Aceda a uma vasta gama de instrumentos de negociação com condições de negociação competitivas e desfrute da melhor experiência de negociação do setor com XS.',
 
         'ACCOUNT_TYPES_SUBTITLE' => 'Maximize seu potencial de negociação com nossos vários tipos de contas.',
         'SELECT_CATEGORY' => 'Selecione uma Categoria',

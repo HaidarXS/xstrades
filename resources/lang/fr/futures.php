@@ -6,13 +6,13 @@ return [
 
     "SECTION_1_TITLE" => "TRADEZ DES CONTRATS Futures AVEC LA MEILLEURE PLATEFORME DE TRADING EN LIGNE",
 
-    'DESCRIPTION_1' => "Bienvenue dans le monde du trading sur contrats à terme avec XS Trades. Découvrez le potentiel illimité du trading sur contrats à terme en négociant des contrats à terme OTC (CFD Futures) avec le meilleur courtier en CFD. Dépassez les limites du trading sur contrats à terme traditionnel et saisissez les opportunités inégalées offertes par XS Trades.
+    'DESCRIPTION_1' => "Bienvenue dans le monde du trading sur contrats à terme avec XS. Découvrez le potentiel illimité du trading sur contrats à terme en négociant des contrats à terme OTC (CFD Futures) avec le meilleur courtier en CFD. Dépassez les limites du trading sur contrats à terme traditionnel et saisissez les opportunités inégalées offertes par XS.
         <br/>
         <br/> 
         Le trading des contrats Futures OTC (CFD sur Futures) avec XS présente de nombreux avantages. XS donne accès à divers marchés, permettant aux traders de s'engager dans différents contrats à terme couvrant les matières premières, les devises, les indices, et bien plus encore.
         <br/>
         <br/> 
-        Avec une gamme complète d'actifs disponibles via les plateformes XS Trades, les traders peuvent diversifier leurs portefeuilles, gérer efficacement les risques et saisir de multiples opportunités de marché.
+        Avec une gamme complète d'actifs disponibles via les plateformes XS, les traders peuvent diversifier leurs portefeuilles, gérer efficacement les risques et saisir de multiples opportunités de marché.
     ",
 
 
@@ -27,7 +27,7 @@ return [
     "SECTION_3_TITLE" => "TRADING DES CONTRATS FUTURES AVEC XS : CONDITIONS DE TRADING",
 
     "TRADING_CONDITION_1_TITLE" => "Heures Normales de Trading",
-    "TRADING_CONDITION_1_DESCRIPTION" => "Les horaires normaux de trading font référence aux sessions de trading régulières disponibles pour le trading. Ci-dessous sont indiqués les horaires normaux de trading pour les contrats à terme disponibles sur la plateforme de trading de XS Trades. Des facteurs saisonniers et de marché peuvent influencer les horaires de trading ci-dessous, il est donc important de suivre les dernières mises à jour sur la page des horaires de trading pour rester informé des derniers changements saisonniers aux horaires de trading. Tous les horaires sont en temps serveur (GMT+3).
+    "TRADING_CONDITION_1_DESCRIPTION" => "Les horaires normaux de trading font référence aux sessions de trading régulières disponibles pour le trading. Ci-dessous sont indiqués les horaires normaux de trading pour les contrats à terme disponibles sur la plateforme de trading de XS. Des facteurs saisonniers et de marché peuvent influencer les horaires de trading ci-dessous, il est donc important de suivre les dernières mises à jour sur la page des horaires de trading pour rester informé des derniers changements saisonniers aux horaires de trading. Tous les horaires sont en temps serveur (GMT+3).
            	
         <span class='d-flex'> Pétrole Brent Futures  <span class='ms-auto'>Lundi 03:00 - Vendredi 23:59</span></span>
         <span class='ms-auto'>(Pause Quotidienne: 00:00 - 02:59:59)</span>
@@ -46,13 +46,13 @@ return [
     // &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Friday: 00:00 - 23:55
 
     "TRADING_CONDITION_2_TITLE" => "Spreads",
-    "TRADING_CONDITION_2_DESCRIPTION" => "XSTrades.com propose un Spread flottant sur tous les contrats à terme pour tous les types de compte. Par conséquent, les écarts dans le tableau des spécifications des contrats sont les spread moyens basés sur la journée de négociation précédente. Pour les spread en direct, veuillez-vous référer à la plateforme de trading. Veuillez noter que les écarts peuvent s'élargir lorsque les marchés connaissent une liquidité réduite, y compris pendant les périodes de rollover.",
+    "TRADING_CONDITION_2_DESCRIPTION" => "XS.com propose un Spread flottant sur tous les contrats à terme pour tous les types de compte. Par conséquent, les écarts dans le tableau des spécifications des contrats sont les spread moyens basés sur la journée de négociation précédente. Pour les spread en direct, veuillez-vous référer à la plateforme de trading. Veuillez noter que les écarts peuvent s'élargir lorsque les marchés connaissent une liquidité réduite, y compris pendant les périodes de rollover.",
 
     "TRADING_CONDITION_3_TITLE" => "Prix des graphiques",
-    "TRADING_CONDITION_3_DESCRIPTION" => "XSTrades.com propose une variété de comptes de trading pour répondre aux besoins et aux préférences de chaque trader. Nous proposons des comptes avec une tarification brute sur laquelle des commissions supplémentaires sont facturées. D'autres types de compte n'ont pas de commission, mais les prix incluent plutôt des majorations. Par défaut, le graphique dans les plateformes de trading MetaTrader affichera la tarification brute, tandis que la liste de marché affichera la tarification du type de compte sur lequel le client effectue des transactions.",
+    "TRADING_CONDITION_3_DESCRIPTION" => "XS.com propose une variété de comptes de trading pour répondre aux besoins et aux préférences de chaque trader. Nous proposons des comptes avec une tarification brute sur laquelle des commissions supplémentaires sont facturées. D'autres types de compte n'ont pas de commission, mais les prix incluent plutôt des majorations. Par défaut, le graphique dans les plateformes de trading MetaTrader affichera la tarification brute, tandis que la liste de marché affichera la tarification du type de compte sur lequel le client effectue des transactions.",
 
     "TRADING_CONDITION_4_TITLE" => "Fixe Leverage",
-    "TRADING_CONDITION_4_DESCRIPTION" => "XSTrades.com propose un levier fixe sur les matières premières pour tous les types de compte. Dans ce cas, le levier maximal affiché dans le tableau des spécifications des contrats ne changera PAS en fonction de vos positions ou types de compte ouverts nets.",
+    "TRADING_CONDITION_4_DESCRIPTION" => "XS.com propose un levier fixe sur les matières premières pour tous les types de compte. Dans ce cas, le levier maximal affiché dans le tableau des spécifications des contrats ne changera PAS en fonction de vos positions ou types de compte ouverts nets.",
 
     "TRADING_CONDITION_5_TITLE" => "Niveau de Stop",
     "TRADING_CONDITION_5_DESCRIPTION" => "Le niveau de stop est la distance minimale (différence en pips) entre le prix actuel du marché et le prix de l'ordre en attente. Les valeurs de niveau de stop dans le tableau des spécifications des contrats sont sujettes à modification et peuvent ne pas être disponibles pour les traders utilisant certaines stratégies de trading à haute fréquence ou des conseillers experts (Expert Advisors).",

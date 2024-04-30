@@ -78,7 +78,7 @@ return [
     'PLATFORM' => 'Platform',
 
     'SPREAD_TITLE' => 'Spreads',
-    'SPREAD_DESCRIPTION' => 'XSTrades.com ofrece spreads variables en todos los
+    'SPREAD_DESCRIPTION' => 'XS.com ofrece spreads variables en todos los
         tipos de cuentas y clases de activos. Por lo tanto,
         los spreads en la tabla de especificaciones del
         contrato son el spread promedio basado en el
@@ -92,7 +92,7 @@ return [
     ',
 
     'DYNAMIC_LEVERAGE_TITLE' => 'Apalancamiento Dinámico',
-    'DYNAMIC_LEVERAGE_DESCRIPTION' => 'XSTrades.com ofrece apalancamiento dinámico en la
+    'DYNAMIC_LEVERAGE_DESCRIPTION' => 'XS.com ofrece apalancamiento dinámico en la
         mayoría de las clases de activos y tipos de
         cuentas. Los valores de apalancamiento en la
         tabla de especificaciones del contrato son el
@@ -107,7 +107,7 @@ return [
     'SWAPS_DESCRIPTION' => 'El swap largo se utiliza para mantener abiertas las posiciones de compra durante la noche y el swap corto se utiliza para mantener abiertas las posiciones de venta durante la noche. Los intercambios se realizan a las 00:00, hora del servidor, todos los días, excepto los fines de semana, hasta que se cierra la posición. Los miércoles se cobran swaps triples para cubrir los costos financieros incurridos durante el fin de semana.',
 
     'CHARTS_TITLE' => 'Gráficos VS Spreads de Market Watch',
-    'CHARTS_DESCRIPTION' => 'XSTrades.com ofrece una variedad de cuentas de
+    'CHARTS_DESCRIPTION' => 'XS.com ofrece una variedad de cuentas de
         trading para adaptarse a las necesidades y
         preferencias de cada trader. Ofrecemos cuentas
         con precios brutos a los que se les aplican
@@ -121,7 +121,7 @@ return [
         está operando.',
 
     'FIXED_LEVERAGE_TITLE' => 'Apalancamiento Fijo',
-    'FIXED_LEVERAGE_DESCRIPTION' => 'XSTrades.com ofrece apalancamiento fijo en algunas
+    'FIXED_LEVERAGE_DESCRIPTION' => 'XS.com ofrece apalancamiento fijo en algunas
         clases de activos y tipos de cuentas. En este caso,
         el apalancamiento máximo mostrado en la tabla
         de especificaciones del contrato NO cambiará

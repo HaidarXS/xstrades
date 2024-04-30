@@ -1,4 +1,6 @@
 <?php
+$date = '22';
+$month = '4';
 return[
 'OPEN_POSITIONS_ON_SHARES'=>'해당 기초 자산의 권리락일(ex-date)과 일치하는 영업일 시작(서버 시간 00:00)에 주식 또는 지수에 대한 오픈 포지션은 배당금 조정(dividend adjustments)이 적용됩니다.
 <br/><br/>
@@ -28,17 +30,22 @@ return[
 'AUS200' => 'AUS200',
 'US30_USD'=>'US30',
 
-'UPCOMING_CORPORATE_ACTIONS'=>'2024년 3월 25일부터 3월 29일 사이에 예정된 기업 활동',
+'UPCOMING_CORPORATE_ACTIONS'=>'2024년 4월 29일부터 5월 3일 사이에 예정된 기업 활동',
 
-'CASH_INDICES'=> '2024년 3월 25일부터 3월 29일까지의 현금 지수',
+'CASH_INDICES'=> '2024년 4월 29일부터 5월 3일까지의 현금 지수	',
 
-'SHARE_CASH_DIVIDENDS'=> '주식 – 2024년 3월 25일부터 3월 29일 사이의 현금 배당금',
-'MONDAY'=> '
-2024년 3월 25일 월요일',
-'TUESDAY'=> '2024년 3월 26일 화요일',
-'WEDNESDAY'=> '2024년 3월 27일 수요일',
-'THURSDAY'=> '2024년 3월 28일 목요일',
-'FRIDAY'=> '2024년 3월 29일 금요일',
+'SHARE_CASH_DIVIDENDS'=> '주식 – 2024년 4월 29일부터 5월 3일 사이의 현금 배당금',
+
+'MONDAY'=> '2024년 4월 29일 월요일',
+'TUESDAY'=> '2024년 4월 30일 화요일',
+'WEDNESDAY'=> '2024년 5월 1일 수요일',
+'THURSDAY'=> '2024년 5월 2일 목요일',
+'FRIDAY'=> '2024년 5월 3일 금요일',
+// 'MONDAY'=> '2024년 '.$month.'월 '.($date ).'일 월요일',
+// 'TUESDAY'=> '2024년 '.$month.'월 '.($date + 1).'일 화요일',
+// 'WEDNESDAY'=> '2024년 '.$month.'월 '.($date + 2).'일 수요일',
+// 'THURSDAY'=> '2024년 '.$month.'월 '.($date + 3).'일 목요일',
+// 'FRIDAY'=> '2024년 '.$month.'월 '.($date + 4).'일 금요일',
 
 
 'EXAMPLE' => '예시:',

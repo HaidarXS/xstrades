@@ -3,7 +3,7 @@ return [
     'BANNER_TITLE' => '',
     'BANNER_DESCRIPTION' => '',
 
-    'WHY_JOIN_INFLUENCERS_XS' => 'Mengapa Bergabung dengan Program Influencer XS Trades?',
+    'WHY_JOIN_INFLUENCERS_XS' => 'Mengapa Bergabung dengan Program Influencer XS?',
 
     'INFLUENCERS_REASON_1_TITLE' => 'Program-program Multiple:',
     'INFLUENCERS_REASON_1_DESCRIPTION' => 'Program kemitraan kami yang beragam dirancang untuk memenuhi kebutuhan berbagai mitra.',
@@ -29,10 +29,10 @@ return [
     'INFLUENCERS_REASON_8_TITLE' => 'Kondisi Premium:',
     'INFLUENCERS_REASON_8_DESCRIPTION' => 'Kondisi kemitraan yang kompetitif untuk Anda dan pengalaman trading terbaik bagi klien Anda.',
 
-    'WHY_CLIENTS_CHOSE_XS' => 'Mengapa Klien Memilih XS Trades?',
+    'WHY_CLIENTS_CHOSE_XS' => 'Mengapa Klien Memilih XS?',
 
     'CHOOSE_REASON_1_TITLE' => 'Broker Global Terpercaya:',
-    'CHOOSE_REASON_1_DESCRIPTION' => 'XSTrades.com adalah broker global terpercaya dengan regulasi ganda.',
+    'CHOOSE_REASON_1_DESCRIPTION' => 'XS.com adalah broker global terpercaya dengan regulasi ganda.',
 
     'CHOOSE_REASON_2_TITLE' => 'Broker Pemenang Penghargaan:',
     'CHOOSE_REASON_2_DESCRIPTION' => 'Berdagang dengan broker yang telah diakui layanannya.',
@@ -59,7 +59,7 @@ return [
     'CHOOSE_REASON_9_DESCRIPTION' => 'Manfaatkan dukungan pelanggan dalam bahasa Anda.',
 
     'LETS_TALK_PARTNERSHIP' => 'MARI BICARAKAN KERJASAMA',
-    'LETS_TALK_PARTNERSHIP_DESCRIPTION' => 'Tim ahli kami siap berbagi pengetahuan dan wawasan dengan Anda untuk memastikan Anda mencapai tujuan Anda dan mengimplementasikan strategi Anda. Jika Anda ingin berbicara dengan salah satu ahli berpengalaman kami tentang program kemitraan kami, silakan kirim email kepada kami di partners@XSTrades.com.',
+    'LETS_TALK_PARTNERSHIP_DESCRIPTION' => 'Tim ahli kami siap berbagi pengetahuan dan wawasan dengan Anda untuk memastikan Anda mencapai tujuan Anda dan mengimplementasikan strategi Anda. Jika Anda ingin berbicara dengan salah satu ahli berpengalaman kami tentang program kemitraan kami, silakan kirim email kepada kami di partners@xs.com.',
 
     'BEST_FX_BROKER' => 'BROKER FX TERBAIK',
     'BEST_FUNDAMENTAL' => 'ANALISIS FUNDAMENTAL & TEKNIS TERBAIK',

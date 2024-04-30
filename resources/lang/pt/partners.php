@@ -17,19 +17,19 @@ return [
     'STEP_2_DESCRIPTION' => 'Compartilhe seu link de parceria <br/> e indique clientes para a XS',
     'STEP_3_DESCRIPTION' => 'Aumente sua renda enquanto <br/> seus clientes operam com a XS',
 
-    'WHY_JOIN_INFLUENCERS_XS' => 'Por que ingressar no programa de influenciadores com XS Trades?',
+    'WHY_JOIN_INFLUENCERS_XS' => 'Por que ingressar no programa de influenciadores com XS?',
 
     'INFLUENCERS_REASON_1_TITLE' => 'Múltiplos Programas:',
     'INFLUENCERS_REASON_1_DESCRIPTION' => 'Nossos múltiplos programas de parceria são projetados para atender às necessidades de uma ampla variedade de parceiros.',
 
     'INFLUENCERS_REASON_2_TITLE' => 'Plano Inovador de Ganhos:',
-    'INFLUENCERS_REASON_2_DESCRIPTION' => 'Receba as comissões mais altas do setor ao indicar clientes para a XS Trades, um corretor global multiativo.',
+    'INFLUENCERS_REASON_2_DESCRIPTION' => 'Receba as comissões mais altas do setor ao indicar clientes para a XS, um corretor global multiativo.',
 
     'INFLUENCERS_REASON_3_TITLE' => 'Pagamentos Rápidos:',
     'INFLUENCERS_REASON_3_DESCRIPTION' => 'Seus pagamentos são feitos diariamente em sua carteira de parceiro, e você pode acessar seus ganhos instantaneamente através de várias opções de pagamento flexíveis e confiáveis.',
 
     'INFLUENCERS_REASON_4_TITLE' => 'Relatórios Avançados:',
-    'INFLUENCERS_REASON_4_DESCRIPTION' => 'Nossas ferramentas avançadas de relatórios permitem que você monitore estatísticas detalhadas em tempo real sobre as transações de cada cliente em seu portal de parceiro XS Trades.',
+    'INFLUENCERS_REASON_4_DESCRIPTION' => 'Nossas ferramentas avançadas de relatórios permitem que você monitore estatísticas detalhadas em tempo real sobre as transações de cada cliente em seu portal de parceiro XS.',
 
     'INFLUENCERS_REASON_5_TITLE' => 'Ferramentas Promocionais:',
     'INFLUENCERS_REASON_5_DESCRIPTION' => 'Fornecemos todas as ferramentas que você precisa para promover nossos produtos, incluindo banners para o site, publicidade, páginas de destino, material educacional e webinars.',
@@ -43,10 +43,10 @@ return [
     'INFLUENCERS_REASON_8_TITLE' => 'Condições Premium:',
     'INFLUENCERS_REASON_8_DESCRIPTION' => 'Condições de parceria competitivas para você e a melhor experiência de negociação para seus clientes.',
 
-    'WHY_CLIENTS_CHOSE_XS' => 'Por que os Clientes Escolhem a XS Trades?',
+    'WHY_CLIENTS_CHOSE_XS' => 'Por que os Clientes Escolhem a XS?',
 
     'CHOOSE_REASON_1_TITLE' => 'Corretora Global Confiável:',
-    'CHOOSE_REASON_1_DESCRIPTION' => 'A XSTrades.com é uma corretora global confiável com várias regulamentações.',
+    'CHOOSE_REASON_1_DESCRIPTION' => 'A XS.com é uma corretora global confiável com várias regulamentações.',
 
     'CHOOSE_REASON_2_TITLE' => 'Corretora Premiada:',
     'CHOOSE_REASON_2_DESCRIPTION' => 'Negocie com uma corretora reconhecida por seus serviços.',
@@ -73,7 +73,7 @@ return [
     'CHOOSE_REASON_9_DESCRIPTION' => 'Aproveite nosso suporte ao cliente em seu idioma.',
 
     'LETS_TALK_PARTNERSHIP' => 'VAMOS FALAR SOBRE PARCERIA',
-    'LETS_TALK_PARTNERSHIP_DESCRIPTION' => 'Nossa equipe de especialistas está pronta para compartilhar seu conhecimento e insights para garantir que você atinja seus objetivos e implemente suas estratégias. Se você deseja conversar com um de nossos especialistas sobre nossos programas de parceria, envie um e-mail para partners@XSTrades.com.',
+    'LETS_TALK_PARTNERSHIP_DESCRIPTION' => 'Nossa equipe de especialistas está pronta para compartilhar seu conhecimento e insights para garantir que você atinja seus objetivos e implemente suas estratégias. Se você deseja conversar com um de nossos especialistas sobre nossos programas de parceria, envie um e-mail para partners@xs.com.',
 
     'BEST_FX_BROKER' => 'MELHOR CORRETORA DE FX',
     'BEST_FUNDAMENTAL' => 'MELHOR ANÁLISE FUNDAMENTAL E TÉCNICA',

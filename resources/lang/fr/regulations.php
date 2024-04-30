@@ -11,7 +11,7 @@ return [
     <br />
     L\'Autorité des services financiers (FSA) est l\'organisme de réglementation autonome chargé d\'octroyer des licences, de réglementer, d\'appliquer les exigences réglementaires et de conformité, de contrôler et de superviser la conduite des affaires dans le secteur des services financiers non bancaire aux Seychelles.
     <br/>
-    XS Ltd opère sous le site web <a href="https://www.XSTrades.com/" target="_blank">www.XSTrades.com</a> pour la fourniture de ses services et produits dans certaines juridictions où une telle fourniture ne serait pas contraire à la législation ou à la réglementation locale.',
+    XS Ltd opère sous le site web <a href="https://www.xs.com/" target="_blank">www.xs.com</a> pour la fourniture de ses services et produits dans certaines juridictions où une telle fourniture ne serait pas contraire à la législation ou à la réglementation locale.',
 
     'XS_PRIME_LTD' => 'XS Prime Ltd',
     'XS_PRIME_LTD_DESCRIPTION' => 'XS Prime Ltd est enregistrée sous les lois de l\'Australie avec le numéro d\'entreprise (141 194 934) et le siège social: MORRIS MENNILLI, SUITE 701 LEVEL 7, 92 PITT STREET, SYDNEY NSW 2000.
@@ -35,8 +35,8 @@ return [
     Pour plus d\'informations sur le régulateur, veuillez-vous référer à <a href="https://www.fsca.co.za/" target="blank">https://www.fsca.co.za/</a> ',
 
         'XS_FINTECH_LTD' => 'XS Fintech Ltd.',
-    'XS_FINTECH_LTD_DESCRIPTION' => 'XS Fintech Ltd. XS Fintech Ltd est enregistrée à Chypre sous le numéro d\'enregistrement HE 426566. XS Fintech Ltd est un fournisseur de solutions Fintech et la branche technologique du groupe XS Trades. ',
-    'DISCLAIMER'=> 'Les entités susmentionnées sont dûment autorisées à opérer sous la marque et les marques du groupe XS Trades.
+    'XS_FINTECH_LTD_DESCRIPTION' => 'XS Fintech Ltd. XS Fintech Ltd est enregistrée à Chypre sous le numéro d\'enregistrement HE 426566. XS Fintech Ltd est un fournisseur de solutions Fintech et la branche technologique du groupe XS. ',
+    'DISCLAIMER'=> 'Les entités susmentionnées sont dûment autorisées à opérer sous la marque et les marques du groupe XS.
     </br></br>
     Restrictions régionales : le groupe XS n\'offre pas ses services aux résidents de certaines juridictions telles que les États-Unis, l\'Iran, la Corée du Nord et le Myanmar.
     </br></br>
