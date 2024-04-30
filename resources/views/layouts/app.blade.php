@@ -218,8 +218,18 @@
     });
 </script> --}}
 
+@php
+    $homepage = route('home', ['lang' => App::getLocale()]);
+@endphp
 
 <body @if (session()->get('locale') == 'ar') dir="rtl" class="rtl" @endif>
+    @if ($currentUrl == $homepage)
+    @if (!session()->has('visitedHomepage'))
+        <div class="preloader">
+            <img src="{{ asset('img/xstrades-logo.webp') }}" alt="Logo">
+        </div>
+    @endif
+@endif
     @include('layouts.header')
 
     <div class="page-content">
@@ -251,6 +261,7 @@
             console.log("This page took " + {{ microtime(true) - LARAVEL_START }} + " seconds to render.");
         });
     </script>
+    <script src="{{ asset('/js/preloader.js') }}"></script>
 </body>
 
 </html>

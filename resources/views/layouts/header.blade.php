@@ -24,7 +24,7 @@
 <header class="fixed-top header-content">
     <div class="position-relative">
         <div class="container">
-            <div class="row align-items-center py-4" id="header-mobile-padding">
+            <div class="row align-items-center pt-4" id="header-mobile-padding">
                 <nav class="navbar navbar-expand-lg position-static">
                     <div class="text-center mx-auto p-0 container-fluid">
                         <a class="navbar-brand active-link" href="{{ route('home', ['lang' => App::getLocale()]) }}">

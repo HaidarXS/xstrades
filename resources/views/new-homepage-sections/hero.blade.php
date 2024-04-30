@@ -70,8 +70,6 @@
                     ])
                 </div>
             </div>
-            @if (app()->getLocale() != 'jp')
-                <!-- 4th carousel item (Exept JP) -->
                 <div class="carousel-item">
                     <div class="home-hero-section home-hero-img-4 py-lg-5 pt-3 pb-5">
                         @include('new-homepage-sections.components.new-hero-section', [
@@ -81,18 +79,6 @@
                         ])
                     </div>
                 </div>
-            @elseif(app()->getLocale() == 'jp')
-                <!-- 5th carousel item (Only JP) -->
-                <div class="carousel-item">
-                    <div class="home-hero-section home-hero-img-5 py-lg-5 pt-3 pb-5">
-                        @include('new-homepage-sections.components.new-hero-section', [
-                            'title' => __('contest.HERO_BANNER_TITLE'),
-                            'description' => __('contest.HERO_BANNER_DESCRIPTION'),
-                            'ctaLink' => route('contests.index', ['lang' => App::getLocale()]),
-                        ])
-                    </div>
-                </div>
-            @endif
 
 
         </div>
