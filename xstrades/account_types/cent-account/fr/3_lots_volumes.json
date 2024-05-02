@@ -1,0 +1,26 @@
+[
+    {
+        "Lots et volumes": "Taille du Lot",
+        "mt5": "Cent (100,000)"
+    },
+    {
+        "Lots et volumes": "Volume minimal",
+        "mt5": "0.01 Lot"
+    },
+    {
+        "Lots et volumes": "Volume  Maximal  par ordre (jour)",
+        "mt5": "500"
+    },
+    {
+        "Lots et volumes": "Volume  Maximal  par ordre (nuit)",
+        "mt5": "500"
+    },
+    {
+        "Lots et volumes": "Volume total maximal des ordres en attente",
+        "mt5": "500"
+    },
+    {
+        "Lots et volumes": "Volume Total  Maximal  des Ordres Ouverts",
+        "mt5": "500"
+    }
+]

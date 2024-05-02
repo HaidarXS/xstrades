@@ -1,0 +1,64 @@
+@font-face {
+    font-family: "Poppins Black";
+    /* Choose a name for your font */
+    src: url("/fonts/Poppins-Black.ttf") format("truetype");
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Poppins Bold";
+    /* Choose a name for your font */
+    src: url("/fonts/Poppins-Bold.ttf") format("truetype");
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Poppins ExtraBold";
+    /* Choose a name for your font */
+    src: url("/fonts/Poppins-ExtraBold.ttf") format("truetype");
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Poppins";
+    /* Choose a name for your font */
+    src: url("/fonts/Poppins-Regular.ttf") format("truetype");
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Poppins SemiBold";
+    /* Choose a name for your font */
+    src: url("/fonts/Poppins-Semibold.ttf") format("truetype");
+    font-style: normal;
+}
+
+body {
+    font-family: "Poppins", sans-serif;
+    /* Use the font family name you defined earlier */
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Poppins ExtraBold", sans-serif;
+}
+
+.tabs-container button {
+    font-size: 20px !important;
+    font-family: "Poppins" sans-serif;
+}
+
+.nav-item .nav-link {
+    color: #203c83 !important;
+    font-family: "Poppins";
+    font-weight: 700 !important;
+}
+
+.changeLang {
+    color: #30af85;
+    font-family: "Poppins Bold";
+}

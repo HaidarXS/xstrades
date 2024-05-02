@@ -1,0 +1,26 @@
+[
+    {
+        "Lot và Khối lượng" : "Kích thước lot",
+        "mt5" : "Cent (100.000)"
+    },
+    {
+        "Lot và Khối lượng" : "Khối lượng tối thiểu",
+        "mt5" : "0.01 Lot"
+    },
+    {
+        "Lot và Khối lượng" : "Khối lượng tối đa mỗi lệnh (Ban ngày)",
+        "mt5" : "500"
+    },
+    {
+        "Lot và Khối lượng" : "Khối lượng tối đa mỗi lệnh (Ban đêm)",
+        "mt5" : "500"
+    },
+    {
+        "Lot và Khối lượng" : "Tổng khối lượng tối đa của các lệnh chờ xử lý",
+        "mt5" : "500"
+    },
+    {
+        "Lot và Khối lượng" : "Tổng khối lượng lệnh mở tối đa",
+        "mt5" : "500"
+    }
+]

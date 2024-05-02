@@ -1,0 +1,50 @@
+[
+  {
+   "date": "27\/03\/2024",
+   "time": "03:30",
+   "name": "Indicador mensual del IPC (YoY) (Feb)",
+   "currency": "AUD",
+   "applied_start": "03:15",
+   "applied_end": "03:40"
+  },
+  {
+   "date": "28\/03\/2024",
+   "time": "03:30",
+   "name": "Ventas al por menor (MoM) (Feb)",
+   "currency": "AUD",
+   "applied_start": "03:15",
+   "applied_end": "03:40"
+  },
+  {
+   "date": "28\/03\/2024",
+   "time": "10:00",
+   "name": "Cuenta corriente (Q4)",
+   "currency": "GBP",
+   "applied_start": "09:45",
+   "applied_end": "10:10"
+  },
+  {
+   "date": "28\/03\/2024",
+   "time": "15:30",
+   "name": "PIB (QoQ) (Q4)",
+   "currency": "USD",
+   "applied_start": "15:15",
+   "applied_end": "15:40"
+  },
+  {
+   "date": "29\/03\/2024",
+   "time": "02:30",
+   "name": "IPC básico de Tokio (YoY) (Mar)",
+   "currency": "JPY",
+   "applied_start": "02:15",
+   "applied_end": "02:40"
+  },
+  {
+   "date": "29\/03\/2024",
+   "time": "15:30",
+   "name": "Índice de precios del gasto en consumo personal (YoY) (Feb)",
+   "currency": "USD",
+   "applied_start": "15:15",
+   "applied_end": "15:40"
+  }
+ ]

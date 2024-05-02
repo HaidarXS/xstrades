@@ -1,0 +1,27 @@
+[
+    {
+        "Especificações da Conta": "Depósito Mínimo",
+        "mt4": 0,
+        "mt5": 0
+    },
+    {
+        "Especificações da Conta": "Número Máximo de contas / PA",
+        "mt4": 10,
+        "mt5": 10
+    },
+    {
+        "Especificações da Conta": "Contas Demo",
+        "mt4": "Sim",
+        "mt5": "Sim"
+    },
+    {
+        "Especificações da Conta": "Moeda Base",
+        "mt4": "USD",
+        "mt5": "USD EUR GBP JPY ZAR"
+    },
+    {
+        "Especificações da Conta": "Produtos ",
+        "mt4": "Forex Metais  Energia Índices",
+        "mt5": "Forex Metais Crypto Energia Índices Futures Ações"
+    }
+]

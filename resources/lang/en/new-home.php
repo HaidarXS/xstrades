@@ -22,7 +22,7 @@ return [
     'DYNAMIC_LEVERAGE_DESC' => 'Maximize your Trading Potential <br> with the Best Multi-Asset Broker',
 
     // Banner 4
-    'ENJOY_XS_MASTERCARD' => 'Enjoy the Benefits <br class="d-block d-sm-none" /> of XS Mastercard',
+    'ENJOY_XS_MASTERCARD' => 'Enjoy the Benefits <br class="d-block d-sm-none" /> of XS Trades Mastercard',
     'ENJOY_XS_MASTERCARD_DESC' => 'Access your Funds Anytime <br> from Anywhere in the World',
 
     'FOREX' => 'Forex',
@@ -116,10 +116,10 @@ return [
     'FUNDING_METHODS_BENEFIT_5' => 'No Fees on Deposits & Withdrawals.',
 
     'JOIN_LEADER' => 'Join The Global Market Leader',
-    'JOIN_LEADER_DESC' => 'Discover why clients worldwide choose XS.com. <br> Start your journey towards success in online trading.',
+    'JOIN_LEADER_DESC' => 'Discover why clients worldwide choose XSTrades.com. <br> Start your journey towards success in online trading.',
 
     'FAST_EASY' => 'Fast & Easy Registration',
-    'DESC_1' => 'Registering an account with XS is a really quick and easy process that can be done within a few minutes, using digital registration tools.',
+    'DESC_1' => 'Registering an account with XS Trades is a really quick and easy process that can be done within a few minutes, using digital registration tools.',
 
     'SAFETY_FUNDS_DATA' => 'Safety of Funds & Data',
     'DESC_2' => 'We prioritise the security of your funds and personal information, providing you with peace of mind as you trade.',
@@ -137,7 +137,7 @@ return [
     'EVENTS_DESC' => 'We have a prominent presence in the most important events and activities across the globe.',
 
     'GLOBAL_AWARDS' => 'Global Awards',
-    'GLOBAL_AWARDS_DESC' => 'Discover the recognition XS.com has <br> achieved through numerous global awards.',
+    'GLOBAL_AWARDS_DESC' => 'Discover the recognition XSTrades.com has <br> achieved through numerous global awards.',
 
     "MOST_SECURE_BROKER" => "MOST SECURE BROKER",
     "BEST_GLOBAL_BROKER" => "BEST GLOBAL BROKER",

@@ -1,0 +1,35 @@
+[
+    {
+     "symbol": "AU200",
+     "Monday": "0.14",
+     "Tuesday": "0.97",
+     "Wednesday": "0.49"
+    },
+    {
+     "symbol": "ES35",
+     "Tuesday": "1.88",
+     "Thursday": 49
+    },
+    {
+     "symbol": "JP225",
+     "Thursday": 266
+    },
+    {
+     "symbol": "UK100",
+     "Thursday": "4.7"
+    },
+    {
+     "symbol": "US100",
+     "Wednesday": "1.15",
+     "Thursday": "0.17",
+     "Friday": "0.49"
+    },
+    {
+     "symbol": "US2000",
+     "Monday": "0.05",
+     "Tuesday": "0.04",
+     "Wednesday": "1.08",
+     "Thursday": "0.14",
+     "Friday": "0.15"
+    }
+   ]

@@ -1,0 +1,22 @@
+[
+    {
+        " Levier et Marge": "LEVIER DYNAMIQUE",
+        "mt5": false
+    },
+    {
+        " Levier et Marge": "Levier  Maximal  du Compte",
+        "mt5": "1:1000"
+    },
+    {
+        " Levier et Marge": "Niveau d'Appel de Marge",
+        "mt5": "60%"
+    },
+    {
+        " Levier et Marge": "Niveau de Stop Out",
+        "mt5": "10%"
+    },
+    {
+        " Levier et Marge": "Marge en Hedging",
+        "mt5": "0"
+    }
+]

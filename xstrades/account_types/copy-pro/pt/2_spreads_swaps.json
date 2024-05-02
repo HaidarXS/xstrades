@@ -1,0 +1,18 @@
+[
+   {
+      "Spreads e Swaps": "Spread Padrão (EURUSD)",
+      "mt5": "0.7"
+   },
+   {
+      "Spreads e Swaps": "Comissão",
+      "mt5": "X"
+   },
+   {
+      "Spreads e Swaps": "Nível de Stop",
+      "mt5": "0"
+   },
+   {
+      "Spreads e Swaps": "Opção Livre de Swap",
+      "mt5": true
+   }
+]

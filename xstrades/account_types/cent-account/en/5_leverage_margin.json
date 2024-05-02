@@ -1,0 +1,22 @@
+[
+    {
+        "Leverage & margin": "Dynamic Leverage",
+        "mt5": "x"
+    },
+    {
+        "Leverage & margin": "Maximum Leverage",
+        "mt5": "1:1000"
+    },
+    {
+        "Leverage & margin": "Margin Call Level",
+        "mt5": "60%"
+    },
+    {
+        "Leverage & margin": "Stop out Level",
+        "mt5": "10%"
+    },
+    {
+        "Leverage & margin": "Hedged Margin",
+        "mt5": "0"
+    }
+]

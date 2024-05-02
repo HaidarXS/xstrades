@@ -1,0 +1,72 @@
+[
+    {
+     "Symbol": "BTCUSD",
+     "Spreads Pips": 49.5,
+     "Commissions Per Lot/Side": 0,
+     "Long Swap Pips": -7.4275,
+     "Short Swap Pips": -7.4275
+    },
+    {
+     "Symbol": "ETHUSD",
+     "Spreads Pips": 6.5,
+     "Commissions Per Lot/Side": 0,
+     "Long Swap Pips": -0.42649166666666666,
+     "Short Swap Pips": -0.42649166666666666
+    },
+    {
+     "Symbol": "LTCUSD",
+     "Spreads Pips": 1.5,
+     "Commissions Per Lot/Side": 0,
+     "Long Swap Pips": -0.016894444444444448,
+     "Short Swap Pips": -0.016894444444444448
+    },
+    {
+     "Symbol": "XRPUSD",
+     "Spreads Pips": 1.3,
+     "Commissions Per Lot/Side": 0,
+     "Long Swap Pips": -0.00013383333333333332,
+     "Short Swap Pips": -0.00013383333333333332
+    },
+    {
+     "Symbol": "EOSUSD",
+     "Spreads Pips": 2.6,
+     "Commissions Per Lot/Side": 0,
+     "Long Swap Pips": -0.00014944444444444448,
+     "Short Swap Pips": -0.00014944444444444448
+    },
+    {
+     "Symbol": "NEOUSD",
+     "Spreads Pips": 1.3,
+     "Commissions Per Lot/Side": 0,
+     "Long Swap Pips": -0.0018611111111111111,
+     "Short Swap Pips": -0.0018611111111111111
+    },
+    {
+     "Symbol": "OMGUSD",
+     "Spreads Pips": 2.8,
+     "Commissions Per Lot/Side": 0,
+     "Long Swap Pips": -0.00012011111111111112,
+     "Short Swap Pips": -0.00012011111111111112
+    },
+    {
+     "Symbol": "TRXUSD",
+     "Spreads Pips": 5.5,
+     "Commissions Per Lot/Side": 0,
+     "Long Swap Pips": -2.3766666666666664E-05,
+     "Short Swap Pips": -2.3766666666666664E-05
+    },
+    {
+     "Symbol": "XMRUSD",
+     "Spreads Pips": 6.1,
+     "Commissions Per Lot/Side": 0,
+     "Long Swap Pips": -0.04194722222222222,
+     "Short Swap Pips": -0.04194722222222222
+    },
+    {
+     "Symbol": "ZECUSD",
+     "Spreads Pips": 1.9,
+     "Commissions Per Lot/Side": 0,
+     "Long Swap Pips": -0.006836111111111112,
+     "Short Swap Pips": -0.006836111111111112
+    }
+   ]

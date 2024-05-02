@@ -1,0 +1,45 @@
+[
+    {
+        "title": "CEO Toàn Cầu",
+        "person": "MOHAMMAD IBRAHIM",
+        "sponsor": "Lễ trao giải Trung Đông <br/> Tầm nhìn thông minh",
+        "country": "Dubai, UAE,",
+        "date": "'09/2023",
+        "img": "/img/top50ceo.webp"
+    },
+    {
+        "title": "Lãnh Đạo Truyền Cảm Hứng Toàn Cầu",
+        "person": "MOHAMMAD IBRAHIM",
+        "sponsor": "Hội nghị lãnh đạo Trang Trắng <br/> Trang Trắng Quốc Tế ",
+        "country": "Dubai, UAE,",
+        "date": "'09/2023",
+        "img": "/img/inspirational-leader.webp"
+    },
+
+    {
+        "title": "CEO Của Năm",
+        "person": "MOHAMMAD IBRAHIM",
+        "sponsor": "Sự kiện Tài Chính và Giải Thưởng JFEX, Jordan<br/> Tập đoàn Afaq ",
+        "country": "Amman Jordan,",
+        "date": "'09/2023",
+        "img": "/img/ceo-of-the-year.webp"
+    },
+
+    {
+        "title": "Nhân Vật Có Ảnh Hưởng Nhất <br/> CCO của năm",
+        "person": "WAEL HAMMAD",
+        "sponsor": "Hội nghị Forex Traders  <br/> Tầm nhìn thông minh",
+        "country": "Dubai, UAE,",
+        "date": "'05/2023",
+        "img": "/img/best-cco.webp"
+    },
+
+    {
+        "title": "Nhân Vật Có Ảnh Hưởng Nhất <br/> CEO của năm",
+        "person": "MOHAMMAD IBRAHIM",
+        "sponsor": "Hội nghị Fintech & Crypto <br/> Tầm nhìn thông minh ",
+        "country": "Manama, Bahrain",
+        "date": "'02/2023",
+        "img": "/img/best-ceo.webp"
+    }
+]

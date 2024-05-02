@@ -109,7 +109,7 @@
         <link href="{{ asset('css/font-family.css') }}" rel="stylesheet">
     @endif
 
-    <link href="{{ asset('css/new-css.css?v5.4') }}" rel="stylesheet">
+    <link href="{{ asset('css/new-css.css?v5.5') }}" rel="stylesheet">
     <link href="{{ asset('css/app.css?v5.5') }}" rel="stylesheet">
     <link href="{{ asset('css/main.css?v3.1') }}" rel="stylesheet">
     <link href="{{ asset('css/custom.css?v3.1') }}" rel="stylesheet">
@@ -253,7 +253,7 @@
     <script src="{{ asset('js/app.js') }}"></script>
     @stack('scripts')
 
-    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"></script>
+    <script src="http://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js"></script>
     @include('layouts.footer')
     <script>

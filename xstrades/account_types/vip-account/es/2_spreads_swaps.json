@@ -1,0 +1,22 @@
+[
+   {
+      "Spreads y Swaps": "Spreads Promedio",
+      "mt4": "1 Pip",
+      "mt5": "1 Pip"
+   },
+   {
+      "Spreads y Swaps": "Comisión",
+      "mt4": "0",
+      "mt5": "0"
+   },
+   {
+      "Spreads y Swaps": "Nivel de Stop",
+      "mt4": "0",
+      "mt5": "0"
+   },
+   {
+      "Spreads y Swaps": "Opción sin Swap",
+      "mt4": "Sí",
+      "mt5": "Sí"
+   }
+]

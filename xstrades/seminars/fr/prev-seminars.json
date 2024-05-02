@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Séminaires Philippines",
+    "date": "9 mars 2024",
+    "country": "Ville de Pasig, Philippines",
+    "dir": "philippines-seminars"
+  },
+  {
+    "title": "Séminaire Nigéria",
+    "date": "15 & 17 décembre 2023",
+    "country": "Port Harcourt, Nigéria",
+    "dir": "nigeria-seminar-17-18"
+  },
+  {
+    "title": "Séminaire Vietnam",
+    "date": "10 décembre 2023",
+    "country": "HCMV, Vietnam",
+    "dir": "vietnam-seminar"
+  },
+  {
+    "title": "Séminaire Brésil",
+    "date": "25 novembre 2023",
+    "country": " Belo Horizonte, Brésil",
+    "dir": "brazil-seminar"
+  },
+  {
+    "title": "Séminaire Nigéria",
+    "date": "28 octobre 2023",
+    "country": "Uyo, Nigéria",
+    "dir": "nigeria-seminar-28-october-2023"
+  },
+  {
+    "title": "Séminaire d'Oman",
+    "date": "7 octobre 2023",
+    "country": "Muscat, Oman",
+    "dir": "oman-seminar"
+  }
+]

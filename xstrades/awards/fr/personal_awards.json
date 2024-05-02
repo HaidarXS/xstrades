@@ -1,0 +1,45 @@
+[
+    {
+        "title": "PREMIER DIRIGEANT MONDIAL",
+        "person": "MOHAMMAD IBRAHIM",
+        "sponsor": "Cérémonie de remise des prix du Moyen-Orient <br/> Vision intelligente",
+        "country": "Dubaï, Émirats arabes unis",
+        "date": "Septembre 2023",
+        "img": "/img/top50ceo.webp"
+    },
+    {
+        "title": "LEADER MONDIAL INSPIRANT",
+        "person": "MOHAMMAD IBRAHIM",
+        "sponsor": "Conclave du Leadership White Page <br/> White Page International ",
+        "country": "Dubaï, Émirats arabes unis",
+        "date": "Septembre 2023",
+        "img": "/img/inspirational-leader.webp"
+    },
+
+    {
+        "title": "PDG DE L'ANNÉE",
+        "person": "MOHAMMAD IBRAHIM",
+        "sponsor": "Expo Financière et Prix Jordan JFEX <br/> Afaq Group ",
+        "country": "Amman (Jordanie)",
+        "date": "Septembre 2023",
+        "img": "/img/ceo-of-the-year.webp"
+    },
+
+    {
+        "title": "PERSONNALITÉ LA PLUS INFLUENTE <br/> MEILLEUR CCO",
+        "person": "WAEL HAMMAD",
+        "sponsor": "Sommet des traders Forex <br/> Vision intelligente",
+        "country": "Dubaï, Émirats arabes unis",
+        "date": "Mai 2023",
+        "img": "/img/best-cco.webp"
+    },
+
+    {
+        "title": "PERSONNALITÉ LA PLUS INFLUENTE <br/> MEILLEUR PDG",
+        "person": "MOHAMMAD IBRAHIM",
+        "sponsor": "By FinTech & Crypto Summit <br/> Vision intelligente ",
+        "country": "Manama, Bahreïn",
+        "date": "Février 2023",
+        "img": "/img/best-ceo.webp"
+    }
+]

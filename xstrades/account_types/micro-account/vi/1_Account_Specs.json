@@ -1,0 +1,22 @@
+[
+   {
+        "Thông số kỹ thuật" : "Tiền nạp tối thiểu",
+        "mt5" : 0
+   },
+   {
+        "Thông số kỹ thuật" : "Số lượng tài khoản tối đa/ PA",
+        "mt5" : 10
+   },
+   {
+        "Thông số kỹ thuật" : "Tài khoản demo",
+        "mt5" : "Không"
+   },
+   {
+        "Thông số kỹ thuật" : "Đồng tiền yết giá",
+        "mt5" : "USD"
+   },
+   {
+        "Thông số kỹ thuật" : "Các loại tài sản",
+        "mt5" : "Kim loại Forex năng lượng Chỉ số"
+   }
+]

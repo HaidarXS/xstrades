@@ -1,0 +1,62 @@
+[
+  {
+    "title": "วันสตรีสากล",
+    "country": "ลีมาซอล ไซปรัส",
+    "date": "มีนาคม 2024",
+    "dir": "women-day"
+  },
+  {
+    "title": "เทศกาลลิมาซอล คาร์นิวัล",
+    "country": "ลีมาซอล ไซปรัส",
+    "date": "มีนาคม 2024",
+    "dir": "limassol-carnival-festival"
+  },
+  {
+    "title": "วันขอบคุณพนักงาน",
+    "country": "ลีมาซอล ไซปรัส",
+    "date": "มีนาคม 2024",
+    "dir": "employee-appreciation-day"
+  },
+  {
+    "title": "เฉลิมฉลองวันปีใหม่",
+    "country": "กัวลาลัมเปอร์มาเลเซีย",
+    "date": "ก.พ. 2024",
+    "dir": "celebrating-lunar-new-year-2023"
+  },
+  {
+    "title": "ล่องเรือแม่น้ำเจ้าพระยา",
+    "country": "กรุงเทพประเทศไทย",
+    "date": "ก.พ. 2024",
+    "dir": "chao-phraya-river-cruise-2024"
+  },
+  {
+    "title": "รวมกลุ่มผู้นำทีม",
+    "country": "กรุงมะนิลาประเทศฟิลิปปินส์",
+    "date": "ก.พ. 2024",
+    "dir": "leadership-team-huddle-2024"
+  },
+  {
+    "title": "เฉลิมฉลองวันปีใหม่ 2023",
+    "country": "เขตประเทศทั่วโลก",
+    "date": "ธ.ค. 2023",
+    "dir": "celebrating-new-year-2023"
+  },
+  {
+    "title": "ทัวร์พิเศษชมพีระมิด",
+    "country": "กิซ่า, อียิปต์",
+    "date": "13 พฤศจิกายน 2023",
+    "dir": "special-tour-to-the-pyramids"
+  },
+  {
+    "title": "ทัวร์พิเศษในมัสกัต",
+    "country": "มัสกัต, โอมาน",
+    "date": "8 ตุลาคม 2023",
+    "dir": "special-tour-in-muscat"
+  },
+  {
+    "title": "เฉลิมฉลองความสำเร็จที่ดูไบ",
+    "country": "ดูไบ, UAE",
+    "date": "27 กันยายน 2023",
+    "dir": "celebrating-success in-dubai"
+  }
+]

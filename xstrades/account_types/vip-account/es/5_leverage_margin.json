@@ -1,0 +1,19 @@
+[
+    {
+        "Apalancamiento y Margen" : "APALANCAMIENTO DINÁMICO",
+        "mt5" : false
+    },
+    {
+        "Apalancamiento y Margen" : "Apalancamiento Máximo de la Cuenta",
+        "mt5" : "200"
+    },{
+        "Apalancamiento y Margen" : "Nivel de Margin Call",
+        "mt5" : "40"
+    },{
+        "Apalancamiento y Margen" : "Nivel de Stop",
+        "mt5" : "20"
+    },{
+        "Apalancamiento y Margen" : "Margen Cubierto",
+        "mt5" : "0"
+    }
+]

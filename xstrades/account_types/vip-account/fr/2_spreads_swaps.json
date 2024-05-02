@@ -1,0 +1,22 @@
+[
+    {
+        "Spread et Swaps": "Spread Moyen",
+        "mt4": "1 Pip",
+        "mt5": "1 Pip"
+    },
+    {
+        "Spread et Swaps": "Commission",
+        "mt4": "0",
+        "mt5": "0"
+    },
+    {
+        "Spread et Swaps": "Niveau d’arrêt",
+        "mt4": "0",
+        "mt5": "0"
+    },
+    {
+        "Spread et Swaps": "Option Sans Swap",
+        "mt4": "Oui",
+        "mt5": "Oui"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "Especificações da Conta": "Depósito Mínimo",
+        "mt5": 0
+    },
+    {
+        "Especificações da Conta": "Número Máximo de contas / PA",
+        "mt5": 10
+    },
+    {
+        "Especificações da Conta": "Contas Demo",
+        "mt5": "No"
+    },
+    {
+        "Especificações da Conta": "Moeda Base",
+        "mt5": "USD"
+    },
+    {
+        "Especificações da Conta": "Classes de ativos",
+        "mt5": "Forex Metais"
+    }
+]

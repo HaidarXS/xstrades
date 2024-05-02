@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40.5" height="40.5" viewBox="0 0 40.5 40.5">
+  <g id="Icon_ionic-md-options" data-name="Icon ionic-md-options" transform="translate(-2.25 -2.25)">
+    <g id="Group_3799" data-name="Group 3799" transform="translate(2.25 28.286)">
+      <path id="Path_1461" data-name="Path 1461" d="M2.25,27H26.839v2.893H2.25Z" transform="translate(-2.25 -21.214)" fill="#30af85"/>
+      <path id="Path_1462" data-name="Path 1462" d="M28.125,27h7.232v2.893H28.125Z" transform="translate(5.143 -21.214)" fill="#30af85"/>
+      <path id="Path_1463" data-name="Path 1463" d="M28.286,34.026a2.916,2.916,0,0,1-2.893,2.938h0A2.916,2.916,0,0,1,22.5,34.026V25.438A2.916,2.916,0,0,1,25.393,22.5h0a2.916,2.916,0,0,1,2.893,2.938Z" transform="translate(3.536 -22.5)" fill="#30af85"/>
+    </g>
+    <g id="Group_3800" data-name="Group 3800" transform="translate(2.25 15.268)">
+      <path id="Path_1464" data-name="Path 1464" d="M2.25,16.875H9.482v2.893H2.25Z" transform="translate(-2.25 -11.089)" fill="#30af85"/>
+      <path id="Path_1465" data-name="Path 1465" d="M14.625,16.875H39.214v2.893H14.625Z" transform="translate(1.286 -11.089)" fill="#30af85"/>
+      <path id="Path_1466" data-name="Path 1466" d="M14.786,23.9a2.916,2.916,0,0,1-2.893,2.938h0A2.916,2.916,0,0,1,9,23.9V15.313a2.916,2.916,0,0,1,2.893-2.938h0a2.916,2.916,0,0,1,2.893,2.938Z" transform="translate(-0.321 -12.375)" fill="#30af85"/>
+    </g>
+    <g id="Group_3801" data-name="Group 3801" transform="translate(2.25 2.25)">
+      <path id="Path_1467" data-name="Path 1467" d="M2.25,6.75H26.839V9.643H2.25Z" transform="translate(-2.25 -0.964)" fill="#30af85"/>
+      <path id="Path_1468" data-name="Path 1468" d="M28.125,6.75h7.232V9.643H28.125Z" transform="translate(5.143 -0.964)" fill="#30af85"/>
+      <path id="Path_1469" data-name="Path 1469" d="M28.286,13.776a2.916,2.916,0,0,1-2.893,2.938h0A2.916,2.916,0,0,1,22.5,13.776V5.188A2.916,2.916,0,0,1,25.393,2.25h0a2.916,2.916,0,0,1,2.893,2.938Z" transform="translate(3.536 -2.25)" fill="#30af85"/>
+    </g>
+  </g>
+</svg>

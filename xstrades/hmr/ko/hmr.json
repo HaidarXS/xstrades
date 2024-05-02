@@ -1,0 +1,50 @@
+[
+  {
+   "date": "2024년 3월 27일",
+   "time": "03:30",
+   "name": "월간 CPI 지표 <전년 대비> (2월)",
+   "currency": "AUD",
+   "applied_start": "03:15",
+   "applied_end": "03:40"
+  },
+  {
+   "date": "2024년 3월 28일",
+   "time": "03:30",
+   "name": "소매 판매 <전월 대비> (2월)",
+   "currency": "AUD",
+   "applied_start": "03:15",
+   "applied_end": "03:40"
+  },
+  {
+   "date": "2024년 3월 28일",
+   "time": "10:00",
+   "name": "경상수지 (4분기)",
+   "currency": "GBP",
+   "applied_start": "09:45",
+   "applied_end": "10:10"
+  },
+  {
+   "date": "2024년 3월 28일",
+   "time": "15:30",
+   "name": "GDP <분기 대비> (4분기)",
+   "currency": "USD",
+   "applied_start": "15:15",
+   "applied_end": "15:40"
+  },
+  {
+   "date": "2024년 3월 29일",
+   "time": "02:30",
+   "name": "도쿄 핵심 CPI  <전년 대비> (3월)",
+   "currency": "JPY",
+   "applied_start": "02:15",
+   "applied_end": "02:40"
+  },
+  {
+   "date": "2024년 3월 29일",
+   "time": "15:30",
+   "name": "PCE 가격 지수 <전년 대비> (2월)",
+   "currency": "USD",
+   "applied_start": "15:15",
+   "applied_end": "15:40"
+  }
+ ]

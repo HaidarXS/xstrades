@@ -1,0 +1,217 @@
+[
+    {
+     "main-title": "Cronograma de feriados de março de 2024",
+     "main-column1": "Categoria",
+     "main-column2": "Instrumento",
+     "main-column3": "QUINTA-FEIRA, 28 DE MARÇO",
+     "main-column4": "SEXTA-FEIRA, 29 DE MARÇO",
+     "main-column5": "SEGUNDA-FEIRA, 01 DE ABRIL",
+     "main-column6": "TERÇA-FEIRA, 02 DE ABRIL",
+     "sub-column4": "Sexta-feira da Paixão",
+     "sub-column5": "SEGUNDA-FEIRA DE PÁSCOA",
+     "time-zone": "GMT + 3"
+    },
+    {
+     "Column1": "FX",
+     "Column2": "All FX Pairs",
+     "Column3": "Horário normal",
+     "Column4": "Horário normal",
+     "Column5": "Horário normal",
+     "Column6": "Horário normal"
+    },
+    {
+     "Column1": "Metais preciosos",
+     "Column2": "XAUUSD, XAUEUR,\nXAGUSD, XAGEUR,\nXPDUSD,XPTUSD",
+     "Column3": "Horário normal",
+     "Column4": "Preço DESLIGADO",
+     "Column5": "Horário normal",
+     "Column6": "Horário normal"
+    },
+    {
+     "Column1": "Energias Spot",
+     "Column2": "NGAS (Spot)",
+     "Column3": "Horário normal",
+     "Column4": "Preço DESLIGADO",
+     "Column5": "Horário normal",
+     "Column6": "Horário normal"
+    },
+    {
+     "Column2": "USOIL (Spot)",
+     "Column3": "Horário normal",
+     "Column4": "Preço DESLIGADO",
+     "Column5": "Horário normal",
+     "Column6": "Horário normal"
+    },
+    {
+     "Column2": "UKOIL (Spot)",
+     "Column3": "Horário normal",
+     "Column4": "Preço DESLIGADO",
+     "Column5": "Horário normal",
+     "Column6": "Horário normal"
+    },
+    {
+     "Column1": "Índices spot",
+     "Column2": "AUS200",
+     "Column3": "Fechamento Antecipado 16:00",
+     "Column4": "Preço DESLIGADO",
+     "Column5": "Aberto Tarde 13:50",
+     "Column6": "Horário normal"
+    },
+    {
+     "Column2": "EU50",
+     "Column3": "Horário normal",
+     "Column4": "Preço DESLIGADO",
+     "Column5": "Preço DESLIGADO",
+     "Column6": "Aberto Tarde 03:15"
+    },
+    {
+     "Column2": "F40",
+     "Column3": "Horário normal",
+     "Column4": "Preço DESLIGADO",
+     "Column5": "Preço DESLIGADO",
+     "Column6": "Horário normal"
+    },
+    {
+     "Column2": "DE40",
+     "Column3": "Horário normal",
+     "Column4": "Preço DESLIGADO",
+     "Column5": "Preço DESLIGADO",
+     "Column6": "Aberto Tarde 03:15"
+    },
+    {
+     "Column2": "JP225",
+     "Column3": "Horário normal",
+     "Column4": "Preço DESLIGADO",
+     "Column5": "Horário normal",
+     "Column6": "Horário normal"
+    },
+    {
+     "Column2": "UK100",
+     "Column3": "Horário normal",
+     "Column4": "Preço DESLIGADO",
+     "Column5": "Preço DESLIGADO",
+     "Column6": "Aberto Tarde 03:00"
+    },
+    {
+     "Column2": "US500",
+     "Column3": "Horário normal",
+     "Column4": "Preço DESLIGADO",
+     "Column5": "Horário normal",
+     "Column6": "Horário normal"
+    },
+    {
+     "Column2": "US100",
+     "Column3": "Horário normal",
+     "Column4": "Preço DESLIGADO",
+     "Column5": "Horário normal",
+     "Column6": "Horário normal"
+    },
+    {
+     "Column2": "US30",
+     "Column3": "Horário normal",
+     "Column4": "Preço DESLIGADO",
+     "Column5": "Horário normal",
+     "Column6": "Horário normal"
+    },
+    {
+     "Column2": "RUSS2000",
+     "Column3": "Horário normal",
+     "Column4": "Preço DESLIGADO",
+     "Column5": "Horário normal",
+     "Column6": "Horário normal"
+    },
+    {
+     "Column2": "ES35",
+     "Column3": "Horário normal",
+     "Column4": "Preço DESLIGADO",
+     "Column5": "Preço DESLIGADO",
+     "Column6": "Horário normal"
+    },
+    {
+     "Column1": "Ações",
+     "Column2": "US Shares",
+     "Column3": "Horário normal",
+     "Column4": "Preço DESLIGADO",
+     "Column5": "Horário normal",
+     "Column6": "Horário normal"
+    },
+    {
+     "Column2": "UK Shares",
+     "Column3": "Horário normal",
+     "Column4": "Preço DESLIGADO",
+     "Column5": "Preço DESLIGADO",
+     "Column6": "Horário normal"
+    },
+    {
+     "Column2": "HK Shares",
+     "Column3": "Horário normal",
+     "Column4": "Preço DESLIGADO",
+     "Column5": "Preço DESLIGADO",
+     "Column6": "Horário normal"
+    },
+    {
+     "Column1": "Futuros de Commodities",
+     "Column2": "GOLDXXX24",
+     "Column3": "Horário normal",
+     "Column4": "Preço DESLIGADO",
+     "Column5": "Horário normal",
+     "Column6": "Horário normal"
+    },
+    {
+     "Column2": "NGASXXX24",
+     "Column3": "Horário normal",
+     "Column4": "Preço DESLIGADO",
+     "Column5": "Horário normal",
+     "Column6": "Horário normal"
+    },
+    {
+     "Column2": "UKOILXXX24",
+     "Column3": "Horário normal",
+     "Column4": "Preço DESLIGADO",
+     "Column5": "Horário normal",
+     "Column6": "Horário normal"
+    },
+    {
+     "Column2": "USOILXXX24",
+     "Column3": "Horário normal",
+     "Column4": "Preço DESLIGADO",
+     "Column5": "Horário normal",
+     "Column6": "Horário normal"
+    },
+    {
+     "Column1": "Índices Futuros",
+     "Column2": "DAX40XXX24",
+     "Column3": "Horário normal",
+     "Column4": "Preço DESLIGADO",
+     "Column5": "Horário normal",
+     "Column6": "Aberto Tarde 04:15"
+    },
+    {
+     "Column2": "US30XXX24",
+     "Column3": "Horário normal",
+     "Column4": "Preço DESLIGADO",
+     "Column5": "Horário normal",
+     "Column6": "Horário normal"
+    },
+    {
+     "Column2": "US100XXX24",
+     "Column3": "Horário normal",
+     "Column4": "Preço DESLIGADO",
+     "Column5": "Horário normal",
+     "Column6": "Horário normal"
+    },
+    {
+     "Column2": "US500XXX24",
+     "Column3": "Horário normal",
+     "Column4": "Preço DESLIGADO",
+     "Column5": "Horário normal",
+     "Column6": "Horário normal"
+    },
+    {
+     "Column2": "USDIDX",
+     "Column3": "Horário normal",
+     "Column4": "Preço DESLIGADO",
+     "Column5": "Horário normal",
+     "Column6": "Horário normal"
+    }
+   ]

@@ -1,0 +1,45 @@
+[
+    {
+        "title": "CEO ระดับโลก",
+        "person": "MOHAMMAD IBRAHIM",
+        "sponsor": "พิธีมอบรางวัลภูมิภาคตะวันออกกลาง <br/> สมาร์ทวิชั่น",
+        "country": "ดูไบ , UAE",
+        "date": "กันยายน 2023",
+        "img": "/img/top50ceo.webp"
+    },
+    {
+        "title": "ผู้นำที่สร้างแรงบันดาลใจระดับโลก",
+        "person": "MOHAMMAD IBRAHIM",
+        "sponsor": "การประชุมผู้นำองค์กรไวท์เพจ <br/> องค์กรไวท์เพจอินเตอร์เนชั่นแนล ",
+        "country": "ดูไบ , UAE",
+        "date": "กันยายน 2023",
+        "img": "/img/inspirational-leader.webp"
+    },
+
+    {
+        "title": "CEO แห่งปี",
+        "person": "MOHAMMAD IBRAHIM",
+        "sponsor": "งานแสดงเอ็กซ์โปรจอร์แดน  & มอบรางวัล  JFEX <br/> กลุ่มบริษัท Afaq  ",
+        "country": "Amman, จอร์แดน",
+        "date": "กันยายน 2023",
+        "img": "/img/ceo-of-the-year.webp"
+    },
+
+    {
+        "title": "อินฟลูเอนเซอร์ที่มีมากที่สุด <br/> CCO ที่ดีที่สุด",
+        "person": "WAEL HAMMAD",
+        "sponsor": "การประชุมสุดยอดฟอเร็กซ์เทรดเดอร์ <br/> สมาร์ทวิชั่น",
+        "country": "ดูไบ , UAE",
+        "date": "พฤษภาคม 2023",
+        "img": "/img/best-cco.webp"
+    },
+
+    {
+        "title": "อินฟลูเอนเซอร์ที่มีมากที่สุด <br/> CEO ที่ดีที่สุด",
+        "person": "MOHAMMAD IBRAHIM",
+        "sponsor": "ประชุมสุดยอด FinTech & Crypto <br/> สมาร์ทวิชั่น ",
+        "country": "Manama, บาห์เรน",
+        "date": "กุมภาพันธ์ 2023",
+        "img": "/img/best-ceo.webp"
+    }
+]

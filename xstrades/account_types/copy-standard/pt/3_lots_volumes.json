@@ -1,0 +1,30 @@
+[
+    {
+        "Lotes e Volumes": "Tamanho do lote",
+        "mt5": "Standard (100,000)"
+    },
+    {
+        "Lotes e Volumes": "Volume Mínimo",
+        "mt5": "0.01 Lot"
+    },
+    {
+        "Lotes e Volumes": "Volume Máximo por Ordem (Periodo Diurno)",
+        "mt5": "20"
+    },
+    {
+        "Lotes e Volumes": "Volume Máximo  por Ordem (Periodo Noturno)",
+        "mt5": "10"
+    },
+    {
+        "Lotes e Volumes": "Volume Total Máximo por Ordem Pendente",
+        "mt5": false
+    },
+    {
+        "Lotes e Volumes": "Volume Máximo Total de Ordem Abertas",
+        "mt5": false
+    },
+    {
+        "Lotes e Volumes": "Número Máximo de Ordens Pendentes e Abertas",
+        "mt5": false
+    }
+]

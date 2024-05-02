@@ -1,0 +1,226 @@
+[
+    {
+     "dividend_currency": "AUD",
+     "detail": "0.1",
+     "description": "Flight Centre Travel Group Ltd",
+     "action": "توزيع الأرباح النقدية",
+     "symbol": "FLT",
+     "date": "26\/03\/2024"
+    },
+    {
+     "dividend_currency": "USD",
+     "detail": "1.7",
+     "description": "AvalonBay Communities Inc",
+     "action": "توزيع الأرباح النقدية",
+     "symbol": "AVB",
+     "date": "27\/03\/2024"
+    },
+    {
+     "dividend_currency": "USD",
+     "detail": "0.62",
+     "description": "Blackstone Mortgage Trust Inc",
+     "action": "توزيع الأرباح النقدية",
+     "symbol": "BXMT",
+     "date": "27\/03\/2024"
+    },
+    {
+     "dividend_currency": "USD",
+     "detail": "0.98",
+     "description": "Boston Properties INC",
+     "action": "توزيع الأرباح النقدية",
+     "symbol": "BXP",
+     "date": "27\/03\/2024"
+    },
+    {
+     "dividend_currency": "AUD",
+     "detail": "0.03",
+     "description": "Centuria Office REIT",
+     "action": "توزيع الأرباح النقدية",
+     "symbol": "COF",
+     "date": "27\/03\/2024"
+    },
+    {
+     "dividend_currency": "USD",
+     "detail": "1.03",
+     "description": "Camden Property Trust",
+     "action": "توزيع الأرباح النقدية",
+     "symbol": "CPT",
+     "date": "27\/03\/2024"
+    },
+    {
+     "dividend_currency": "USD",
+     "detail": "1.47",
+     "description": "Deere & Co",
+     "action": "توزيع الأرباح النقدية",
+     "symbol": "DE",
+     "date": "27\/03\/2024"
+    },
+    {
+     "dividend_currency": "USD",
+     "detail": "0.19",
+     "description": "Douglas Emmett Inc",
+     "action": "توزيع الأرباح النقدية",
+     "symbol": "DEI",
+     "date": "27\/03\/2024"
+    },
+    {
+     "dividend_currency": "USD",
+     "detail": "0.27",
+     "description": "Danaher Corp",
+     "action": "توزيع الأرباح النقدية",
+     "symbol": "DHR",
+     "date": "27\/03\/2024"
+    },
+    {
+     "dividend_currency": "USD",
+     "detail": "0.78",
+     "description": "Edison International",
+     "action": "توزيع الأرباح النقدية",
+     "symbol": "EIX",
+     "date": "27\/03\/2024"
+    },
+    {
+     "dividend_currency": "USD",
+     "detail": "2.45",
+     "description": "Essex Property Trust Inc",
+     "action": "توزيع الأرباح النقدية",
+     "symbol": "ESS",
+     "date": "27\/03\/2024"
+    },
+    {
+     "dividend_currency": "USD",
+     "detail": "0.35",
+     "description": "Fifth Third Bancorp",
+     "action": "توزيع الأرباح النقدية",
+     "symbol": "FITB",
+     "date": "27\/03\/2024"
+    },
+    {
+     "dividend_currency": "USD",
+     "detail": "0.21",
+     "description": "Flowserve Corp",
+     "action": "توزيع الأرباح النقدية",
+     "symbol": "FLS",
+     "date": "27\/03\/2024"
+    },
+    {
+     "dividend_currency": "USD",
+     "detail": "0.2",
+     "description": "Host Hotels and Resorts Inc",
+     "action": "توزيع الأرباح النقدية",
+     "symbol": "HST",
+     "date": "27\/03\/2024"
+    },
+    {
+     "dividend_currency": "USD",
+     "detail": "0.89",
+     "description": "Humana Inc",
+     "action": "توزيع الأرباح النقدية",
+     "symbol": "HUM",
+     "date": "27\/03\/2024"
+    },
+    {
+     "dividend_currency": "USD",
+     "detail": "1.4",
+     "description": "Illinois Tool Works Inc",
+     "action": "توزيع الأرباح النقدية",
+     "symbol": "ITW",
+     "date": "27\/03\/2024"
+    },
+    {
+     "dividend_currency": "USD",
+     "detail": "0.22",
+     "description": "Keurig Dr Pepper Inc",
+     "action": "توزيع الأرباح النقدية",
+     "symbol": "KDP",
+     "date": "27\/03\/2024"
+    },
+    {
+     "dividend_currency": "USD",
+     "detail": "0.54",
+     "description": "Kilroy Realty Corp",
+     "action": "توزيع الأرباح النقدية",
+     "symbol": "KRC",
+     "date": "27\/03\/2024"
+    },
+    {
+     "dividend_currency": "USD",
+     "detail": "0.71",
+     "description": "Lincoln Electric Holdings Inc",
+     "action": "توزيع الأرباح النقدية",
+     "symbol": "LECO",
+     "date": "27\/03\/2024"
+    },
+    {
+     "dividend_currency": "USD",
+     "detail": "0.43",
+     "description": "Mondelez International Inc",
+     "action": "توزيع الأرباح النقدية",
+     "symbol": "MDLZ",
+     "date": "27\/03\/2024"
+    },
+    {
+     "dividend_currency": "USD",
+     "detail": "0.65",
+     "description": "Annaly Capital Management Inc",
+     "action": "توزيع الأرباح النقدية",
+     "symbol": "NLY",
+     "date": "27\/03\/2024"
+    },
+    {
+     "dividend_currency": "USD",
+     "detail": "0.75",
+     "description": "Ralph Lauren Corp",
+     "action": "توزيع الأرباح النقدية",
+     "symbol": "RL",
+     "date": "27\/03\/2024"
+    },
+    {
+     "dividend_currency": "USD",
+     "detail": "0.16",
+     "description": "DENTSPLY SIRONA Inc",
+     "action": "توزيع الأرباح النقدية",
+     "symbol": "XRAY",
+     "date": "27\/03\/2024"
+    },
+    {
+     "dividend_currency": "USD",
+     "detail": "1.77",
+     "description": "Air Products & Chemicals Inc",
+     "action": "توزيع الأرباح النقدية",
+     "symbol": "APD",
+     "date": "28\/03\/2024"
+    },
+    {
+     "dividend_currency": "USD",
+     "detail": "0.5",
+     "description": "Cardinal Health Inc",
+     "action": "توزيع الأرباح النقدية",
+     "symbol": "CAH",
+     "date": "28\/03\/2024"
+    },
+    {
+     "dividend_currency": "USD",
+     "detail": "0.78",
+     "description": "Ingredion Inc",
+     "action": "توزيع الأرباح النقدية",
+     "symbol": "INGR",
+     "date": "28\/03\/2024"
+    },
+    {
+     "dividend_currency": "GBP",
+     "detail": "3.5",
+     "description": "Melrose Industries PLC",
+     "action": "توزيع الأرباح النقدية",
+     "symbol": "MRO",
+     "date": "28\/03\/2024"
+    },
+    {
+     "dividend_currency": "USD",
+     "detail": "0.26",
+     "description": "Realty Income Corp",
+     "action": "توزيع الأرباح النقدية",
+     "symbol": "O",
+     "date": "28\/03\/2024"
+    }
+   ]

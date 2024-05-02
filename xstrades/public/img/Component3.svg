@@ -1,0 +1,22 @@
+<svg id="Component_28_1" data-name="Component 28 – 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="367" height="367" viewBox="0 0 367 367">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_306" data-name="Rectangle 306" width="159.239" height="158.675" fill="none" stroke="#707070" stroke-width="6"/>
+    </clipPath>
+  </defs>
+  <g id="Ellipse_15" data-name="Ellipse 15" fill="none" stroke="#35ad85" stroke-width="5">
+    <circle cx="183.5" cy="183.5" r="183.5" stroke="none"/>
+    <circle cx="183.5" cy="183.5" r="181" fill="none"/>
+  </g>
+  <g id="Group_899" data-name="Group 899" transform="translate(104 104)">
+    <g id="Group_898" data-name="Group 898" clip-path="url(#clip-path)">
+      <path id="Path_1099" data-name="Path 1099" d="M453.659,102.978l16.382,5.149,19.1-19.1-16.382-5.149" transform="translate(-332.894 -61.55)" fill="none" stroke="#2eb897" stroke-width="6"/>
+      <path id="Path_1100" data-name="Path 1100" d="M125.065,132.421a64.815,64.815,0,1,1-18.416-18.534" transform="translate(-4.403 -75.651)" fill="none" stroke="#2eb897" stroke-width="6"/>
+      <path id="Path_1101" data-name="Path 1101" d="M161.18,194.478a47.01,47.01,0,1,1-18.393-18.557" transform="translate(-53.49 -124.736)" fill="none" stroke="#2eb897" stroke-width="6"/>
+      <path id="Path_1102" data-name="Path 1102" d="M196.773,257.059a29.2,29.2,0,1,1-18.334-18.616" transform="translate(-102.579 -173.821)" fill="none" stroke="#2eb897" stroke-width="6"/>
+      <path id="Path_1103" data-name="Path 1103" d="M228.969,319.906a11.4,11.4,0,1,1-14.246-14.246" transform="translate(-151.662 -224.292)" fill="none" stroke="#2eb897" stroke-width="6"/>
+      <line id="Line_20" data-name="Line 20" y1="80.971" x2="80.971" transform="translate(67.267 10.705)" fill="none" stroke="#2eb897" stroke-width="6"/>
+      <path id="Path_1104" data-name="Path 1104" d="M428.367,46.722,423.217,30.34l19.1-19.1,5.149,16.382" transform="translate(-310.555 -8.248)" fill="none" stroke="#2eb897" stroke-width="6"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,322 @@
+
+[
+     {
+      "Symbol": "USDCHF",
+      "Spreads Pips": 1.7,
+      "Commissions Per Lot/Side": 0,
+      "Long Swap Pips": 0.57451,
+      "Short Swap Pips": -1.47714
+     },
+     {
+      "Symbol": "GBPUSD",
+      "Spreads Pips": 1.7,
+      "Commissions Per Lot/Side": 0,
+      "Long Swap Pips": -0.51988,
+      "Short Swap Pips": 0.09592
+     },
+     {
+      "Symbol": "EURUSD",
+      "Spreads Pips": 1.6,
+      "Commissions Per Lot/Side": 0,
+      "Long Swap Pips": -0.96235,
+      "Short Swap Pips": 0.35087
+     },
+     {
+      "Symbol": "USDJPY",
+      "Spreads Pips": 1.7000000000000002,
+      "Commissions Per Lot/Side": 0,
+      "Long Swap Pips": 1.14401,
+      "Short Swap Pips": -1.7309999999999999
+     },
+     {
+      "Symbol": "USDCAD",
+      "Spreads Pips": 1.9999999999999998,
+      "Commissions Per Lot/Side": 0,
+      "Long Swap Pips": 0.08313000000000001,
+      "Short Swap Pips": -0.57512
+     },
+     {
+      "Symbol": "NZDUSD",
+      "Spreads Pips": 1.7999999999999998,
+      "Commissions Per Lot/Side": 0,
+      "Long Swap Pips": -0.16524,
+      "Short Swap Pips": -0.1197
+     },
+     {
+      "Symbol": "AUDUSD",
+      "Spreads Pips": 1.6629629629630023,
+      "Commissions Per Lot/Side": 0,
+      "Long Swap Pips": -0.45271,
+      "Short Swap Pips": 0.11894
+     },
+     {
+      "Symbol": "AUDNZD",
+      "Spreads Pips": 2.381481481481426,
+      "Commissions Per Lot/Side": 0,
+      "Long Swap Pips": -0.80373,
+      "Short Swap Pips": 0.13063
+     },
+     {
+      "Symbol": "AUDCHF",
+      "Spreads Pips": 2.2518518518518515,
+      "Commissions Per Lot/Side": 0,
+      "Long Swap Pips": 0.20598,
+      "Short Swap Pips": -0.7131700000000001
+     },
+     {
+      "Symbol": "AUDCAD",
+      "Spreads Pips": 2.3481481481484088,
+      "Commissions Per Lot/Side": 0,
+      "Long Swap Pips": -0.4147,
+      "Short Swap Pips": 0.01234
+     },
+     {
+      "Symbol": "CHFJPY",
+      "Spreads Pips": 2.8666666666664966,
+      "Commissions Per Lot/Side": 0,
+      "Long Swap Pips": 0.22797,
+      "Short Swap Pips": -1.26132
+     },
+     {
+      "Symbol": "AUDJPY",
+      "Spreads Pips": 2.251851851851746,
+      "Commissions Per Lot/Side": 0,
+      "Long Swap Pips": 0.5828599999999999,
+      "Short Swap Pips": -1.56503
+     },
+     {
+      "Symbol": "EURGBP",
+      "Spreads Pips": 1.9555555555555058,
+      "Commissions Per Lot/Side": 0,
+      "Long Swap Pips": -0.55288,
+      "Short Swap Pips": 0.12416
+     },
+     {
+      "Symbol": "EURAUD",
+      "Spreads Pips": 2.4629629629631116,
+      "Commissions Per Lot/Side": 0,
+      "Long Swap Pips": -0.71436,
+      "Short Swap Pips": 0.025640000000000003
+     },
+     {
+      "Symbol": "EURCHF",
+      "Spreads Pips": 2.2000000000000304,
+      "Commissions Per Lot/Side": 0,
+      "Long Swap Pips": 0.22341000000000003,
+      "Short Swap Pips": -0.9384499999999999
+     },
+     {
+      "Symbol": "EURJPY",
+      "Spreads Pips": 2.1222222222220766,
+      "Commissions Per Lot/Side": 0,
+      "Long Swap Pips": 0.8369300000000001,
+      "Short Swap Pips": -2.09843
+     },
+     {
+      "Symbol": "EURNZD",
+      "Spreads Pips": 3.1555555555554724,
+      "Commissions Per Lot/Side": 0,
+      "Long Swap Pips": -1.70073,
+      "Short Swap Pips": 0.42068000000000005
+     },
+     {
+      "Symbol": "EURCAD",
+      "Spreads Pips": 2.4037037037037936,
+      "Commissions Per Lot/Side": 0,
+      "Long Swap Pips": -1.0090299999999999,
+      "Short Swap Pips": 0.20068999999999998
+     },
+     {
+      "Symbol": "GBPCHF",
+      "Spreads Pips": 2.6407407407406565,
+      "Commissions Per Lot/Side": 0,
+      "Long Swap Pips": 0.51555,
+      "Short Swap Pips": -1.5964399999999999
+     },
+     {
+      "Symbol": "GBPAUD",
+      "Spreads Pips": 3.2250000000001764,
+      "Commissions Per Lot/Side": 0,
+      "Long Swap Pips": 0.051759999999999994,
+      "Short Swap Pips": -0.76398
+     },
+     {
+      "Symbol": "GBPCAD",
+      "Spreads Pips": 2.962962962963016,
+      "Commissions Per Lot/Side": 0,
+      "Long Swap Pips": -0.2996,
+      "Short Swap Pips": -0.25758000000000003
+     },
+     {
+      "Symbol": "CADJPY",
+      "Spreads Pips": 2.229629629629786,
+      "Commissions Per Lot/Side": 0,
+      "Long Swap Pips": 0.78491,
+      "Short Swap Pips": -1.96295
+     },
+     {
+      "Symbol": "GBPJPY",
+      "Spreads Pips": 2.511111111110927,
+      "Commissions Per Lot/Side": 0,
+      "Long Swap Pips": 1.31985,
+      "Short Swap Pips": -3.28108
+     },
+     {
+      "Symbol": "CADCHF",
+      "Spreads Pips": 2.248148148148165,
+      "Commissions Per Lot/Side": 0,
+      "Long Swap Pips": 0.27355999999999997,
+      "Short Swap Pips": -1.01779
+     },
+     {
+      "Symbol": "GBPNZD",
+      "Spreads Pips": 3.8185185185180903,
+      "Commissions Per Lot/Side": 0,
+      "Long Swap Pips": -1.0997400000000002,
+      "Short Swap Pips": -0.03547
+     },
+     {
+      "Symbol": "NZDJPY",
+      "Spreads Pips": 2.1296296296296773,
+      "Commissions Per Lot/Side": 0,
+      "Long Swap Pips": 0.74321,
+      "Short Swap Pips": -1.92894
+     },
+     {
+      "Symbol": "NZDCAD",
+      "Spreads Pips": 2.495652173912967,
+      "Commissions Per Lot/Side": 0,
+      "Long Swap Pips": -0.0030700000000000002,
+      "Short Swap Pips": -0.39577
+     },
+     {
+      "Symbol": "NZDCHF",
+      "Spreads Pips": 2.2592592592592666,
+      "Commissions Per Lot/Side": 0,
+      "Long Swap Pips": 0.32333,
+      "Short Swap Pips": -0.9469900000000001
+     },
+     {
+      "Symbol": "EURTRY",
+      "Spreads Pips": 279.6964285714271,
+      "Commissions Per Lot/Side": 0,
+      "Long Swap Pips": -3586.80031,
+      "Short Swap Pips": -368.20801
+     },
+     {
+      "Symbol": "EURZAR",
+      "Spreads Pips": 110.99629629629763,
+      "Commissions Per Lot/Side": 0,
+      "Long Swap Pips": -48.400940000000006,
+      "Short Swap Pips": 14.83827
+     },
+     {
+      "Symbol": "GBPTRY",
+      "Spreads Pips": 628.9888888888898,
+      "Commissions Per Lot/Side": 0,
+      "Long Swap Pips": -1176.25992,
+      "Short Swap Pips": -721.76148
+     },
+     {
+      "Symbol": "GBPZAR",
+      "Spreads Pips": 132.42962962963009,
+      "Commissions Per Lot/Side": 0,
+      "Long Swap Pips": -43.763279999999995,
+      "Short Swap Pips": 15.78545
+     },
+     {
+      "Symbol": "USDNOK",
+      "Spreads Pips": 55.50000000000018,
+      "Commissions Per Lot/Side": 0,
+      "Long Swap Pips": 2.201,
+      "Short Swap Pips": -10.683589999999999
+     },
+     {
+      "Symbol": "USDSEK",
+      "Spreads Pips": 39.07142857143024,
+      "Commissions Per Lot/Side": 0,
+      "Long Swap Pips": 2.19071,
+      "Short Swap Pips": -9.89707
+     },
+     {
+      "Symbol": "EURCZK",
+      "Spreads Pips": 10.733333333333517,
+      "Commissions Per Lot/Side": 0,
+      "Long Swap Pips": -4.1672400000000005,
+      "Short Swap Pips": 1.2261799999999998
+     },
+     {
+      "Symbol": "EURHUF",
+      "Spreads Pips": 1835.4814814814258,
+      "Commissions Per Lot/Side": 0,
+      "Long Swap Pips": -20.38872,
+      "Short Swap Pips": 7.5789100000000005
+     },
+     {
+      "Symbol": "USDCZK",
+      "Spreads Pips": 7.340740740740542,
+      "Commissions Per Lot/Side": 0,
+      "Long Swap Pips": -0.23334000000000002,
+      "Short Swap Pips": 0.030420000000000003
+     },
+     {
+      "Symbol": "USDHUF",
+      "Spreads Pips": 1792.8888888888719,
+      "Commissions Per Lot/Side": 0,
+      "Long Swap Pips": -16.1238,
+      "Short Swap Pips": 5.59055
+     },
+     {
+      "Symbol": "USDMXN",
+      "Spreads Pips": 77.3571428571492,
+      "Commissions Per Lot/Side": 0,
+      "Long Swap Pips": -56.749739999999996,
+      "Short Swap Pips": 18.63147
+     },
+     {
+      "Symbol": "EURNOK",
+      "Spreads Pips": 61.00000000000005,
+      "Commissions Per Lot/Side": 0,
+      "Long Swap Pips": -4.09628,
+      "Short Swap Pips": -3.16348
+     },
+     {
+      "Symbol": "EURSEK",
+      "Spreads Pips": 36.82142857143104,
+      "Commissions Per Lot/Side": 0,
+      "Long Swap Pips": -3.8645899999999997,
+      "Short Swap Pips": -2.63699
+     },
+     {
+      "Symbol": "USDHKD",
+      "Spreads Pips": 27.011111111112577,
+      "Commissions Per Lot/Side": 0,
+      "Long Swap Pips": -31.940640259000002,
+      "Short Swap Pips": 8.834
+     },
+     {
+      "Symbol": "USDTRY",
+      "Spreads Pips": 190.36785714286233,
+      "Commissions Per Lot/Side": 0,
+      "Long Swap Pips": -2629.39956,
+      "Short Swap Pips": -710.26973
+     },
+     {
+      "Symbol": "USDDKK",
+      "Spreads Pips": 26.914814814814335,
+      "Commissions Per Lot/Side": 0,
+      "Long Swap Pips": 1.904,
+      "Short Swap Pips": -7.26396
+     },
+     {
+      "Symbol": "USDZAR",
+      "Spreads Pips": 94.07692307691963,
+      "Commissions Per Lot/Side": 0,
+      "Long Swap Pips": -31.940640000000002,
+      "Short Swap Pips": 8.834
+     }
+    ]
+
+
+
+    

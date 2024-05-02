@@ -1,0 +1,38 @@
+[
+  {
+    "title": "フィリピン・セミナー",
+    "date": "2024年3月9日",
+    "country": "フィリピン、マニラ",
+    "dir": "philippines-seminars"
+  },
+  {
+    "title": "ナイジェリア・セミナー",
+    "date": "2023年12月15-17日",
+    "country": "ナイジェリア、ポートハーコート",
+    "dir": "nigeria-seminar-17-18"
+  },
+  {
+    "title": "ベトナム・セミナー",
+    "date": "2023年12月10日",
+    "country": "ベトナム、ホーチミン",
+    "dir": "vietnam-seminar"
+  },
+  {
+    "title": "ブラジル・セミナー",
+    "date": "2023年11月25日",
+    "country": "ブラジル、ベロオリゾンテ",
+    "dir": "brazil-seminar"
+  },
+  {
+    "title": "ナイジェリア・セミナー",
+    "date": "2023年10月28日",
+    "country": " ナイジェリア、ウヨ",
+    "dir": "nigeria-seminar-28-october-2023"
+  },
+  {
+    "title": "オマーン・セミナー",
+    "date": "2023年10月7日",
+    "country": "オマーン、マスカット",
+    "dir": "oman-seminar"
+  }
+]

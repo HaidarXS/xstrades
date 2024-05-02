@@ -1,0 +1,17 @@
+[
+    {
+        "ORDERS": "Maximum Number Of Pending Orders",
+        "mt4": 600,
+        "mt5": "X"
+    },
+    {
+        "ORDERS": "Maximum Number Of Open Orders",
+        "mt4": 600,
+        "mt5": "X"
+    },
+    {
+        "ORDERS": "Maximum Number Of Pending & Open Orders",
+        "mt4": 600,
+        "mt5": "X"
+    }
+]

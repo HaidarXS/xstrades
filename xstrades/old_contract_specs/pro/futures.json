@@ -1,0 +1,93 @@
+[
+    {
+     "Symbol": "COPPER.f",
+     "Spreads Pips": 0.007360714285714231,
+     "Commissions Per Lot/Side": 0,
+     "Long Swap Pips": 0,
+     "Short Swap Pips": 0
+    },
+    {
+     "Symbol": "COCOA.f",
+     "Spreads Pips": 9.860000000000001,
+     "Commissions Per Lot/Side": 0,
+     "Long Swap Pips": 0,
+     "Short Swap Pips": 0
+    },
+    {
+     "Symbol": "DXY.f",
+     "Spreads Pips": 0.11599999999999995,
+     "Commissions Per Lot/Side": 0,
+     "Long Swap Pips": 0,
+     "Short Swap Pips": 0
+    },
+    {
+     "Symbol": "COFFEE.f",
+     "Spreads Pips": 0.76,
+     "Commissions Per Lot/Side": 0,
+     "Long Swap Pips": 0,
+     "Short Swap Pips": 0
+    },
+    {
+     "Symbol": "COTTON.f",
+     "Spreads Pips": 0.3200000000000002,
+     "Commissions Per Lot/Side": 0,
+     "Long Swap Pips": 0,
+     "Short Swap Pips": 0
+    },
+    {
+     "Symbol": "SUGAR.f",
+     "Spreads Pips": 0.22000000000000014,
+     "Commissions Per Lot/Side": 0,
+     "Long Swap Pips": 0,
+     "Short Swap Pips": 0
+    },
+    {
+     "Symbol": "CORN.f",
+     "Spreads Pips": 1.53,
+     "Commissions Per Lot/Side": 0,
+     "Long Swap Pips": 0,
+     "Short Swap Pips": 0
+    },
+    {
+     "Symbol": "WHEAT.f",
+     "Spreads Pips": 2.06,
+     "Commissions Per Lot/Side": 0,
+     "Long Swap Pips": 0,
+     "Short Swap Pips": 0
+    },
+    {
+     "Symbol": "SOYBEAN.f",
+     "Spreads Pips": 1.88,
+     "Commissions Per Lot/Side": 0,
+     "Long Swap Pips": 0,
+     "Short Swap Pips": 0
+    },
+    {
+     "Symbol": "GOLDDEC23",
+     "Spreads Pips": 0.31,
+     "Commissions Per Lot/Side": 0,
+     "Long Swap Pips": 0,
+     "Short Swap Pips": 0
+    },
+    {
+     "Symbol": "USOILOCT23",
+     "Spreads Pips": 0.129,
+     "Commissions Per Lot/Side": 0,
+     "Long Swap Pips": 0,
+     "Short Swap Pips": 0
+    },
+    {
+     "Symbol": "UKOILNOV23",
+     "Spreads Pips": 0.028999999999999998,
+     "Commissions Per Lot/Side": 0,
+     "Long Swap Pips": 0,
+     "Short Swap Pips": 0
+    },
+    {
+     "Symbol": "NGASOCT23",
+     "Spreads Pips": 0.017,
+     "Commissions Per Lot/Side": 0,
+     "Long Swap Pips": 0,
+     "Short Swap Pips": 0
+    }
+   ]

@@ -1,0 +1,32 @@
+[
+    {
+        "Lotes y Volúmenes": "Tamaño del Lote",
+        "mt4": "Classic (100,000)",
+        "mt5": "Classic (100,000)"
+    },
+    {
+        "Lotes y Volúmenes": "Volumen Mínimo",
+        "mt4": "0.01 Lote",
+        "mt5": "0.01 Lote"
+    },
+    {
+        "Lotes y Volúmenes": "Volumen Máx. por Orden (Día)",
+        "mt4": "500",
+        "mt5": "500"
+    },
+    {
+        "Lotes y Volúmenes": "Volumen Máx. por Orden (Noche)",
+        "mt4": "50",
+        "mt5": "50"
+    },
+    {
+        "Lotes y Volúmenes": "Volumen Total Máx. de Órdenes Pendientes",
+        "mt4": "PDD",
+        "mt5": "PDD"
+    },
+    {
+        "Lotes y Volúmenes": "Volumen Total Máx. de Órdenes Abiertas",
+        "mt4": "Ilimitado",
+        "mt5": "Ilimitado"
+    }
+]

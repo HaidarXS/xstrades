@@ -1,0 +1,22 @@
+[
+   {
+        "Especificaciones de la Cuenta" : "Depósito Mínimo",
+        "mt5" : 0
+   },
+   {
+        "Especificaciones de la Cuenta" : "Número Máximo de Cuentas/ AP (Área Personal)",
+        "mt5" : 10
+   },
+   {
+        "Especificaciones de la Cuenta" : "Cuentas Demo ",
+        "mt5" : "No"
+   },
+   {
+        "Especificaciones de la Cuenta" : "Moneda Base",
+        "mt5" : "USD"
+   },
+   {
+        "Especificaciones de la Cuenta" : "Clases de Activos",
+        "mt5" : "Forex Metales"
+   }
+]

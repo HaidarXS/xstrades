@@ -1,0 +1,98 @@
+<?php
+return [
+    'HERO_TITLE' => '攜手值得信賴的 <br/> <span class="hero-sep">多元資產經紀商</span>',
+    'HERO_SUBTITLE' => '進入全球市場交易',
+    'HERO_DESCRIPTION' => '所有交易都涉及風險。<br class ="d-md-none">  您可能會損失所有資本。',
+    'EASY_STEPS_TO_START_TRADING' => '開始交易的 3 個簡單步驟',
+    'REGISTER' => '註冊',
+    'FUND' => '存款',
+    'TRADE' => '交易',
+    'JOIN_XS_NOW' => '立即加入XS',
+    'JOIN_XS' => '加入XS',
+    'CHOOSE_THE_GLOBAL_MARKER_LEADER' => '選擇全球市場領導者',
+
+    'QUICK_EASY_REGISTRATION_PROCESS' => '快速便捷的註冊流程',
+    'GLOBAL_BROKER_WITH_MULTIPLE_REGULATIONS' => '多重監管的全球經紀商',
+    'MULTIPLE_ASSET_CLASSES' => '一站式多資產交易帳戶',
+    'PREMIUM_MILTILINGUAL_CUSTOMER_SUPPORT' => '多語言客戶支援服務',
+    'FAST_RELIABLE_FUNDING_METHODS' => '快速可靠的存款方式',
+    'HIGH_SPEED_FAIR_TRADE_EXECUTION' => '極速可靠的交易執行',
+
+    'ADVANTAGES' => '優點',
+    'TRADE_WITH_THE_BEST_MULTI_ASSET_BROKER' => '攜手最佳多元資產經紀商進行交易',
+    'SHARES' => '股票',
+    'INDICES' => '指數',
+    'METALS' => '貴金屬',
+    'COMMODITIES' => '大宗商品',
+    'CRYPTOS' => '加密貨幣',
+    'FOREX' => '外匯',
+    'ENERGY' => '能源',
+    'PRODUCTS' => '產品',
+    'SELECT_YOUR_SUITABLE_ACCOUNT_TYPE' => "選擇適合您的賬戶類型",
+    'ACCOUNT_TYPES' => "賬戶類型",
+    'ACCOUNT_TYPES_DESCRIPTION' => "我們的多種賬戶類型旨在滿足不同類型交易者和交易策略的需求。所有賬戶類型均可接駁至我們深厚的機構流動性和先進的交易技術。",
+    'TRAING_PLATFORMS' => '交易平台',
+    'ACCESS_GLOBAL_MARKETS_FROM_THE_PALM_OF_YOUR_HAND' => '從您的手掌中進入全球市場',
+    'TRADING_PLATFORMS' => '交易平台',
+    'CHOOSE_THE_GLOBAL_MARKET_LEADER' => '選擇全球市場領導者',
+    'PARTNERSHIP_PROGRAMS' => '合作夥伴計劃',
+    'CONNECT_WITH_A_PRIME_INSTITUTIONAL_BROKER' => '與頂級機構經紀商合作',
+    'INSTITUTIONAL_SOLUTIONS' => '機構解決方案',
+
+
+    'MULTIPLE_ACCOUNT_TYPES' => '我們的多種賬戶類型旨在滿足不同類型交易者和交易策略的需求。所有賬戶類型均可接駁至我們深厚的機構流動性和先進的交易技術。',
+    'ACCOUNT_TYPES' => '賬戶類型',
+    'ACCESS_GLOBAL_MARKETS_FROM_THE_PALM_OF_YOUR_HAND' => '隨時隨地進入全球市場',
+    'TRADE_A_WIDE_RANGE_OF_ASSET' => '在我們先進的交易平台上交易各種資產類別，該平台為您提供眾多功能和工具，為您提供最佳的交易體驗。',
+    'TRADING_PLATFORMS' => '交易平臺',
+    'PARTNER_WITH_A_GLOBAL_REGULATED_BROKER' => '與全球監管經紀商合作',
+    'MULTIPLE_PROGRAMS' => '多元化合作',
+    'GENEROUS_REWARDS' => '豐厚的獎勵',
+    'EXCELLENT_SUPPORT' => '卓越的支持',
+    'PREMIUM_CONDITIONS' => '優質的條件',
+    'DISCOVER_HOW_OUR_PARTNERSHIP_PROGRAM_WILL_HELP_YOU_IMPROVE_YOUR_BUSINESS' => '了解我們的合作夥伴計劃如何助您一臂之力',
+    'CONNECT_WITH_A_PRIME_INSTITUTIONAL_BROKER' => '與頂級機構經紀商合作',
+    'MULTI_ASSET_LIQUIDITY' => '多資產流動性',
+    'ADVANCED_TECHNOLOGY' => '尖端技術支援',
+    'EXTENSIVE_EXPERIENCE' => '團隊經驗豐富',
+    'TRAILORED_SOLUTIONS' => '客製化解決方案',
+    'DISCOVER_HOW_OUR_INSTITUTIONAL_SOLUTIONS_WILL_HELP_YOU_IMPROVE_YOUR_BUSINESS' => '了解我們的機構解決方案將如何幫助您改善業務。',
+    'INSTITUTIONAL_SOLUTIONS' => '機構解決方案',
+    'FAST-AND_RELIABLE_FUNDING_METHOD' => '優選方式，輕鬆存款',
+    'MT4_MT5_DESCRIPTION' => '在我們先進的交易平台上交易各種資產類別，該平台為您提供眾多功能和工具，為您提供最佳的交易體驗。',
+    'BECOME_A_PARTNER_OF_A_MARKET_LEADER' => '了解我們的機構解決方案將如何幫助您改善業務。',
+
+
+
+    // MARKET LEADER TRANSLATIONS
+    'EASY_REGISTRATION' => '快速簡單的註冊過程',
+    'FAST_FUNDING' => '快速可靠的融資方法',
+    'HIGH_SPEED_TRADE' => '高速和公平貿易執行',
+    'GLOBAL_BROKER' => '具有多重監管的全球經紀商',
+    'MULTIPLE_ASSET' => '單一賬戶中的多種資產類別',
+    'CUSTOMER_SUPPORT' => '高級多語言客戶支持',
+
+    'AVAILABLE_ON_THE' => '適用於',
+    'WEB' => 'Web 網頁端',
+    'WINDOWS' => 'Windows',
+    'MAC' => 'Mac',
+    'PLAY_STORE' => 'Play Store',
+    'APP_STORE' => 'App Store',
+    // PARTNERS TRANSLATIONS
+
+    'MULTIPLE_PROGRAMS' => '多元化合作',
+    'GENEROUS_REWARDS' => '豐厚的獎勵',
+    'EXCELLENT_SUPPORT' => '卓越的支持',
+    'PREMIUM_CONDITIONS' => '優質的條件',
+
+    // CONNECT TRANSLATIONS
+    'MULTI_ASSET_LIQUIDITY' => '多資產流動性',
+    'ADVANCED_TECHNOLOGY' => '尖端技術支援',
+    'EXTENSIVE_EXPERIENCE' => '團隊經驗豐富',
+    'TAILORED_SOLUTIONS' => '客製化解決方案',
+    'DISCOVER_HOW_INSTITUTIONAL' => '了解我們的機構解決方案將如何幫助您改善業務。',
+
+    'JOIN_THE_MULTI_AWARD' =>'攜手屢獲殊榮的金融經紀商',
+    'FUNDING_METHODS' => '资金存取',
+
+];

@@ -212,22 +212,9 @@
         <div class='cust-ft-footer text-darkgrey'>
 
             <div class='row'>
-            <div class='col-md-6 col-lg-6'>
+            <div class='col-md-12 col-lg-12'>
                 {!! __('messages.XS_IS_A_TRADEMARK') !!}
-                <br><br>
-                {!! __('messages.XS_GROUP') !!}
-                <br><br>
-                <ul>
-                    {!! __('messages.XS_REGULATIONS') !!}
-                </ul>
-                <br>
-                    {!! __('messages.FOR_FURTHUR_DETAILS') !!}
-                <br><br>
-                {!! __('messages.XS_FINTECH') !!}
-            </div>
-            <div class='col-md-6 col-lg-6'>
-            <br><br>
-                {!! __('messages.RISK_WARNING') !!}
+
             </div>
         </div></div>
     </div>

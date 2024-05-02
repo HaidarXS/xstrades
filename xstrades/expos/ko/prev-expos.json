@@ -1,0 +1,89 @@
+[
+    {
+        "title": "스마트 비전 서밋 오만",
+        "date": "2024년 2월 14-15일",
+        "country": "오만 무스카트",
+        "dir": "oman-smart-summit"
+    },
+  
+    {
+        "title": "카타르 금융 엑스포",
+        "date": "2024년 2월 05-06일",
+        "country": "카타르 도하",
+        "dir": "qatar-financial-expo"
+    },
+    {
+        "title": "트레이더스 페어 태국",
+        "date": "2024년 2월 03일",
+        "country": "태국 방콕",
+        "dir": "traders-fair"
+    },
+    {
+        "title": "스마트 비전 투자 엑스포",
+        "date": "2023년 11월 11~15일",
+        "country": "이집트 알렉산드리 카이로",
+        "dir": "smart-vision-investment-expo"
+    },
+    {
+        "title": "두바이 포렉스 엑스포",
+        "date": " 2023년 9월 26일 - 27일",
+        "country": "아랍에미리트 두바이",
+        "dir": "dubai-forex-expo"
+    },
+    {
+        "title": "트레이더 박람회 남아프리카",
+        "date": "2023년 9월 16일",
+        "country": "남아프리카공화국 요하네스버그",
+        "dir": "traders-fair-south-africa"
+    },
+    {
+        "title": "요르단 금융 엑스포 및 수상 JFEX",
+        "date": "2023년 9월 5~6일",
+        "country": "요르단 암만",
+        "dir": "jordan-financial-expo"
+    },
+    {
+        "title": "Pi2Day",
+        "date": "2023년 7월 2일",
+        "country": "필리핀 마닐라",
+        "dir": "pi2-day"
+    },
+    {
+        "title": "트레이더 박람회 베트남 하노이 ",
+        "date": "2023년 6월 24일",
+        "country": "베트남 하노이",
+        "dir": "traders-fair-vietnam-hanoi"
+    },
+    {
+        "title": "IFX 엑스포 아시아",
+        "date": "2023년 6월 20~22일",
+        "country": "태국 방콕",
+        "dir": "ifx-expo-asia"
+    },
+
+    {
+        "title": "머니 엑스포 멕시코",
+        "date": "2023년 5월 24~25일",
+        "country": "멕시코 멕시코시티",
+        "dir": "money-expo-maxico"
+    },
+    {
+        "title": "트레이더스 페어 필리핀",
+        "date": "2023년 5월 20일",
+        "country": "필리핀 마닐라",
+        "dir": "traders-fair-philippines"
+    },
+    {
+        "title": "포렉스 트레이더 서밋 두바이",
+        "date": "2023년 5월 17~18일",
+        "country": "아랍에미리트 두바이",
+        "dir": "forex-traders-summit-dubai"
+    },
+
+    {
+        "title": "바레인 포렉스 및 암호화폐 엑스포",
+        "date": "2023년 2월 15~16일",
+        "country": "바레인 마나마",
+        "dir": "bahrain-forex-crypto-expo"
+    }
+]

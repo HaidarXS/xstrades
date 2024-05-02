@@ -44,7 +44,7 @@
                             <span class="navbar-toggler-icon"></span>
                         </button>
                         <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                            <ul class="navbar-nav mb-2 mb-lg-0 margin-temp m-auto">
+        <ul class="navbar-nav mb-2 mb-lg-0 margin-temp m-auto">
                                 <li
                                     class="nav-item dropdown mx-4 position-static {{ request()->is(App::getLocale() . '/company*') ? 'active' : '' }}">
                                     <div class="position-relative active-state-container">
@@ -318,6 +318,28 @@
         </div>
         </li>
         </ul>
+
+        <div>
+            <button type="button" class="btn btn-success me-1  web-back-color text-decoration-none homepage-register">
+                <a href="https://my.xs.com/{{ getCorrectLangSlug() }}register/?sl=1" target="_blank"
+                    class="text-white text-decoration-none">
+                    {{ __('messages.REGISTER') }}
+                    <span class="ms-2 register-arrow d-none">
+                        <img src="{{ asset('/img/homepage/funding-ic/learn-more-arrow-white.svg') }}" class="ar-scale"
+                            alt="arrow">
+                    </span>
+                </a>
+            </button>
+        </div>
+        <div class="me-2 homepage-login">
+            <a href="https://my.xs.com/{{ getCorrectLangSlug() }}login/?sl=1" target="_blank" class="btn login-btn">
+                {{ __('messages.LOGIN') }}
+                <span class="ms-2 login-arrow d-none">
+                    <img src="{{ asset('/img/homepage/funding-ic/learn-more-arrow.svg') }}" class="ar-scale"
+                        alt="arrow">
+                </span>
+            </a>
+        </div>
     </div>
     </div>
     </nav>

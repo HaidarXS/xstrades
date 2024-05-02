@@ -1,0 +1,226 @@
+[
+    {
+     "date": "2024年3月26日 (火)",
+     "symbol": "FLT",
+     "action": "配当金",
+     "description": "Flight Centre Travel Group Ltd",
+     "detail": "0.1",
+     "dividend_currency": "AUD"
+    },
+    {
+     "date": "2024年3月27日 (水)",
+     "symbol": "AVB",
+     "action": "配当金",
+     "description": "AvalonBay Communities Inc",
+     "detail": "1.7",
+     "dividend_currency": "USD"
+    },
+    {
+     "date": "2024年3月27日 (水)",
+     "symbol": "BXMT",
+     "action": "配当金",
+     "description": "Blackstone Mortgage Trust Inc",
+     "detail": "0.62",
+     "dividend_currency": "USD"
+    },
+    {
+     "date": "2024年3月27日 (水)",
+     "symbol": "BXP",
+     "action": "配当金",
+     "description": "Boston Properties INC",
+     "detail": "0.98",
+     "dividend_currency": "USD"
+    },
+    {
+     "date": "2024年3月27日 (水)",
+     "symbol": "COF",
+     "action": "配当金",
+     "description": "Centuria Office REIT",
+     "detail": "0.03",
+     "dividend_currency": "AUD"
+    },
+    {
+     "date": "2024年3月27日 (水)",
+     "symbol": "CPT",
+     "action": "配当金",
+     "description": "Camden Property Trust",
+     "detail": "1.03",
+     "dividend_currency": "USD"
+    },
+    {
+     "date": "2024年3月27日 (水)",
+     "symbol": "DE",
+     "action": "配当金",
+     "description": "Deere & Co",
+     "detail": "1.47",
+     "dividend_currency": "USD"
+    },
+    {
+     "date": "2024年3月27日 (水)",
+     "symbol": "DEI",
+     "action": "配当金",
+     "description": "Douglas Emmett Inc",
+     "detail": "0.19",
+     "dividend_currency": "USD"
+    },
+    {
+     "date": "2024年3月27日 (水)",
+     "symbol": "DHR",
+     "action": "配当金",
+     "description": "Danaher Corp",
+     "detail": "0.27",
+     "dividend_currency": "USD"
+    },
+    {
+     "date": "2024年3月27日 (水)",
+     "symbol": "EIX",
+     "action": "配当金",
+     "description": "Edison International",
+     "detail": "0.78",
+     "dividend_currency": "USD"
+    },
+    {
+     "date": "2024年3月27日 (水)",
+     "symbol": "ESS",
+     "action": "配当金",
+     "description": "Essex Property Trust Inc",
+     "detail": "2.45",
+     "dividend_currency": "USD"
+    },
+    {
+     "date": "2024年3月27日 (水)",
+     "symbol": "FITB",
+     "action": "配当金",
+     "description": "Fifth Third Bancorp",
+     "detail": "0.35",
+     "dividend_currency": "USD"
+    },
+    {
+     "date": "2024年3月27日 (水)",
+     "symbol": "FLS",
+     "action": "配当金",
+     "description": "Flowserve Corp",
+     "detail": "0.21",
+     "dividend_currency": "USD"
+    },
+    {
+     "date": "2024年3月27日 (水)",
+     "symbol": "HST",
+     "action": "配当金",
+     "description": "Host Hotels and Resorts Inc",
+     "detail": "0.2",
+     "dividend_currency": "USD"
+    },
+    {
+     "date": "2024年3月27日 (水)",
+     "symbol": "HUM",
+     "action": "配当金",
+     "description": "Humana Inc",
+     "detail": "0.89",
+     "dividend_currency": "USD"
+    },
+    {
+     "date": "2024年3月27日 (水)",
+     "symbol": "ITW",
+     "action": "配当金",
+     "description": "Illinois Tool Works Inc",
+     "detail": "1.4",
+     "dividend_currency": "USD"
+    },
+    {
+     "date": "2024年3月27日 (水)",
+     "symbol": "KDP",
+     "action": "配当金",
+     "description": "Keurig Dr Pepper Inc",
+     "detail": "0.22",
+     "dividend_currency": "USD"
+    },
+    {
+     "date": "2024年3月27日 (水)",
+     "symbol": "KRC",
+     "action": "配当金",
+     "description": "Kilroy Realty Corp",
+     "detail": "0.54",
+     "dividend_currency": "USD"
+    },
+    {
+     "date": "2024年3月27日 (水)",
+     "symbol": "LECO",
+     "action": "配当金",
+     "description": "Lincoln Electric Holdings Inc",
+     "detail": "0.71",
+     "dividend_currency": "USD"
+    },
+    {
+     "date": "2024年3月27日 (水)",
+     "symbol": "MDLZ",
+     "action": "配当金",
+     "description": "Mondelez International Inc",
+     "detail": "0.43",
+     "dividend_currency": "USD"
+    },
+    {
+     "date": "2024年3月27日 (水)",
+     "symbol": "NLY",
+     "action": "配当金",
+     "description": "Annaly Capital Management Inc",
+     "detail": "0.65",
+     "dividend_currency": "USD"
+    },
+    {
+     "date": "2024年3月27日 (水)",
+     "symbol": "RL",
+     "action": "配当金",
+     "description": "Ralph Lauren Corp",
+     "detail": "0.75",
+     "dividend_currency": "USD"
+    },
+    {
+     "date": "2024年3月27日 (水)",
+     "symbol": "XRAY",
+     "action": "配当金",
+     "description": "DENTSPLY SIRONA Inc",
+     "detail": "0.16",
+     "dividend_currency": "USD"
+    },
+    {
+     "date": "2024年3月28日 (木) ",
+     "symbol": "APD",
+     "action": "配当金",
+     "description": "Air Products & Chemicals Inc",
+     "detail": "1.77",
+     "dividend_currency": "USD"
+    },
+    {
+     "date": "2024年3月28日 (木) ",
+     "symbol": "CAH",
+     "action": "配当金",
+     "description": "Cardinal Health Inc",
+     "detail": "0.5",
+     "dividend_currency": "USD"
+    },
+    {
+     "date": "2024年3月28日 (木) ",
+     "symbol": "INGR",
+     "action": "配当金",
+     "description": "Ingredion Inc",
+     "detail": "0.78",
+     "dividend_currency": "USD"
+    },
+    {
+     "date": "2024年3月28日 (木) ",
+     "symbol": "MRO",
+     "action": "配当金",
+     "description": "Melrose Industries PLC",
+     "detail": "3.5",
+     "dividend_currency": "GBP"
+    },
+    {
+     "date": "2024年3月28日 (木) ",
+     "symbol": "O",
+     "action": "配当金",
+     "description": "Realty Income Corp",
+     "detail": "0.26",
+     "dividend_currency": "USD"
+    }
+   ]

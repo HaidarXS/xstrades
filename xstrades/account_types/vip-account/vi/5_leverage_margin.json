@@ -1,0 +1,26 @@
+[
+    {
+        "Đòn bẩy & Ký quỹ": "ĐÒN BẨY ĐỘNG",
+        "mt5": false
+    },
+    {
+        "Đòn bẩy & Ký quỹ": "Đòn bẩy tối đa của tài khoản",
+        "mt4": "500",
+        "mt5": "500"
+    },
+    {
+        "Đòn bẩy & Ký quỹ": "Mức ký quỹ",
+        "mt4": "40",
+        "mt5": "40"
+    },
+    {
+        "Đòn bẩy & Ký quỹ": "Mức dừng",
+        "mt4": "20",
+        "mt5": "20"
+    },
+    {
+        "Đòn bẩy & Ký quỹ": "Ký quỹ hedged ",
+        "mt4": "0",
+        "mt5": "0"
+    }
+]

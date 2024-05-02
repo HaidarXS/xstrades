@@ -1,0 +1,27 @@
+[
+    {
+        "Especificaciones de la Cuenta": "Depósito Mínimo",
+        "mt4": 0,
+        "mt5": 0
+    },
+    {
+        "Especificaciones de la Cuenta": "Número Máximo de Cuentas/ AP (Área Personal)",
+        "mt4": 10,
+        "mt5": 10
+    },
+    {
+        "Especificaciones de la Cuenta": "Cuentas Demo",
+        "mt4": "Sí",
+        "mt5": "Sí"
+    },
+    {
+        "Especificaciones de la Cuenta": "Moneda Base",
+        "mt4": "USD",
+        "mt5": "USD EUR GBP JPY ZAR"
+    },
+    {
+        "Especificaciones de la Cuenta": "Productos",
+        "mt4": "Forex Metales Criptos Energías Índices ",
+        "mt5": "Forex Metales Criptos Energías Índices Futures Acciones"
+    }
+]

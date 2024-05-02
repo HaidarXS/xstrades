@@ -1,0 +1,32 @@
+[
+    {
+        "title": "트레이더스 서밋 두바이",
+        "date": "2024년 5월 19일~20일",
+        "country": "아랍에미리트 두바이",
+        "dir": "traders-summit-dubai-uae.webp"
+    },
+    {
+        "title": "트레이더스 페어 필리핀 (마닐라)",
+        "date": "2024년 5월 25일",
+        "country": "필리핀 마닐라",
+        "dir": "traders-fair-philippines-manila.webp"
+    },
+    {
+        "title": "스마트 비전 서밋 (남아공)",
+        "date": "2024년 9월 11-12일",
+        "country": "남아프리카 공화국 케이프타운",
+        "dir": "South-Africa.webp"
+    },
+    {
+        "title": "포렉스 엑스포 두바이",
+        "date": "2024년 10월 07-08일",
+        "country": "아랍에미리트 두바이",
+        "dir": "forex-expo-dubai-uae.webp"
+    },
+    {
+        "title": "트레이더스 페어 필리핀(DAVAO)",
+        "date": "2024년 10월 26일",
+        "country": "필리핀 다바오",
+        "dir": "traders-fair-philippines-davao.webp"
+    }
+]

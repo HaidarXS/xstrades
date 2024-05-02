@@ -1,0 +1,44 @@
+[
+    {
+     "Symbol": "XAUUSD",
+     "Spreads Pips": 19,
+     "Commissions Per Lot/Side": 0,
+     "Long Swap Pips": -2.0100000000000002,
+     "Short Swap Pips": 1.815
+    },
+    {
+     "Symbol": "XAUEUR",
+     "Spreads Pips": 25.071428571427045,
+     "Commissions Per Lot/Side": 0,
+     "Long Swap Pips": -3.35145,
+     "Short Swap Pips": 1.1498300000000001
+    },
+    {
+     "Symbol": "XAGUSD",
+     "Spreads Pips": 21,
+     "Commissions Per Lot/Side": 0,
+     "Long Swap Pips": -1.50797,
+     "Short Swap Pips": 0.44326999999999994
+    },
+    {
+     "Symbol": "XAGEUR",
+     "Spreads Pips": 17,
+     "Commissions Per Lot/Side": 0,
+     "Long Swap Pips": -0.33704,
+     "Short Swap Pips": 0.07305
+    },
+    {
+     "Symbol": "XPDUSD",
+     "Spreads Pips": 455,
+     "Commissions Per Lot/Side": 0,
+     "Long Swap Pips": -3.28337,
+     "Short Swap Pips": 0.83102
+    },
+    {
+     "Symbol": "XPTUSD",
+     "Spreads Pips": 71,
+     "Commissions Per Lot/Side": 0,
+     "Long Swap Pips": -2.3681799999999997,
+     "Short Swap Pips": 0.6929299999999999
+    }
+   ]

@@ -1,0 +1,45 @@
+[
+    {
+        "title": "최고의 글로벌 CEO",
+        "person": "모하마드 이브라힘",
+        "sponsor": "중동 시상식 <br/> 스마트 비전",
+        "country": "아랍에미리트 두바이",
+        "date": "2023년 9월",
+        "img": "/img/top50ceo.webp"
+    },
+    {
+        "title": "글로벌 영감을 주는 리더",
+        "person": "모하마드 이브라힘",
+        "sponsor": "화이트페이지 리더십 콘클라베 <br/> 화이트 페이지 인터내셔널 ",
+        "country": "아랍에미리트 두바이",
+        "date": "2023년 9월",
+        "img": "/img/inspirational-leader.webp"
+    },
+
+    {
+        "title": "올해의 CEO",
+        "person": "모하마드 이브라힘",
+        "sponsor": "요르단 금융 엑스포 및 수상 JFEX <br/> Afaq 그룹 ",
+        "country": "요르단 암만",
+        "date": "2023년 9월",
+        "img": "/img/ceo-of-the-year.webp"
+    },
+
+    {
+        "title": "가장 영향력 있는 인물 <br/> 베스트 CCO",
+        "person": "와엘 함마드",
+        "sponsor": "포렉스 트레이더 서밋 <br/> 스마트 비전",
+        "country": "아랍에미리트 두바이",
+        "date": "2023년 5월",
+        "img": "/img/best-cco.webp"
+    },
+
+    {
+        "title": "가장 영향력 있는 인물 <br/> 베스트 CEO",
+        "person": "모하마드 이브라힘",
+        "sponsor": "핀테크 및 암호화폐 서밋 <br/> 스마트 비전 ",
+        "country": "바레인 마나마",
+        "date": "2023년 2월",
+        "img": "/img/best-ceo.webp"
+    }
+]

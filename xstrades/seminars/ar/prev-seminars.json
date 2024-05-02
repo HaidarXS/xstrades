@@ -1,0 +1,38 @@
+[
+    {
+        "title": "ندوة الفلبين",
+        "date": "9 مارس 2024 ",
+        "country": " باسيج، الفلبين ",
+        "dir": "philippines-seminars"
+      },                                                                                                    
+      {
+        "title": "ندوة نيجيريا ",
+        "date": "15 &  17 ديسمبر 2023",
+        "country": " بورتا هاروكورت، نيجيريا",
+        "dir": "nigeria-seminar-17-18"
+      },                                                                                  
+      {
+        "title": "ندوة فيتنام ",
+        "date": "10 ديسمبر 2023 ",
+        "country": "هو تشي منه، فيتنام",
+        "dir": "vietnam-seminar"
+      },                                                                                                   
+      {
+        "title": "ندوة البرازيل ",
+        "date": " 25 نوفمبر 2023",
+        "country": " بيللو هوريزونتي، البرازيل",
+        "dir": "brazil-seminar"
+      },                                                                                       
+      {
+        "title": "ندوة نيجيريا  ",
+        "date": "28 أكتوبر 2023",
+        "country": " إيوا، نيجيريا",
+        "dir": "nigeria-seminar-28-october-2023"
+      },                                                                          
+      {
+        "title": "ندوة عُمان ",
+        "date": "7 أكتوبر 2023",
+        "country": " مسقط، عُمان",
+        "dir": "oman-seminar"
+      }
+]

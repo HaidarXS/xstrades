@@ -1,0 +1,23 @@
+[
+    {
+     "Symbol": "USOIL",
+     "Spreads Pips": 0.027,
+     "Commissions Per Lot/Side": 0,
+     "Long Swap Pips": -0.32867999999999997,
+     "Short Swap Pips": -0.20988
+    },
+    {
+     "Symbol": "UKOIL",
+     "Spreads Pips": 0.028,
+     "Commissions Per Lot/Side": 0,
+     "Long Swap Pips": 0.6582399999999999,
+     "Short Swap Pips": -1.53384
+    },
+    {
+     "Symbol": "NGAS",
+     "Spreads Pips": 0.016,
+     "Commissions Per Lot/Side": 0,
+     "Long Swap Pips": -0.026490000000000003,
+     "Short Swap Pips": 0.013250000000000001
+    }
+   ]

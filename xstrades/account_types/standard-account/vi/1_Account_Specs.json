@@ -1,0 +1,27 @@
+[
+    {
+        "Thông số tài khoản": "Tiền nạp tối thiểu",
+        "mt4": 0,
+        "mt5": 0
+    },
+    {
+        "Thông số tài khoản": "Số lượng tài khoản tối đa/ PA",
+        "mt4": 10,
+        "mt5": 10
+    },
+    {
+        "Thông số tài khoản": "Tài khoản demo",
+        "mt4": "Yes",
+        "mt5": "Yes"
+    },
+    {
+        "Thông số tài khoản": "Đồng tiền yết giá",
+        "mt4": "USD",
+        "mt5": "USD EUR GBP JPY ZAR"
+    },
+    {
+        "Thông số tài khoản": "Sản phẩm",
+        "mt4": "Tiền tệ <br/> Kim loại <br/> Tiền điện tử  <br/> Năng lượng <br/>  Chỉ số <br/> Hàng hóa",
+        "mt5": "Tiền tệ <br/> Kim loại <br/> Tiền điện tử  <br/> Năng lượng <br/> Chỉ số <br/> Hàng hóa <br/> Cổ phiếu"
+    }
+]

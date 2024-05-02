@@ -1,0 +1,46 @@
+@font-face {
+    font-family: "Janna";
+    /* Choose a name for your font */
+    src: url("/fonts/Janna-Regular.ttf") format("truetype");
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Janna Bold";
+    /* Choose a name for your font */
+    src: url("/fonts/Janna-Bold.ttf") format("truetype");
+    font-style: normal;
+}
+
+a{
+    font-family: "Janna", sans-serif ;
+}
+
+body {
+    font-family: "Janna", sans-serif ;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Janna Bold", sans-serif;
+}
+
+.tabs-container button {
+    font-size: 20px !important;
+    font-family: "Janna" sans-serif;
+}
+
+.nav-item .nav-link {
+    color: #203c83 !important;
+    font-family: "Janna";
+    font-weight: 700 !important;
+}
+
+.changeLang {
+    color: #30af85;
+    font-family: "Janna Bold";
+}

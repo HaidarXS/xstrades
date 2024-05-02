@@ -1,0 +1,217 @@
+[
+    {
+    "main-title": "March 2024 Holiday Schedule",
+     "main-column1": "Category",
+     "main-column2": "Instrument",
+     "main-column3": "THURSDAY 28 MARCH",
+     "main-column4": "FRIDAY 29 MARCH",
+     "main-column5": "MONDAY 01 APRIL",
+     "main-column6": "TUESDAY 02 APRIL",
+     "sub-column4": "GOOD FRIDAY",
+     "sub-column5": "EASTER MONDAY",
+     "time-zone": "GMT + 3"
+    },
+    {
+     "Column1": "FX",
+     "Column2": "All FX Pairs",
+     "Column3": "Normal Hours",
+     "Column4": "Normal Hours",
+     "Column5": "Normal Hours",
+     "Column6": "Normal Hours"
+    },
+    {
+     "Column1": "Precious Metals",
+     "Column2": "XAUUSD, XAUEUR,\nXAGUSD, XAGEUR,\nXPDUSD,\nXPTUSD",
+     "Column3": "Normal Hours",
+     "Column4": "Pricing OFF",
+     "Column5": "Normal Hours",
+     "Column6": "Normal Hours"
+    },
+    {
+     "Column1": "Spot Energies",
+     "Column2": "NGAS (Spot)",
+     "Column3": "Normal Hours",
+     "Column4": "Pricing OFF",
+     "Column5": "Normal Hours",
+     "Column6": "Normal Hours"
+    },
+    {
+     "Column2": "USOIL (Spot)",
+     "Column3": "Normal Hours",
+     "Column4": "Pricing OFF",
+     "Column5": "Normal Hours",
+     "Column6": "Normal Hours"
+    },
+    {
+     "Column2": "UKOIL (Spot)",
+     "Column3": "Normal Hours",
+     "Column4": "Pricing OFF",
+     "Column5": "Normal Hours",
+     "Column6": "Normal Hours"
+    },
+    {
+     "Column1": "Spot Indices",
+     "Column2": "AUS200",
+     "Column3": "Early Close 16:00",
+     "Column4": "Pricing OFF",
+     "Column5": "Late Open 13:50",
+     "Column6": "Normal Hours"
+    },
+    {
+     "Column2": "EU50",
+     "Column3": "Normal Hours",
+     "Column4": "Pricing OFF",
+     "Column5": "Pricing OFF",
+     "Column6": "Late Open 03:15"
+    },
+    {
+     "Column2": "F40",
+     "Column3": "Normal Hours",
+     "Column4": "Pricing OFF",
+     "Column5": "Pricing OFF",
+     "Column6": "Normal Hours"
+    },
+    {
+     "Column2": "DE40",
+     "Column3": "Normal Hours",
+     "Column4": "Pricing OFF",
+     "Column5": "Pricing OFF",
+     "Column6": "Late Open 03:15"
+    },
+    {
+     "Column2": "JP225",
+     "Column3": "Normal Hours",
+     "Column4": "Pricing OFF",
+     "Column5": "Normal Hours",
+     "Column6": "Normal Hours"
+    },
+    {
+     "Column2": "UK100",
+     "Column3": "Normal Hours",
+     "Column4": "Pricing OFF",
+     "Column5": "Pricing OFF",
+     "Column6": "Late Open 03:00"
+    },
+    {
+     "Column2": "US500",
+     "Column3": "Normal Hours",
+     "Column4": "Pricing OFF",
+     "Column5": "Normal Hours",
+     "Column6": "Normal Hours"
+    },
+    {
+     "Column2": "US100",
+     "Column3": "Normal Hours",
+     "Column4": "Pricing OFF",
+     "Column5": "Normal Hours",
+     "Column6": "Normal Hours"
+    },
+    {
+     "Column2": "US30",
+     "Column3": "Normal Hours",
+     "Column4": "Pricing OFF",
+     "Column5": "Normal Hours",
+     "Column6": "Normal Hours"
+    },
+    {
+     "Column2": "RUSS2000",
+     "Column3": "Normal Hours",
+     "Column4": "Pricing OFF",
+     "Column5": "Normal Hours",
+     "Column6": "Normal Hours"
+    },
+    {
+     "Column2": "ES35",
+     "Column3": "Normal Hours",
+     "Column4": "Pricing Off  ",
+     "Column5": "Pricing Off  ",
+     "Column6": "Normal Hours"
+    },
+    {
+     "Column1": "Shares",
+     "Column2": "US Shares",
+     "Column3": "Normal Hours",
+     "Column4": "Pricing Off  ",
+     "Column5": "Normal Hours",
+     "Column6": "Normal Hours"
+    },
+    {
+     "Column2": "UK Shares",
+     "Column3": "Normal Hours",
+     "Column4": "Pricing Off  ",
+     "Column5": "Pricing Off  ",
+     "Column6": "Normal Hours"
+    },
+    {
+     "Column2": "HK Shares",
+     "Column3": "Normal Hours",
+     "Column4": "Pricing Off  ",
+     "Column5": "Pricing Off  ",
+     "Column6": "Normal Hours"
+    },
+    {
+     "Column1": "Commodity Futures",
+     "Column2": "GOLDXXX24",
+     "Column3": "Normal Hours",
+     "Column4": "Pricing Off  ",
+     "Column5": "Normal Hours",
+     "Column6": "Normal Hours"
+    },
+    {
+     "Column2": "NGASXXX24",
+     "Column3": "Normal Hours",
+     "Column4": "Pricing Off  ",
+     "Column5": "Normal Hours",
+     "Column6": "Normal Hours"
+    },
+    {
+     "Column2": "UKOILXXX24",
+     "Column3": "Normal Hours",
+     "Column4": "Pricing Off  ",
+     "Column5": "Normal Hours",
+     "Column6": "Normal Hours"
+    },
+    {
+     "Column2": "USOILXXX24",
+     "Column3": "Normal Hours",
+     "Column4": "Pricing Off  ",
+     "Column5": "Normal Hours",
+     "Column6": "Normal Hours"
+    },
+    {
+     "Column1": "Index Futures",
+     "Column2": "DAX40XXX24",
+     "Column3": "Normal Hours",
+     "Column4": "Pricing Off  ",
+     "Column5": "Normal Hours",
+     "Column6": "Late Open 04:15"
+    },
+    {
+     "Column2": "US30XXX24",
+     "Column3": "Normal Hours",
+     "Column4": "Pricing OFF",
+     "Column5": "Normal Hours",
+     "Column6": "Normal Hours"
+    },
+    {
+     "Column2": "US100XXX24",
+     "Column3": "Normal Hours",
+     "Column4": "Pricing OFF",
+     "Column5": "Normal Hours",
+     "Column6": "Normal Hours"
+    },
+    {
+     "Column2": "US500XXX24",
+     "Column3": "Normal Hours",
+     "Column4": "Pricing OFF",
+     "Column5": "Normal Hours",
+     "Column6": "Normal Hours"
+    },
+    {
+     "Column2": "USDIDX",
+     "Column3": "Normal Hours",
+     "Column4": "Pricing OFF",
+     "Column5": "Normal Hours",
+     "Column6": "Normal Hours"
+    }
+   ]
