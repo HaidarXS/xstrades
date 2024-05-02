@@ -96,5 +96,7 @@ return [
 
 'REGISTER' => 'Register',
 
+'FOLLOW_US' => 'Follow Us',
+
 ];
 ?>
